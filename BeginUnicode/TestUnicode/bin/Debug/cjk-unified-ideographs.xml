@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">4e00</li>
+    <li class="symb" data-code="19968" code="4e00" title="ideograph one; a, an; alone cjk">一</li>
+    <li class="symb" data-code="19969" code="4e01" title="ideograph male adult; robust, vigorous; 4th heavenly stem cjk">丁</li>
+    <li class="symb" data-code="19970" code="4e02" title="ideograph obstruction of breath (qi) as it seeks release; variant of other characters cjk">丂</li>
+    <li class="symb" data-code="19971" code="4e03" title="ideograph seven cjk">七</li>
+    <li class="symb" data-code="19972" code="4e04" title="ideograph above cjk">丄</li>
+    <li class="symb" data-code="19973" code="4e05" title="ideograph under, underneath, below; down; inferior; bring down; used to transliterate the latin letter 't' cjk">丅</li>
+    <li class="symb" data-code="19974" code="4e06" title="ideograph kwukyel cjk">丆</li>
+    <li class="symb" data-code="19975" code="4e07" title="ideograph ten thousand; innumerable cjk">万</li>
+    <li class="symb" data-code="19976" code="4e08" title="ideograph unit of length equal 3.3 meters; gentleman, man, husband cjk">丈</li>
+    <li class="symb" data-code="19977" code="4e09" title="ideograph three cjk">三</li>
+    <li class="symb" data-code="19978" code="4e0a" title="ideograph top; superior, highest; go up, send up cjk">上</li>
+    <li class="symb" data-code="19979" code="4e0b" title="ideograph under, underneath, below; down; inferior; bring down cjk">下</li>
+    <li class="symb" data-code="19980" code="4e0c" title="ideograph table cjk">丌</li>
+    <li class="symb" data-code="19981" code="4e0d" title="ideograph no, not; un-; negative prefix cjk">不</li>
+    <li class="symb" data-code="19982" code="4e0e" title="ideograph and; with; to; for; give, grant cjk">与</li>
+    <li class="symb" data-code="19983" code="4e0f" title="ideograph parapet; invisible cjk">丏</li>
+    <li class="h">4e10</li>
+    <li class="symb" data-code="19984" code="4e10" title="ideograph beggar; beg; give cjk">丐</li>
+    <li class="symb" data-code="19985" code="4e11" title="ideograph clown, comedian; 2nd terrestrial branch cjk">丑</li>
+    <li class="symb" data-code="19986" code="4e12" title="ideograph the period from 1 to 3 a.m.; 2nd character of the 'branches' cjk">丒</li>
+    <li class="symb" data-code="19987" code="4e13" title="ideograph monopolize, take sole possession cjk">专</li>
+    <li class="symb" data-code="19988" code="4e14" title="ideograph moreover, also (post-subject); about to, will soon (pre-verb) cjk">且</li>
+    <li class="symb" data-code="19989" code="4e15" title="ideograph great, grand, glorious, distinguished cjk">丕</li>
+    <li class="symb" data-code="19990" code="4e16" title="ideograph generation; world; era cjk">世</li>
+    <li class="symb" data-code="19991" code="4e17" title="ideograph thirty, thirtieth cjk">丗</li>
+    <li class="symb" data-code="19992" code="4e18" title="ideograph hill; elder; empty; a name cjk">丘</li>
+    <li class="symb" data-code="19993" code="4e19" title="ideograph third; 3rd heavenly stem cjk">丙</li>
+    <li class="symb" data-code="19994" code="4e1a" title="ideograph profession, business; gb radical 111 cjk">业</li>
+    <li class="symb" data-code="19995" code="4e1b" title="ideograph bush, shrub; thicket; collection cjk">丛</li>
+    <li class="symb" data-code="19996" code="4e1c" title="ideograph east, eastern, eastward cjk">东</li>
+    <li class="symb" data-code="19997" code="4e1d" title="ideograph silk; fine thread; wire; strings cjk">丝</li>
+    <li class="symb" data-code="19998" code="4e1e" title="ideograph assist, aid, rescue cjk">丞</li>
+    <li class="symb" data-code="19999" code="4e1f" title="ideograph discard, reject, lose cjk">丟</li>
+    <li class="h">4e20</li>
+    <li class="symb" data-code="20000" code="4e20" title="ideograph hill; elder; empty; a name cjk">丠</li>
+    <li class="symb" data-code="20001" code="4e21" title="ideograph two, both, pair, couple; a tael, ounce cjk">両</li>
+    <li class="symb" data-code="20002" code="4e22" title="ideograph discard cjk">丢</li>
+    <li class="symb" data-code="20003" code="4e23" title="ideograph ancient form of the tenth of the twelve terrestrial branches, u+9149 酉 cjk">丣</li>
+    <li class="symb" data-code="20004" code="4e24" title="ideograph two, both, pair, couple; ounce cjk">两</li>
+    <li class="symb" data-code="20005" code="4e25" title="ideograph strict, rigorous, rigid; stern cjk">严</li>
+    <li class="symb" data-code="20006" code="4e26" title="ideograph equal to; side by side; also, what is more; both cjk">並</li>
+    <li class="symb" data-code="20007" code="4e27" title="ideograph mourning; mourn; funeral cjk">丧</li>
+    <li class="symb" data-code="20008" code="4e28" title="ideograph (same as u+3021 hangzhou numeral one 〡) number one; line; kangxi radical 2 cjk">丨</li>
+    <li class="symb" data-code="20009" code="4e29" title="ideograph to join or connect the vine cjk">丩</li>
+    <li class="symb" data-code="20010" code="4e2a" title="ideograph numerary adjunct, piece; single cjk">个</li>
+    <li class="symb" data-code="20011" code="4e2b" title="ideograph forked; bifurcation cjk">丫</li>
+    <li class="symb" data-code="20012" code="4e2c" title="ideograph half of tree trunk; rad. no. 90 cjk">丬</li>
+    <li class="symb" data-code="20013" code="4e2d" title="ideograph central; center, middle; in the midst of; hit (target); attain cjk">中</li>
+    <li class="symb" data-code="20014" code="4e2e" title="ideograph catch cjk">丮</li>
+    <li class="symb" data-code="20015" code="4e2f" title="ideograph dense cjk">丯</li>
+    <li class="h">4e30</li>
+    <li class="symb" data-code="20016" code="4e30" title="ideograph abundant, lush, bountiful, plenty cjk">丰</li>
+    <li class="symb" data-code="20017" code="4e31" title="ideograph child's hairstyle bound in two tufts; ore cjk">丱</li>
+    <li class="symb" data-code="20018" code="4e32" title="ideograph string; relatives; conspire cjk">串</li>
+    <li class="symb" data-code="20019" code="4e33" title="ideograph spit, grill; a skewer cjk">丳</li>
+    <li class="symb" data-code="20020" code="4e34" title="ideograph draw near, approach; descend cjk">临</li>
+    <li class="symb" data-code="20021" code="4e35" title="ideograph thick (grass) cjk">丵</li>
+    <li class="symb" data-code="20022" code="4e36" title="ideograph dot; kangxi radical 3 cjk">丶</li>
+    <li class="symb" data-code="20023" code="4e37" title="ideograph kwukyel cjk">丷</li>
+    <li class="symb" data-code="20024" code="4e38" title="ideograph small round object; pellet, pill cjk">丸</li>
+    <li class="symb" data-code="20025" code="4e39" title="ideograph cinnabar (native hgs); vermilion (artificial hgs used as pigment) cjk">丹</li>
+    <li class="symb" data-code="20026" code="4e3a" title="ideograph do, handle, govern, act; be cjk">为</li>
+    <li class="symb" data-code="20027" code="4e3b" title="ideograph master, chief owner; host; lord cjk">主</li>
+    <li class="symb" data-code="20028" code="4e3c" title="ideograph bowl of food; well cjk">丼</li>
+    <li class="symb" data-code="20029" code="4e3d" title="ideograph beautiful, magnificent, elegant cjk">丽</li>
+    <li class="symb" data-code="20030" code="4e3e" title="ideograph raise, lift up; recommend cjk">举</li>
+    <li class="symb" data-code="20031" code="4e3f" title="ideograph line; kangxi radical 4 cjk">丿</li>
+    <li class="h">4e40</li>
+    <li class="symb" data-code="20032" code="4e40" title="ideograph stretch cjk">乀</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20034" code="4e42" title="ideograph govern, control, manage; nurture cjk">乂</li>
+    <li class="symb" data-code="20035" code="4e43" title="ideograph then; really, indeed; as it turned out, after all; namely cjk">乃</li>
+    <li class="symb" data-code="20036" code="4e44" title="ideograph shime">乄</li>
+    <li class="symb" data-code="20037" code="4e45" title="ideograph long time (ago); time passage, grow late cjk">久</li>
+    <li class="symb" data-code="20038" code="4e46" title="ideograph long time (ago); time passage, grow late cjk">乆</li>
+    <li class="symb" data-code="20039" code="4e47" title="ideograph to depend on, to entrust with cjk">乇</li>
+    <li class="symb" data-code="20040" code="4e48" title="ideograph interrogative particle; repetition of a tune small; tender cjk">么</li>
+    <li class="symb" data-code="20041" code="4e49" title="ideograph right conduct, righteousness cjk">义</li>
+    <li class="symb" data-code="20042" code="4e4a" title="ideograph kwukyel cjk">乊</li>
+    <li class="symb" data-code="20043" code="4e4b" title="ideograph marks preceding phrase as modifier of following phrase; it, him her, them; go to cjk">之</li>
+    <li class="symb" data-code="20044" code="4e4c" title="ideograph crow, rook, raven; black, dark cjk">乌</li>
+    <li class="symb" data-code="20045" code="4e4d" title="ideograph first time, for the first time cjk">乍</li>
+    <li class="symb" data-code="20046" code="4e4e" title="ideograph interrogative or exclamatory final particle cjk">乎</li>
+    <li class="symb" data-code="20047" code="4e4f" title="ideograph lack; poor cjk">乏</li>
+    <li class="h">4e50</li>
+    <li class="symb" data-code="20048" code="4e50" title="ideograph happy, glad; enjoyable; music cjk">乐</li>
+    <li class="symb" data-code="20049" code="4e51" title="ideograph stand side by side cjk">乑</li>
+    <li class="symb" data-code="20050" code="4e52" title="ideograph used with pong for ping pong cjk">乒</li>
+    <li class="symb" data-code="20051" code="4e53" title="ideograph used with ping for ping pong cjk">乓</li>
+    <li class="symb" data-code="20052" code="4e54" title="ideograph tall, lofty; proud, stately cjk">乔</li>
+    <li class="symb" data-code="20053" code="4e55" title="ideograph tiger; brave, fierce; surname cjk">乕</li>
+    <li class="symb" data-code="20054" code="4e56" title="ideograph rebel; crafty, shrewd cjk">乖</li>
+    <li class="symb" data-code="20055" code="4e57" title="ideograph ride, ascend; avail oneself of; numerary adjunct for vehicles cjk">乗</li>
+    <li class="symb" data-code="20056" code="4e58" title="ideograph ride, ascend; avail oneself of; numerary adjunct for vehicles cjk">乘</li>
+    <li class="symb" data-code="20057" code="4e59" title="ideograph second; 2nd heavenly stem cjk">乙</li>
+    <li class="symb" data-code="20058" code="4e5a" title="ideograph hidden, mysterious, secret; to conceal; small; minute cjk">乚</li>
+    <li class="symb" data-code="20059" code="4e5b" title="ideograph kwukyel cjk">乛</li>
+    <li class="symb" data-code="20060" code="4e5c" title="ideograph to squint; (cant.) what? huh? cjk">乜</li>
+    <li class="symb" data-code="20061" code="4e5d" title="ideograph nine cjk">九</li>
+    <li class="symb" data-code="20062" code="4e5e" title="ideograph beg; request cjk">乞</li>
+    <li class="symb" data-code="20063" code="4e5f" title="ideograph also; classical final particle of strong affirmation or identity cjk">也</li>
+    <li class="h">4e60</li>
+    <li class="symb" data-code="20064" code="4e60" title="ideograph practice; flapping wings cjk">习</li>
+    <li class="symb" data-code="20065" code="4e61" title="ideograph country; rural; village cjk">乡</li>
+    <li class="symb" data-code="20066" code="4e62" title="ideograph lid, to cover; to hide; a cover; an umbrella cjk">乢</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20068" code="4e64" title="ideograph first character of korean place name 'halpho' cjk">乤</li>
+    <li class="symb" data-code="20069" code="4e65" title="ideograph kwukyel cjk">乥</li>
+    <li class="symb" data-code="20070" code="4e66" title="ideograph book, letter, document; writings cjk">书</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20072" code="4e68" title="ideograph the beginning; to start, to begin, to be the first cjk">乨</li>
+    <li class="symb" data-code="20073" code="4e69" title="ideograph to divine cjk">乩</li>
+    <li class="symb" data-code="20074" code="4e6a" title="ideograph (cant.) a bend in a river cjk">乪</li>
+    <li class="symb" data-code="20075" code="4e6b" title="ideograph used in korean place names cjk">乫</li>
+    <li class="symb" data-code="20076" code="4e6c" title="ideograph to hang cjk">乬</li>
+    <li class="symb" data-code="20077" code="4e6d" title="ideograph rock; used in korean names cjk">乭</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">4e70</li>
+    <li class="symb" data-code="20080" code="4e70" title="ideograph buy, purchase; bribe, persuade cjk">买</li>
+    <li class="symb" data-code="20081" code="4e71" title="ideograph confusion, state of chaos, revolt cjk">乱</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20083" code="4e73" title="ideograph breast, nipples; milk, suckle cjk">乳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20085" code="4e75" title="ideograph to enter; to make progress to advance; to urge forward cjk">乵</li>
+    <li class="symb" data-code="20086" code="4e76" title="ideograph korean place name pholha cjk">乶</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20088" code="4e78" title="ideograph (cant.) feminine suffix cjk">乸</li>
+    <li class="symb" data-code="20089" code="4e79" title="ideograph (cant.) to clean; dried up cjk">乹</li>
+    <li class="symb" data-code="20090" code="4e7a" title="ideograph painting tool place name cjk">乺</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20092" code="4e7c" title="ideograph rope cjk">乼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20094" code="4e7e" title="ideograph dry; first hexagram; warming principle of the sun, penetrating and fertilizing, heavenly generative principle (male) cjk">乾</li>
+    <li class="symb" data-code="20095" code="4e7f" title="ideograph to cure, to heal cjk">乿</li>
+    <li class="h">4e80</li>
+    <li class="symb" data-code="20096" code="4e80" title="ideograph turtle or tortoise; cuckold cjk">亀</li>
+    <li class="symb" data-code="20097" code="4e81" title="ideograph dry; dried, as opposed to fresh cjk">亁</li>
+    <li class="symb" data-code="20098" code="4e82" title="ideograph confusion, state of chaos; create chaos, revolt cjk">亂</li>
+    <li class="symb" data-code="20099" code="4e83" title="ideograph name of a kind of animal cjk">亃</li>
+    <li class="symb" data-code="20100" code="4e84" title="ideograph greedy, stingy cjk">亄</li>
+    <li class="symb" data-code="20101" code="4e85" title="ideograph hook; kangxi radical 6 cjk">亅</li>
+    <li class="symb" data-code="20102" code="4e86" title="ideograph to finish; particle of completed action cjk">了</li>
+    <li class="symb" data-code="20103" code="4e87" title="ideograph kwukyel hammer cjk">亇</li>
+    <li class="symb" data-code="20104" code="4e88" title="ideograph i, me; to give cjk">予</li>
+    <li class="symb" data-code="20105" code="4e89" title="ideograph dispute, fight, contend, strive cjk">争</li>
+    <li class="symb" data-code="20106" code="4e8a" title="ideograph affair, matter, business; to serve; accident, incident cjk">亊</li>
+    <li class="symb" data-code="20107" code="4e8b" title="ideograph affair, matter, business; to serve; accident, incident cjk">事</li>
+    <li class="symb" data-code="20108" code="4e8c" title="ideograph two; twice cjk">二</li>
+    <li class="symb" data-code="20109" code="4e8d" title="ideograph to take small steps; korean place name cjk">亍</li>
+    <li class="symb" data-code="20110" code="4e8e" title="ideograph in, on, at; go to; surname cjk">于</li>
+    <li class="symb" data-code="20111" code="4e8f" title="ideograph lose, fail; damage; deficient cjk">亏</li>
+    <li class="h">4e90</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20113" code="4e91" title="ideograph say, speak; clouds cjk">云</li>
+    <li class="symb" data-code="20114" code="4e92" title="ideograph mutually, reciprocally cjk">互</li>
+    <li class="symb" data-code="20115" code="4e93" title="ideograph (archaic form) his, her, its, their; that cjk">亓</li>
+    <li class="symb" data-code="20116" code="4e94" title="ideograph five; surname cjk">五</li>
+    <li class="symb" data-code="20117" code="4e95" title="ideograph well, mine shaft, pit cjk">井</li>
+    <li class="symb" data-code="20118" code="4e96" title="ideograph four cjk">亖</li>
+    <li class="symb" data-code="20119" code="4e97" title="ideograph harvest; year; age cjk">亗</li>
+    <li class="symb" data-code="20120" code="4e98" title="ideograph extend across, through; from cjk">亘</li>
+    <li class="symb" data-code="20121" code="4e99" title="ideograph extend across, through; from cjk">亙</li>
+    <li class="symb" data-code="20122" code="4e9a" title="ideograph asia; second cjk">亚</li>
+    <li class="symb" data-code="20123" code="4e9b" title="ideograph little, few; rather, somewhat cjk">些</li>
+    <li class="symb" data-code="20124" code="4e9c" title="ideograph asia; second cjk">亜</li>
+    <li class="symb" data-code="20125" code="4e9d" title="ideograph even, regular, uniform all alike; to arrange cjk">亝</li>
+    <li class="symb" data-code="20126" code="4e9e" title="ideograph asia; second; used as a prefix to names cjk">亞</li>
+    <li class="symb" data-code="20127" code="4e9f" title="ideograph urgently, immediately, extremely cjk">亟</li>
+    <li class="h">4ea0</li>
+    <li class="symb" data-code="20128" code="4ea0" title="ideograph head; kangxi radical 8 cjk">亠</li>
+    <li class="symb" data-code="20129" code="4ea1" title="ideograph death, destroyed; lose, perish cjk">亡</li>
+    <li class="symb" data-code="20130" code="4ea2" title="ideograph high, proud; violent, excessive; skilled; name cjk">亢</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20132" code="4ea4" title="ideograph mix; intersect; exchange, communicate; deliver cjk">交</li>
+    <li class="symb" data-code="20133" code="4ea5" title="ideograph 12th terrestrial branch cjk">亥</li>
+    <li class="symb" data-code="20134" code="4ea6" title="ideograph also, too; likewise cjk">亦</li>
+    <li class="symb" data-code="20135" code="4ea7" title="ideograph give birth, bring forth, produce cjk">产</li>
+    <li class="symb" data-code="20136" code="4ea8" title="ideograph smoothly, progressing, no trouble cjk">亨</li>
+    <li class="symb" data-code="20137" code="4ea9" title="ideograph chinese land measure; fields cjk">亩</li>
+    <li class="symb" data-code="20138" code="4eaa" title="ideograph kwukyel cjk">亪</li>
+    <li class="symb" data-code="20139" code="4eab" title="ideograph enjoy cjk">享</li>
+    <li class="symb" data-code="20140" code="4eac" title="ideograph capital city cjk">京</li>
+    <li class="symb" data-code="20141" code="4ead" title="ideograph pavilion; erect cjk">亭</li>
+    <li class="symb" data-code="20142" code="4eae" title="ideograph bright, brilliant, radiant, light cjk">亮</li>
+    <li class="symb" data-code="20143" code="4eaf" title="ideograph to receive; to enjoy cjk">亯</li>
+    <li class="h">4eb0</li>
+    <li class="symb" data-code="20144" code="4eb0" title="ideograph capital city cjk">亰</li>
+    <li class="symb" data-code="20145" code="4eb1" title="ideograph night, dark; in night; by night cjk">亱</li>
+    <li class="symb" data-code="20146" code="4eb2" title="ideograph relatives, parents; intimate the hazel nut or filbert tree a thorny tree cjk">亲</li>
+    <li class="symb" data-code="20147" code="4eb3" title="ideograph name of district in anhui; capital of yin cjk">亳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20149" code="4eb5" title="ideograph slight, insult, treat with disrespect cjk">亵</li>
+    <li class="symb" data-code="20150" code="4eb6" title="ideograph sincere; real, true; truth cjk">亶</li>
+    <li class="symb" data-code="20151" code="4eb7" title="ideograph upright, honorable, honest cjk">亷</li>
+    <li class="symb" data-code="20152" code="4eb8" title="ideograph read aloud, recite, chant; droop cjk">亸</li>
+    <li class="symb" data-code="20153" code="4eb9" title="ideograph progress; busy, untiring; exert cjk">亹</li>
+    <li class="symb" data-code="20154" code="4eba" title="ideograph man; people; mankind; someone else cjk">人</li>
+    <li class="symb" data-code="20155" code="4ebb" title="ideograph radical number 9 cjk">亻</li>
+    <li class="symb" data-code="20156" code="4ebc" title="ideograph to assemble. to gather together cjk">亼</li>
+    <li class="symb" data-code="20157" code="4ebd" title="ideograph kwukyel cjk">亽</li>
+    <li class="symb" data-code="20158" code="4ebe" title="ideograph death, destroyed; lose, perish cjk">亾</li>
+    <li class="symb" data-code="20159" code="4ebf" title="ideograph hundred million; many cjk">亿</li>
+    <li class="h">4ec0</li>
+    <li class="symb" data-code="20160" code="4ec0" title="ideograph file of ten soldiers; mixed, miscellaneous cjk">什</li>
+    <li class="symb" data-code="20161" code="4ec1" title="ideograph humaneness, benevolence, kindness cjk">仁</li>
+    <li class="symb" data-code="20162" code="4ec2" title="ideograph surplus or excess; remainder cjk">仂</li>
+    <li class="symb" data-code="20163" code="4ec3" title="ideograph lonely, solitary cjk">仃</li>
+    <li class="symb" data-code="20164" code="4ec4" title="ideograph slanting, oblique; oblique tones cjk">仄</li>
+    <li class="symb" data-code="20165" code="4ec5" title="ideograph only, merely, solely, just cjk">仅</li>
+    <li class="symb" data-code="20166" code="4ec6" title="ideograph fall forward; lie prostrate, prone; servant cjk">仆</li>
+    <li class="symb" data-code="20167" code="4ec7" title="ideograph enemy, hate, hatred, enmity cjk">仇</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20169" code="4ec9" title="ideograph surname of the mother of mencius cjk">仉</li>
+    <li class="symb" data-code="20170" code="4eca" title="ideograph now, today, modern era cjk">今</li>
+    <li class="symb" data-code="20171" code="4ecb" title="ideograph forerunner, herald, harbinger; to lie between; sea shell; to wear armor cjk">介</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20173" code="4ecd" title="ideograph yet, still, as ever; again; keep -ing, continuing cjk">仍</li>
+    <li class="symb" data-code="20174" code="4ece" title="ideograph from, by, since, whence, through cjk">从</li>
+    <li class="symb" data-code="20175" code="4ecf" title="ideograph buddha cjk">仏</li>
+    <li class="h">4ed0</li>
+    <li class="symb" data-code="20176" code="4ed0" title="ideograph (j) non-standard form of 傘 u+5098, umbrella, parasol, parachute cjk">仐</li>
+    <li class="symb" data-code="20177" code="4ed1" title="ideograph logical reasons, logical order cjk">仑</li>
+    <li class="symb" data-code="20178" code="4ed2" title="ideograph kwukyel cjk">仒</li>
+    <li class="symb" data-code="20179" code="4ed3" title="ideograph granary; berth; sea cjk">仓</li>
+    <li class="symb" data-code="20180" code="4ed4" title="ideograph small thing, child; young animal cjk">仔</li>
+    <li class="symb" data-code="20181" code="4ed5" title="ideograph official; serve government cjk">仕</li>
+    <li class="symb" data-code="20182" code="4ed6" title="ideograph other, another; he, she, it cjk">他</li>
+    <li class="symb" data-code="20183" code="4ed7" title="ideograph rely upon; protector; fight; war, weaponry cjk">仗</li>
+    <li class="symb" data-code="20184" code="4ed8" title="ideograph give, deliver, pay, hand over; entrust cjk">付</li>
+    <li class="symb" data-code="20185" code="4ed9" title="ideograph taoist super-being, transcendent, immortal cjk">仙</li>
+    <li class="symb" data-code="20186" code="4eda" title="ideograph to fly cjk">仚</li>
+    <li class="symb" data-code="20187" code="4edb" title="ideograph young girl; strange, different cjk">仛</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20189" code="4edd" title="ideograph together, same; surname cjk">仝</li>
+    <li class="symb" data-code="20190" code="4ede" title="ideograph ancient unit of measure (8 feet); 'fathom' cjk">仞</li>
+    <li class="symb" data-code="20191" code="4edf" title="ideograph one thousand; leader of one thousand men cjk">仟</li>
+    <li class="h">4ee0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20193" code="4ee1" title="ideograph strong; valiant cjk">仡</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20195" code="4ee3" title="ideograph replace, replacement (of person or generation); era, generation cjk">代</li>
+    <li class="symb" data-code="20196" code="4ee4" title="ideograph command, order; 'commandant', magistrate; allow, cause cjk">令</li>
+    <li class="symb" data-code="20197" code="4ee5" title="ideograph by means of; thereby, therefore; consider as; in order to cjk">以</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20200" code="4ee8" title="ideograph (coll.) three (cannot be followed by a measure word) cjk">仨</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20202" code="4eea" title="ideograph ceremony, rites gifts; admire cjk">仪</li>
+    <li class="symb" data-code="20203" code="4eeb" title="ideograph tribe cjk">仫</li>
+    <li class="symb" data-code="20204" code="4eec" title="ideograph adjunct pronoun indicate plural cjk">们</li>
+    <li class="symb" data-code="20205" code="4eed" title="ideograph ancient unit of measure (8 feet); 'fathom' cjk">仭</li>
+    <li class="symb" data-code="20206" code="4eee" title="ideograph falsehood, deception; vacation cjk">仮</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">4ef0</li>
+    <li class="symb" data-code="20208" code="4ef0" title="ideograph raise the head to look; look up to, rely on, admire cjk">仰</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20210" code="4ef2" title="ideograph middle brother; go between, mediator; surname cjk">仲</li>
+    <li class="symb" data-code="20211" code="4ef3" title="ideograph separate, part company cjk">仳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20213" code="4ef5" title="ideograph similar cjk">仵</li>
+    <li class="symb" data-code="20214" code="4ef6" title="ideograph numerary adjunct for article; matter cjk">件</li>
+    <li class="symb" data-code="20215" code="4ef7" title="ideograph price, value cjk">价</li>
+    <li class="symb" data-code="20216" code="4ef8" title="ideograph bent, distorted, crooked; feeble cjk">仸</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20219" code="4efb" title="ideograph trust to, rely on, appoint; to bear, duty, office; allow cjk">任</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20221" code="4efd" title="ideograph portion, part; duty cjk">份</li>
+    <li class="symb" data-code="20222" code="4efe" title="ideograph to hang or bow the head, to droop, to lower; low, beneath cjk">仾</li>
+    <li class="symb" data-code="20223" code="4eff" title="ideograph imitate, copy; as if cjk">仿</li>
+    <li class="h">4f00</li>
+    <li class="symb" data-code="20224" code="4f00" title="ideograph excited cjk">伀</li>
+    <li class="symb" data-code="20225" code="4f01" title="ideograph plan a project; stand on tiptoe cjk">企</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20227" code="4f03" title="ideograph handsome cjk">伃</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20232" code="4f08" title="ideograph nervous, fearful cjk">伈</li>
+    <li class="symb" data-code="20233" code="4f09" title="ideograph compare, match; pair; spouse cjk">伉</li>
+    <li class="symb" data-code="20234" code="4f0a" title="ideograph third person pronoun; he, she, this, that cjk">伊</li>
+    <li class="symb" data-code="20235" code="4f0b" title="ideograph deceptive cjk">伋</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20237" code="4f0d" title="ideograph five, company of five; troops cjk">伍</li>
+    <li class="symb" data-code="20238" code="4f0e" title="ideograph talent, skill, ability cjk">伎</li>
+    <li class="symb" data-code="20239" code="4f0f" title="ideograph crouch, crawl, lie hidden, conceal cjk">伏</li>
+    <li class="h">4f10</li>
+    <li class="symb" data-code="20240" code="4f10" title="ideograph cut down, subjugate, attack cjk">伐</li>
+    <li class="symb" data-code="20241" code="4f11" title="ideograph rest, stop; retire; do not! cjk">休</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20245" code="4f15" title="ideograph common laborer cjk">伕</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20247" code="4f17" title="ideograph multitude, crowd; masses, public cjk">众</li>
+    <li class="symb" data-code="20248" code="4f18" title="ideograph superior, excellent; actor cjk">优</li>
+    <li class="symb" data-code="20249" code="4f19" title="ideograph companion, colleague; utensils cjk">伙</li>
+    <li class="symb" data-code="20250" code="4f1a" title="ideograph assemble, meet together; meeting cjk">会</li>
+    <li class="symb" data-code="20251" code="4f1b" title="ideograph humpback; stoop cjk">伛</li>
+    <li class="symb" data-code="20252" code="4f1c" title="ideograph deputy, vice- cjk">伜</li>
+    <li class="symb" data-code="20253" code="4f1d" title="ideograph summon; propagate, transmit cjk">伝</li>
+    <li class="symb" data-code="20254" code="4f1e" title="ideograph umbrella, parasol, parachute cjk">伞</li>
+    <li class="symb" data-code="20255" code="4f1f" title="ideograph great, robust; extraordinary cjk">伟</li>
+    <li class="h">4f20</li>
+    <li class="symb" data-code="20256" code="4f20" title="ideograph summon; propagate, transmit cjk">传</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20258" code="4f22" title="ideograph child cjk">伢</li>
+    <li class="symb" data-code="20259" code="4f23" title="ideograph like cjk">伣</li>
+    <li class="symb" data-code="20260" code="4f24" title="ideograph wound, injury; fall ill from cjk">伤</li>
+    <li class="symb" data-code="20261" code="4f25" title="ideograph ghost of one devoured by tiger cjk">伥</li>
+    <li class="symb" data-code="20262" code="4f26" title="ideograph normal human relationships cjk">伦</li>
+    <li class="symb" data-code="20263" code="4f27" title="ideograph vulgar person, country man cjk">伧</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20265" code="4f29" title="ideograph trust, believe; letter; (cant.) small cjk">伩</li>
+    <li class="symb" data-code="20266" code="4f2a" title="ideograph false, counterfeit, bogus cjk">伪</li>
+    <li class="symb" data-code="20267" code="4f2b" title="ideograph look towards; turn one's back on cjk">伫</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20269" code="4f2d" title="ideograph dark, somber; deep, profound cjk">伭</li>
+    <li class="symb" data-code="20270" code="4f2e" title="ideograph to make a great effort cjk">伮</li>
+    <li class="symb" data-code="20271" code="4f2f" title="ideograph older brother; father's elder brother; senior male 'sire'; feudal rank 'count' cjk">伯</li>
+    <li class="h">4f30</li>
+    <li class="symb" data-code="20272" code="4f30" title="ideograph merchant; estimate, guess, presume cjk">估</li>
+    <li class="symb" data-code="20273" code="4f31" title="ideograph thou, you cjk">伱</li>
+    <li class="symb" data-code="20274" code="4f32" title="ideograph we (shanghai dialect) cjk">伲</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20276" code="4f34" title="ideograph companion, comrade, partner; accompany cjk">伴</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20278" code="4f36" title="ideograph lonely, solitary; actor cjk">伶</li>
+    <li class="symb" data-code="20279" code="4f37" title="ideograph descendent cjk">伷</li>
+    <li class="symb" data-code="20280" code="4f38" title="ideograph extend, stretch out, open up; trust cjk">伸</li>
+    <li class="symb" data-code="20281" code="4f39" title="ideograph dull, slow, unskillful cjk">伹</li>
+    <li class="symb" data-code="20282" code="4f3a" title="ideograph serve, wait upon, attend; examine cjk">伺</li>
+    <li class="symb" data-code="20283" code="4f3b" title="ideograph messenger, emissary; send emissary cjk">伻</li>
+    <li class="symb" data-code="20284" code="4f3c" title="ideograph resemble, similar to; as if, seem cjk">似</li>
+    <li class="symb" data-code="20285" code="4f3d" title="ideograph transcription of sanskrit 'gha' in buddhist texts ('samgha', etc.); (nursing; attending; entertainer) (jap.); tample; in chinese this character is not used alone cjk">伽</li>
+    <li class="symb" data-code="20286" code="4f3e" title="ideograph mighty cjk">伾</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">4f40</li>
+    <li class="symb" data-code="20288" code="4f40" title="ideograph resemble cjk">佀</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20291" code="4f43" title="ideograph tenant farmer; be a tenant farmer cjk">佃</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20294" code="4f46" title="ideograph only; but, however, yet, still cjk">但</li>
+    <li class="symb" data-code="20295" code="4f47" title="ideograph wait; look towards; turn one's back on cjk">佇</li>
+    <li class="symb" data-code="20296" code="4f48" title="ideograph spread, publicize, announce cjk">佈</li>
+    <li class="symb" data-code="20297" code="4f49" title="ideograph surname; name of a divine being; transliteration of sanskrit 'kh' cjk">佉</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20299" code="4f4b" title="ideograph continue, carry on; hand down; to join cjk">佋</li>
+    <li class="symb" data-code="20300" code="4f4c" title="ideograph small cjk">佌</li>
+    <li class="symb" data-code="20301" code="4f4d" title="ideograph throne; position, post; rank, status; seat cjk">位</li>
+    <li class="symb" data-code="20302" code="4f4e" title="ideograph low; to lower, hang, bend, bow cjk">低</li>
+    <li class="symb" data-code="20303" code="4f4f" title="ideograph reside, live at, dwell, lodge; stop cjk">住</li>
+    <li class="h">4f50</li>
+    <li class="symb" data-code="20304" code="4f50" title="ideograph assist, aid, second; subordinate cjk">佐</li>
+    <li class="symb" data-code="20305" code="4f51" title="ideograph help, protect, bless cjk">佑</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20307" code="4f53" title="ideograph body; group, class, body, unit; inferior cjk">体</li>
+    <li class="symb" data-code="20308" code="4f54" title="ideograph occupy by force, usurp; possess cjk">佔</li>
+    <li class="symb" data-code="20309" code="4f55" title="ideograph what, why, where, which, how cjk">何</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20311" code="4f57" title="ideograph other, he; surname; a load cjk">佗</li>
+    <li class="symb" data-code="20312" code="4f58" title="ideograph surname cjk">佘</li>
+    <li class="symb" data-code="20313" code="4f59" title="ideograph i, my, me; surname; surplus cjk">余</li>
+    <li class="symb" data-code="20314" code="4f5a" title="ideograph indulge in pleasures; flee cjk">佚</li>
+    <li class="symb" data-code="20315" code="4f5b" title="ideograph buddha; of buddhism; merciful person; buddhist image; the dead (jap.) cjk">佛</li>
+    <li class="symb" data-code="20316" code="4f5c" title="ideograph make; work; compose, write; act, perform cjk">作</li>
+    <li class="symb" data-code="20317" code="4f5d" title="ideograph rickets cjk">佝</li>
+    <li class="symb" data-code="20318" code="4f5e" title="ideograph flattery; glib cjk">佞</li>
+    <li class="symb" data-code="20319" code="4f5f" title="ideograph a name cjk">佟</li>
+    <li class="h">4f60</li>
+    <li class="symb" data-code="20320" code="4f60" title="ideograph you, second person pronoun cjk">你</li>
+    <li class="symb" data-code="20321" code="4f61" title="ideograph make effort, endeavor cjk">佡</li>
+    <li class="symb" data-code="20322" code="4f62" title="ideograph (cant.) he, she, it cjk">佢</li>
+    <li class="symb" data-code="20323" code="4f63" title="ideograph commission fee cjk">佣</li>
+    <li class="symb" data-code="20324" code="4f64" title="ideograph the va (wa) nationality, living in yunnan cjk">佤</li>
+    <li class="symb" data-code="20325" code="4f65" title="ideograph all, together, unanimous cjk">佥</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20329" code="4f69" title="ideograph belt ornament, pendant; wear at waist, tie to the belt; respect cjk">佩</li>
+    <li class="symb" data-code="20330" code="4f6a" title="ideograph hesitate cjk">佪</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20332" code="4f6c" title="ideograph (cant.) man, person; mature cjk">佬</li>
+    <li class="symb" data-code="20333" code="4f6d" title="ideograph unsubmissive; obstreperous cjk">佭</li>
+    <li class="symb" data-code="20334" code="4f6e" title="ideograph (cant.) intensive particle cjk">佮</li>
+    <li class="symb" data-code="20335" code="4f6f" title="ideograph pretend, feign; false, deceitful cjk">佯</li>
+    <li class="h">4f70</li>
+    <li class="symb" data-code="20336" code="4f70" title="ideograph hundred cjk">佰</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20339" code="4f73" title="ideograph good, auspicious; beautiful; delightful cjk">佳</li>
+    <li class="symb" data-code="20340" code="4f74" title="ideograph a second, an assistant cjk">佴</li>
+    <li class="symb" data-code="20341" code="4f75" title="ideograph combine, annex cjk">併</li>
+    <li class="symb" data-code="20342" code="4f76" title="ideograph strong, robust; exact, correct cjk">佶</li>
+    <li class="symb" data-code="20343" code="4f77" title="ideograph to act contrary to cjk">佷</li>
+    <li class="symb" data-code="20344" code="4f78" title="ideograph meet cjk">佸</li>
+    <li class="symb" data-code="20345" code="4f79" title="ideograph depend upon; support; go against; (variant deceive) cjk">佹</li>
+    <li class="symb" data-code="20346" code="4f7a" title="ideograph fairy cjk">佺</li>
+    <li class="symb" data-code="20347" code="4f7b" title="ideograph frivolous; unsteady; delay cjk">佻</li>
+    <li class="symb" data-code="20348" code="4f7c" title="ideograph beautiful, handsome, good-looking cjk">佼</li>
+    <li class="symb" data-code="20349" code="4f7d" title="ideograph aid; help cjk">佽</li>
+    <li class="symb" data-code="20350" code="4f7e" title="ideograph a row or file of dancers cjk">佾</li>
+    <li class="symb" data-code="20351" code="4f7f" title="ideograph cause, send on a mission, order; envoy, messenger, ambassador cjk">使</li>
+    <li class="h">4f80</li>
+    <li class="symb" data-code="20352" code="4f80" title="ideograph form cjk">侀</li>
+    <li class="symb" data-code="20353" code="4f81" title="ideograph crowd cjk">侁</li>
+    <li class="symb" data-code="20354" code="4f82" title="ideograph to commission, to entrust to, to depute; to request, to ask cjk">侂</li>
+    <li class="symb" data-code="20355" code="4f83" title="ideograph upright and strong; amiable cjk">侃</li>
+    <li class="symb" data-code="20356" code="4f84" title="ideograph nephew cjk">侄</li>
+    <li class="symb" data-code="20357" code="4f85" title="ideograph to give; prepared for included in; embraced in cjk">侅</li>
+    <li class="symb" data-code="20358" code="4f86" title="ideograph come, coming; return, returning cjk">來</li>
+    <li class="symb" data-code="20359" code="4f87" title="ideograph a class, a category a corpse cjk">侇</li>
+    <li class="symb" data-code="20360" code="4f88" title="ideograph luxurious, extravagant cjk">侈</li>
+    <li class="symb" data-code="20361" code="4f89" title="ideograph to speak with an accent; big and clumsy cjk">侉</li>
+    <li class="symb" data-code="20362" code="4f8a" title="ideograph big cjk">侊</li>
+    <li class="symb" data-code="20363" code="4f8b" title="ideograph precedent, example; regulation cjk">例</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20365" code="4f8d" title="ideograph serve, attend upon; attendant, servant; samurai cjk">侍</li>
+    <li class="symb" data-code="20366" code="4f8e" title="ideograph to soothe, to pacify; to settle, to establish cjk">侎</li>
+    <li class="symb" data-code="20367" code="4f8f" title="ideograph small, little, tiny, dwarf cjk">侏</li>
+    <li class="h">4f90</li>
+    <li class="symb" data-code="20368" code="4f90" title="ideograph quiet cjk">侐</li>
+    <li class="symb" data-code="20369" code="4f91" title="ideograph help, assist, repay kindness cjk">侑</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20372" code="4f94" title="ideograph equal cjk">侔</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20374" code="4f96" title="ideograph logical reasons, logical order cjk">侖</li>
+    <li class="symb" data-code="20375" code="4f97" title="ideograph big; ignorant; rude, rustic cjk">侗</li>
+    <li class="symb" data-code="20376" code="4f98" title="ideograph disappointed, forlorn cjk">侘</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20378" code="4f9a" title="ideograph fast cjk">侚</li>
+    <li class="symb" data-code="20379" code="4f9b" title="ideograph supply, provide for; offer in worship cjk">供</li>
+    <li class="symb" data-code="20380" code="4f9c" title="ideograph lies cjk">侜</li>
+    <li class="symb" data-code="20381" code="4f9d" title="ideograph rely on, be set in; consent, obey a wish cjk">依</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">4fa0</li>
+    <li class="symb" data-code="20384" code="4fa0" title="ideograph chivalrous person; knight-errant cjk">侠</li>
+    <li class="symb" data-code="20385" code="4fa1" title="ideograph price, value cjk">価</li>
+    <li class="symb" data-code="20386" code="4fa2" title="ideograph load cjk">侢</li>
+    <li class="symb" data-code="20387" code="4fa3" title="ideograph companion; associate with cjk">侣</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20389" code="4fa5" title="ideograph be lucky; by chance, by luck cjk">侥</li>
+    <li class="symb" data-code="20390" code="4fa6" title="ideograph spy, reconnoiter; detective cjk">侦</li>
+    <li class="symb" data-code="20391" code="4fa7" title="ideograph side; incline, slant, lean cjk">侧</li>
+    <li class="symb" data-code="20392" code="4fa8" title="ideograph sojourn, lodge cjk">侨</li>
+    <li class="symb" data-code="20393" code="4fa9" title="ideograph go-between, broker, proxy cjk">侩</li>
+    <li class="symb" data-code="20394" code="4faa" title="ideograph a company, companion; together cjk">侪</li>
+    <li class="symb" data-code="20395" code="4fab" title="ideograph flattery; glib cjk">侫</li>
+    <li class="symb" data-code="20396" code="4fac" title="ideograph i; you; family name cjk">侬</li>
+    <li class="symb" data-code="20397" code="4fad" title="ideograph complete, utmost cjk">侭</li>
+    <li class="symb" data-code="20398" code="4fae" title="ideograph insult, ridicule, disgrace cjk">侮</li>
+    <li class="symb" data-code="20399" code="4faf" title="ideograph marquis, lord; target in archery cjk">侯</li>
+    <li class="h">4fb0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20404" code="4fb4" title="ideograph surname cjk">侴</li>
+    <li class="symb" data-code="20405" code="4fb5" title="ideograph invade, encroach upon, raid cjk">侵</li>
+    <li class="symb" data-code="20406" code="4fb6" title="ideograph companion; associate with cjk">侶</li>
+    <li class="symb" data-code="20407" code="4fb7" title="ideograph narrow, cramped, confined cjk">侷</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20415" code="4fbf" title="ideograph convenience, ease; expedient cjk">便</li>
+    <li class="h">4fc0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20417" code="4fc1" title="ideograph big cjk">俁</li>
+    <li class="symb" data-code="20418" code="4fc2" title="ideograph bind, tie up; involve, relation cjk">係</li>
+    <li class="symb" data-code="20419" code="4fc3" title="ideograph urge, press, hurry; close cjk">促</li>
+    <li class="symb" data-code="20420" code="4fc4" title="ideograph sudden(ly), soon; russian cjk">俄</li>
+    <li class="symb" data-code="20421" code="4fc5" title="ideograph ornamental cap cjk">俅</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20424" code="4fc8" title="ideograph to inform quickly; an urgent communication cjk">俈</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20426" code="4fca" title="ideograph talented, capable; handsome cjk">俊</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20430" code="4fce" title="ideograph chopping board or block; painted cjk">俎</li>
+    <li class="symb" data-code="20431" code="4fcf" title="ideograph like, similar; resemble; pretty cjk">俏</li>
+    <li class="h">4fd0</li>
+    <li class="symb" data-code="20432" code="4fd0" title="ideograph smooth; active; clever, sharp cjk">俐</li>
+    <li class="symb" data-code="20433" code="4fd1" title="ideograph wooden figure buried with dead cjk">俑</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20435" code="4fd3" title="ideograph straight; pass cjk">俓</li>
+    <li class="symb" data-code="20436" code="4fd4" title="ideograph like cjk">俔</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20439" code="4fd7" title="ideograph social customs; vulgar, unrefined cjk">俗</li>
+    <li class="symb" data-code="20440" code="4fd8" title="ideograph prisoner of war; take as prisoner cjk">俘</li>
+    <li class="symb" data-code="20441" code="4fd9" title="ideograph to pretend, appear as if cjk">俙</li>
+    <li class="symb" data-code="20442" code="4fda" title="ideograph rustic, vulgar, unpolished; mean cjk">俚</li>
+    <li class="symb" data-code="20443" code="4fdb" title="ideograph make effort, endeavor; to lower the head cjk">俛</li>
+    <li class="symb" data-code="20444" code="4fdc" title="ideograph to trust to; send a message cjk">俜</li>
+    <li class="symb" data-code="20445" code="4fdd" title="ideograph protect, safeguard, defend, care cjk">保</li>
+    <li class="symb" data-code="20446" code="4fde" title="ideograph surname; consent, approve cjk">俞</li>
+    <li class="symb" data-code="20447" code="4fdf" title="ideograph wait for, wait until, as soon as cjk">俟</li>
+    <li class="h">4fe0</li>
+    <li class="symb" data-code="20448" code="4fe0" title="ideograph chivalrous person; knight-errant cjk">俠</li>
+    <li class="symb" data-code="20449" code="4fe1" title="ideograph trust, believe; letter cjk">信</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20451" code="4fe3" title="ideograph big cjk">俣</li>
+    <li class="symb" data-code="20452" code="4fe4" title="ideograph (j) same as 面影 u+9762 u+5f71, visage, face; trace, shadow; memory cjk">俤</li>
+    <li class="symb" data-code="20453" code="4fe5" title="ideograph rickshaw, cart, vehicle; name of piece in chinese chess cjk">俥</li>
+    <li class="symb" data-code="20454" code="4fe6" title="ideograph companion, mate, colleague cjk">俦</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20456" code="4fe8" title="ideograph grave, respectful, majestic cjk">俨</li>
+    <li class="symb" data-code="20457" code="4fe9" title="ideograph two, pair cjk">俩</li>
+    <li class="symb" data-code="20458" code="4fea" title="ideograph spouse, couple, pair cjk">俪</li>
+    <li class="symb" data-code="20459" code="4feb" title="ideograph to induce to come; to encourage cjk">俫</li>
+    <li class="symb" data-code="20460" code="4fec" title="ideograph (cant.) 傢俬, furniture cjk">俬</li>
+    <li class="symb" data-code="20461" code="4fed" title="ideograph temperate, frugal, economical cjk">俭</li>
+    <li class="symb" data-code="20462" code="4fee" title="ideograph study; repair; cultivate cjk">修</li>
+    <li class="symb" data-code="20463" code="4fef" title="ideograph bow down, face down, look down cjk">俯</li>
+    <li class="h">4ff0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20465" code="4ff1" title="ideograph all, together; accompany cjk">俱</li>
+    <li class="symb" data-code="20466" code="4ff2" title="ideograph same as 傚 u+509a, imitate, mimic cjk">俲</li>
+    <li class="symb" data-code="20467" code="4ff3" title="ideograph actor; vaudeville show; insincere cjk">俳</li>
+    <li class="symb" data-code="20468" code="4ff4" title="ideograph thin cjk">俴</li>
+    <li class="symb" data-code="20469" code="4ff5" title="ideograph divide, distribute cjk">俵</li>
+    <li class="symb" data-code="20470" code="4ff6" title="ideograph start, begin; beginning; arrange cjk">俶</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20472" code="4ff8" title="ideograph wages, salary, official emolument cjk">俸</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20474" code="4ffa" title="ideograph personal pronoun, i cjk">俺</li>
+    <li class="symb" data-code="20475" code="4ffb" title="ideograph to prepare; to provide; to put in order; to complete perfection; completeness cjk">俻</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="20478" code="4ffe" title="ideograph so that, in order that; to cause; (cant.) to give (synonymous with mandarin 給) cjk">俾</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

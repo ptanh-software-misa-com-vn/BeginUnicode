@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0250</li>
+    <li class="symb" data-code="592" code="0250" title="latin small letter turned a">ɐ</li>
+    <li class="symb" data-code="593" code="0251" title="latin small letter alpha">ɑ</li>
+    <li class="symb" data-code="594" code="0252" title="latin small letter turned alpha">ɒ</li>
+    <li class="symb" data-code="595" code="0253" title="latin small letter b with hook">ɓ</li>
+    <li class="symb" data-code="596" code="0254" title="latin small letter open o">ɔ</li>
+    <li class="symb" data-code="597" code="0255" title="latin small letter c with curl">ɕ</li>
+    <li class="symb" data-code="598" code="0256" title="latin small letter d with tail">ɖ</li>
+    <li class="symb" data-code="599" code="0257" title="latin small letter d with hook">ɗ</li>
+    <li class="symb" data-code="600" code="0258" title="latin small letter reversed e">ɘ</li>
+    <li class="symb" data-code="601" code="0259" title="latin small letter schwa">ə</li>
+    <li class="symb" data-code="602" code="025a" title="latin small letter schwa with hook">ɚ</li>
+    <li class="symb" data-code="603" code="025b" title="latin small letter open e">ɛ</li>
+    <li class="symb" data-code="604" code="025c" title="latin small letter reversed open e">ɜ</li>
+    <li class="symb" data-code="605" code="025d" title="latin small letter reversed open e with hook">ɝ</li>
+    <li class="symb" data-code="606" code="025e" title="latin small letter closed reversed open e">ɞ</li>
+    <li class="symb" data-code="607" code="025f" title="latin small letter dotless j with stroke">ɟ</li>
+    <li class="h">0260</li>
+    <li class="symb" data-code="608" code="0260" title="latin small letter g with hook">ɠ</li>
+    <li class="symb" data-code="609" code="0261" title="latin small letter script g">ɡ</li>
+    <li class="symb" data-code="610" code="0262" title="latin letter small capital g">ɢ</li>
+    <li class="symb" data-code="611" code="0263" title="latin small letter gamma">ɣ</li>
+    <li class="symb" data-code="612" code="0264" title="latin small letter rams horn">ɤ</li>
+    <li class="symb" data-code="613" code="0265" title="latin small letter turned h">ɥ</li>
+    <li class="symb" data-code="614" code="0266" title="latin small letter h with hook">ɦ</li>
+    <li class="symb" data-code="615" code="0267" title="latin small letter heng with hook">ɧ</li>
+    <li class="symb" data-code="616" code="0268" title="latin small letter i with stroke">ɨ</li>
+    <li class="symb" data-code="617" code="0269" title="latin small letter iota">ɩ</li>
+    <li class="symb" data-code="618" code="026a" title="latin letter small capital i">ɪ</li>
+    <li class="symb" data-code="619" code="026b" title="latin small letter l with middle tilde">ɫ</li>
+    <li class="symb" data-code="620" code="026c" title="latin small letter l with belt">ɬ</li>
+    <li class="symb" data-code="621" code="026d" title="latin small letter l with retroflex hook">ɭ</li>
+    <li class="symb" data-code="622" code="026e" title="latin small letter lezh">ɮ</li>
+    <li class="symb" data-code="623" code="026f" title="latin small letter turned m">ɯ</li>
+    <li class="h">0270</li>
+    <li class="symb" data-code="624" code="0270" title="latin small letter turned m with long leg">ɰ</li>
+    <li class="symb" data-code="625" code="0271" title="latin small letter m with hook">ɱ</li>
+    <li class="symb" data-code="626" code="0272" title="latin small letter n with left hook">ɲ</li>
+    <li class="symb" data-code="627" code="0273" title="latin small letter n with retroflex hook">ɳ</li>
+    <li class="symb" data-code="628" code="0274" title="latin letter small capital n">ɴ</li>
+    <li class="symb" data-code="629" code="0275" title="latin small letter barred o">ɵ</li>
+    <li class="symb" data-code="630" code="0276" title="latin letter small capital oe">ɶ</li>
+    <li class="symb" data-code="631" code="0277" title="latin small letter closed omega">ɷ</li>
+    <li class="symb" data-code="632" code="0278" title="latin small letter phi">ɸ</li>
+    <li class="symb" data-code="633" code="0279" title="latin small letter turned r">ɹ</li>
+    <li class="symb" data-code="634" code="027a" title="latin small letter turned r with long leg">ɺ</li>
+    <li class="symb" data-code="635" code="027b" title="latin small letter turned r with hook">ɻ</li>
+    <li class="symb" data-code="636" code="027c" title="latin small letter r with long leg">ɼ</li>
+    <li class="symb" data-code="637" code="027d" title="latin small letter r with tail">ɽ</li>
+    <li class="symb" data-code="638" code="027e" title="latin small letter r with fishhook">ɾ</li>
+    <li class="symb" data-code="639" code="027f" title="latin small letter reversed r with fishhook">ɿ</li>
+    <li class="h">0280</li>
+    <li class="symb" data-code="640" code="0280" title="latin letter small capital r">ʀ</li>
+    <li class="symb" data-code="641" code="0281" title="latin letter small capital inverted r">ʁ</li>
+    <li class="symb" data-code="642" code="0282" title="latin small letter s with hook">ʂ</li>
+    <li class="symb" data-code="643" code="0283" title="latin small letter esh">ʃ</li>
+    <li class="symb" data-code="644" code="0284" title="latin small letter dotless j with stroke and hook">ʄ</li>
+    <li class="symb" data-code="645" code="0285" title="latin small letter squat reversed esh">ʅ</li>
+    <li class="symb" data-code="646" code="0286" title="latin small letter esh with curl">ʆ</li>
+    <li class="symb" data-code="647" code="0287" title="latin small letter turned t">ʇ</li>
+    <li class="symb" data-code="648" code="0288" title="latin small letter t with retroflex hook">ʈ</li>
+    <li class="symb" data-code="649" code="0289" title="latin small letter u bar">ʉ</li>
+    <li class="symb" data-code="650" code="028a" title="latin small letter upsilon">ʊ</li>
+    <li class="symb" data-code="651" code="028b" title="latin small letter v with hook">ʋ</li>
+    <li class="symb" data-code="652" code="028c" title="latin small letter turned v">ʌ</li>
+    <li class="symb" data-code="653" code="028d" title="latin small letter turned w">ʍ</li>
+    <li class="symb" data-code="654" code="028e" title="latin small letter turned y">ʎ</li>
+    <li class="symb" data-code="655" code="028f" title="latin letter small capital y">ʏ</li>
+    <li class="h">0290</li>
+    <li class="symb" data-code="656" code="0290" title="latin small letter z with retroflex hook">ʐ</li>
+    <li class="symb" data-code="657" code="0291" title="latin small letter z with curl">ʑ</li>
+    <li class="symb" data-code="658" code="0292" title="latin small letter ezh">ʒ</li>
+    <li class="symb" data-code="659" code="0293" title="latin small letter ezh with curl">ʓ</li>
+    <li class="symb" data-code="660" code="0294" title="latin letter glottal stop">ʔ</li>
+    <li class="symb" data-code="661" code="0295" title="latin letter pharyngeal voiced fricative">ʕ</li>
+    <li class="symb" data-code="662" code="0296" title="latin letter inverted glottal stop">ʖ</li>
+    <li class="symb" data-code="663" code="0297" title="latin letter stretched c">ʗ</li>
+    <li class="symb" data-code="664" code="0298" title="latin letter bilabial click">ʘ</li>
+    <li class="symb" data-code="665" code="0299" title="latin letter small capital b">ʙ</li>
+    <li class="symb" data-code="666" code="029a" title="latin small letter closed open e">ʚ</li>
+    <li class="symb" data-code="667" code="029b" title="latin letter small capital g with hook">ʛ</li>
+    <li class="symb" data-code="668" code="029c" title="latin letter small capital h">ʜ</li>
+    <li class="symb" data-code="669" code="029d" title="latin small letter j with crossed-tail">ʝ</li>
+    <li class="symb" data-code="670" code="029e" title="latin small letter turned k">ʞ</li>
+    <li class="symb" data-code="671" code="029f" title="latin letter small capital l">ʟ</li>
+    <li class="h">02a0</li>
+    <li class="symb" data-code="672" code="02a0" title="latin small letter q with hook">ʠ</li>
+    <li class="symb" data-code="673" code="02a1" title="latin letter glottal stop with stroke">ʡ</li>
+    <li class="symb" data-code="674" code="02a2" title="latin letter reversed glottal stop with stroke">ʢ</li>
+    <li class="symb" data-code="675" code="02a3" title="latin small letter dz digraph">ʣ</li>
+    <li class="symb" data-code="676" code="02a4" title="latin small letter dezh digraph">ʤ</li>
+    <li class="symb" data-code="677" code="02a5" title="latin small letter dz digraph with curl">ʥ</li>
+    <li class="symb" data-code="678" code="02a6" title="latin small letter ts digraph">ʦ</li>
+    <li class="symb" data-code="679" code="02a7" title="latin small letter tesh digraph">ʧ</li>
+    <li class="symb" data-code="680" code="02a8" title="latin small letter tc digraph with curl">ʨ</li>
+    <li class="symb" data-code="681" code="02a9" title="latin small letter feng digraph">ʩ</li>
+    <li class="symb" data-code="682" code="02aa" title="latin small letter ls digraph">ʪ</li>
+    <li class="symb" data-code="683" code="02ab" title="latin small letter lz digraph">ʫ</li>
+    <li class="symb" data-code="684" code="02ac" title="latin letter bilabial percussive">ʬ</li>
+    <li class="symb" data-code="685" code="02ad" title="latin letter bidental percussive">ʭ</li>
+    <li class="symb" data-code="686" code="02ae" title="latin small letter turned h with fishhook">ʮ</li>
+    <li class="symb" data-code="687" code="02af" title="latin small letter turned h with fishhook and tail">ʯ</li>
+  </ul>
+</root>

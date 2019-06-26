@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeginUnicode", "BeginUnicode\BeginUnicode.csproj", "{2BDFD5E8-3368-44F3-B6EA-83B3A73C9135}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnicode", "TestUnicode\TestUnicode.csproj", "{3BD20F7A-5526-4B95-9170-7226F1E844C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDFD5E8-3368-44F3-B6EA-83B3A73C9135}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDFD5E8-3368-44F3-B6EA-83B3A73C9135}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDFD5E8-3368-44F3-B6EA-83B3A73C9135}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDFD5E8-3368-44F3-B6EA-83B3A73C9135}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BD20F7A-5526-4B95-9170-7226F1E844C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD20F7A-5526-4B95-9170-7226F1E844C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD20F7A-5526-4B95-9170-7226F1E844C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD20F7A-5526-4B95-9170-7226F1E844C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

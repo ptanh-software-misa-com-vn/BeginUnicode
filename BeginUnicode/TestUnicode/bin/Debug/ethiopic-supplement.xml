@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1380</li>
+    <li class="symb" data-code="4992" code="1380" title="ethiopic syllable sebatbeit mwa">ᎀ</li>
+    <li class="symb" data-code="4993" code="1381" title="ethiopic syllable mwi">ᎁ</li>
+    <li class="symb" data-code="4994" code="1382" title="ethiopic syllable mwee">ᎂ</li>
+    <li class="symb" data-code="4995" code="1383" title="ethiopic syllable mwe">ᎃ</li>
+    <li class="symb" data-code="4996" code="1384" title="ethiopic syllable sebatbeit bwa">ᎄ</li>
+    <li class="symb" data-code="4997" code="1385" title="ethiopic syllable bwi">ᎅ</li>
+    <li class="symb" data-code="4998" code="1386" title="ethiopic syllable bwee">ᎆ</li>
+    <li class="symb" data-code="4999" code="1387" title="ethiopic syllable bwe">ᎇ</li>
+    <li class="symb" data-code="5000" code="1388" title="ethiopic syllable sebatbeit fwa">ᎈ</li>
+    <li class="symb" data-code="5001" code="1389" title="ethiopic syllable fwi">ᎉ</li>
+    <li class="symb" data-code="5002" code="138a" title="ethiopic syllable fwee">ᎊ</li>
+    <li class="symb" data-code="5003" code="138b" title="ethiopic syllable fwe">ᎋ</li>
+    <li class="symb" data-code="5004" code="138c" title="ethiopic syllable sebatbeit pwa">ᎌ</li>
+    <li class="symb" data-code="5005" code="138d" title="ethiopic syllable pwi">ᎍ</li>
+    <li class="symb" data-code="5006" code="138e" title="ethiopic syllable pwee">ᎎ</li>
+    <li class="symb" data-code="5007" code="138f" title="ethiopic syllable pwe">ᎏ</li>
+    <li class="h">1390</li>
+    <li class="symb" data-code="5008" code="1390" title="ethiopic tonal mark yizet">᎐</li>
+    <li class="symb" data-code="5009" code="1391" title="ethiopic tonal mark deret">᎑</li>
+    <li class="symb" data-code="5010" code="1392" title="ethiopic tonal mark rikrik">᎒</li>
+    <li class="symb" data-code="5011" code="1393" title="ethiopic tonal mark short rikrik">᎓</li>
+    <li class="symb" data-code="5012" code="1394" title="ethiopic tonal mark difat">᎔</li>
+    <li class="symb" data-code="5013" code="1395" title="ethiopic tonal mark kenat">᎕</li>
+    <li class="symb" data-code="5014" code="1396" title="ethiopic tonal mark chiret">᎖</li>
+    <li class="symb" data-code="5015" code="1397" title="ethiopic tonal mark hidet">᎗</li>
+    <li class="symb" data-code="5016" code="1398" title="ethiopic tonal mark deret-hidet">᎘</li>
+    <li class="symb" data-code="5017" code="1399" title="ethiopic tonal mark kurt">᎙</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0b00</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2817" code="0b01" title="oriya sign candrabindu">ଁ</li>
+    <li class="symb" data-code="2818" code="0b02" title="oriya sign anusvara">ଂ</li>
+    <li class="symb" data-code="2819" code="0b03" title="oriya sign visarga">ଃ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2821" code="0b05" title="oriya letter a">ଅ</li>
+    <li class="symb" data-code="2822" code="0b06" title="oriya letter aa">ଆ</li>
+    <li class="symb" data-code="2823" code="0b07" title="oriya letter i">ଇ</li>
+    <li class="symb" data-code="2824" code="0b08" title="oriya letter ii">ଈ</li>
+    <li class="symb" data-code="2825" code="0b09" title="oriya letter u">ଉ</li>
+    <li class="symb" data-code="2826" code="0b0a" title="oriya letter uu">ଊ</li>
+    <li class="symb" data-code="2827" code="0b0b" title="oriya letter vocalic r">ଋ</li>
+    <li class="symb" data-code="2828" code="0b0c" title="oriya letter vocalic l">ଌ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2831" code="0b0f" title="oriya letter e">ଏ</li>
+    <li class="h">0b10</li>
+    <li class="symb" data-code="2832" code="0b10" title="oriya letter ai">ଐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2835" code="0b13" title="oriya letter o">ଓ</li>
+    <li class="symb" data-code="2836" code="0b14" title="oriya letter au">ଔ</li>
+    <li class="symb" data-code="2837" code="0b15" title="oriya letter ka">କ</li>
+    <li class="symb" data-code="2838" code="0b16" title="oriya letter kha">ଖ</li>
+    <li class="symb" data-code="2839" code="0b17" title="oriya letter ga">ଗ</li>
+    <li class="symb" data-code="2840" code="0b18" title="oriya letter gha">ଘ</li>
+    <li class="symb" data-code="2841" code="0b19" title="oriya letter nga">ଙ</li>
+    <li class="symb" data-code="2842" code="0b1a" title="oriya letter ca">ଚ</li>
+    <li class="symb" data-code="2843" code="0b1b" title="oriya letter cha">ଛ</li>
+    <li class="symb" data-code="2844" code="0b1c" title="oriya letter ja">ଜ</li>
+    <li class="symb" data-code="2845" code="0b1d" title="oriya letter jha">ଝ</li>
+    <li class="symb" data-code="2846" code="0b1e" title="oriya letter nya">ଞ</li>
+    <li class="symb" data-code="2847" code="0b1f" title="oriya letter tta">ଟ</li>
+    <li class="h">0b20</li>
+    <li class="symb" data-code="2848" code="0b20" title="oriya letter ttha">ଠ</li>
+    <li class="symb" data-code="2849" code="0b21" title="oriya letter dda">ଡ</li>
+    <li class="symb" data-code="2850" code="0b22" title="oriya letter ddha">ଢ</li>
+    <li class="symb" data-code="2851" code="0b23" title="oriya letter nna">ଣ</li>
+    <li class="symb" data-code="2852" code="0b24" title="oriya letter ta">ତ</li>
+    <li class="symb" data-code="2853" code="0b25" title="oriya letter tha">ଥ</li>
+    <li class="symb" data-code="2854" code="0b26" title="oriya letter da">ଦ</li>
+    <li class="symb" data-code="2855" code="0b27" title="oriya letter dha">ଧ</li>
+    <li class="symb" data-code="2856" code="0b28" title="oriya letter na">ନ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2858" code="0b2a" title="oriya letter pa">ପ</li>
+    <li class="symb" data-code="2859" code="0b2b" title="oriya letter pha">ଫ</li>
+    <li class="symb" data-code="2860" code="0b2c" title="oriya letter ba">ବ</li>
+    <li class="symb" data-code="2861" code="0b2d" title="oriya letter bha">ଭ</li>
+    <li class="symb" data-code="2862" code="0b2e" title="oriya letter ma">ମ</li>
+    <li class="symb" data-code="2863" code="0b2f" title="oriya letter ya">ଯ</li>
+    <li class="h">0b30</li>
+    <li class="symb" data-code="2864" code="0b30" title="oriya letter ra">ର</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2866" code="0b32" title="oriya letter la">ଲ</li>
+    <li class="symb" data-code="2867" code="0b33" title="oriya letter lla">ଳ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2869" code="0b35" title="oriya letter va">ଵ</li>
+    <li class="symb" data-code="2870" code="0b36" title="oriya letter sha">ଶ</li>
+    <li class="symb" data-code="2871" code="0b37" title="oriya letter ssa">ଷ</li>
+    <li class="symb" data-code="2872" code="0b38" title="oriya letter sa">ସ</li>
+    <li class="symb" data-code="2873" code="0b39" title="oriya letter ha">ହ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2876" code="0b3c" title="oriya sign nukta">଼</li>
+    <li class="symb" data-code="2877" code="0b3d" title="oriya sign avagraha">ଽ</li>
+    <li class="symb" data-code="2878" code="0b3e" title="oriya vowel sign aa">ା</li>
+    <li class="symb" data-code="2879" code="0b3f" title="oriya vowel sign i">ି</li>
+    <li class="h">0b40</li>
+    <li class="symb" data-code="2880" code="0b40" title="oriya vowel sign ii">ୀ</li>
+    <li class="symb" data-code="2881" code="0b41" title="oriya vowel sign u">ୁ</li>
+    <li class="symb" data-code="2882" code="0b42" title="oriya vowel sign uu">ୂ</li>
+    <li class="symb" data-code="2883" code="0b43" title="oriya vowel sign vocalic r">ୃ</li>
+    <li class="symb" data-code="2884" code="0b44" title="oriya vowel sign vocalic rr">ୄ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2887" code="0b47" title="oriya vowel sign e">େ</li>
+    <li class="symb" data-code="2888" code="0b48" title="oriya vowel sign ai">ୈ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2891" code="0b4b" title="oriya vowel sign o">ୋ</li>
+    <li class="symb" data-code="2892" code="0b4c" title="oriya vowel sign au">ୌ</li>
+    <li class="symb" data-code="2893" code="0b4d" title="oriya sign virama">୍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0b50</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2902" code="0b56" title="oriya ai length mark">ୖ</li>
+    <li class="symb" data-code="2903" code="0b57" title="oriya au length mark">ୗ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2908" code="0b5c" title="oriya letter rra">ଡ଼</li>
+    <li class="symb" data-code="2909" code="0b5d" title="oriya letter rha">ଢ଼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2911" code="0b5f" title="oriya letter yya">ୟ</li>
+    <li class="h">0b60</li>
+    <li class="symb" data-code="2912" code="0b60" title="oriya letter vocalic rr">ୠ</li>
+    <li class="symb" data-code="2913" code="0b61" title="oriya letter vocalic ll">ୡ</li>
+    <li class="symb" data-code="2914" code="0b62" title="oriya vowel sign vocalic l">ୢ</li>
+    <li class="symb" data-code="2915" code="0b63" title="oriya vowel sign vocalic ll">ୣ</li>
+    <li class="symb" data-code="2916" code="0b64" title="reserved">୤</li>
+    <li class="symb" data-code="2917" code="0b65" title="reserved">୥</li>
+    <li class="symb" data-code="2918" code="0b66" title="oriya digit zero">୦</li>
+    <li class="symb" data-code="2919" code="0b67" title="oriya digit one">୧</li>
+    <li class="symb" data-code="2920" code="0b68" title="oriya digit two">୨</li>
+    <li class="symb" data-code="2921" code="0b69" title="oriya digit three">୩</li>
+    <li class="symb" data-code="2922" code="0b6a" title="oriya digit four">୪</li>
+    <li class="symb" data-code="2923" code="0b6b" title="oriya digit five">୫</li>
+    <li class="symb" data-code="2924" code="0b6c" title="oriya digit six">୬</li>
+    <li class="symb" data-code="2925" code="0b6d" title="oriya digit seven">୭</li>
+    <li class="symb" data-code="2926" code="0b6e" title="oriya digit eight">୮</li>
+    <li class="symb" data-code="2927" code="0b6f" title="oriya digit nine">୯</li>
+    <li class="h">0b70</li>
+    <li class="symb" data-code="2928" code="0b70" title="oriya isshar">୰</li>
+    <li class="symb" data-code="2929" code="0b71" title="oriya letter wa">ୱ</li>
+    <li class="symb" data-code="2930" code="0b72" title="oriya fraction one quarter">୲</li>
+    <li class="symb" data-code="2931" code="0b73" title="oriya fraction one half">୳</li>
+    <li class="symb" data-code="2932" code="0b74" title="oriya fraction three quarters">୴</li>
+    <li class="symb" data-code="2933" code="0b75" title="oriya fraction one sixteenth">୵</li>
+    <li class="symb" data-code="2934" code="0b76" title="oriya fraction one eighth">୶</li>
+    <li class="symb" data-code="2935" code="0b77" title="oriya fraction three sixteenths">୷</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

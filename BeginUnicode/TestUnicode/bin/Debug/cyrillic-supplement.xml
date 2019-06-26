@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0500</li>
+    <li class="symb" data-code="1280" code="0500" title="cyrillic capital letter komi de">ԁ</li>
+    <li class="symb" data-code="1281" code="0501" title="cyrillic small letter komi de">ԁ</li>
+    <li class="symb" data-code="1282" code="0502" title="cyrillic capital letter komi dje">ԃ</li>
+    <li class="symb" data-code="1283" code="0503" title="cyrillic small letter komi dje">ԃ</li>
+    <li class="symb" data-code="1284" code="0504" title="cyrillic capital letter komi zje">ԅ</li>
+    <li class="symb" data-code="1285" code="0505" title="cyrillic small letter komi zje">ԅ</li>
+    <li class="symb" data-code="1286" code="0506" title="cyrillic capital letter komi dzje">ԇ</li>
+    <li class="symb" data-code="1287" code="0507" title="cyrillic small letter komi dzje">ԇ</li>
+    <li class="symb" data-code="1288" code="0508" title="cyrillic capital letter komi lje">ԉ</li>
+    <li class="symb" data-code="1289" code="0509" title="cyrillic small letter komi lje">ԉ</li>
+    <li class="symb" data-code="1290" code="050a" title="cyrillic capital letter komi nje">ԋ</li>
+    <li class="symb" data-code="1291" code="050b" title="cyrillic small letter komi nje">ԋ</li>
+    <li class="symb" data-code="1292" code="050c" title="cyrillic capital letter komi sje">ԍ</li>
+    <li class="symb" data-code="1293" code="050d" title="cyrillic small letter komi sje">ԍ</li>
+    <li class="symb" data-code="1294" code="050e" title="cyrillic capital letter komi tje">ԏ</li>
+    <li class="symb" data-code="1295" code="050f" title="cyrillic small letter komi tje">ԏ</li>
+    <li class="h">0510</li>
+    <li class="symb" data-code="1296" code="0510" title="cyrillic capital letter reversed ze">ԑ</li>
+    <li class="symb" data-code="1297" code="0511" title="cyrillic small letter reversed ze">ԑ</li>
+    <li class="symb" data-code="1298" code="0512" title="cyrillic capital letter el with hook">ԓ</li>
+    <li class="symb" data-code="1299" code="0513" title="cyrillic small letter el with hook">ԓ</li>
+    <li class="symb" data-code="1300" code="0514" title="cyrillic capital letter lha">ԕ</li>
+    <li class="symb" data-code="1301" code="0515" title="cyrillic small letter lha">ԕ</li>
+    <li class="symb" data-code="1302" code="0516" title="cyrillic capital letter rha">ԗ</li>
+    <li class="symb" data-code="1303" code="0517" title="cyrillic small letter rha">ԗ</li>
+    <li class="symb" data-code="1304" code="0518" title="cyrillic capital letter yae">ԙ</li>
+    <li class="symb" data-code="1305" code="0519" title="cyrillic small letter yae">ԙ</li>
+    <li class="symb" data-code="1306" code="051a" title="cyrillic capital letter qa">ԛ</li>
+    <li class="symb" data-code="1307" code="051b" title="cyrillic small letter qa">ԛ</li>
+    <li class="symb" data-code="1308" code="051c" title="cyrillic capital letter we">ԝ</li>
+    <li class="symb" data-code="1309" code="051d" title="cyrillic small letter we">ԝ</li>
+    <li class="symb" data-code="1310" code="051e" title="cyrillic capital letter aleut ka">ԟ</li>
+    <li class="symb" data-code="1311" code="051f" title="cyrillic small letter aleut ka">ԟ</li>
+    <li class="h">0520</li>
+    <li class="symb" data-code="1312" code="0520" title="cyrillic capital letter el with middle hook">ԡ</li>
+    <li class="symb" data-code="1313" code="0521" title="cyrillic small letter el with middle hook">ԡ</li>
+    <li class="symb" data-code="1314" code="0522" title="cyrillic capital letter en with middle hook">ԣ</li>
+    <li class="symb" data-code="1315" code="0523" title="cyrillic small letter en with middle hook">ԣ</li>
+    <li class="symb" data-code="1316" code="0524" title="cyrillic capital letter pe with descender">Ԥ</li>
+    <li class="symb" data-code="1317" code="0525" title="cyrillic small letter pe with descender">ԥ</li>
+    <li class="symb" data-code="1318" code="0526" title="cyrillic capital letter shha with descender">Ԧ</li>
+    <li class="symb" data-code="1319" code="0527" title="cyrillic small letter shha with descender">ԧ</li>
+    <li class="symb" data-code="1320" code="0528" title="cyrillic capital letter en with left hook">Ԩ</li>
+    <li class="symb" data-code="1321" code="0529" title="cyrillic small letter en with left hook">ԩ</li>
+    <li class="symb" data-code="1322" code="052a" title="cyrillic capital letter dzzhe">Ԫ</li>
+    <li class="symb" data-code="1323" code="052b" title="cyrillic small letter dzzhe">ԫ</li>
+    <li class="symb" data-code="1324" code="052c" title="cyrillic capital letter dche">Ԭ</li>
+    <li class="symb" data-code="1325" code="052d" title="cyrillic small letter dche">ԭ</li>
+    <li class="symb" data-code="1326" code="052e" title="cyrillic capital letter el with descender">Ԯ</li>
+    <li class="symb" data-code="1327" code="052f" title="cyrillic small letter el with descender">ԯ</li>
+  </ul>
+</root>

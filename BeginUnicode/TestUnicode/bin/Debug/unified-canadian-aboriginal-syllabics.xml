@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1400</li>
+    <li class="symb" data-code="5120" code="1400" title="canadian syllabics hyphen">᐀</li>
+    <li class="symb" data-code="5121" code="1401" title="canadian syllabics e">ᐁ</li>
+    <li class="symb" data-code="5122" code="1402" title="canadian syllabics aai">ᐂ</li>
+    <li class="symb" data-code="5123" code="1403" title="canadian syllabics i">ᐃ</li>
+    <li class="symb" data-code="5124" code="1404" title="canadian syllabics ii">ᐄ</li>
+    <li class="symb" data-code="5125" code="1405" title="canadian syllabics o">ᐅ</li>
+    <li class="symb" data-code="5126" code="1406" title="canadian syllabics oo">ᐆ</li>
+    <li class="symb" data-code="5127" code="1407" title="canadian syllabics y-cree oo">ᐇ</li>
+    <li class="symb" data-code="5128" code="1408" title="canadian syllabics carrier ee">ᐈ</li>
+    <li class="symb" data-code="5129" code="1409" title="canadian syllabics carrier i">ᐉ</li>
+    <li class="symb" data-code="5130" code="140a" title="canadian syllabics a">ᐊ</li>
+    <li class="symb" data-code="5131" code="140b" title="canadian syllabics aa">ᐋ</li>
+    <li class="symb" data-code="5132" code="140c" title="canadian syllabics we">ᐌ</li>
+    <li class="symb" data-code="5133" code="140d" title="canadian syllabics west-cree we">ᐍ</li>
+    <li class="symb" data-code="5134" code="140e" title="canadian syllabics wi">ᐎ</li>
+    <li class="symb" data-code="5135" code="140f" title="canadian syllabics west-cree wi">ᐏ</li>
+    <li class="h">1410</li>
+    <li class="symb" data-code="5136" code="1410" title="canadian syllabics wii">ᐐ</li>
+    <li class="symb" data-code="5137" code="1411" title="canadian syllabics west-cree wii">ᐑ</li>
+    <li class="symb" data-code="5138" code="1412" title="canadian syllabics wo">ᐒ</li>
+    <li class="symb" data-code="5139" code="1413" title="canadian syllabics west-cree wo">ᐓ</li>
+    <li class="symb" data-code="5140" code="1414" title="canadian syllabics woo">ᐔ</li>
+    <li class="symb" data-code="5141" code="1415" title="canadian syllabics west-cree woo">ᐕ</li>
+    <li class="symb" data-code="5142" code="1416" title="canadian syllabics naskapi woo">ᐖ</li>
+    <li class="symb" data-code="5143" code="1417" title="canadian syllabics wa">ᐗ</li>
+    <li class="symb" data-code="5144" code="1418" title="canadian syllabics west-cree wa">ᐘ</li>
+    <li class="symb" data-code="5145" code="1419" title="canadian syllabics waa">ᐙ</li>
+    <li class="symb" data-code="5146" code="141a" title="canadian syllabics west-cree waa">ᐚ</li>
+    <li class="symb" data-code="5147" code="141b" title="canadian syllabics naskapi waa">ᐛ</li>
+    <li class="symb" data-code="5148" code="141c" title="canadian syllabics ai">ᐜ</li>
+    <li class="symb" data-code="5149" code="141d" title="canadian syllabics y-cree w">ᐝ</li>
+    <li class="symb" data-code="5150" code="141e" title="canadian syllabics glottal stop">ᐞ</li>
+    <li class="symb" data-code="5151" code="141f" title="canadian syllabics final acute">ᐟ</li>
+    <li class="h">1420</li>
+    <li class="symb" data-code="5152" code="1420" title="canadian syllabics final grave">ᐠ</li>
+    <li class="symb" data-code="5153" code="1421" title="canadian syllabics final bottom half ring">ᐡ</li>
+    <li class="symb" data-code="5154" code="1422" title="canadian syllabics final top half ring">ᐢ</li>
+    <li class="symb" data-code="5155" code="1423" title="canadian syllabics final right half ring">ᐣ</li>
+    <li class="symb" data-code="5156" code="1424" title="canadian syllabics final ring">ᐤ</li>
+    <li class="symb" data-code="5157" code="1425" title="canadian syllabics final double acute">ᐥ</li>
+    <li class="symb" data-code="5158" code="1426" title="canadian syllabics final double short vertical strokes">ᐦ</li>
+    <li class="symb" data-code="5159" code="1427" title="canadian syllabics final middle dot">ᐧ</li>
+    <li class="symb" data-code="5160" code="1428" title="canadian syllabics final short horizontal stroke">ᐨ</li>
+    <li class="symb" data-code="5161" code="1429" title="canadian syllabics final plus">ᐩ</li>
+    <li class="symb" data-code="5162" code="142a" title="canadian syllabics final down tack">ᐪ</li>
+    <li class="symb" data-code="5163" code="142b" title="canadian syllabics en">ᐫ</li>
+    <li class="symb" data-code="5164" code="142c" title="canadian syllabics in">ᐬ</li>
+    <li class="symb" data-code="5165" code="142d" title="canadian syllabics on">ᐭ</li>
+    <li class="symb" data-code="5166" code="142e" title="canadian syllabics an">ᐮ</li>
+    <li class="symb" data-code="5167" code="142f" title="canadian syllabics pe">ᐯ</li>
+    <li class="h">1430</li>
+    <li class="symb" data-code="5168" code="1430" title="canadian syllabics paai">ᐰ</li>
+    <li class="symb" data-code="5169" code="1431" title="canadian syllabics pi">ᐱ</li>
+    <li class="symb" data-code="5170" code="1432" title="canadian syllabics pii">ᐲ</li>
+    <li class="symb" data-code="5171" code="1433" title="canadian syllabics po">ᐳ</li>
+    <li class="symb" data-code="5172" code="1434" title="canadian syllabics poo">ᐴ</li>
+    <li class="symb" data-code="5173" code="1435" title="canadian syllabics y-cree poo">ᐵ</li>
+    <li class="symb" data-code="5174" code="1436" title="canadian syllabics carrier hee">ᐶ</li>
+    <li class="symb" data-code="5175" code="1437" title="canadian syllabics carrier hi">ᐷ</li>
+    <li class="symb" data-code="5176" code="1438" title="canadian syllabics pa">ᐸ</li>
+    <li class="symb" data-code="5177" code="1439" title="canadian syllabics paa">ᐹ</li>
+    <li class="symb" data-code="5178" code="143a" title="canadian syllabics pwe">ᐺ</li>
+    <li class="symb" data-code="5179" code="143b" title="canadian syllabics west-cree pwe">ᐻ</li>
+    <li class="symb" data-code="5180" code="143c" title="canadian syllabics pwi">ᐼ</li>
+    <li class="symb" data-code="5181" code="143d" title="canadian syllabics west-cree pwi">ᐽ</li>
+    <li class="symb" data-code="5182" code="143e" title="canadian syllabics pwii">ᐾ</li>
+    <li class="symb" data-code="5183" code="143f" title="canadian syllabics west-cree pwii">ᐿ</li>
+    <li class="h">1440</li>
+    <li class="symb" data-code="5184" code="1440" title="canadian syllabics pwo">ᑀ</li>
+    <li class="symb" data-code="5185" code="1441" title="canadian syllabics west-cree pwo">ᑁ</li>
+    <li class="symb" data-code="5186" code="1442" title="canadian syllabics pwoo">ᑂ</li>
+    <li class="symb" data-code="5187" code="1443" title="canadian syllabics west-cree pwoo">ᑃ</li>
+    <li class="symb" data-code="5188" code="1444" title="canadian syllabics pwa">ᑄ</li>
+    <li class="symb" data-code="5189" code="1445" title="canadian syllabics west-cree pwa">ᑅ</li>
+    <li class="symb" data-code="5190" code="1446" title="canadian syllabics pwaa">ᑆ</li>
+    <li class="symb" data-code="5191" code="1447" title="canadian syllabics west-cree pwaa">ᑇ</li>
+    <li class="symb" data-code="5192" code="1448" title="canadian syllabics y-cree pwaa">ᑈ</li>
+    <li class="symb" data-code="5193" code="1449" title="canadian syllabics p">ᑉ</li>
+    <li class="symb" data-code="5194" code="144a" title="canadian syllabics west-cree p">ᑊ</li>
+    <li class="symb" data-code="5195" code="144b" title="canadian syllabics carrier h">ᑋ</li>
+    <li class="symb" data-code="5196" code="144c" title="canadian syllabics te">ᑌ</li>
+    <li class="symb" data-code="5197" code="144d" title="canadian syllabics taai">ᑍ</li>
+    <li class="symb" data-code="5198" code="144e" title="canadian syllabics ti">ᑎ</li>
+    <li class="symb" data-code="5199" code="144f" title="canadian syllabics tii">ᑏ</li>
+    <li class="h">1450</li>
+    <li class="symb" data-code="5200" code="1450" title="canadian syllabics to">ᑐ</li>
+    <li class="symb" data-code="5201" code="1451" title="canadian syllabics too">ᑑ</li>
+    <li class="symb" data-code="5202" code="1452" title="canadian syllabics y-cree too">ᑒ</li>
+    <li class="symb" data-code="5203" code="1453" title="canadian syllabics carrier dee">ᑓ</li>
+    <li class="symb" data-code="5204" code="1454" title="canadian syllabics carrier di">ᑔ</li>
+    <li class="symb" data-code="5205" code="1455" title="canadian syllabics ta">ᑕ</li>
+    <li class="symb" data-code="5206" code="1456" title="canadian syllabics taa">ᑖ</li>
+    <li class="symb" data-code="5207" code="1457" title="canadian syllabics twe">ᑗ</li>
+    <li class="symb" data-code="5208" code="1458" title="canadian syllabics west-cree twe">ᑘ</li>
+    <li class="symb" data-code="5209" code="1459" title="canadian syllabics twi">ᑙ</li>
+    <li class="symb" data-code="5210" code="145a" title="canadian syllabics west-cree twi">ᑚ</li>
+    <li class="symb" data-code="5211" code="145b" title="canadian syllabics twii">ᑛ</li>
+    <li class="symb" data-code="5212" code="145c" title="canadian syllabics west-cree twii">ᑜ</li>
+    <li class="symb" data-code="5213" code="145d" title="canadian syllabics two">ᑝ</li>
+    <li class="symb" data-code="5214" code="145e" title="canadian syllabics west-cree two">ᑞ</li>
+    <li class="symb" data-code="5215" code="145f" title="canadian syllabics twoo">ᑟ</li>
+    <li class="h">1460</li>
+    <li class="symb" data-code="5216" code="1460" title="canadian syllabics west-cree twoo">ᑠ</li>
+    <li class="symb" data-code="5217" code="1461" title="canadian syllabics twa">ᑡ</li>
+    <li class="symb" data-code="5218" code="1462" title="canadian syllabics west-cree twa">ᑢ</li>
+    <li class="symb" data-code="5219" code="1463" title="canadian syllabics twaa">ᑣ</li>
+    <li class="symb" data-code="5220" code="1464" title="canadian syllabics west-cree twaa">ᑤ</li>
+    <li class="symb" data-code="5221" code="1465" title="canadian syllabics naskapi twaa">ᑥ</li>
+    <li class="symb" data-code="5222" code="1466" title="canadian syllabics t">ᑦ</li>
+    <li class="symb" data-code="5223" code="1467" title="canadian syllabics tte">ᑧ</li>
+    <li class="symb" data-code="5224" code="1468" title="canadian syllabics tti">ᑨ</li>
+    <li class="symb" data-code="5225" code="1469" title="canadian syllabics tto">ᑩ</li>
+    <li class="symb" data-code="5226" code="146a" title="canadian syllabics tta">ᑪ</li>
+    <li class="symb" data-code="5227" code="146b" title="canadian syllabics ke">ᑫ</li>
+    <li class="symb" data-code="5228" code="146c" title="canadian syllabics kaai">ᑬ</li>
+    <li class="symb" data-code="5229" code="146d" title="canadian syllabics ki">ᑭ</li>
+    <li class="symb" data-code="5230" code="146e" title="canadian syllabics kii">ᑮ</li>
+    <li class="symb" data-code="5231" code="146f" title="canadian syllabics ko">ᑯ</li>
+    <li class="h">1470</li>
+    <li class="symb" data-code="5232" code="1470" title="canadian syllabics koo">ᑰ</li>
+    <li class="symb" data-code="5233" code="1471" title="canadian syllabics y-cree koo">ᑱ</li>
+    <li class="symb" data-code="5234" code="1472" title="canadian syllabics ka">ᑲ</li>
+    <li class="symb" data-code="5235" code="1473" title="canadian syllabics kaa">ᑳ</li>
+    <li class="symb" data-code="5236" code="1474" title="canadian syllabics kwe">ᑴ</li>
+    <li class="symb" data-code="5237" code="1475" title="canadian syllabics west-cree kwe">ᑵ</li>
+    <li class="symb" data-code="5238" code="1476" title="canadian syllabics kwi">ᑶ</li>
+    <li class="symb" data-code="5239" code="1477" title="canadian syllabics west-cree kwi">ᑷ</li>
+    <li class="symb" data-code="5240" code="1478" title="canadian syllabics kwii">ᑸ</li>
+    <li class="symb" data-code="5241" code="1479" title="canadian syllabics west-cree kwii">ᑹ</li>
+    <li class="symb" data-code="5242" code="147a" title="canadian syllabics kwo">ᑺ</li>
+    <li class="symb" data-code="5243" code="147b" title="canadian syllabics west-cree kwo">ᑻ</li>
+    <li class="symb" data-code="5244" code="147c" title="canadian syllabics kwoo">ᑼ</li>
+    <li class="symb" data-code="5245" code="147d" title="canadian syllabics west-cree kwoo">ᑽ</li>
+    <li class="symb" data-code="5246" code="147e" title="canadian syllabics kwa">ᑾ</li>
+    <li class="symb" data-code="5247" code="147f" title="canadian syllabics west-cree kwa">ᑿ</li>
+    <li class="h">1480</li>
+    <li class="symb" data-code="5248" code="1480" title="canadian syllabics kwaa">ᒀ</li>
+    <li class="symb" data-code="5249" code="1481" title="canadian syllabics west-cree kwaa">ᒁ</li>
+    <li class="symb" data-code="5250" code="1482" title="canadian syllabics naskapi kwaa">ᒂ</li>
+    <li class="symb" data-code="5251" code="1483" title="canadian syllabics k">ᒃ</li>
+    <li class="symb" data-code="5252" code="1484" title="canadian syllabics kw">ᒄ</li>
+    <li class="symb" data-code="5253" code="1485" title="canadian syllabics south-slavey keh">ᒅ</li>
+    <li class="symb" data-code="5254" code="1486" title="canadian syllabics south-slavey kih">ᒆ</li>
+    <li class="symb" data-code="5255" code="1487" title="canadian syllabics south-slavey koh">ᒇ</li>
+    <li class="symb" data-code="5256" code="1488" title="canadian syllabics south-slavey kah">ᒈ</li>
+    <li class="symb" data-code="5257" code="1489" title="canadian syllabics ce">ᒉ</li>
+    <li class="symb" data-code="5258" code="148a" title="canadian syllabics caai">ᒊ</li>
+    <li class="symb" data-code="5259" code="148b" title="canadian syllabics ci">ᒋ</li>
+    <li class="symb" data-code="5260" code="148c" title="canadian syllabics cii">ᒌ</li>
+    <li class="symb" data-code="5261" code="148d" title="canadian syllabics co">ᒍ</li>
+    <li class="symb" data-code="5262" code="148e" title="canadian syllabics coo">ᒎ</li>
+    <li class="symb" data-code="5263" code="148f" title="canadian syllabics y-cree coo">ᒏ</li>
+    <li class="h">1490</li>
+    <li class="symb" data-code="5264" code="1490" title="canadian syllabics ca">ᒐ</li>
+    <li class="symb" data-code="5265" code="1491" title="canadian syllabics caa">ᒑ</li>
+    <li class="symb" data-code="5266" code="1492" title="canadian syllabics cwe">ᒒ</li>
+    <li class="symb" data-code="5267" code="1493" title="canadian syllabics west-cree cwe">ᒓ</li>
+    <li class="symb" data-code="5268" code="1494" title="canadian syllabics cwi">ᒔ</li>
+    <li class="symb" data-code="5269" code="1495" title="canadian syllabics west-cree cwi">ᒕ</li>
+    <li class="symb" data-code="5270" code="1496" title="canadian syllabics cwii">ᒖ</li>
+    <li class="symb" data-code="5271" code="1497" title="canadian syllabics west-cree cwii">ᒗ</li>
+    <li class="symb" data-code="5272" code="1498" title="canadian syllabics cwo">ᒘ</li>
+    <li class="symb" data-code="5273" code="1499" title="canadian syllabics west-cree cwo">ᒙ</li>
+    <li class="symb" data-code="5274" code="149a" title="canadian syllabics cwoo">ᒚ</li>
+    <li class="symb" data-code="5275" code="149b" title="canadian syllabics west-cree cwoo">ᒛ</li>
+    <li class="symb" data-code="5276" code="149c" title="canadian syllabics cwa">ᒜ</li>
+    <li class="symb" data-code="5277" code="149d" title="canadian syllabics west-cree cwa">ᒝ</li>
+    <li class="symb" data-code="5278" code="149e" title="canadian syllabics cwaa">ᒞ</li>
+    <li class="symb" data-code="5279" code="149f" title="canadian syllabics west-cree cwaa">ᒟ</li>
+    <li class="h">14a0</li>
+    <li class="symb" data-code="5280" code="14a0" title="canadian syllabics naskapi cwaa">ᒠ</li>
+    <li class="symb" data-code="5281" code="14a1" title="canadian syllabics c">ᒡ</li>
+    <li class="symb" data-code="5282" code="14a2" title="canadian syllabics sayisi th">ᒢ</li>
+    <li class="symb" data-code="5283" code="14a3" title="canadian syllabics me">ᒣ</li>
+    <li class="symb" data-code="5284" code="14a4" title="canadian syllabics maai">ᒤ</li>
+    <li class="symb" data-code="5285" code="14a5" title="canadian syllabics mi">ᒥ</li>
+    <li class="symb" data-code="5286" code="14a6" title="canadian syllabics mii">ᒦ</li>
+    <li class="symb" data-code="5287" code="14a7" title="canadian syllabics mo">ᒧ</li>
+    <li class="symb" data-code="5288" code="14a8" title="canadian syllabics moo">ᒨ</li>
+    <li class="symb" data-code="5289" code="14a9" title="canadian syllabics y-cree moo">ᒩ</li>
+    <li class="symb" data-code="5290" code="14aa" title="canadian syllabics ma">ᒪ</li>
+    <li class="symb" data-code="5291" code="14ab" title="canadian syllabics maa">ᒫ</li>
+    <li class="symb" data-code="5292" code="14ac" title="canadian syllabics mwe">ᒬ</li>
+    <li class="symb" data-code="5293" code="14ad" title="canadian syllabics west-cree mwe">ᒭ</li>
+    <li class="symb" data-code="5294" code="14ae" title="canadian syllabics mwi">ᒮ</li>
+    <li class="symb" data-code="5295" code="14af" title="canadian syllabics west-cree mwi">ᒯ</li>
+    <li class="h">14b0</li>
+    <li class="symb" data-code="5296" code="14b0" title="canadian syllabics mwii">ᒰ</li>
+    <li class="symb" data-code="5297" code="14b1" title="canadian syllabics west-cree mwii">ᒱ</li>
+    <li class="symb" data-code="5298" code="14b2" title="canadian syllabics mwo">ᒲ</li>
+    <li class="symb" data-code="5299" code="14b3" title="canadian syllabics west-cree mwo">ᒳ</li>
+    <li class="symb" data-code="5300" code="14b4" title="canadian syllabics mwoo">ᒴ</li>
+    <li class="symb" data-code="5301" code="14b5" title="canadian syllabics west-cree mwoo">ᒵ</li>
+    <li class="symb" data-code="5302" code="14b6" title="canadian syllabics mwa">ᒶ</li>
+    <li class="symb" data-code="5303" code="14b7" title="canadian syllabics west-cree mwa">ᒷ</li>
+    <li class="symb" data-code="5304" code="14b8" title="canadian syllabics mwaa">ᒸ</li>
+    <li class="symb" data-code="5305" code="14b9" title="canadian syllabics west-cree mwaa">ᒹ</li>
+    <li class="symb" data-code="5306" code="14ba" title="canadian syllabics naskapi mwaa">ᒺ</li>
+    <li class="symb" data-code="5307" code="14bb" title="canadian syllabics m">ᒻ</li>
+    <li class="symb" data-code="5308" code="14bc" title="canadian syllabics west-cree m">ᒼ</li>
+    <li class="symb" data-code="5309" code="14bd" title="canadian syllabics mh">ᒽ</li>
+    <li class="symb" data-code="5310" code="14be" title="canadian syllabics athapascan m">ᒾ</li>
+    <li class="symb" data-code="5311" code="14bf" title="canadian syllabics sayisi m">ᒿ</li>
+    <li class="h">14c0</li>
+    <li class="symb" data-code="5312" code="14c0" title="canadian syllabics ne">ᓀ</li>
+    <li class="symb" data-code="5313" code="14c1" title="canadian syllabics naai">ᓁ</li>
+    <li class="symb" data-code="5314" code="14c2" title="canadian syllabics ni">ᓂ</li>
+    <li class="symb" data-code="5315" code="14c3" title="canadian syllabics nii">ᓃ</li>
+    <li class="symb" data-code="5316" code="14c4" title="canadian syllabics no">ᓄ</li>
+    <li class="symb" data-code="5317" code="14c5" title="canadian syllabics noo">ᓅ</li>
+    <li class="symb" data-code="5318" code="14c6" title="canadian syllabics y-cree noo">ᓆ</li>
+    <li class="symb" data-code="5319" code="14c7" title="canadian syllabics na">ᓇ</li>
+    <li class="symb" data-code="5320" code="14c8" title="canadian syllabics naa">ᓈ</li>
+    <li class="symb" data-code="5321" code="14c9" title="canadian syllabics nwe">ᓉ</li>
+    <li class="symb" data-code="5322" code="14ca" title="canadian syllabics west-cree nwe">ᓊ</li>
+    <li class="symb" data-code="5323" code="14cb" title="canadian syllabics nwa">ᓋ</li>
+    <li class="symb" data-code="5324" code="14cc" title="canadian syllabics west-cree nwa">ᓌ</li>
+    <li class="symb" data-code="5325" code="14cd" title="canadian syllabics nwaa">ᓍ</li>
+    <li class="symb" data-code="5326" code="14ce" title="canadian syllabics west-cree nwaa">ᓎ</li>
+    <li class="symb" data-code="5327" code="14cf" title="canadian syllabics naskapi nwaa">ᓏ</li>
+    <li class="h">14d0</li>
+    <li class="symb" data-code="5328" code="14d0" title="canadian syllabics n">ᓐ</li>
+    <li class="symb" data-code="5329" code="14d1" title="canadian syllabics carrier ng">ᓑ</li>
+    <li class="symb" data-code="5330" code="14d2" title="canadian syllabics nh">ᓒ</li>
+    <li class="symb" data-code="5331" code="14d3" title="canadian syllabics le">ᓓ</li>
+    <li class="symb" data-code="5332" code="14d4" title="canadian syllabics laai">ᓔ</li>
+    <li class="symb" data-code="5333" code="14d5" title="canadian syllabics li">ᓕ</li>
+    <li class="symb" data-code="5334" code="14d6" title="canadian syllabics lii">ᓖ</li>
+    <li class="symb" data-code="5335" code="14d7" title="canadian syllabics lo">ᓗ</li>
+    <li class="symb" data-code="5336" code="14d8" title="canadian syllabics loo">ᓘ</li>
+    <li class="symb" data-code="5337" code="14d9" title="canadian syllabics y-cree loo">ᓙ</li>
+    <li class="symb" data-code="5338" code="14da" title="canadian syllabics la">ᓚ</li>
+    <li class="symb" data-code="5339" code="14db" title="canadian syllabics laa">ᓛ</li>
+    <li class="symb" data-code="5340" code="14dc" title="canadian syllabics lwe">ᓜ</li>
+    <li class="symb" data-code="5341" code="14dd" title="canadian syllabics west-cree lwe">ᓝ</li>
+    <li class="symb" data-code="5342" code="14de" title="canadian syllabics lwi">ᓞ</li>
+    <li class="symb" data-code="5343" code="14df" title="canadian syllabics west-cree lwi">ᓟ</li>
+    <li class="h">14e0</li>
+    <li class="symb" data-code="5344" code="14e0" title="canadian syllabics lwii">ᓠ</li>
+    <li class="symb" data-code="5345" code="14e1" title="canadian syllabics west-cree lwii">ᓡ</li>
+    <li class="symb" data-code="5346" code="14e2" title="canadian syllabics lwo">ᓢ</li>
+    <li class="symb" data-code="5347" code="14e3" title="canadian syllabics west-cree lwo">ᓣ</li>
+    <li class="symb" data-code="5348" code="14e4" title="canadian syllabics lwoo">ᓤ</li>
+    <li class="symb" data-code="5349" code="14e5" title="canadian syllabics west-cree lwoo">ᓥ</li>
+    <li class="symb" data-code="5350" code="14e6" title="canadian syllabics lwa">ᓦ</li>
+    <li class="symb" data-code="5351" code="14e7" title="canadian syllabics west-cree lwa">ᓧ</li>
+    <li class="symb" data-code="5352" code="14e8" title="canadian syllabics lwaa">ᓨ</li>
+    <li class="symb" data-code="5353" code="14e9" title="canadian syllabics west-cree lwaa">ᓩ</li>
+    <li class="symb" data-code="5354" code="14ea" title="canadian syllabics l">ᓪ</li>
+    <li class="symb" data-code="5355" code="14eb" title="canadian syllabics west-cree l">ᓫ</li>
+    <li class="symb" data-code="5356" code="14ec" title="canadian syllabics medial l">ᓬ</li>
+    <li class="symb" data-code="5357" code="14ed" title="canadian syllabics se">ᓭ</li>
+    <li class="symb" data-code="5358" code="14ee" title="canadian syllabics saai">ᓮ</li>
+    <li class="symb" data-code="5359" code="14ef" title="canadian syllabics si">ᓯ</li>
+    <li class="h">14f0</li>
+    <li class="symb" data-code="5360" code="14f0" title="canadian syllabics sii">ᓰ</li>
+    <li class="symb" data-code="5361" code="14f1" title="canadian syllabics so">ᓱ</li>
+    <li class="symb" data-code="5362" code="14f2" title="canadian syllabics soo">ᓲ</li>
+    <li class="symb" data-code="5363" code="14f3" title="canadian syllabics y-cree soo">ᓳ</li>
+    <li class="symb" data-code="5364" code="14f4" title="canadian syllabics sa">ᓴ</li>
+    <li class="symb" data-code="5365" code="14f5" title="canadian syllabics saa">ᓵ</li>
+    <li class="symb" data-code="5366" code="14f6" title="canadian syllabics swe">ᓶ</li>
+    <li class="symb" data-code="5367" code="14f7" title="canadian syllabics west-cree swe">ᓷ</li>
+    <li class="symb" data-code="5368" code="14f8" title="canadian syllabics swi">ᓸ</li>
+    <li class="symb" data-code="5369" code="14f9" title="canadian syllabics west-cree swi">ᓹ</li>
+    <li class="symb" data-code="5370" code="14fa" title="canadian syllabics swii">ᓺ</li>
+    <li class="symb" data-code="5371" code="14fb" title="canadian syllabics west-cree swii">ᓻ</li>
+    <li class="symb" data-code="5372" code="14fc" title="canadian syllabics swo">ᓼ</li>
+    <li class="symb" data-code="5373" code="14fd" title="canadian syllabics west-cree swo">ᓽ</li>
+    <li class="symb" data-code="5374" code="14fe" title="canadian syllabics swoo">ᓾ</li>
+    <li class="symb" data-code="5375" code="14ff" title="canadian syllabics west-cree swoo">ᓿ</li>
+    <li class="h">1500</li>
+    <li class="symb" data-code="5376" code="1500" title="canadian syllabics swa">ᔀ</li>
+    <li class="symb" data-code="5377" code="1501" title="canadian syllabics west-cree swa">ᔁ</li>
+    <li class="symb" data-code="5378" code="1502" title="canadian syllabics swaa">ᔂ</li>
+    <li class="symb" data-code="5379" code="1503" title="canadian syllabics west-cree swaa">ᔃ</li>
+    <li class="symb" data-code="5380" code="1504" title="canadian syllabics naskapi swaa">ᔄ</li>
+    <li class="symb" data-code="5381" code="1505" title="canadian syllabics s">ᔅ</li>
+    <li class="symb" data-code="5382" code="1506" title="canadian syllabics athapascan s">ᔆ</li>
+    <li class="symb" data-code="5383" code="1507" title="canadian syllabics sw">ᔇ</li>
+    <li class="symb" data-code="5384" code="1508" title="canadian syllabics blackfoot s">ᔈ</li>
+    <li class="symb" data-code="5385" code="1509" title="canadian syllabics moose-cree sk">ᔉ</li>
+    <li class="symb" data-code="5386" code="150a" title="canadian syllabics naskapi skw">ᔊ</li>
+    <li class="symb" data-code="5387" code="150b" title="canadian syllabics naskapi s-w">ᔋ</li>
+    <li class="symb" data-code="5388" code="150c" title="canadian syllabics naskapi spwa">ᔌ</li>
+    <li class="symb" data-code="5389" code="150d" title="canadian syllabics naskapi stwa">ᔍ</li>
+    <li class="symb" data-code="5390" code="150e" title="canadian syllabics naskapi skwa">ᔎ</li>
+    <li class="symb" data-code="5391" code="150f" title="canadian syllabics naskapi scwa">ᔏ</li>
+    <li class="h">1510</li>
+    <li class="symb" data-code="5392" code="1510" title="canadian syllabics she">ᔐ</li>
+    <li class="symb" data-code="5393" code="1511" title="canadian syllabics shi">ᔑ</li>
+    <li class="symb" data-code="5394" code="1512" title="canadian syllabics shii">ᔒ</li>
+    <li class="symb" data-code="5395" code="1513" title="canadian syllabics sho">ᔓ</li>
+    <li class="symb" data-code="5396" code="1514" title="canadian syllabics shoo">ᔔ</li>
+    <li class="symb" data-code="5397" code="1515" title="canadian syllabics sha">ᔕ</li>
+    <li class="symb" data-code="5398" code="1516" title="canadian syllabics shaa">ᔖ</li>
+    <li class="symb" data-code="5399" code="1517" title="canadian syllabics shwe">ᔗ</li>
+    <li class="symb" data-code="5400" code="1518" title="canadian syllabics west-cree shwe">ᔘ</li>
+    <li class="symb" data-code="5401" code="1519" title="canadian syllabics shwi">ᔙ</li>
+    <li class="symb" data-code="5402" code="151a" title="canadian syllabics west-cree shwi">ᔚ</li>
+    <li class="symb" data-code="5403" code="151b" title="canadian syllabics shwii">ᔛ</li>
+    <li class="symb" data-code="5404" code="151c" title="canadian syllabics west-cree shwii">ᔜ</li>
+    <li class="symb" data-code="5405" code="151d" title="canadian syllabics shwo">ᔝ</li>
+    <li class="symb" data-code="5406" code="151e" title="canadian syllabics west-cree shwo">ᔞ</li>
+    <li class="symb" data-code="5407" code="151f" title="canadian syllabics shwoo">ᔟ</li>
+    <li class="h">1520</li>
+    <li class="symb" data-code="5408" code="1520" title="canadian syllabics west-cree shwoo">ᔠ</li>
+    <li class="symb" data-code="5409" code="1521" title="canadian syllabics shwa">ᔡ</li>
+    <li class="symb" data-code="5410" code="1522" title="canadian syllabics west-cree shwa">ᔢ</li>
+    <li class="symb" data-code="5411" code="1523" title="canadian syllabics shwaa">ᔣ</li>
+    <li class="symb" data-code="5412" code="1524" title="canadian syllabics west-cree shwaa">ᔤ</li>
+    <li class="symb" data-code="5413" code="1525" title="canadian syllabics sh">ᔥ</li>
+    <li class="symb" data-code="5414" code="1526" title="canadian syllabics ye">ᔦ</li>
+    <li class="symb" data-code="5415" code="1527" title="canadian syllabics yaai">ᔧ</li>
+    <li class="symb" data-code="5416" code="1528" title="canadian syllabics yi">ᔨ</li>
+    <li class="symb" data-code="5417" code="1529" title="canadian syllabics yii">ᔩ</li>
+    <li class="symb" data-code="5418" code="152a" title="canadian syllabics yo">ᔪ</li>
+    <li class="symb" data-code="5419" code="152b" title="canadian syllabics yoo">ᔫ</li>
+    <li class="symb" data-code="5420" code="152c" title="canadian syllabics y-cree yoo">ᔬ</li>
+    <li class="symb" data-code="5421" code="152d" title="canadian syllabics ya">ᔭ</li>
+    <li class="symb" data-code="5422" code="152e" title="canadian syllabics yaa">ᔮ</li>
+    <li class="symb" data-code="5423" code="152f" title="canadian syllabics ywe">ᔯ</li>
+    <li class="h">1530</li>
+    <li class="symb" data-code="5424" code="1530" title="canadian syllabics west-cree ywe">ᔰ</li>
+    <li class="symb" data-code="5425" code="1531" title="canadian syllabics ywi">ᔱ</li>
+    <li class="symb" data-code="5426" code="1532" title="canadian syllabics west-cree ywi">ᔲ</li>
+    <li class="symb" data-code="5427" code="1533" title="canadian syllabics ywii">ᔳ</li>
+    <li class="symb" data-code="5428" code="1534" title="canadian syllabics west-cree ywii">ᔴ</li>
+    <li class="symb" data-code="5429" code="1535" title="canadian syllabics ywo">ᔵ</li>
+    <li class="symb" data-code="5430" code="1536" title="canadian syllabics west-cree ywo">ᔶ</li>
+    <li class="symb" data-code="5431" code="1537" title="canadian syllabics ywoo">ᔷ</li>
+    <li class="symb" data-code="5432" code="1538" title="canadian syllabics west-cree ywoo">ᔸ</li>
+    <li class="symb" data-code="5433" code="1539" title="canadian syllabics ywa">ᔹ</li>
+    <li class="symb" data-code="5434" code="153a" title="canadian syllabics west-cree ywa">ᔺ</li>
+    <li class="symb" data-code="5435" code="153b" title="canadian syllabics ywaa">ᔻ</li>
+    <li class="symb" data-code="5436" code="153c" title="canadian syllabics west-cree ywaa">ᔼ</li>
+    <li class="symb" data-code="5437" code="153d" title="canadian syllabics naskapi ywaa">ᔽ</li>
+    <li class="symb" data-code="5438" code="153e" title="canadian syllabics y">ᔾ</li>
+    <li class="symb" data-code="5439" code="153f" title="canadian syllabics bible-cree y">ᔿ</li>
+    <li class="h">1540</li>
+    <li class="symb" data-code="5440" code="1540" title="canadian syllabics west-cree y">ᕀ</li>
+    <li class="symb" data-code="5441" code="1541" title="canadian syllabics sayisi yi">ᕁ</li>
+    <li class="symb" data-code="5442" code="1542" title="canadian syllabics re">ᕂ</li>
+    <li class="symb" data-code="5443" code="1543" title="canadian syllabics r-cree re">ᕃ</li>
+    <li class="symb" data-code="5444" code="1544" title="canadian syllabics west-cree le">ᕄ</li>
+    <li class="symb" data-code="5445" code="1545" title="canadian syllabics raai">ᕅ</li>
+    <li class="symb" data-code="5446" code="1546" title="canadian syllabics ri">ᕆ</li>
+    <li class="symb" data-code="5447" code="1547" title="canadian syllabics rii">ᕇ</li>
+    <li class="symb" data-code="5448" code="1548" title="canadian syllabics ro">ᕈ</li>
+    <li class="symb" data-code="5449" code="1549" title="canadian syllabics roo">ᕉ</li>
+    <li class="symb" data-code="5450" code="154a" title="canadian syllabics west-cree lo">ᕊ</li>
+    <li class="symb" data-code="5451" code="154b" title="canadian syllabics ra">ᕋ</li>
+    <li class="symb" data-code="5452" code="154c" title="canadian syllabics raa">ᕌ</li>
+    <li class="symb" data-code="5453" code="154d" title="canadian syllabics west-cree la">ᕍ</li>
+    <li class="symb" data-code="5454" code="154e" title="canadian syllabics rwaa">ᕎ</li>
+    <li class="symb" data-code="5455" code="154f" title="canadian syllabics west-cree rwaa">ᕏ</li>
+    <li class="h">1550</li>
+    <li class="symb" data-code="5456" code="1550" title="canadian syllabics r">ᕐ</li>
+    <li class="symb" data-code="5457" code="1551" title="canadian syllabics west-cree r">ᕑ</li>
+    <li class="symb" data-code="5458" code="1552" title="canadian syllabics medial r">ᕒ</li>
+    <li class="symb" data-code="5459" code="1553" title="canadian syllabics fe">ᕓ</li>
+    <li class="symb" data-code="5460" code="1554" title="canadian syllabics faai">ᕔ</li>
+    <li class="symb" data-code="5461" code="1555" title="canadian syllabics fi">ᕕ</li>
+    <li class="symb" data-code="5462" code="1556" title="canadian syllabics fii">ᕖ</li>
+    <li class="symb" data-code="5463" code="1557" title="canadian syllabics fo">ᕗ</li>
+    <li class="symb" data-code="5464" code="1558" title="canadian syllabics foo">ᕘ</li>
+    <li class="symb" data-code="5465" code="1559" title="canadian syllabics fa">ᕙ</li>
+    <li class="symb" data-code="5466" code="155a" title="canadian syllabics faa">ᕚ</li>
+    <li class="symb" data-code="5467" code="155b" title="canadian syllabics fwaa">ᕛ</li>
+    <li class="symb" data-code="5468" code="155c" title="canadian syllabics west-cree fwaa">ᕜ</li>
+    <li class="symb" data-code="5469" code="155d" title="canadian syllabics f">ᕝ</li>
+    <li class="symb" data-code="5470" code="155e" title="canadian syllabics the">ᕞ</li>
+    <li class="symb" data-code="5471" code="155f" title="canadian syllabics n-cree the">ᕟ</li>
+    <li class="h">1560</li>
+    <li class="symb" data-code="5472" code="1560" title="canadian syllabics thi">ᕠ</li>
+    <li class="symb" data-code="5473" code="1561" title="canadian syllabics n-cree thi">ᕡ</li>
+    <li class="symb" data-code="5474" code="1562" title="canadian syllabics thii">ᕢ</li>
+    <li class="symb" data-code="5475" code="1563" title="canadian syllabics n-cree thii">ᕣ</li>
+    <li class="symb" data-code="5476" code="1564" title="canadian syllabics tho">ᕤ</li>
+    <li class="symb" data-code="5477" code="1565" title="canadian syllabics thoo">ᕥ</li>
+    <li class="symb" data-code="5478" code="1566" title="canadian syllabics tha">ᕦ</li>
+    <li class="symb" data-code="5479" code="1567" title="canadian syllabics thaa">ᕧ</li>
+    <li class="symb" data-code="5480" code="1568" title="canadian syllabics thwaa">ᕨ</li>
+    <li class="symb" data-code="5481" code="1569" title="canadian syllabics west-cree thwaa">ᕩ</li>
+    <li class="symb" data-code="5482" code="156a" title="canadian syllabics th">ᕪ</li>
+    <li class="symb" data-code="5483" code="156b" title="canadian syllabics tthe">ᕫ</li>
+    <li class="symb" data-code="5484" code="156c" title="canadian syllabics tthi">ᕬ</li>
+    <li class="symb" data-code="5485" code="156d" title="canadian syllabics ttho">ᕭ</li>
+    <li class="symb" data-code="5486" code="156e" title="canadian syllabics ttha">ᕮ</li>
+    <li class="symb" data-code="5487" code="156f" title="canadian syllabics tth">ᕯ</li>
+    <li class="h">1570</li>
+    <li class="symb" data-code="5488" code="1570" title="canadian syllabics tye">ᕰ</li>
+    <li class="symb" data-code="5489" code="1571" title="canadian syllabics tyi">ᕱ</li>
+    <li class="symb" data-code="5490" code="1572" title="canadian syllabics tyo">ᕲ</li>
+    <li class="symb" data-code="5491" code="1573" title="canadian syllabics tya">ᕳ</li>
+    <li class="symb" data-code="5492" code="1574" title="canadian syllabics nunavik he">ᕴ</li>
+    <li class="symb" data-code="5493" code="1575" title="canadian syllabics nunavik hi">ᕵ</li>
+    <li class="symb" data-code="5494" code="1576" title="canadian syllabics nunavik hii">ᕶ</li>
+    <li class="symb" data-code="5495" code="1577" title="canadian syllabics nunavik ho">ᕷ</li>
+    <li class="symb" data-code="5496" code="1578" title="canadian syllabics nunavik hoo">ᕸ</li>
+    <li class="symb" data-code="5497" code="1579" title="canadian syllabics nunavik ha">ᕹ</li>
+    <li class="symb" data-code="5498" code="157a" title="canadian syllabics nunavik haa">ᕺ</li>
+    <li class="symb" data-code="5499" code="157b" title="canadian syllabics nunavik h">ᕻ</li>
+    <li class="symb" data-code="5500" code="157c" title="canadian syllabics nunavut h">ᕼ</li>
+    <li class="symb" data-code="5501" code="157d" title="canadian syllabics hk">ᕽ</li>
+    <li class="symb" data-code="5502" code="157e" title="canadian syllabics qaai">ᕾ</li>
+    <li class="symb" data-code="5503" code="157f" title="canadian syllabics qi">ᕿ</li>
+    <li class="h">1580</li>
+    <li class="symb" data-code="5504" code="1580" title="canadian syllabics qii">ᖀ</li>
+    <li class="symb" data-code="5505" code="1581" title="canadian syllabics qo">ᖁ</li>
+    <li class="symb" data-code="5506" code="1582" title="canadian syllabics qoo">ᖂ</li>
+    <li class="symb" data-code="5507" code="1583" title="canadian syllabics qa">ᖃ</li>
+    <li class="symb" data-code="5508" code="1584" title="canadian syllabics qaa">ᖄ</li>
+    <li class="symb" data-code="5509" code="1585" title="canadian syllabics q">ᖅ</li>
+    <li class="symb" data-code="5510" code="1586" title="canadian syllabics tlhe">ᖆ</li>
+    <li class="symb" data-code="5511" code="1587" title="canadian syllabics tlhi">ᖇ</li>
+    <li class="symb" data-code="5512" code="1588" title="canadian syllabics tlho">ᖈ</li>
+    <li class="symb" data-code="5513" code="1589" title="canadian syllabics tlha">ᖉ</li>
+    <li class="symb" data-code="5514" code="158a" title="canadian syllabics west-cree re">ᖊ</li>
+    <li class="symb" data-code="5515" code="158b" title="canadian syllabics west-cree ri">ᖋ</li>
+    <li class="symb" data-code="5516" code="158c" title="canadian syllabics west-cree ro">ᖌ</li>
+    <li class="symb" data-code="5517" code="158d" title="canadian syllabics west-cree ra">ᖍ</li>
+    <li class="symb" data-code="5518" code="158e" title="canadian syllabics ngaai">ᖎ</li>
+    <li class="symb" data-code="5519" code="158f" title="canadian syllabics ngi">ᖏ</li>
+    <li class="h">1590</li>
+    <li class="symb" data-code="5520" code="1590" title="canadian syllabics ngii">ᖐ</li>
+    <li class="symb" data-code="5521" code="1591" title="canadian syllabics ngo">ᖑ</li>
+    <li class="symb" data-code="5522" code="1592" title="canadian syllabics ngoo">ᖒ</li>
+    <li class="symb" data-code="5523" code="1593" title="canadian syllabics nga">ᖓ</li>
+    <li class="symb" data-code="5524" code="1594" title="canadian syllabics ngaa">ᖔ</li>
+    <li class="symb" data-code="5525" code="1595" title="canadian syllabics ng">ᖕ</li>
+    <li class="symb" data-code="5526" code="1596" title="canadian syllabics nng">ᖖ</li>
+    <li class="symb" data-code="5527" code="1597" title="canadian syllabics sayisi she">ᖗ</li>
+    <li class="symb" data-code="5528" code="1598" title="canadian syllabics sayisi shi">ᖘ</li>
+    <li class="symb" data-code="5529" code="1599" title="canadian syllabics sayisi sho">ᖙ</li>
+    <li class="symb" data-code="5530" code="159a" title="canadian syllabics sayisi sha">ᖚ</li>
+    <li class="symb" data-code="5531" code="159b" title="canadian syllabics woods-cree the">ᖛ</li>
+    <li class="symb" data-code="5532" code="159c" title="canadian syllabics woods-cree thi">ᖜ</li>
+    <li class="symb" data-code="5533" code="159d" title="canadian syllabics woods-cree tho">ᖝ</li>
+    <li class="symb" data-code="5534" code="159e" title="canadian syllabics woods-cree tha">ᖞ</li>
+    <li class="symb" data-code="5535" code="159f" title="canadian syllabics woods-cree th">ᖟ</li>
+    <li class="h">15a0</li>
+    <li class="symb" data-code="5536" code="15a0" title="canadian syllabics lhi">ᖠ</li>
+    <li class="symb" data-code="5537" code="15a1" title="canadian syllabics lhii">ᖡ</li>
+    <li class="symb" data-code="5538" code="15a2" title="canadian syllabics lho">ᖢ</li>
+    <li class="symb" data-code="5539" code="15a3" title="canadian syllabics lhoo">ᖣ</li>
+    <li class="symb" data-code="5540" code="15a4" title="canadian syllabics lha">ᖤ</li>
+    <li class="symb" data-code="5541" code="15a5" title="canadian syllabics lhaa">ᖥ</li>
+    <li class="symb" data-code="5542" code="15a6" title="canadian syllabics lh">ᖦ</li>
+    <li class="symb" data-code="5543" code="15a7" title="canadian syllabics th-cree the">ᖧ</li>
+    <li class="symb" data-code="5544" code="15a8" title="canadian syllabics th-cree thi">ᖨ</li>
+    <li class="symb" data-code="5545" code="15a9" title="canadian syllabics th-cree thii">ᖩ</li>
+    <li class="symb" data-code="5546" code="15aa" title="canadian syllabics th-cree tho">ᖪ</li>
+    <li class="symb" data-code="5547" code="15ab" title="canadian syllabics th-cree thoo">ᖫ</li>
+    <li class="symb" data-code="5548" code="15ac" title="canadian syllabics th-cree tha">ᖬ</li>
+    <li class="symb" data-code="5549" code="15ad" title="canadian syllabics th-cree thaa">ᖭ</li>
+    <li class="symb" data-code="5550" code="15ae" title="canadian syllabics th-cree th">ᖮ</li>
+    <li class="symb" data-code="5551" code="15af" title="canadian syllabics aivilik b">ᖯ</li>
+    <li class="h">15b0</li>
+    <li class="symb" data-code="5552" code="15b0" title="canadian syllabics blackfoot e">ᖰ</li>
+    <li class="symb" data-code="5553" code="15b1" title="canadian syllabics blackfoot i">ᖱ</li>
+    <li class="symb" data-code="5554" code="15b2" title="canadian syllabics blackfoot o">ᖲ</li>
+    <li class="symb" data-code="5555" code="15b3" title="canadian syllabics blackfoot a">ᖳ</li>
+    <li class="symb" data-code="5556" code="15b4" title="canadian syllabics blackfoot we">ᖴ</li>
+    <li class="symb" data-code="5557" code="15b5" title="canadian syllabics blackfoot wi">ᖵ</li>
+    <li class="symb" data-code="5558" code="15b6" title="canadian syllabics blackfoot wo">ᖶ</li>
+    <li class="symb" data-code="5559" code="15b7" title="canadian syllabics blackfoot wa">ᖷ</li>
+    <li class="symb" data-code="5560" code="15b8" title="canadian syllabics blackfoot ne">ᖸ</li>
+    <li class="symb" data-code="5561" code="15b9" title="canadian syllabics blackfoot ni">ᖹ</li>
+    <li class="symb" data-code="5562" code="15ba" title="canadian syllabics blackfoot no">ᖺ</li>
+    <li class="symb" data-code="5563" code="15bb" title="canadian syllabics blackfoot na">ᖻ</li>
+    <li class="symb" data-code="5564" code="15bc" title="canadian syllabics blackfoot ke">ᖼ</li>
+    <li class="symb" data-code="5565" code="15bd" title="canadian syllabics blackfoot ki">ᖽ</li>
+    <li class="symb" data-code="5566" code="15be" title="canadian syllabics blackfoot ko">ᖾ</li>
+    <li class="symb" data-code="5567" code="15bf" title="canadian syllabics blackfoot ka">ᖿ</li>
+    <li class="h">15c0</li>
+    <li class="symb" data-code="5568" code="15c0" title="canadian syllabics sayisi he">ᗀ</li>
+    <li class="symb" data-code="5569" code="15c1" title="canadian syllabics sayisi hi">ᗁ</li>
+    <li class="symb" data-code="5570" code="15c2" title="canadian syllabics sayisi ho">ᗂ</li>
+    <li class="symb" data-code="5571" code="15c3" title="canadian syllabics sayisi ha">ᗃ</li>
+    <li class="symb" data-code="5572" code="15c4" title="canadian syllabics carrier ghu">ᗄ</li>
+    <li class="symb" data-code="5573" code="15c5" title="canadian syllabics carrier gho">ᗅ</li>
+    <li class="symb" data-code="5574" code="15c6" title="canadian syllabics carrier ghe">ᗆ</li>
+    <li class="symb" data-code="5575" code="15c7" title="canadian syllabics carrier ghee">ᗇ</li>
+    <li class="symb" data-code="5576" code="15c8" title="canadian syllabics carrier ghi">ᗈ</li>
+    <li class="symb" data-code="5577" code="15c9" title="canadian syllabics carrier gha">ᗉ</li>
+    <li class="symb" data-code="5578" code="15ca" title="canadian syllabics carrier ru">ᗊ</li>
+    <li class="symb" data-code="5579" code="15cb" title="canadian syllabics carrier ro">ᗋ</li>
+    <li class="symb" data-code="5580" code="15cc" title="canadian syllabics carrier re">ᗌ</li>
+    <li class="symb" data-code="5581" code="15cd" title="canadian syllabics carrier ree">ᗍ</li>
+    <li class="symb" data-code="5582" code="15ce" title="canadian syllabics carrier ri">ᗎ</li>
+    <li class="symb" data-code="5583" code="15cf" title="canadian syllabics carrier ra">ᗏ</li>
+    <li class="h">15d0</li>
+    <li class="symb" data-code="5584" code="15d0" title="canadian syllabics carrier wu">ᗐ</li>
+    <li class="symb" data-code="5585" code="15d1" title="canadian syllabics carrier wo">ᗑ</li>
+    <li class="symb" data-code="5586" code="15d2" title="canadian syllabics carrier we">ᗒ</li>
+    <li class="symb" data-code="5587" code="15d3" title="canadian syllabics carrier wee">ᗓ</li>
+    <li class="symb" data-code="5588" code="15d4" title="canadian syllabics carrier wi">ᗔ</li>
+    <li class="symb" data-code="5589" code="15d5" title="canadian syllabics carrier wa">ᗕ</li>
+    <li class="symb" data-code="5590" code="15d6" title="canadian syllabics carrier hwu">ᗖ</li>
+    <li class="symb" data-code="5591" code="15d7" title="canadian syllabics carrier hwo">ᗗ</li>
+    <li class="symb" data-code="5592" code="15d8" title="canadian syllabics carrier hwe">ᗘ</li>
+    <li class="symb" data-code="5593" code="15d9" title="canadian syllabics carrier hwee">ᗙ</li>
+    <li class="symb" data-code="5594" code="15da" title="canadian syllabics carrier hwi">ᗚ</li>
+    <li class="symb" data-code="5595" code="15db" title="canadian syllabics carrier hwa">ᗛ</li>
+    <li class="symb" data-code="5596" code="15dc" title="canadian syllabics carrier thu">ᗜ</li>
+    <li class="symb" data-code="5597" code="15dd" title="canadian syllabics carrier tho">ᗝ</li>
+    <li class="symb" data-code="5598" code="15de" title="canadian syllabics carrier the">ᗞ</li>
+    <li class="symb" data-code="5599" code="15df" title="canadian syllabics carrier thee">ᗟ</li>
+    <li class="h">15e0</li>
+    <li class="symb" data-code="5600" code="15e0" title="canadian syllabics carrier thi">ᗠ</li>
+    <li class="symb" data-code="5601" code="15e1" title="canadian syllabics carrier tha">ᗡ</li>
+    <li class="symb" data-code="5602" code="15e2" title="canadian syllabics carrier ttu">ᗢ</li>
+    <li class="symb" data-code="5603" code="15e3" title="canadian syllabics carrier tto">ᗣ</li>
+    <li class="symb" data-code="5604" code="15e4" title="canadian syllabics carrier tte">ᗤ</li>
+    <li class="symb" data-code="5605" code="15e5" title="canadian syllabics carrier ttee">ᗥ</li>
+    <li class="symb" data-code="5606" code="15e6" title="canadian syllabics carrier tti">ᗦ</li>
+    <li class="symb" data-code="5607" code="15e7" title="canadian syllabics carrier tta">ᗧ</li>
+    <li class="symb" data-code="5608" code="15e8" title="canadian syllabics carrier pu">ᗨ</li>
+    <li class="symb" data-code="5609" code="15e9" title="canadian syllabics carrier po">ᗩ</li>
+    <li class="symb" data-code="5610" code="15ea" title="canadian syllabics carrier pe">ᗪ</li>
+    <li class="symb" data-code="5611" code="15eb" title="canadian syllabics carrier pee">ᗫ</li>
+    <li class="symb" data-code="5612" code="15ec" title="canadian syllabics carrier pi">ᗬ</li>
+    <li class="symb" data-code="5613" code="15ed" title="canadian syllabics carrier pa">ᗭ</li>
+    <li class="symb" data-code="5614" code="15ee" title="canadian syllabics carrier p">ᗮ</li>
+    <li class="symb" data-code="5615" code="15ef" title="canadian syllabics carrier gu">ᗯ</li>
+    <li class="h">15f0</li>
+    <li class="symb" data-code="5616" code="15f0" title="canadian syllabics carrier go">ᗰ</li>
+    <li class="symb" data-code="5617" code="15f1" title="canadian syllabics carrier ge">ᗱ</li>
+    <li class="symb" data-code="5618" code="15f2" title="canadian syllabics carrier gee">ᗲ</li>
+    <li class="symb" data-code="5619" code="15f3" title="canadian syllabics carrier gi">ᗳ</li>
+    <li class="symb" data-code="5620" code="15f4" title="canadian syllabics carrier ga">ᗴ</li>
+    <li class="symb" data-code="5621" code="15f5" title="canadian syllabics carrier khu">ᗵ</li>
+    <li class="symb" data-code="5622" code="15f6" title="canadian syllabics carrier kho">ᗶ</li>
+    <li class="symb" data-code="5623" code="15f7" title="canadian syllabics carrier khe">ᗷ</li>
+    <li class="symb" data-code="5624" code="15f8" title="canadian syllabics carrier khee">ᗸ</li>
+    <li class="symb" data-code="5625" code="15f9" title="canadian syllabics carrier khi">ᗹ</li>
+    <li class="symb" data-code="5626" code="15fa" title="canadian syllabics carrier kha">ᗺ</li>
+    <li class="symb" data-code="5627" code="15fb" title="canadian syllabics carrier kku">ᗻ</li>
+    <li class="symb" data-code="5628" code="15fc" title="canadian syllabics carrier kko">ᗼ</li>
+    <li class="symb" data-code="5629" code="15fd" title="canadian syllabics carrier kke">ᗽ</li>
+    <li class="symb" data-code="5630" code="15fe" title="canadian syllabics carrier kkee">ᗾ</li>
+    <li class="symb" data-code="5631" code="15ff" title="canadian syllabics carrier kki">ᗿ</li>
+  </ul>
+</root>

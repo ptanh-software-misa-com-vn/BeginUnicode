@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">a9e0</li>
+    <li class="symb" data-code="43488" code="a9e0" title="myanmar letter shan gha">ꧠ</li>
+    <li class="symb" data-code="43489" code="a9e1" title="myanmar letter shan cha">ꧡ</li>
+    <li class="symb" data-code="43490" code="a9e2" title="myanmar letter shan jha">ꧢ</li>
+    <li class="symb" data-code="43491" code="a9e3" title="myanmar letter shan nna">ꧣ</li>
+    <li class="symb" data-code="43492" code="a9e4" title="myanmar letter shan bha">ꧤ</li>
+    <li class="symb" data-code="43493" code="a9e5" title="myanmar sign shan saw">ꧥ</li>
+    <li class="symb" data-code="43494" code="a9e6" title="myanmar modifier letter shan reduplication">ꧦ</li>
+    <li class="symb" data-code="43495" code="a9e7" title="myanmar letter tai laing nya">ꧧ</li>
+    <li class="symb" data-code="43496" code="a9e8" title="myanmar letter tai laing fa">ꧨ</li>
+    <li class="symb" data-code="43497" code="a9e9" title="myanmar letter tai laing ga">ꧩ</li>
+    <li class="symb" data-code="43498" code="a9ea" title="myanmar letter tai laing gha">ꧪ</li>
+    <li class="symb" data-code="43499" code="a9eb" title="myanmar letter tai laing ja">ꧫ</li>
+    <li class="symb" data-code="43500" code="a9ec" title="myanmar letter tai laing jha">ꧬ</li>
+    <li class="symb" data-code="43501" code="a9ed" title="myanmar letter tai laing dda">ꧭ</li>
+    <li class="symb" data-code="43502" code="a9ee" title="myanmar letter tai laing ddha">ꧮ</li>
+    <li class="symb" data-code="43503" code="a9ef" title="myanmar letter tai laing nna">ꧯ</li>
+    <li class="h">a9f0</li>
+    <li class="symb" data-code="43504" code="a9f0" title="myanmar tai laing digit zero">꧰</li>
+    <li class="symb" data-code="43505" code="a9f1" title="myanmar tai laing digit one">꧱</li>
+    <li class="symb" data-code="43506" code="a9f2" title="myanmar tai laing digit two">꧲</li>
+    <li class="symb" data-code="43507" code="a9f3" title="myanmar tai laing digit three">꧳</li>
+    <li class="symb" data-code="43508" code="a9f4" title="myanmar tai laing digit four">꧴</li>
+    <li class="symb" data-code="43509" code="a9f5" title="myanmar tai laing digit five">꧵</li>
+    <li class="symb" data-code="43510" code="a9f6" title="myanmar tai laing digit six">꧶</li>
+    <li class="symb" data-code="43511" code="a9f7" title="myanmar tai laing digit seven">꧷</li>
+    <li class="symb" data-code="43512" code="a9f8" title="myanmar tai laing digit eight">꧸</li>
+    <li class="symb" data-code="43513" code="a9f9" title="myanmar tai laing digit nine">꧹</li>
+    <li class="symb" data-code="43514" code="a9fa" title="myanmar letter tai laing lla">ꧺ</li>
+    <li class="symb" data-code="43515" code="a9fb" title="myanmar letter tai laing da">ꧻ</li>
+    <li class="symb" data-code="43516" code="a9fc" title="myanmar letter tai laing dha">ꧼ</li>
+    <li class="symb" data-code="43517" code="a9fd" title="myanmar letter tai laing ba">ꧽ</li>
+    <li class="symb" data-code="43518" code="a9fe" title="myanmar letter tai laing bha">ꧾ</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

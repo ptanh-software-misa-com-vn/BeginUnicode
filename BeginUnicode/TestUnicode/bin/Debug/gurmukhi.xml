@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0a00</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2561" code="0a01" title="gurmukhi sign adak bindi">ਁ</li>
+    <li class="symb" data-code="2562" code="0a02" title="gurmukhi sign bindi">ਂ</li>
+    <li class="symb" data-code="2563" code="0a03" title="gurmukhi sign visarga">ਃ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2565" code="0a05" title="gurmukhi letter a">ਅ</li>
+    <li class="symb" data-code="2566" code="0a06" title="gurmukhi letter aa">ਆ</li>
+    <li class="symb" data-code="2567" code="0a07" title="gurmukhi letter i">ਇ</li>
+    <li class="symb" data-code="2568" code="0a08" title="gurmukhi letter ii">ਈ</li>
+    <li class="symb" data-code="2569" code="0a09" title="gurmukhi letter u">ਉ</li>
+    <li class="symb" data-code="2570" code="0a0a" title="gurmukhi letter uu">ਊ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2575" code="0a0f" title="gurmukhi letter ee">ਏ</li>
+    <li class="h">0a10</li>
+    <li class="symb" data-code="2576" code="0a10" title="gurmukhi letter ai">ਐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2579" code="0a13" title="gurmukhi letter oo">ਓ</li>
+    <li class="symb" data-code="2580" code="0a14" title="gurmukhi letter au">ਔ</li>
+    <li class="symb" data-code="2581" code="0a15" title="gurmukhi letter ka">ਕ</li>
+    <li class="symb" data-code="2582" code="0a16" title="gurmukhi letter kha">ਖ</li>
+    <li class="symb" data-code="2583" code="0a17" title="gurmukhi letter ga">ਗ</li>
+    <li class="symb" data-code="2584" code="0a18" title="gurmukhi letter gha">ਘ</li>
+    <li class="symb" data-code="2585" code="0a19" title="gurmukhi letter nga">ਙ</li>
+    <li class="symb" data-code="2586" code="0a1a" title="gurmukhi letter ca">ਚ</li>
+    <li class="symb" data-code="2587" code="0a1b" title="gurmukhi letter cha">ਛ</li>
+    <li class="symb" data-code="2588" code="0a1c" title="gurmukhi letter ja">ਜ</li>
+    <li class="symb" data-code="2589" code="0a1d" title="gurmukhi letter jha">ਝ</li>
+    <li class="symb" data-code="2590" code="0a1e" title="gurmukhi letter nya">ਞ</li>
+    <li class="symb" data-code="2591" code="0a1f" title="gurmukhi letter tta">ਟ</li>
+    <li class="h">0a20</li>
+    <li class="symb" data-code="2592" code="0a20" title="gurmukhi letter ttha">ਠ</li>
+    <li class="symb" data-code="2593" code="0a21" title="gurmukhi letter dda">ਡ</li>
+    <li class="symb" data-code="2594" code="0a22" title="gurmukhi letter ddha">ਢ</li>
+    <li class="symb" data-code="2595" code="0a23" title="gurmukhi letter nna">ਣ</li>
+    <li class="symb" data-code="2596" code="0a24" title="gurmukhi letter ta">ਤ</li>
+    <li class="symb" data-code="2597" code="0a25" title="gurmukhi letter tha">ਥ</li>
+    <li class="symb" data-code="2598" code="0a26" title="gurmukhi letter da">ਦ</li>
+    <li class="symb" data-code="2599" code="0a27" title="gurmukhi letter dha">ਧ</li>
+    <li class="symb" data-code="2600" code="0a28" title="gurmukhi letter na">ਨ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2602" code="0a2a" title="gurmukhi letter pa">ਪ</li>
+    <li class="symb" data-code="2603" code="0a2b" title="gurmukhi letter pha">ਫ</li>
+    <li class="symb" data-code="2604" code="0a2c" title="gurmukhi letter ba">ਬ</li>
+    <li class="symb" data-code="2605" code="0a2d" title="gurmukhi letter bha">ਭ</li>
+    <li class="symb" data-code="2606" code="0a2e" title="gurmukhi letter ma">ਮ</li>
+    <li class="symb" data-code="2607" code="0a2f" title="gurmukhi letter ya">ਯ</li>
+    <li class="h">0a30</li>
+    <li class="symb" data-code="2608" code="0a30" title="gurmukhi letter ra">ਰ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2610" code="0a32" title="gurmukhi letter la">ਲ</li>
+    <li class="symb" data-code="2611" code="0a33" title="gurmukhi letter lla">ਲ਼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2613" code="0a35" title="gurmukhi letter va">ਵ</li>
+    <li class="symb" data-code="2614" code="0a36" title="gurmukhi letter sha">ਸ਼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2616" code="0a38" title="gurmukhi letter sa">ਸ</li>
+    <li class="symb" data-code="2617" code="0a39" title="gurmukhi letter ha">ਹ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2620" code="0a3c" title="gurmukhi sign nukta">਼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2622" code="0a3e" title="gurmukhi vowel sign aa">ਾ</li>
+    <li class="symb" data-code="2623" code="0a3f" title="gurmukhi vowel sign i">ਿ</li>
+    <li class="h">0a40</li>
+    <li class="symb" data-code="2624" code="0a40" title="gurmukhi vowel sign ii">ੀ</li>
+    <li class="symb" data-code="2625" code="0a41" title="gurmukhi vowel sign u">ੁ</li>
+    <li class="symb" data-code="2626" code="0a42" title="gurmukhi vowel sign uu">ੂ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2631" code="0a47" title="gurmukhi vowel sign ee">ੇ</li>
+    <li class="symb" data-code="2632" code="0a48" title="gurmukhi vowel sign ai">ੈ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2635" code="0a4b" title="gurmukhi vowel sign oo">ੋ</li>
+    <li class="symb" data-code="2636" code="0a4c" title="gurmukhi vowel sign au">ੌ</li>
+    <li class="symb" data-code="2637" code="0a4d" title="gurmukhi sign virama">੍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0a50</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2641" code="0a51" title="gurmukhi sign udaat">ੑ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2649" code="0a59" title="gurmukhi letter khha">ਖ਼</li>
+    <li class="symb" data-code="2650" code="0a5a" title="gurmukhi letter ghha">ਗ਼</li>
+    <li class="symb" data-code="2651" code="0a5b" title="gurmukhi letter za">ਜ਼</li>
+    <li class="symb" data-code="2652" code="0a5c" title="gurmukhi letter rra">ੜ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2654" code="0a5e" title="gurmukhi letter fa">ਫ਼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0a60</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2660" code="0a64" title="reserved">੤</li>
+    <li class="symb" data-code="2661" code="0a65" title="reserved">੥</li>
+    <li class="symb" data-code="2662" code="0a66" title="gurmukhi digit zero">੦</li>
+    <li class="symb" data-code="2663" code="0a67" title="gurmukhi digit one">੧</li>
+    <li class="symb" data-code="2664" code="0a68" title="gurmukhi digit two">੨</li>
+    <li class="symb" data-code="2665" code="0a69" title="gurmukhi digit three">੩</li>
+    <li class="symb" data-code="2666" code="0a6a" title="gurmukhi digit four">੪</li>
+    <li class="symb" data-code="2667" code="0a6b" title="gurmukhi digit five">੫</li>
+    <li class="symb" data-code="2668" code="0a6c" title="gurmukhi digit six">੬</li>
+    <li class="symb" data-code="2669" code="0a6d" title="gurmukhi digit seven">੭</li>
+    <li class="symb" data-code="2670" code="0a6e" title="gurmukhi digit eight">੮</li>
+    <li class="symb" data-code="2671" code="0a6f" title="gurmukhi digit nine">੯</li>
+    <li class="h">0a70</li>
+    <li class="symb" data-code="2672" code="0a70" title="gurmukhi tippi">ੰ</li>
+    <li class="symb" data-code="2673" code="0a71" title="gurmukhi addak">ੱ</li>
+    <li class="symb" data-code="2674" code="0a72" title="gurmukhi iri">ੲ</li>
+    <li class="symb" data-code="2675" code="0a73" title="gurmukhi ura">ੳ</li>
+    <li class="symb" data-code="2676" code="0a74" title="gurmukhi ek onkar">ੴ</li>
+    <li class="symb" data-code="2677" code="0a75" title="gurmukhi sign yakash">ੵ</li>
+    <li class="symb" data-code="2678" code="0a76" title="gurmukhi abbreviation sign">੶</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

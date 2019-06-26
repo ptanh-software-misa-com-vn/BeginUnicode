@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0c80</li>
+    <li class="symb" data-code="3200" code="0c80" title="kannada sign spacing candrabindu">ಀ</li>
+    <li class="symb" data-code="3201" code="0c81" title="kannada sign candrabindu">ಁ</li>
+    <li class="symb" data-code="3202" code="0c82" title="kannada sign anusvara">ಂ</li>
+    <li class="symb" data-code="3203" code="0c83" title="kannada sign visarga">ಃ</li>
+    <li class="symb" data-code="3204" code="0c84" title="kannada sign siddham">಄</li>
+    <li class="symb" data-code="3205" code="0c85" title="kannada letter a">ಅ</li>
+    <li class="symb" data-code="3206" code="0c86" title="kannada letter aa">ಆ</li>
+    <li class="symb" data-code="3207" code="0c87" title="kannada letter i">ಇ</li>
+    <li class="symb" data-code="3208" code="0c88" title="kannada letter ii">ಈ</li>
+    <li class="symb" data-code="3209" code="0c89" title="kannada letter u">ಉ</li>
+    <li class="symb" data-code="3210" code="0c8a" title="kannada letter uu">ಊ</li>
+    <li class="symb" data-code="3211" code="0c8b" title="kannada letter vocalic r">ಋ</li>
+    <li class="symb" data-code="3212" code="0c8c" title="kannada letter vocalic l">ಌ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3214" code="0c8e" title="kannada letter e">ಎ</li>
+    <li class="symb" data-code="3215" code="0c8f" title="kannada letter ee">ಏ</li>
+    <li class="h">0c90</li>
+    <li class="symb" data-code="3216" code="0c90" title="kannada letter ai">ಐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3218" code="0c92" title="kannada letter o">ಒ</li>
+    <li class="symb" data-code="3219" code="0c93" title="kannada letter oo">ಓ</li>
+    <li class="symb" data-code="3220" code="0c94" title="kannada letter au">ಔ</li>
+    <li class="symb" data-code="3221" code="0c95" title="kannada letter ka">ಕ</li>
+    <li class="symb" data-code="3222" code="0c96" title="kannada letter kha">ಖ</li>
+    <li class="symb" data-code="3223" code="0c97" title="kannada letter ga">ಗ</li>
+    <li class="symb" data-code="3224" code="0c98" title="kannada letter gha">ಘ</li>
+    <li class="symb" data-code="3225" code="0c99" title="kannada letter nga">ಙ</li>
+    <li class="symb" data-code="3226" code="0c9a" title="kannada letter ca">ಚ</li>
+    <li class="symb" data-code="3227" code="0c9b" title="kannada letter cha">ಛ</li>
+    <li class="symb" data-code="3228" code="0c9c" title="kannada letter ja">ಜ</li>
+    <li class="symb" data-code="3229" code="0c9d" title="kannada letter jha">ಝ</li>
+    <li class="symb" data-code="3230" code="0c9e" title="kannada letter nya">ಞ</li>
+    <li class="symb" data-code="3231" code="0c9f" title="kannada letter tta">ಟ</li>
+    <li class="h">0ca0</li>
+    <li class="symb" data-code="3232" code="0ca0" title="kannada letter ttha">ಠ</li>
+    <li class="symb" data-code="3233" code="0ca1" title="kannada letter dda">ಡ</li>
+    <li class="symb" data-code="3234" code="0ca2" title="kannada letter ddha">ಢ</li>
+    <li class="symb" data-code="3235" code="0ca3" title="kannada letter nna">ಣ</li>
+    <li class="symb" data-code="3236" code="0ca4" title="kannada letter ta">ತ</li>
+    <li class="symb" data-code="3237" code="0ca5" title="kannada letter tha">ಥ</li>
+    <li class="symb" data-code="3238" code="0ca6" title="kannada letter da">ದ</li>
+    <li class="symb" data-code="3239" code="0ca7" title="kannada letter dha">ಧ</li>
+    <li class="symb" data-code="3240" code="0ca8" title="kannada letter na">ನ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3242" code="0caa" title="kannada letter pa">ಪ</li>
+    <li class="symb" data-code="3243" code="0cab" title="kannada letter pha">ಫ</li>
+    <li class="symb" data-code="3244" code="0cac" title="kannada letter ba">ಬ</li>
+    <li class="symb" data-code="3245" code="0cad" title="kannada letter bha">ಭ</li>
+    <li class="symb" data-code="3246" code="0cae" title="kannada letter ma">ಮ</li>
+    <li class="symb" data-code="3247" code="0caf" title="kannada letter ya">ಯ</li>
+    <li class="h">0cb0</li>
+    <li class="symb" data-code="3248" code="0cb0" title="kannada letter ra">ರ</li>
+    <li class="symb" data-code="3249" code="0cb1" title="kannada letter rra">ಱ</li>
+    <li class="symb" data-code="3250" code="0cb2" title="kannada letter la">ಲ</li>
+    <li class="symb" data-code="3251" code="0cb3" title="kannada letter lla">ಳ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3253" code="0cb5" title="kannada letter va">ವ</li>
+    <li class="symb" data-code="3254" code="0cb6" title="kannada letter sha">ಶ</li>
+    <li class="symb" data-code="3255" code="0cb7" title="kannada letter ssa">ಷ</li>
+    <li class="symb" data-code="3256" code="0cb8" title="kannada letter sa">ಸ</li>
+    <li class="symb" data-code="3257" code="0cb9" title="kannada letter ha">ಹ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3260" code="0cbc" title="kannada sign nukta">಼</li>
+    <li class="symb" data-code="3261" code="0cbd" title="kannada sign avagraha">ಽ</li>
+    <li class="symb" data-code="3262" code="0cbe" title="kannada vowel sign aa">ಾ</li>
+    <li class="symb" data-code="3263" code="0cbf" title="kannada vowel sign i">ಿ</li>
+    <li class="h">0cc0</li>
+    <li class="symb" data-code="3264" code="0cc0" title="kannada vowel sign ii">ೀ</li>
+    <li class="symb" data-code="3265" code="0cc1" title="kannada vowel sign u">ು</li>
+    <li class="symb" data-code="3266" code="0cc2" title="kannada vowel sign uu">ೂ</li>
+    <li class="symb" data-code="3267" code="0cc3" title="kannada vowel sign vocalic r">ೃ</li>
+    <li class="symb" data-code="3268" code="0cc4" title="kannada vowel sign vocalic rr">ೄ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3270" code="0cc6" title="kannada vowel sign e">ೆ</li>
+    <li class="symb" data-code="3271" code="0cc7" title="kannada vowel sign ee">ೇ</li>
+    <li class="symb" data-code="3272" code="0cc8" title="kannada vowel sign ai">ೈ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3274" code="0cca" title="kannada vowel sign o">ೊ</li>
+    <li class="symb" data-code="3275" code="0ccb" title="kannada vowel sign oo">ೋ</li>
+    <li class="symb" data-code="3276" code="0ccc" title="kannada vowel sign au">ೌ</li>
+    <li class="symb" data-code="3277" code="0ccd" title="kannada sign virama">್</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0cd0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3285" code="0cd5" title="kannada length mark">ೕ</li>
+    <li class="symb" data-code="3286" code="0cd6" title="kannada ai length mark">ೖ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3294" code="0cde" title="kannada letter fa">ೞ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0ce0</li>
+    <li class="symb" data-code="3296" code="0ce0" title="kannada letter vocalic rr">ೠ</li>
+    <li class="symb" data-code="3297" code="0ce1" title="kannada letter vocalic ll">ೡ</li>
+    <li class="symb" data-code="3298" code="0ce2" title="kannada vowel sign vocalic l">ೢ</li>
+    <li class="symb" data-code="3299" code="0ce3" title="kannada vowel sign vocalic ll">ೣ</li>
+    <li class="symb" data-code="3300" code="0ce4" title="reserved">೤</li>
+    <li class="symb" data-code="3301" code="0ce5" title="reserved">೥</li>
+    <li class="symb" data-code="3302" code="0ce6" title="kannada digit zero">೦</li>
+    <li class="symb" data-code="3303" code="0ce7" title="kannada digit one">೧</li>
+    <li class="symb" data-code="3304" code="0ce8" title="kannada digit two">೨</li>
+    <li class="symb" data-code="3305" code="0ce9" title="kannada digit three">೩</li>
+    <li class="symb" data-code="3306" code="0cea" title="kannada digit four">೪</li>
+    <li class="symb" data-code="3307" code="0ceb" title="kannada digit five">೫</li>
+    <li class="symb" data-code="3308" code="0cec" title="kannada digit six">೬</li>
+    <li class="symb" data-code="3309" code="0ced" title="kannada digit seven">೭</li>
+    <li class="symb" data-code="3310" code="0cee" title="kannada digit eight">೮</li>
+    <li class="symb" data-code="3311" code="0cef" title="kannada digit nine">೯</li>
+    <li class="h">0cf0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3313" code="0cf1" title="kannada sign jihvamuliya">ೱ</li>
+    <li class="symb" data-code="3314" code="0cf2" title="kannada sign upadhmaniya">ೲ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

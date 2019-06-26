@@ -1,0 +1,413 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1200</li>
+    <li class="symb" data-code="4608" code="1200" title="ethiopic syllable ha">ሀ</li>
+    <li class="symb" data-code="4609" code="1201" title="ethiopic syllable hu">ሁ</li>
+    <li class="symb" data-code="4610" code="1202" title="ethiopic syllable hi">ሂ</li>
+    <li class="symb" data-code="4611" code="1203" title="ethiopic syllable haa">ሃ</li>
+    <li class="symb" data-code="4612" code="1204" title="ethiopic syllable hee">ሄ</li>
+    <li class="symb" data-code="4613" code="1205" title="ethiopic syllable he">ህ</li>
+    <li class="symb" data-code="4614" code="1206" title="ethiopic syllable ho">ሆ</li>
+    <li class="symb" data-code="4615" code="1207" title="ethiopic syllable hoa">ሇ</li>
+    <li class="symb" data-code="4616" code="1208" title="ethiopic syllable la">ለ</li>
+    <li class="symb" data-code="4617" code="1209" title="ethiopic syllable lu">ሉ</li>
+    <li class="symb" data-code="4618" code="120a" title="ethiopic syllable li">ሊ</li>
+    <li class="symb" data-code="4619" code="120b" title="ethiopic syllable laa">ላ</li>
+    <li class="symb" data-code="4620" code="120c" title="ethiopic syllable lee">ሌ</li>
+    <li class="symb" data-code="4621" code="120d" title="ethiopic syllable le">ል</li>
+    <li class="symb" data-code="4622" code="120e" title="ethiopic syllable lo">ሎ</li>
+    <li class="symb" data-code="4623" code="120f" title="ethiopic syllable lwa">ሏ</li>
+    <li class="h">1210</li>
+    <li class="symb" data-code="4624" code="1210" title="ethiopic syllable hha">ሐ</li>
+    <li class="symb" data-code="4625" code="1211" title="ethiopic syllable hhu">ሑ</li>
+    <li class="symb" data-code="4626" code="1212" title="ethiopic syllable hhi">ሒ</li>
+    <li class="symb" data-code="4627" code="1213" title="ethiopic syllable hhaa">ሓ</li>
+    <li class="symb" data-code="4628" code="1214" title="ethiopic syllable hhee">ሔ</li>
+    <li class="symb" data-code="4629" code="1215" title="ethiopic syllable hhe">ሕ</li>
+    <li class="symb" data-code="4630" code="1216" title="ethiopic syllable hho">ሖ</li>
+    <li class="symb" data-code="4631" code="1217" title="ethiopic syllable hhwa">ሗ</li>
+    <li class="symb" data-code="4632" code="1218" title="ethiopic syllable ma">መ</li>
+    <li class="symb" data-code="4633" code="1219" title="ethiopic syllable mu">ሙ</li>
+    <li class="symb" data-code="4634" code="121a" title="ethiopic syllable mi">ሚ</li>
+    <li class="symb" data-code="4635" code="121b" title="ethiopic syllable maa">ማ</li>
+    <li class="symb" data-code="4636" code="121c" title="ethiopic syllable mee">ሜ</li>
+    <li class="symb" data-code="4637" code="121d" title="ethiopic syllable me">ም</li>
+    <li class="symb" data-code="4638" code="121e" title="ethiopic syllable mo">ሞ</li>
+    <li class="symb" data-code="4639" code="121f" title="ethiopic syllable mwa">ሟ</li>
+    <li class="h">1220</li>
+    <li class="symb" data-code="4640" code="1220" title="ethiopic syllable sza">ሠ</li>
+    <li class="symb" data-code="4641" code="1221" title="ethiopic syllable szu">ሡ</li>
+    <li class="symb" data-code="4642" code="1222" title="ethiopic syllable szi">ሢ</li>
+    <li class="symb" data-code="4643" code="1223" title="ethiopic syllable szaa">ሣ</li>
+    <li class="symb" data-code="4644" code="1224" title="ethiopic syllable szee">ሤ</li>
+    <li class="symb" data-code="4645" code="1225" title="ethiopic syllable sze">ሥ</li>
+    <li class="symb" data-code="4646" code="1226" title="ethiopic syllable szo">ሦ</li>
+    <li class="symb" data-code="4647" code="1227" title="ethiopic syllable szwa">ሧ</li>
+    <li class="symb" data-code="4648" code="1228" title="ethiopic syllable ra">ረ</li>
+    <li class="symb" data-code="4649" code="1229" title="ethiopic syllable ru">ሩ</li>
+    <li class="symb" data-code="4650" code="122a" title="ethiopic syllable ri">ሪ</li>
+    <li class="symb" data-code="4651" code="122b" title="ethiopic syllable raa">ራ</li>
+    <li class="symb" data-code="4652" code="122c" title="ethiopic syllable ree">ሬ</li>
+    <li class="symb" data-code="4653" code="122d" title="ethiopic syllable re">ር</li>
+    <li class="symb" data-code="4654" code="122e" title="ethiopic syllable ro">ሮ</li>
+    <li class="symb" data-code="4655" code="122f" title="ethiopic syllable rwa">ሯ</li>
+    <li class="h">1230</li>
+    <li class="symb" data-code="4656" code="1230" title="ethiopic syllable sa">ሰ</li>
+    <li class="symb" data-code="4657" code="1231" title="ethiopic syllable su">ሱ</li>
+    <li class="symb" data-code="4658" code="1232" title="ethiopic syllable si">ሲ</li>
+    <li class="symb" data-code="4659" code="1233" title="ethiopic syllable saa">ሳ</li>
+    <li class="symb" data-code="4660" code="1234" title="ethiopic syllable see">ሴ</li>
+    <li class="symb" data-code="4661" code="1235" title="ethiopic syllable se">ስ</li>
+    <li class="symb" data-code="4662" code="1236" title="ethiopic syllable so">ሶ</li>
+    <li class="symb" data-code="4663" code="1237" title="ethiopic syllable swa">ሷ</li>
+    <li class="symb" data-code="4664" code="1238" title="ethiopic syllable sha">ሸ</li>
+    <li class="symb" data-code="4665" code="1239" title="ethiopic syllable shu">ሹ</li>
+    <li class="symb" data-code="4666" code="123a" title="ethiopic syllable shi">ሺ</li>
+    <li class="symb" data-code="4667" code="123b" title="ethiopic syllable shaa">ሻ</li>
+    <li class="symb" data-code="4668" code="123c" title="ethiopic syllable shee">ሼ</li>
+    <li class="symb" data-code="4669" code="123d" title="ethiopic syllable she">ሽ</li>
+    <li class="symb" data-code="4670" code="123e" title="ethiopic syllable sho">ሾ</li>
+    <li class="symb" data-code="4671" code="123f" title="ethiopic syllable shwa">ሿ</li>
+    <li class="h">1240</li>
+    <li class="symb" data-code="4672" code="1240" title="ethiopic syllable qa">ቀ</li>
+    <li class="symb" data-code="4673" code="1241" title="ethiopic syllable qu">ቁ</li>
+    <li class="symb" data-code="4674" code="1242" title="ethiopic syllable qi">ቂ</li>
+    <li class="symb" data-code="4675" code="1243" title="ethiopic syllable qaa">ቃ</li>
+    <li class="symb" data-code="4676" code="1244" title="ethiopic syllable qee">ቄ</li>
+    <li class="symb" data-code="4677" code="1245" title="ethiopic syllable qe">ቅ</li>
+    <li class="symb" data-code="4678" code="1246" title="ethiopic syllable qo">ቆ</li>
+    <li class="symb" data-code="4679" code="1247" title="ethiopic syllable qoa">ቇ</li>
+    <li class="symb" data-code="4680" code="1248" title="ethiopic syllable qwa">ቈ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4682" code="124a" title="ethiopic syllable qwi">ቊ</li>
+    <li class="symb" data-code="4683" code="124b" title="ethiopic syllable qwaa">ቋ</li>
+    <li class="symb" data-code="4684" code="124c" title="ethiopic syllable qwee">ቌ</li>
+    <li class="symb" data-code="4685" code="124d" title="ethiopic syllable qwe">ቍ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1250</li>
+    <li class="symb" data-code="4688" code="1250" title="ethiopic syllable qha">ቐ</li>
+    <li class="symb" data-code="4689" code="1251" title="ethiopic syllable qhu">ቑ</li>
+    <li class="symb" data-code="4690" code="1252" title="ethiopic syllable qhi">ቒ</li>
+    <li class="symb" data-code="4691" code="1253" title="ethiopic syllable qhaa">ቓ</li>
+    <li class="symb" data-code="4692" code="1254" title="ethiopic syllable qhee">ቔ</li>
+    <li class="symb" data-code="4693" code="1255" title="ethiopic syllable qhe">ቕ</li>
+    <li class="symb" data-code="4694" code="1256" title="ethiopic syllable qho">ቖ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4696" code="1258" title="ethiopic syllable qhwa">ቘ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4698" code="125a" title="ethiopic syllable qhwi">ቚ</li>
+    <li class="symb" data-code="4699" code="125b" title="ethiopic syllable qhwaa">ቛ</li>
+    <li class="symb" data-code="4700" code="125c" title="ethiopic syllable qhwee">ቜ</li>
+    <li class="symb" data-code="4701" code="125d" title="ethiopic syllable qhwe">ቝ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1260</li>
+    <li class="symb" data-code="4704" code="1260" title="ethiopic syllable ba">በ</li>
+    <li class="symb" data-code="4705" code="1261" title="ethiopic syllable bu">ቡ</li>
+    <li class="symb" data-code="4706" code="1262" title="ethiopic syllable bi">ቢ</li>
+    <li class="symb" data-code="4707" code="1263" title="ethiopic syllable baa">ባ</li>
+    <li class="symb" data-code="4708" code="1264" title="ethiopic syllable bee">ቤ</li>
+    <li class="symb" data-code="4709" code="1265" title="ethiopic syllable be">ብ</li>
+    <li class="symb" data-code="4710" code="1266" title="ethiopic syllable bo">ቦ</li>
+    <li class="symb" data-code="4711" code="1267" title="ethiopic syllable bwa">ቧ</li>
+    <li class="symb" data-code="4712" code="1268" title="ethiopic syllable va">ቨ</li>
+    <li class="symb" data-code="4713" code="1269" title="ethiopic syllable vu">ቩ</li>
+    <li class="symb" data-code="4714" code="126a" title="ethiopic syllable vi">ቪ</li>
+    <li class="symb" data-code="4715" code="126b" title="ethiopic syllable vaa">ቫ</li>
+    <li class="symb" data-code="4716" code="126c" title="ethiopic syllable vee">ቬ</li>
+    <li class="symb" data-code="4717" code="126d" title="ethiopic syllable ve">ቭ</li>
+    <li class="symb" data-code="4718" code="126e" title="ethiopic syllable vo">ቮ</li>
+    <li class="symb" data-code="4719" code="126f" title="ethiopic syllable vwa">ቯ</li>
+    <li class="h">1270</li>
+    <li class="symb" data-code="4720" code="1270" title="ethiopic syllable ta">ተ</li>
+    <li class="symb" data-code="4721" code="1271" title="ethiopic syllable tu">ቱ</li>
+    <li class="symb" data-code="4722" code="1272" title="ethiopic syllable ti">ቲ</li>
+    <li class="symb" data-code="4723" code="1273" title="ethiopic syllable taa">ታ</li>
+    <li class="symb" data-code="4724" code="1274" title="ethiopic syllable tee">ቴ</li>
+    <li class="symb" data-code="4725" code="1275" title="ethiopic syllable te">ት</li>
+    <li class="symb" data-code="4726" code="1276" title="ethiopic syllable to">ቶ</li>
+    <li class="symb" data-code="4727" code="1277" title="ethiopic syllable twa">ቷ</li>
+    <li class="symb" data-code="4728" code="1278" title="ethiopic syllable ca">ቸ</li>
+    <li class="symb" data-code="4729" code="1279" title="ethiopic syllable cu">ቹ</li>
+    <li class="symb" data-code="4730" code="127a" title="ethiopic syllable ci">ቺ</li>
+    <li class="symb" data-code="4731" code="127b" title="ethiopic syllable caa">ቻ</li>
+    <li class="symb" data-code="4732" code="127c" title="ethiopic syllable cee">ቼ</li>
+    <li class="symb" data-code="4733" code="127d" title="ethiopic syllable ce">ች</li>
+    <li class="symb" data-code="4734" code="127e" title="ethiopic syllable co">ቾ</li>
+    <li class="symb" data-code="4735" code="127f" title="ethiopic syllable cwa">ቿ</li>
+    <li class="h">1280</li>
+    <li class="symb" data-code="4736" code="1280" title="ethiopic syllable xa">ኀ</li>
+    <li class="symb" data-code="4737" code="1281" title="ethiopic syllable xu">ኁ</li>
+    <li class="symb" data-code="4738" code="1282" title="ethiopic syllable xi">ኂ</li>
+    <li class="symb" data-code="4739" code="1283" title="ethiopic syllable xaa">ኃ</li>
+    <li class="symb" data-code="4740" code="1284" title="ethiopic syllable xee">ኄ</li>
+    <li class="symb" data-code="4741" code="1285" title="ethiopic syllable xe">ኅ</li>
+    <li class="symb" data-code="4742" code="1286" title="ethiopic syllable xo">ኆ</li>
+    <li class="symb" data-code="4743" code="1287" title="ethiopic syllable xoa">ኇ</li>
+    <li class="symb" data-code="4744" code="1288" title="ethiopic syllable xwa">ኈ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4746" code="128a" title="ethiopic syllable xwi">ኊ</li>
+    <li class="symb" data-code="4747" code="128b" title="ethiopic syllable xwaa">ኋ</li>
+    <li class="symb" data-code="4748" code="128c" title="ethiopic syllable xwee">ኌ</li>
+    <li class="symb" data-code="4749" code="128d" title="ethiopic syllable xwe">ኍ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1290</li>
+    <li class="symb" data-code="4752" code="1290" title="ethiopic syllable na">ነ</li>
+    <li class="symb" data-code="4753" code="1291" title="ethiopic syllable nu">ኑ</li>
+    <li class="symb" data-code="4754" code="1292" title="ethiopic syllable ni">ኒ</li>
+    <li class="symb" data-code="4755" code="1293" title="ethiopic syllable naa">ና</li>
+    <li class="symb" data-code="4756" code="1294" title="ethiopic syllable nee">ኔ</li>
+    <li class="symb" data-code="4757" code="1295" title="ethiopic syllable ne">ን</li>
+    <li class="symb" data-code="4758" code="1296" title="ethiopic syllable no">ኖ</li>
+    <li class="symb" data-code="4759" code="1297" title="ethiopic syllable nwa">ኗ</li>
+    <li class="symb" data-code="4760" code="1298" title="ethiopic syllable nya">ኘ</li>
+    <li class="symb" data-code="4761" code="1299" title="ethiopic syllable nyu">ኙ</li>
+    <li class="symb" data-code="4762" code="129a" title="ethiopic syllable nyi">ኚ</li>
+    <li class="symb" data-code="4763" code="129b" title="ethiopic syllable nyaa">ኛ</li>
+    <li class="symb" data-code="4764" code="129c" title="ethiopic syllable nyee">ኜ</li>
+    <li class="symb" data-code="4765" code="129d" title="ethiopic syllable nye">ኝ</li>
+    <li class="symb" data-code="4766" code="129e" title="ethiopic syllable nyo">ኞ</li>
+    <li class="symb" data-code="4767" code="129f" title="ethiopic syllable nywa">ኟ</li>
+    <li class="h">12a0</li>
+    <li class="symb" data-code="4768" code="12a0" title="ethiopic syllable glottal a">አ</li>
+    <li class="symb" data-code="4769" code="12a1" title="ethiopic syllable glottal u">ኡ</li>
+    <li class="symb" data-code="4770" code="12a2" title="ethiopic syllable glottal i">ኢ</li>
+    <li class="symb" data-code="4771" code="12a3" title="ethiopic syllable glottal aa">ኣ</li>
+    <li class="symb" data-code="4772" code="12a4" title="ethiopic syllable glottal ee">ኤ</li>
+    <li class="symb" data-code="4773" code="12a5" title="ethiopic syllable glottal e">እ</li>
+    <li class="symb" data-code="4774" code="12a6" title="ethiopic syllable glottal o">ኦ</li>
+    <li class="symb" data-code="4775" code="12a7" title="ethiopic syllable glottal wa">ኧ</li>
+    <li class="symb" data-code="4776" code="12a8" title="ethiopic syllable ka">ከ</li>
+    <li class="symb" data-code="4777" code="12a9" title="ethiopic syllable ku">ኩ</li>
+    <li class="symb" data-code="4778" code="12aa" title="ethiopic syllable ki">ኪ</li>
+    <li class="symb" data-code="4779" code="12ab" title="ethiopic syllable kaa">ካ</li>
+    <li class="symb" data-code="4780" code="12ac" title="ethiopic syllable kee">ኬ</li>
+    <li class="symb" data-code="4781" code="12ad" title="ethiopic syllable ke">ክ</li>
+    <li class="symb" data-code="4782" code="12ae" title="ethiopic syllable ko">ኮ</li>
+    <li class="symb" data-code="4783" code="12af" title="ethiopic syllable koa">ኯ</li>
+    <li class="h">12b0</li>
+    <li class="symb" data-code="4784" code="12b0" title="ethiopic syllable kwa">ኰ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4786" code="12b2" title="ethiopic syllable kwi">ኲ</li>
+    <li class="symb" data-code="4787" code="12b3" title="ethiopic syllable kwaa">ኳ</li>
+    <li class="symb" data-code="4788" code="12b4" title="ethiopic syllable kwee">ኴ</li>
+    <li class="symb" data-code="4789" code="12b5" title="ethiopic syllable kwe">ኵ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4792" code="12b8" title="ethiopic syllable kxa">ኸ</li>
+    <li class="symb" data-code="4793" code="12b9" title="ethiopic syllable kxu">ኹ</li>
+    <li class="symb" data-code="4794" code="12ba" title="ethiopic syllable kxi">ኺ</li>
+    <li class="symb" data-code="4795" code="12bb" title="ethiopic syllable kxaa">ኻ</li>
+    <li class="symb" data-code="4796" code="12bc" title="ethiopic syllable kxee">ኼ</li>
+    <li class="symb" data-code="4797" code="12bd" title="ethiopic syllable kxe">ኽ</li>
+    <li class="symb" data-code="4798" code="12be" title="ethiopic syllable kxo">ኾ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">12c0</li>
+    <li class="symb" data-code="4800" code="12c0" title="ethiopic syllable kxwa">ዀ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4802" code="12c2" title="ethiopic syllable kxwi">ዂ</li>
+    <li class="symb" data-code="4803" code="12c3" title="ethiopic syllable kxwaa">ዃ</li>
+    <li class="symb" data-code="4804" code="12c4" title="ethiopic syllable kxwee">ዄ</li>
+    <li class="symb" data-code="4805" code="12c5" title="ethiopic syllable kxwe">ዅ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4808" code="12c8" title="ethiopic syllable wa">ወ</li>
+    <li class="symb" data-code="4809" code="12c9" title="ethiopic syllable wu">ዉ</li>
+    <li class="symb" data-code="4810" code="12ca" title="ethiopic syllable wi">ዊ</li>
+    <li class="symb" data-code="4811" code="12cb" title="ethiopic syllable waa">ዋ</li>
+    <li class="symb" data-code="4812" code="12cc" title="ethiopic syllable wee">ዌ</li>
+    <li class="symb" data-code="4813" code="12cd" title="ethiopic syllable we">ው</li>
+    <li class="symb" data-code="4814" code="12ce" title="ethiopic syllable wo">ዎ</li>
+    <li class="symb" data-code="4815" code="12cf" title="ethiopic syllable woa">ዏ</li>
+    <li class="h">12d0</li>
+    <li class="symb" data-code="4816" code="12d0" title="ethiopic syllable pharyngeal a">ዐ</li>
+    <li class="symb" data-code="4817" code="12d1" title="ethiopic syllable pharyngeal u">ዑ</li>
+    <li class="symb" data-code="4818" code="12d2" title="ethiopic syllable pharyngeal i">ዒ</li>
+    <li class="symb" data-code="4819" code="12d3" title="ethiopic syllable pharyngeal aa">ዓ</li>
+    <li class="symb" data-code="4820" code="12d4" title="ethiopic syllable pharyngeal ee">ዔ</li>
+    <li class="symb" data-code="4821" code="12d5" title="ethiopic syllable pharyngeal e">ዕ</li>
+    <li class="symb" data-code="4822" code="12d6" title="ethiopic syllable pharyngeal o">ዖ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4824" code="12d8" title="ethiopic syllable za">ዘ</li>
+    <li class="symb" data-code="4825" code="12d9" title="ethiopic syllable zu">ዙ</li>
+    <li class="symb" data-code="4826" code="12da" title="ethiopic syllable zi">ዚ</li>
+    <li class="symb" data-code="4827" code="12db" title="ethiopic syllable zaa">ዛ</li>
+    <li class="symb" data-code="4828" code="12dc" title="ethiopic syllable zee">ዜ</li>
+    <li class="symb" data-code="4829" code="12dd" title="ethiopic syllable ze">ዝ</li>
+    <li class="symb" data-code="4830" code="12de" title="ethiopic syllable zo">ዞ</li>
+    <li class="symb" data-code="4831" code="12df" title="ethiopic syllable zwa">ዟ</li>
+    <li class="h">12e0</li>
+    <li class="symb" data-code="4832" code="12e0" title="ethiopic syllable zha">ዠ</li>
+    <li class="symb" data-code="4833" code="12e1" title="ethiopic syllable zhu">ዡ</li>
+    <li class="symb" data-code="4834" code="12e2" title="ethiopic syllable zhi">ዢ</li>
+    <li class="symb" data-code="4835" code="12e3" title="ethiopic syllable zhaa">ዣ</li>
+    <li class="symb" data-code="4836" code="12e4" title="ethiopic syllable zhee">ዤ</li>
+    <li class="symb" data-code="4837" code="12e5" title="ethiopic syllable zhe">ዥ</li>
+    <li class="symb" data-code="4838" code="12e6" title="ethiopic syllable zho">ዦ</li>
+    <li class="symb" data-code="4839" code="12e7" title="ethiopic syllable zhwa">ዧ</li>
+    <li class="symb" data-code="4840" code="12e8" title="ethiopic syllable ya">የ</li>
+    <li class="symb" data-code="4841" code="12e9" title="ethiopic syllable yu">ዩ</li>
+    <li class="symb" data-code="4842" code="12ea" title="ethiopic syllable yi">ዪ</li>
+    <li class="symb" data-code="4843" code="12eb" title="ethiopic syllable yaa">ያ</li>
+    <li class="symb" data-code="4844" code="12ec" title="ethiopic syllable yee">ዬ</li>
+    <li class="symb" data-code="4845" code="12ed" title="ethiopic syllable ye">ይ</li>
+    <li class="symb" data-code="4846" code="12ee" title="ethiopic syllable yo">ዮ</li>
+    <li class="symb" data-code="4847" code="12ef" title="ethiopic syllable yoa">ዯ</li>
+    <li class="h">12f0</li>
+    <li class="symb" data-code="4848" code="12f0" title="ethiopic syllable da">ደ</li>
+    <li class="symb" data-code="4849" code="12f1" title="ethiopic syllable du">ዱ</li>
+    <li class="symb" data-code="4850" code="12f2" title="ethiopic syllable di">ዲ</li>
+    <li class="symb" data-code="4851" code="12f3" title="ethiopic syllable daa">ዳ</li>
+    <li class="symb" data-code="4852" code="12f4" title="ethiopic syllable dee">ዴ</li>
+    <li class="symb" data-code="4853" code="12f5" title="ethiopic syllable de">ድ</li>
+    <li class="symb" data-code="4854" code="12f6" title="ethiopic syllable do">ዶ</li>
+    <li class="symb" data-code="4855" code="12f7" title="ethiopic syllable dwa">ዷ</li>
+    <li class="symb" data-code="4856" code="12f8" title="ethiopic syllable dda">ዸ</li>
+    <li class="symb" data-code="4857" code="12f9" title="ethiopic syllable ddu">ዹ</li>
+    <li class="symb" data-code="4858" code="12fa" title="ethiopic syllable ddi">ዺ</li>
+    <li class="symb" data-code="4859" code="12fb" title="ethiopic syllable ddaa">ዻ</li>
+    <li class="symb" data-code="4860" code="12fc" title="ethiopic syllable ddee">ዼ</li>
+    <li class="symb" data-code="4861" code="12fd" title="ethiopic syllable dde">ዽ</li>
+    <li class="symb" data-code="4862" code="12fe" title="ethiopic syllable ddo">ዾ</li>
+    <li class="symb" data-code="4863" code="12ff" title="ethiopic syllable ddwa">ዿ</li>
+    <li class="h">1300</li>
+    <li class="symb" data-code="4864" code="1300" title="ethiopic syllable ja">ጀ</li>
+    <li class="symb" data-code="4865" code="1301" title="ethiopic syllable ju">ጁ</li>
+    <li class="symb" data-code="4866" code="1302" title="ethiopic syllable ji">ጂ</li>
+    <li class="symb" data-code="4867" code="1303" title="ethiopic syllable jaa">ጃ</li>
+    <li class="symb" data-code="4868" code="1304" title="ethiopic syllable jee">ጄ</li>
+    <li class="symb" data-code="4869" code="1305" title="ethiopic syllable je">ጅ</li>
+    <li class="symb" data-code="4870" code="1306" title="ethiopic syllable jo">ጆ</li>
+    <li class="symb" data-code="4871" code="1307" title="ethiopic syllable jwa">ጇ</li>
+    <li class="symb" data-code="4872" code="1308" title="ethiopic syllable ga">ገ</li>
+    <li class="symb" data-code="4873" code="1309" title="ethiopic syllable gu">ጉ</li>
+    <li class="symb" data-code="4874" code="130a" title="ethiopic syllable gi">ጊ</li>
+    <li class="symb" data-code="4875" code="130b" title="ethiopic syllable gaa">ጋ</li>
+    <li class="symb" data-code="4876" code="130c" title="ethiopic syllable gee">ጌ</li>
+    <li class="symb" data-code="4877" code="130d" title="ethiopic syllable ge">ግ</li>
+    <li class="symb" data-code="4878" code="130e" title="ethiopic syllable go">ጎ</li>
+    <li class="symb" data-code="4879" code="130f" title="ethiopic syllable goa">ጏ</li>
+    <li class="h">1310</li>
+    <li class="symb" data-code="4880" code="1310" title="ethiopic syllable gwa">ጐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4882" code="1312" title="ethiopic syllable gwi">ጒ</li>
+    <li class="symb" data-code="4883" code="1313" title="ethiopic syllable gwaa">ጓ</li>
+    <li class="symb" data-code="4884" code="1314" title="ethiopic syllable gwee">ጔ</li>
+    <li class="symb" data-code="4885" code="1315" title="ethiopic syllable gwe">ጕ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4888" code="1318" title="ethiopic syllable gga">ጘ</li>
+    <li class="symb" data-code="4889" code="1319" title="ethiopic syllable ggu">ጙ</li>
+    <li class="symb" data-code="4890" code="131a" title="ethiopic syllable ggi">ጚ</li>
+    <li class="symb" data-code="4891" code="131b" title="ethiopic syllable ggaa">ጛ</li>
+    <li class="symb" data-code="4892" code="131c" title="ethiopic syllable ggee">ጜ</li>
+    <li class="symb" data-code="4893" code="131d" title="ethiopic syllable gge">ጝ</li>
+    <li class="symb" data-code="4894" code="131e" title="ethiopic syllable ggo">ጞ</li>
+    <li class="symb" data-code="4895" code="131f" title="ethiopic syllable ggwaa">ጟ</li>
+    <li class="h">1320</li>
+    <li class="symb" data-code="4896" code="1320" title="ethiopic syllable tha">ጠ</li>
+    <li class="symb" data-code="4897" code="1321" title="ethiopic syllable thu">ጡ</li>
+    <li class="symb" data-code="4898" code="1322" title="ethiopic syllable thi">ጢ</li>
+    <li class="symb" data-code="4899" code="1323" title="ethiopic syllable thaa">ጣ</li>
+    <li class="symb" data-code="4900" code="1324" title="ethiopic syllable thee">ጤ</li>
+    <li class="symb" data-code="4901" code="1325" title="ethiopic syllable the">ጥ</li>
+    <li class="symb" data-code="4902" code="1326" title="ethiopic syllable tho">ጦ</li>
+    <li class="symb" data-code="4903" code="1327" title="ethiopic syllable thwa">ጧ</li>
+    <li class="symb" data-code="4904" code="1328" title="ethiopic syllable cha">ጨ</li>
+    <li class="symb" data-code="4905" code="1329" title="ethiopic syllable chu">ጩ</li>
+    <li class="symb" data-code="4906" code="132a" title="ethiopic syllable chi">ጪ</li>
+    <li class="symb" data-code="4907" code="132b" title="ethiopic syllable chaa">ጫ</li>
+    <li class="symb" data-code="4908" code="132c" title="ethiopic syllable chee">ጬ</li>
+    <li class="symb" data-code="4909" code="132d" title="ethiopic syllable che">ጭ</li>
+    <li class="symb" data-code="4910" code="132e" title="ethiopic syllable cho">ጮ</li>
+    <li class="symb" data-code="4911" code="132f" title="ethiopic syllable chwa">ጯ</li>
+    <li class="h">1330</li>
+    <li class="symb" data-code="4912" code="1330" title="ethiopic syllable pha">ጰ</li>
+    <li class="symb" data-code="4913" code="1331" title="ethiopic syllable phu">ጱ</li>
+    <li class="symb" data-code="4914" code="1332" title="ethiopic syllable phi">ጲ</li>
+    <li class="symb" data-code="4915" code="1333" title="ethiopic syllable phaa">ጳ</li>
+    <li class="symb" data-code="4916" code="1334" title="ethiopic syllable phee">ጴ</li>
+    <li class="symb" data-code="4917" code="1335" title="ethiopic syllable phe">ጵ</li>
+    <li class="symb" data-code="4918" code="1336" title="ethiopic syllable pho">ጶ</li>
+    <li class="symb" data-code="4919" code="1337" title="ethiopic syllable phwa">ጷ</li>
+    <li class="symb" data-code="4920" code="1338" title="ethiopic syllable tsa">ጸ</li>
+    <li class="symb" data-code="4921" code="1339" title="ethiopic syllable tsu">ጹ</li>
+    <li class="symb" data-code="4922" code="133a" title="ethiopic syllable tsi">ጺ</li>
+    <li class="symb" data-code="4923" code="133b" title="ethiopic syllable tsaa">ጻ</li>
+    <li class="symb" data-code="4924" code="133c" title="ethiopic syllable tsee">ጼ</li>
+    <li class="symb" data-code="4925" code="133d" title="ethiopic syllable tse">ጽ</li>
+    <li class="symb" data-code="4926" code="133e" title="ethiopic syllable tso">ጾ</li>
+    <li class="symb" data-code="4927" code="133f" title="ethiopic syllable tswa">ጿ</li>
+    <li class="h">1340</li>
+    <li class="symb" data-code="4928" code="1340" title="ethiopic syllable tza">ፀ</li>
+    <li class="symb" data-code="4929" code="1341" title="ethiopic syllable tzu">ፁ</li>
+    <li class="symb" data-code="4930" code="1342" title="ethiopic syllable tzi">ፂ</li>
+    <li class="symb" data-code="4931" code="1343" title="ethiopic syllable tzaa">ፃ</li>
+    <li class="symb" data-code="4932" code="1344" title="ethiopic syllable tzee">ፄ</li>
+    <li class="symb" data-code="4933" code="1345" title="ethiopic syllable tze">ፅ</li>
+    <li class="symb" data-code="4934" code="1346" title="ethiopic syllable tzo">ፆ</li>
+    <li class="symb" data-code="4935" code="1347" title="ethiopic syllable tzoa">ፇ</li>
+    <li class="symb" data-code="4936" code="1348" title="ethiopic syllable fa">ፈ</li>
+    <li class="symb" data-code="4937" code="1349" title="ethiopic syllable fu">ፉ</li>
+    <li class="symb" data-code="4938" code="134a" title="ethiopic syllable fi">ፊ</li>
+    <li class="symb" data-code="4939" code="134b" title="ethiopic syllable faa">ፋ</li>
+    <li class="symb" data-code="4940" code="134c" title="ethiopic syllable fee">ፌ</li>
+    <li class="symb" data-code="4941" code="134d" title="ethiopic syllable fe">ፍ</li>
+    <li class="symb" data-code="4942" code="134e" title="ethiopic syllable fo">ፎ</li>
+    <li class="symb" data-code="4943" code="134f" title="ethiopic syllable fwa">ፏ</li>
+    <li class="h">1350</li>
+    <li class="symb" data-code="4944" code="1350" title="ethiopic syllable pa">ፐ</li>
+    <li class="symb" data-code="4945" code="1351" title="ethiopic syllable pu">ፑ</li>
+    <li class="symb" data-code="4946" code="1352" title="ethiopic syllable pi">ፒ</li>
+    <li class="symb" data-code="4947" code="1353" title="ethiopic syllable paa">ፓ</li>
+    <li class="symb" data-code="4948" code="1354" title="ethiopic syllable pee">ፔ</li>
+    <li class="symb" data-code="4949" code="1355" title="ethiopic syllable pe">ፕ</li>
+    <li class="symb" data-code="4950" code="1356" title="ethiopic syllable po">ፖ</li>
+    <li class="symb" data-code="4951" code="1357" title="ethiopic syllable pwa">ፗ</li>
+    <li class="symb" data-code="4952" code="1358" title="ethiopic syllable rya">ፘ</li>
+    <li class="symb" data-code="4953" code="1359" title="ethiopic syllable mya">ፙ</li>
+    <li class="symb" data-code="4954" code="135a" title="ethiopic syllable fya">ፚ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4957" code="135d" title="ethiopic combining gemination and vowel length mark">፝</li>
+    <li class="symb" data-code="4958" code="135e" title="ethiopic combining vowel length mark">፞</li>
+    <li class="symb" data-code="4959" code="135f" title="ethiopic combining gemination mark">፟</li>
+    <li class="h">1360</li>
+    <li class="symb" data-code="4960" code="1360" title="ethiopic section mark">፠</li>
+    <li class="symb" data-code="4961" code="1361" title="ethiopic wordspace">፡</li>
+    <li class="symb" data-code="4962" code="1362" title="ethiopic full stop">።</li>
+    <li class="symb" data-code="4963" code="1363" title="ethiopic comma">፣</li>
+    <li class="symb" data-code="4964" code="1364" title="ethiopic semicolon">፤</li>
+    <li class="symb" data-code="4965" code="1365" title="ethiopic colon">፥</li>
+    <li class="symb" data-code="4966" code="1366" title="ethiopic preface colon">፦</li>
+    <li class="symb" data-code="4967" code="1367" title="ethiopic question mark">፧</li>
+    <li class="symb" data-code="4968" code="1368" title="ethiopic paragraph separator">፨</li>
+    <li class="symb" data-code="4969" code="1369" title="ethiopic digit one">፩</li>
+    <li class="symb" data-code="4970" code="136a" title="ethiopic digit two">፪</li>
+    <li class="symb" data-code="4971" code="136b" title="ethiopic digit three">፫</li>
+    <li class="symb" data-code="4972" code="136c" title="ethiopic digit four">፬</li>
+    <li class="symb" data-code="4973" code="136d" title="ethiopic digit five">፭</li>
+    <li class="symb" data-code="4974" code="136e" title="ethiopic digit six">፮</li>
+    <li class="symb" data-code="4975" code="136f" title="ethiopic digit seven">፯</li>
+    <li class="h">1370</li>
+    <li class="symb" data-code="4976" code="1370" title="ethiopic digit eight">፰</li>
+    <li class="symb" data-code="4977" code="1371" title="ethiopic digit nine">፱</li>
+    <li class="symb" data-code="4978" code="1372" title="ethiopic number ten">፲</li>
+    <li class="symb" data-code="4979" code="1373" title="ethiopic number twenty">፳</li>
+    <li class="symb" data-code="4980" code="1374" title="ethiopic number thirty">፴</li>
+    <li class="symb" data-code="4981" code="1375" title="ethiopic number forty">፵</li>
+    <li class="symb" data-code="4982" code="1376" title="ethiopic number fifty">፶</li>
+    <li class="symb" data-code="4983" code="1377" title="ethiopic number sixty">፷</li>
+    <li class="symb" data-code="4984" code="1378" title="ethiopic number seventy">፸</li>
+    <li class="symb" data-code="4985" code="1379" title="ethiopic number eighty">፹</li>
+    <li class="symb" data-code="4986" code="137a" title="ethiopic number ninety">፺</li>
+    <li class="symb" data-code="4987" code="137b" title="ethiopic number hundred">፻</li>
+    <li class="symb" data-code="4988" code="137c" title="ethiopic number ten thousand">፼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

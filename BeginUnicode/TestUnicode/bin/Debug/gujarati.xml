@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0a80</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2689" code="0a81" title="gujarati sign candrabindu">ઁ</li>
+    <li class="symb" data-code="2690" code="0a82" title="gujarati sign anusvara">ં</li>
+    <li class="symb" data-code="2691" code="0a83" title="gujarati sign visarga">ઃ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2693" code="0a85" title="gujarati letter a">અ</li>
+    <li class="symb" data-code="2694" code="0a86" title="gujarati letter aa">આ</li>
+    <li class="symb" data-code="2695" code="0a87" title="gujarati letter i">ઇ</li>
+    <li class="symb" data-code="2696" code="0a88" title="gujarati letter ii">ઈ</li>
+    <li class="symb" data-code="2697" code="0a89" title="gujarati letter u">ઉ</li>
+    <li class="symb" data-code="2698" code="0a8a" title="gujarati letter uu">ઊ</li>
+    <li class="symb" data-code="2699" code="0a8b" title="gujarati letter vocalic r">ઋ</li>
+    <li class="symb" data-code="2700" code="0a8c" title="gujarati letter vocalic l">ઌ</li>
+    <li class="symb" data-code="2701" code="0a8d" title="gujarati vowel candra e">ઍ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2703" code="0a8f" title="gujarati letter e">એ</li>
+    <li class="h">0a90</li>
+    <li class="symb" data-code="2704" code="0a90" title="gujarati letter ai">ઐ</li>
+    <li class="symb" data-code="2705" code="0a91" title="gujarati vowel candra o">ઑ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2707" code="0a93" title="gujarati letter o">ઓ</li>
+    <li class="symb" data-code="2708" code="0a94" title="gujarati letter au">ઔ</li>
+    <li class="symb" data-code="2709" code="0a95" title="gujarati letter ka">ક</li>
+    <li class="symb" data-code="2710" code="0a96" title="gujarati letter kha">ખ</li>
+    <li class="symb" data-code="2711" code="0a97" title="gujarati letter ga">ગ</li>
+    <li class="symb" data-code="2712" code="0a98" title="gujarati letter gha">ઘ</li>
+    <li class="symb" data-code="2713" code="0a99" title="gujarati letter nga">ઙ</li>
+    <li class="symb" data-code="2714" code="0a9a" title="gujarati letter ca">ચ</li>
+    <li class="symb" data-code="2715" code="0a9b" title="gujarati letter cha">છ</li>
+    <li class="symb" data-code="2716" code="0a9c" title="gujarati letter ja">જ</li>
+    <li class="symb" data-code="2717" code="0a9d" title="gujarati letter jha">ઝ</li>
+    <li class="symb" data-code="2718" code="0a9e" title="gujarati letter nya">ઞ</li>
+    <li class="symb" data-code="2719" code="0a9f" title="gujarati letter tta">ટ</li>
+    <li class="h">0aa0</li>
+    <li class="symb" data-code="2720" code="0aa0" title="gujarati letter ttha">ઠ</li>
+    <li class="symb" data-code="2721" code="0aa1" title="gujarati letter dda">ડ</li>
+    <li class="symb" data-code="2722" code="0aa2" title="gujarati letter ddha">ઢ</li>
+    <li class="symb" data-code="2723" code="0aa3" title="gujarati letter nna">ણ</li>
+    <li class="symb" data-code="2724" code="0aa4" title="gujarati letter ta">ત</li>
+    <li class="symb" data-code="2725" code="0aa5" title="gujarati letter tha">થ</li>
+    <li class="symb" data-code="2726" code="0aa6" title="gujarati letter da">દ</li>
+    <li class="symb" data-code="2727" code="0aa7" title="gujarati letter dha">ધ</li>
+    <li class="symb" data-code="2728" code="0aa8" title="gujarati letter na">ન</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2730" code="0aaa" title="gujarati letter pa">પ</li>
+    <li class="symb" data-code="2731" code="0aab" title="gujarati letter pha">ફ</li>
+    <li class="symb" data-code="2732" code="0aac" title="gujarati letter ba">બ</li>
+    <li class="symb" data-code="2733" code="0aad" title="gujarati letter bha">ભ</li>
+    <li class="symb" data-code="2734" code="0aae" title="gujarati letter ma">મ</li>
+    <li class="symb" data-code="2735" code="0aaf" title="gujarati letter ya">ય</li>
+    <li class="h">0ab0</li>
+    <li class="symb" data-code="2736" code="0ab0" title="gujarati letter ra">ર</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2738" code="0ab2" title="gujarati letter la">લ</li>
+    <li class="symb" data-code="2739" code="0ab3" title="gujarati letter lla">ળ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2741" code="0ab5" title="gujarati letter va">વ</li>
+    <li class="symb" data-code="2742" code="0ab6" title="gujarati letter sha">શ</li>
+    <li class="symb" data-code="2743" code="0ab7" title="gujarati letter ssa">ષ</li>
+    <li class="symb" data-code="2744" code="0ab8" title="gujarati letter sa">સ</li>
+    <li class="symb" data-code="2745" code="0ab9" title="gujarati letter ha">હ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2748" code="0abc" title="gujarati sign nukta">઼</li>
+    <li class="symb" data-code="2749" code="0abd" title="gujarati sign avagraha">ઽ</li>
+    <li class="symb" data-code="2750" code="0abe" title="gujarati vowel sign aa">ા</li>
+    <li class="symb" data-code="2751" code="0abf" title="gujarati vowel sign i">િ</li>
+    <li class="h">0ac0</li>
+    <li class="symb" data-code="2752" code="0ac0" title="gujarati vowel sign ii">ી</li>
+    <li class="symb" data-code="2753" code="0ac1" title="gujarati vowel sign u">ુ</li>
+    <li class="symb" data-code="2754" code="0ac2" title="gujarati vowel sign uu">ૂ</li>
+    <li class="symb" data-code="2755" code="0ac3" title="gujarati vowel sign vocalic r">ૃ</li>
+    <li class="symb" data-code="2756" code="0ac4" title="gujarati vowel sign vocalic rr">ૄ</li>
+    <li class="symb" data-code="2757" code="0ac5" title="gujarati vowel sign candra e">ૅ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2759" code="0ac7" title="gujarati vowel sign e">ે</li>
+    <li class="symb" data-code="2760" code="0ac8" title="gujarati vowel sign ai">ૈ</li>
+    <li class="symb" data-code="2761" code="0ac9" title="gujarati vowel sign candra o">ૉ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2763" code="0acb" title="gujarati vowel sign o">ો</li>
+    <li class="symb" data-code="2764" code="0acc" title="gujarati vowel sign au">ૌ</li>
+    <li class="symb" data-code="2765" code="0acd" title="gujarati sign virama">્</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0ad0</li>
+    <li class="symb" data-code="2768" code="0ad0" title="gujarati om">ૐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0ae0</li>
+    <li class="symb" data-code="2784" code="0ae0" title="gujarati letter vocalic rr">ૠ</li>
+    <li class="symb" data-code="2785" code="0ae1" title="gujarati letter vocalic ll">ૡ</li>
+    <li class="symb" data-code="2786" code="0ae2" title="gujarati vowel sign vocalic l">ૢ</li>
+    <li class="symb" data-code="2787" code="0ae3" title="gujarati vowel sign vocalic ll">ૣ</li>
+    <li class="symb" data-code="2788" code="0ae4" title="reserved">૤</li>
+    <li class="symb" data-code="2789" code="0ae5" title="reserved">૥</li>
+    <li class="symb" data-code="2790" code="0ae6" title="gujarati digit zero">૦</li>
+    <li class="symb" data-code="2791" code="0ae7" title="gujarati digit one">૧</li>
+    <li class="symb" data-code="2792" code="0ae8" title="gujarati digit two">૨</li>
+    <li class="symb" data-code="2793" code="0ae9" title="gujarati digit three">૩</li>
+    <li class="symb" data-code="2794" code="0aea" title="gujarati digit four">૪</li>
+    <li class="symb" data-code="2795" code="0aeb" title="gujarati digit five">૫</li>
+    <li class="symb" data-code="2796" code="0aec" title="gujarati digit six">૬</li>
+    <li class="symb" data-code="2797" code="0aed" title="gujarati digit seven">૭</li>
+    <li class="symb" data-code="2798" code="0aee" title="gujarati digit eight">૮</li>
+    <li class="symb" data-code="2799" code="0aef" title="gujarati digit nine">૯</li>
+    <li class="h">0af0</li>
+    <li class="symb" data-code="2800" code="0af0" title="gujarati abbreviation sign">૰</li>
+    <li class="symb" data-code="2801" code="0af1" title="gujarati rupee sign">૱</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2809" code="0af9" title="gujarati letter zha">ૹ</li>
+    <li class="symb" data-code="2810" code="0afa" title="gujarati sign sukun">ૺ</li>
+    <li class="symb" data-code="2811" code="0afb" title="gujarati sign shadda">ૻ</li>
+    <li class="symb" data-code="2812" code="0afc" title="gujarati sign maddah">ૼ</li>
+    <li class="symb" data-code="2813" code="0afd" title="gujarati sign three-dot nukta above">૽</li>
+    <li class="symb" data-code="2814" code="0afe" title="gujarati sign circle nukta above">૾</li>
+    <li class="symb" data-code="2815" code="0aff" title="gujarati sign two-circle nukta above">૿</li>
+  </ul>
+</root>

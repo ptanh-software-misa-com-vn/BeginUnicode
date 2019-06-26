@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0180</li>
+    <li class="symb" data-code="384" code="0180" title="latin small letter b with stroke">ƀ</li>
+    <li class="symb" data-code="385" code="0181" title="latin capital letter b with hook">ɓ</li>
+    <li class="symb" data-code="386" code="0182" title="latin capital letter b with topbar">ƃ</li>
+    <li class="symb" data-code="387" code="0183" title="latin small letter b with topbar">ƃ</li>
+    <li class="symb" data-code="388" code="0184" title="latin capital letter tone six">ƅ</li>
+    <li class="symb" data-code="389" code="0185" title="latin small letter tone six">ƅ</li>
+    <li class="symb" data-code="390" code="0186" title="latin capital letter open o">ɔ</li>
+    <li class="symb" data-code="391" code="0187" title="latin capital letter c with hook">ƈ</li>
+    <li class="symb" data-code="392" code="0188" title="latin small letter c with hook">ƈ</li>
+    <li class="symb" data-code="393" code="0189" title="latin capital letter african d">ɖ</li>
+    <li class="symb" data-code="394" code="018a" title="latin capital letter d with hook">ɗ</li>
+    <li class="symb" data-code="395" code="018b" title="latin capital letter d with topbar">ƌ</li>
+    <li class="symb" data-code="396" code="018c" title="latin small letter d with topbar">ƌ</li>
+    <li class="symb" data-code="397" code="018d" title="latin small letter turned delta">ƍ</li>
+    <li class="symb" data-code="398" code="018e" title="latin capital letter reversed e">ǝ</li>
+    <li class="symb" data-code="399" code="018f" title="latin capital letter schwa">ə</li>
+    <li class="h">0190</li>
+    <li class="symb" data-code="400" code="0190" title="latin capital letter open e">ɛ</li>
+    <li class="symb" data-code="401" code="0191" title="latin capital letter f with hook">ƒ</li>
+    <li class="symb" data-code="402" code="0192" title="latin small letter f with hook">ƒ</li>
+    <li class="symb" data-code="403" code="0193" title="latin capital letter g with hook">ɠ</li>
+    <li class="symb" data-code="404" code="0194" title="latin capital letter gamma">ɣ</li>
+    <li class="symb" data-code="405" code="0195" title="latin small letter hv">ƕ</li>
+    <li class="symb" data-code="406" code="0196" title="latin capital letter iota">ɩ</li>
+    <li class="symb" data-code="407" code="0197" title="latin capital letter i with stroke">ɨ</li>
+    <li class="symb" data-code="408" code="0198" title="latin capital letter k with hook">ƙ</li>
+    <li class="symb" data-code="409" code="0199" title="latin small letter k with hook">ƙ</li>
+    <li class="symb" data-code="410" code="019a" title="latin small letter l with bar">ƚ</li>
+    <li class="symb" data-code="411" code="019b" title="latin small letter lambda with stroke">ƛ</li>
+    <li class="symb" data-code="412" code="019c" title="latin capital letter turned m">ɯ</li>
+    <li class="symb" data-code="413" code="019d" title="latin capital letter n with left hook">ɲ</li>
+    <li class="symb" data-code="414" code="019e" title="latin small letter n with long right leg">ƞ</li>
+    <li class="symb" data-code="415" code="019f" title="latin capital letter o with middle tilde">ɵ</li>
+    <li class="h">01a0</li>
+    <li class="symb" data-code="416" code="01a0" title="latin capital letter o with horn">ơ</li>
+    <li class="symb" data-code="417" code="01a1" title="latin small letter o with horn">ơ</li>
+    <li class="symb" data-code="418" code="01a2" title="latin capital letter oi">ƣ</li>
+    <li class="symb" data-code="419" code="01a3" title="latin small letter oi">ƣ</li>
+    <li class="symb" data-code="420" code="01a4" title="latin capital letter p with hook">ƥ</li>
+    <li class="symb" data-code="421" code="01a5" title="latin small letter p with hook">ƥ</li>
+    <li class="symb" data-code="422" code="01a6" title="latin letter yr">ʀ</li>
+    <li class="symb" data-code="423" code="01a7" title="latin capital letter tone two">ƨ</li>
+    <li class="symb" data-code="424" code="01a8" title="latin small letter tone two">ƨ</li>
+    <li class="symb" data-code="425" code="01a9" title="latin capital letter esh">ʃ</li>
+    <li class="symb" data-code="426" code="01aa" title="latin letter reversed esh loop">ƪ</li>
+    <li class="symb" data-code="427" code="01ab" title="latin small letter t with palatal hook">ƫ</li>
+    <li class="symb" data-code="428" code="01ac" title="latin capital letter t with hook">ƭ</li>
+    <li class="symb" data-code="429" code="01ad" title="latin small letter t with hook">ƭ</li>
+    <li class="symb" data-code="430" code="01ae" title="latin capital letter t with retroflex hook">ʈ</li>
+    <li class="symb" data-code="431" code="01af" title="latin capital letter u with horn">ư</li>
+    <li class="h">01b0</li>
+    <li class="symb" data-code="432" code="01b0" title="latin small letter u with horn">ư</li>
+    <li class="symb" data-code="433" code="01b1" title="latin capital letter upsilon">ʊ</li>
+    <li class="symb" data-code="434" code="01b2" title="latin capital letter v with hook">ʋ</li>
+    <li class="symb" data-code="435" code="01b3" title="latin capital letter y with hook">ƴ</li>
+    <li class="symb" data-code="436" code="01b4" title="latin small letter y with hook">ƴ</li>
+    <li class="symb" data-code="437" code="01b5" title="latin capital letter z with stroke">ƶ</li>
+    <li class="symb" data-code="438" code="01b6" title="latin small letter z with stroke">ƶ</li>
+    <li class="symb" data-code="439" code="01b7" title="latin capital letter ezh">ʒ</li>
+    <li class="symb" data-code="440" code="01b8" title="latin capital letter ezh reversed">ƹ</li>
+    <li class="symb" data-code="441" code="01b9" title="latin small letter ezh reversed">ƹ</li>
+    <li class="symb" data-code="442" code="01ba" title="latin small letter ezh with tail">ƺ</li>
+    <li class="symb" data-code="443" code="01bb" title="latin letter two with stroke">ƻ</li>
+    <li class="symb" data-code="444" code="01bc" title="latin capital letter tone five">ƽ</li>
+    <li class="symb" data-code="445" code="01bd" title="latin small letter tone five">ƽ</li>
+    <li class="symb" data-code="446" code="01be" title="latin letter inverted glottal stop with stroke">ƾ</li>
+    <li class="symb" data-code="447" code="01bf" title="latin letter wynn">ƿ</li>
+    <li class="h">01c0</li>
+    <li class="symb" data-code="448" code="01c0" title="latin letter dental click">ǀ</li>
+    <li class="symb" data-code="449" code="01c1" title="latin letter lateral click">ǁ</li>
+    <li class="symb" data-code="450" code="01c2" title="latin letter alveolar click">ǂ</li>
+    <li class="symb" data-code="451" code="01c3" title="latin letter retroflex click">ǃ</li>
+    <li class="symb" data-code="452" code="01c4" title="latin capital letter dz with caron">ǆ</li>
+    <li class="symb" data-code="453" code="01c5" title="latin capital letter d with small letter z with caron">ǆ</li>
+    <li class="symb" data-code="454" code="01c6" title="latin small letter dz with caron">ǆ</li>
+    <li class="symb" data-code="455" code="01c7" title="latin capital letter lj">ǉ</li>
+    <li class="symb" data-code="456" code="01c8" title="latin capital letter l with small letter j">ǉ</li>
+    <li class="symb" data-code="457" code="01c9" title="latin small letter lj">ǉ</li>
+    <li class="symb" data-code="458" code="01ca" title="latin capital letter nj">ǌ</li>
+    <li class="symb" data-code="459" code="01cb" title="latin capital letter n with small letter j">ǌ</li>
+    <li class="symb" data-code="460" code="01cc" title="latin small letter nj">ǌ</li>
+    <li class="symb" data-code="461" code="01cd" title="latin capital letter a with caron">ǎ</li>
+    <li class="symb" data-code="462" code="01ce" title="latin small letter a with caron">ǎ</li>
+    <li class="symb" data-code="463" code="01cf" title="latin capital letter i with caron">ǐ</li>
+    <li class="h">01d0</li>
+    <li class="symb" data-code="464" code="01d0" title="latin small letter i with caron">ǐ</li>
+    <li class="symb" data-code="465" code="01d1" title="latin capital letter o with caron">ǒ</li>
+    <li class="symb" data-code="466" code="01d2" title="latin small letter o with caron">ǒ</li>
+    <li class="symb" data-code="467" code="01d3" title="latin capital letter u with caron">ǔ</li>
+    <li class="symb" data-code="468" code="01d4" title="latin small letter u with caron">ǔ</li>
+    <li class="symb" data-code="469" code="01d5" title="latin capital letter u with diaeresis and macron">ǖ</li>
+    <li class="symb" data-code="470" code="01d6" title="latin small letter u with diaeresis and macron">ǖ</li>
+    <li class="symb" data-code="471" code="01d7" title="latin capital letter u with diaeresis and acute">ǘ</li>
+    <li class="symb" data-code="472" code="01d8" title="latin small letter u with diaeresis and acute">ǘ</li>
+    <li class="symb" data-code="473" code="01d9" title="latin capital letter u with diaeresis and caron">ǚ</li>
+    <li class="symb" data-code="474" code="01da" title="latin small letter u with diaeresis and caron">ǚ</li>
+    <li class="symb" data-code="475" code="01db" title="latin capital letter u with diaeresis and grave">ǜ</li>
+    <li class="symb" data-code="476" code="01dc" title="latin small letter u with diaeresis and grave">ǜ</li>
+    <li class="symb" data-code="477" code="01dd" title="latin small letter turned e">ǝ</li>
+    <li class="symb" data-code="478" code="01de" title="latin capital letter a with diaeresis and macron">ǟ</li>
+    <li class="symb" data-code="479" code="01df" title="latin small letter a with diaeresis and macron">ǟ</li>
+    <li class="h">01e0</li>
+    <li class="symb" data-code="480" code="01e0" title="latin capital letter a with dot above and macron">ǡ</li>
+    <li class="symb" data-code="481" code="01e1" title="latin small letter a with dot above and macron">ǡ</li>
+    <li class="symb" data-code="482" code="01e2" title="latin capital letter ae with macron">ǣ</li>
+    <li class="symb" data-code="483" code="01e3" title="latin small letter ae with macron">ǣ</li>
+    <li class="symb" data-code="484" code="01e4" title="latin capital letter g with stroke">ǥ</li>
+    <li class="symb" data-code="485" code="01e5" title="latin small letter g with stroke">ǥ</li>
+    <li class="symb" data-code="486" code="01e6" title="latin capital letter g with caron">ǧ</li>
+    <li class="symb" data-code="487" code="01e7" title="latin small letter g with caron">ǧ</li>
+    <li class="symb" data-code="488" code="01e8" title="latin capital letter k with caron">ǩ</li>
+    <li class="symb" data-code="489" code="01e9" title="latin small letter k with caron">ǩ</li>
+    <li class="symb" data-code="490" code="01ea" title="latin capital letter o with ogonek">ǫ</li>
+    <li class="symb" data-code="491" code="01eb" title="latin small letter o with ogonek">ǫ</li>
+    <li class="symb" data-code="492" code="01ec" title="latin capital letter o with ogonek and macron">ǭ</li>
+    <li class="symb" data-code="493" code="01ed" title="latin small letter o with ogonek and macron">ǭ</li>
+    <li class="symb" data-code="494" code="01ee" title="latin capital letter ezh with caron">ǯ</li>
+    <li class="symb" data-code="495" code="01ef" title="latin small letter ezh with caron">ǯ</li>
+    <li class="h">01f0</li>
+    <li class="symb" data-code="496" code="01f0" title="latin small letter j with caron">ǰ</li>
+    <li class="symb" data-code="497" code="01f1" title="latin capital letter dz">ǳ</li>
+    <li class="symb" data-code="498" code="01f2" title="latin capital letter d with small letter z">ǳ</li>
+    <li class="symb" data-code="499" code="01f3" title="latin small letter dz">ǳ</li>
+    <li class="symb" data-code="500" code="01f4" title="latin capital letter g with acute">ǵ</li>
+    <li class="symb" data-code="501" code="01f5" title="latin small letter g with acute">ǵ</li>
+    <li class="symb" data-code="502" code="01f6" title="latin capital letter hwair">ƕ</li>
+    <li class="symb" data-code="503" code="01f7" title="latin capital letter wynn">ƿ</li>
+    <li class="symb" data-code="504" code="01f8" title="latin capital letter n with grave">ǹ</li>
+    <li class="symb" data-code="505" code="01f9" title="latin small letter n with grave">ǹ</li>
+    <li class="symb" data-code="506" code="01fa" title="latin capital letter a with ring above and acute">ǻ</li>
+    <li class="symb" data-code="507" code="01fb" title="latin small letter a with ring above and acute">ǻ</li>
+    <li class="symb" data-code="508" code="01fc" title="latin capital letter ae with acute">ǽ</li>
+    <li class="symb" data-code="509" code="01fd" title="latin small letter ae with acute">ǽ</li>
+    <li class="symb" data-code="510" code="01fe" title="latin capital letter o with stroke and acute">ǿ</li>
+    <li class="symb" data-code="511" code="01ff" title="latin small letter o with stroke and acute">ǿ</li>
+  </ul>
+</root>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0e00</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3585" code="0e01" title="thai character ko kai">ก</li>
+    <li class="symb" data-code="3586" code="0e02" title="thai character kho khai">ข</li>
+    <li class="symb" data-code="3587" code="0e03" title="thai character kho khuat">ฃ</li>
+    <li class="symb" data-code="3588" code="0e04" title="thai character kho khwai">ค</li>
+    <li class="symb" data-code="3589" code="0e05" title="thai character kho khon">ฅ</li>
+    <li class="symb" data-code="3590" code="0e06" title="thai character kho rakhang">ฆ</li>
+    <li class="symb" data-code="3591" code="0e07" title="thai character ngo ngu">ง</li>
+    <li class="symb" data-code="3592" code="0e08" title="thai character cho chan">จ</li>
+    <li class="symb" data-code="3593" code="0e09" title="thai character cho ching">ฉ</li>
+    <li class="symb" data-code="3594" code="0e0a" title="thai character cho chang">ช</li>
+    <li class="symb" data-code="3595" code="0e0b" title="thai character so so">ซ</li>
+    <li class="symb" data-code="3596" code="0e0c" title="thai character cho choe">ฌ</li>
+    <li class="symb" data-code="3597" code="0e0d" title="thai character yo ying">ญ</li>
+    <li class="symb" data-code="3598" code="0e0e" title="thai character do chada">ฎ</li>
+    <li class="symb" data-code="3599" code="0e0f" title="thai character to patak">ฏ</li>
+    <li class="h">0e10</li>
+    <li class="symb" data-code="3600" code="0e10" title="thai character tho than">ฐ</li>
+    <li class="symb" data-code="3601" code="0e11" title="thai character tho nangmontho">ฑ</li>
+    <li class="symb" data-code="3602" code="0e12" title="thai character tho phuthao">ฒ</li>
+    <li class="symb" data-code="3603" code="0e13" title="thai character no nen">ณ</li>
+    <li class="symb" data-code="3604" code="0e14" title="thai character do dek">ด</li>
+    <li class="symb" data-code="3605" code="0e15" title="thai character to tao">ต</li>
+    <li class="symb" data-code="3606" code="0e16" title="thai character tho thung">ถ</li>
+    <li class="symb" data-code="3607" code="0e17" title="thai character tho thahan">ท</li>
+    <li class="symb" data-code="3608" code="0e18" title="thai character tho thong">ธ</li>
+    <li class="symb" data-code="3609" code="0e19" title="thai character no nu">น</li>
+    <li class="symb" data-code="3610" code="0e1a" title="thai character bo baimai">บ</li>
+    <li class="symb" data-code="3611" code="0e1b" title="thai character po pla">ป</li>
+    <li class="symb" data-code="3612" code="0e1c" title="thai character pho phung">ผ</li>
+    <li class="symb" data-code="3613" code="0e1d" title="thai character fo fa">ฝ</li>
+    <li class="symb" data-code="3614" code="0e1e" title="thai character pho phan">พ</li>
+    <li class="symb" data-code="3615" code="0e1f" title="thai character fo fan">ฟ</li>
+    <li class="h">0e20</li>
+    <li class="symb" data-code="3616" code="0e20" title="thai character pho samphao">ภ</li>
+    <li class="symb" data-code="3617" code="0e21" title="thai character mo ma">ม</li>
+    <li class="symb" data-code="3618" code="0e22" title="thai character yo yak">ย</li>
+    <li class="symb" data-code="3619" code="0e23" title="thai character ro rua">ร</li>
+    <li class="symb" data-code="3620" code="0e24" title="thai character ru">ฤ</li>
+    <li class="symb" data-code="3621" code="0e25" title="thai character lo ling">ล</li>
+    <li class="symb" data-code="3622" code="0e26" title="thai character lu">ฦ</li>
+    <li class="symb" data-code="3623" code="0e27" title="thai character wo waen">ว</li>
+    <li class="symb" data-code="3624" code="0e28" title="thai character so sala">ศ</li>
+    <li class="symb" data-code="3625" code="0e29" title="thai character so rusi">ษ</li>
+    <li class="symb" data-code="3626" code="0e2a" title="thai character so sua">ส</li>
+    <li class="symb" data-code="3627" code="0e2b" title="thai character ho hip">ห</li>
+    <li class="symb" data-code="3628" code="0e2c" title="thai character lo chula">ฬ</li>
+    <li class="symb" data-code="3629" code="0e2d" title="thai character o ang">อ</li>
+    <li class="symb" data-code="3630" code="0e2e" title="thai character ho nokhuk">ฮ</li>
+    <li class="symb" data-code="3631" code="0e2f" title="thai character paiyannoi">ฯ</li>
+    <li class="h">0e30</li>
+    <li class="symb" data-code="3632" code="0e30" title="thai character sara a">ะ</li>
+    <li class="symb" data-code="3633" code="0e31" title="thai character mai han-akat">ั</li>
+    <li class="symb" data-code="3634" code="0e32" title="thai character sara aa">า</li>
+    <li class="symb" data-code="3635" code="0e33" title="thai character sara am">ำ</li>
+    <li class="symb" data-code="3636" code="0e34" title="thai character sara i">ิ</li>
+    <li class="symb" data-code="3637" code="0e35" title="thai character sara ii">ี</li>
+    <li class="symb" data-code="3638" code="0e36" title="thai character sara ue">ึ</li>
+    <li class="symb" data-code="3639" code="0e37" title="thai character sara uee">ื</li>
+    <li class="symb" data-code="3640" code="0e38" title="thai character sara u">ุ</li>
+    <li class="symb" data-code="3641" code="0e39" title="thai character sara uu">ู</li>
+    <li class="symb" data-code="3642" code="0e3a" title="thai character phinthu">ฺ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3647" code="0e3f" title="thai currency symbol baht">฿</li>
+    <li class="h">0e40</li>
+    <li class="symb" data-code="3648" code="0e40" title="thai character sara e">เ</li>
+    <li class="symb" data-code="3649" code="0e41" title="thai character sara ae">แ</li>
+    <li class="symb" data-code="3650" code="0e42" title="thai character sara o">โ</li>
+    <li class="symb" data-code="3651" code="0e43" title="thai character sara ai maimuan">ใ</li>
+    <li class="symb" data-code="3652" code="0e44" title="thai character sara ai maimalai">ไ</li>
+    <li class="symb" data-code="3653" code="0e45" title="thai character lakkhangyao">ๅ</li>
+    <li class="symb" data-code="3654" code="0e46" title="thai character maiyamok">ๆ</li>
+    <li class="symb" data-code="3655" code="0e47" title="thai character maitaikhu">็</li>
+    <li class="symb" data-code="3656" code="0e48" title="thai character mai ek">่</li>
+    <li class="symb" data-code="3657" code="0e49" title="thai character mai tho">้</li>
+    <li class="symb" data-code="3658" code="0e4a" title="thai character mai tri">๊</li>
+    <li class="symb" data-code="3659" code="0e4b" title="thai character mai chattawa">๋</li>
+    <li class="symb" data-code="3660" code="0e4c" title="thai character thanthakhat">์</li>
+    <li class="symb" data-code="3661" code="0e4d" title="thai character nikhahit">ํ</li>
+    <li class="symb" data-code="3662" code="0e4e" title="thai character yamakkan">๎</li>
+    <li class="symb" data-code="3663" code="0e4f" title="thai character fongman">๏</li>
+    <li class="h">0e50</li>
+    <li class="symb" data-code="3664" code="0e50" title="thai digit zero">๐</li>
+    <li class="symb" data-code="3665" code="0e51" title="thai digit one">๑</li>
+    <li class="symb" data-code="3666" code="0e52" title="thai digit two">๒</li>
+    <li class="symb" data-code="3667" code="0e53" title="thai digit three">๓</li>
+    <li class="symb" data-code="3668" code="0e54" title="thai digit four">๔</li>
+    <li class="symb" data-code="3669" code="0e55" title="thai digit five">๕</li>
+    <li class="symb" data-code="3670" code="0e56" title="thai digit six">๖</li>
+    <li class="symb" data-code="3671" code="0e57" title="thai digit seven">๗</li>
+    <li class="symb" data-code="3672" code="0e58" title="thai digit eight">๘</li>
+    <li class="symb" data-code="3673" code="0e59" title="thai digit nine">๙</li>
+    <li class="symb" data-code="3674" code="0e5a" title="thai character angkhankhu">๚</li>
+    <li class="symb" data-code="3675" code="0e5b" title="thai character khomut">๛</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0e60</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0e70</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0600</li>
+    <li class="symb" data-code="1536" code="0600" title="arabic number sign">؀</li>
+    <li class="symb" data-code="1537" code="0601" title="arabic sign sanah">؁</li>
+    <li class="symb" data-code="1538" code="0602" title="arabic footnote marker">؂</li>
+    <li class="symb" data-code="1539" code="0603" title="arabic sign safha">؃</li>
+    <li class="symb" data-code="1540" code="0604" title="arabic sign samvat">؄</li>
+    <li class="symb" data-code="1541" code="0605" title="arabic number mark above">؅</li>
+    <li class="symb" data-code="1542" code="0606" title="arabic-indic cube root">؆</li>
+    <li class="symb" data-code="1543" code="0607" title="arabic-indic fourth root">؇</li>
+    <li class="symb" data-code="1544" code="0608" title="arabic ray">؈</li>
+    <li class="symb" data-code="1545" code="0609" title="arabic-indic per mille sign">؉</li>
+    <li class="symb" data-code="1546" code="060a" title="arabic-indic per ten thousand sign">؊</li>
+    <li class="symb" data-code="1547" code="060b" title="afghani sign">؋</li>
+    <li class="symb" data-code="1548" code="060c" title="arabic comma">،</li>
+    <li class="symb" data-code="1549" code="060d" title="arabic date separator">؍</li>
+    <li class="symb" data-code="1550" code="060e" title="arabic poetic verse sign">؎</li>
+    <li class="symb" data-code="1551" code="060f" title="arabic sign misra">؏</li>
+    <li class="h">0610</li>
+    <li class="symb" data-code="1552" code="0610" title="arabic sign sallallahou alayhe wassallam">ؐ</li>
+    <li class="symb" data-code="1553" code="0611" title="arabic sign alayhe assallam">ؑ</li>
+    <li class="symb" data-code="1554" code="0612" title="arabic sign rahmatullah alayhe">ؒ</li>
+    <li class="symb" data-code="1555" code="0613" title="arabic sign radi allahou anhu">ؓ</li>
+    <li class="symb" data-code="1556" code="0614" title="arabic sign takhallus">ؔ</li>
+    <li class="symb" data-code="1557" code="0615" title="arabic small high tah">ؕ</li>
+    <li class="symb" data-code="1558" code="0616" title="arabic small high ligature alef with lam with yeh">ؖ</li>
+    <li class="symb" data-code="1559" code="0617" title="arabic small high zain">ؗ</li>
+    <li class="symb" data-code="1560" code="0618" title="arabic small fatha">ؘ</li>
+    <li class="symb" data-code="1561" code="0619" title="arabic small damma">ؙ</li>
+    <li class="symb" data-code="1562" code="061a" title="arabic small kasra">ؚ</li>
+    <li class="symb" data-code="1563" code="061b" title="arabic semicolon">؛</li>
+    <li class="symb" data-code="1564" code="061c" title="arabic letter mark"></li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="1566" code="061e" title="arabic triple dot punctuation mark">؞</li>
+    <li class="symb" data-code="1567" code="061f" title="arabic question mark">؟</li>
+    <li class="h">0620</li>
+    <li class="symb" data-code="1568" code="0620" title="arabic letter kashmiri yeh">ؠ</li>
+    <li class="symb" data-code="1569" code="0621" title="arabic letter hamza">ء</li>
+    <li class="symb" data-code="1570" code="0622" title="arabic letter alef with madda above">آ</li>
+    <li class="symb" data-code="1571" code="0623" title="arabic letter alef with hamza above">أ</li>
+    <li class="symb" data-code="1572" code="0624" title="arabic letter waw with hamza above">ؤ</li>
+    <li class="symb" data-code="1573" code="0625" title="arabic letter alef with hamza below">إ</li>
+    <li class="symb" data-code="1574" code="0626" title="arabic letter yeh with hamza above">ئ</li>
+    <li class="symb" data-code="1575" code="0627" title="arabic letter alef">ا</li>
+    <li class="symb" data-code="1576" code="0628" title="arabic letter beh">ب</li>
+    <li class="symb" data-code="1577" code="0629" title="arabic letter teh marbuta">ة</li>
+    <li class="symb" data-code="1578" code="062a" title="arabic letter teh">ت</li>
+    <li class="symb" data-code="1579" code="062b" title="arabic letter theh">ث</li>
+    <li class="symb" data-code="1580" code="062c" title="arabic letter jeem">ج</li>
+    <li class="symb" data-code="1581" code="062d" title="arabic letter hah">ح</li>
+    <li class="symb" data-code="1582" code="062e" title="arabic letter khah">خ</li>
+    <li class="symb" data-code="1583" code="062f" title="arabic letter dal">د</li>
+    <li class="h">0630</li>
+    <li class="symb" data-code="1584" code="0630" title="arabic letter thal">ذ</li>
+    <li class="symb" data-code="1585" code="0631" title="arabic letter reh">ر</li>
+    <li class="symb" data-code="1586" code="0632" title="arabic letter zain">ز</li>
+    <li class="symb" data-code="1587" code="0633" title="arabic letter seen">س</li>
+    <li class="symb" data-code="1588" code="0634" title="arabic letter sheen">ش</li>
+    <li class="symb" data-code="1589" code="0635" title="arabic letter sad">ص</li>
+    <li class="symb" data-code="1590" code="0636" title="arabic letter dad">ض</li>
+    <li class="symb" data-code="1591" code="0637" title="arabic letter tah">ط</li>
+    <li class="symb" data-code="1592" code="0638" title="arabic letter zah">ظ</li>
+    <li class="symb" data-code="1593" code="0639" title="arabic letter ain">ع</li>
+    <li class="symb" data-code="1594" code="063a" title="arabic letter ghain">غ</li>
+    <li class="symb" data-code="1595" code="063b" title="arabic letter keheh with two dots above">ػ</li>
+    <li class="symb" data-code="1596" code="063c" title="arabic letter keheh with three dots below">ؼ</li>
+    <li class="symb" data-code="1597" code="063d" title="arabic letter farsi yeh with inverted v">ؽ</li>
+    <li class="symb" data-code="1598" code="063e" title="arabic letter farsi yeh with two dots above">ؾ</li>
+    <li class="symb" data-code="1599" code="063f" title="arabic letter farsi yeh with three dots above">ؿ</li>
+    <li class="h">0640</li>
+    <li class="symb" data-code="1600" code="0640" title="arabic tatweel">ـ</li>
+    <li class="symb" data-code="1601" code="0641" title="arabic letter feh">ف</li>
+    <li class="symb" data-code="1602" code="0642" title="arabic letter qaf">ق</li>
+    <li class="symb" data-code="1603" code="0643" title="arabic letter kaf">ك</li>
+    <li class="symb" data-code="1604" code="0644" title="arabic letter lam">ل</li>
+    <li class="symb" data-code="1605" code="0645" title="arabic letter meem">م</li>
+    <li class="symb" data-code="1606" code="0646" title="arabic letter noon">ن</li>
+    <li class="symb" data-code="1607" code="0647" title="arabic letter heh">ه</li>
+    <li class="symb" data-code="1608" code="0648" title="arabic letter waw">و</li>
+    <li class="symb" data-code="1609" code="0649" title="arabic letter alef maksura">ى</li>
+    <li class="symb" data-code="1610" code="064a" title="arabic letter yeh">ي</li>
+    <li class="symb" data-code="1611" code="064b" title="arabic fathatan">ً</li>
+    <li class="symb" data-code="1612" code="064c" title="arabic dammatan">ٌ</li>
+    <li class="symb" data-code="1613" code="064d" title="arabic kasratan">ٍ</li>
+    <li class="symb" data-code="1614" code="064e" title="arabic fatha">َ</li>
+    <li class="symb" data-code="1615" code="064f" title="arabic damma">ُ</li>
+    <li class="h">0650</li>
+    <li class="symb" data-code="1616" code="0650" title="arabic kasra">ِ</li>
+    <li class="symb" data-code="1617" code="0651" title="arabic shadda">ّ</li>
+    <li class="symb" data-code="1618" code="0652" title="arabic sukun">ْ</li>
+    <li class="symb" data-code="1619" code="0653" title="arabic maddah above">ٓ</li>
+    <li class="symb" data-code="1620" code="0654" title="arabic hamza above">ٔ</li>
+    <li class="symb" data-code="1621" code="0655" title="arabic hamza below">ٕ</li>
+    <li class="symb" data-code="1622" code="0656" title="arabic subscript alef">ٖ</li>
+    <li class="symb" data-code="1623" code="0657" title="arabic inverted damma">ٗ</li>
+    <li class="symb" data-code="1624" code="0658" title="arabic mark noon ghunna">٘</li>
+    <li class="symb" data-code="1625" code="0659" title="arabic zwarakay">ٙ</li>
+    <li class="symb" data-code="1626" code="065a" title="arabic vowel sign small v above">ٚ</li>
+    <li class="symb" data-code="1627" code="065b" title="arabic vowel sign inverted small v above">ٛ</li>
+    <li class="symb" data-code="1628" code="065c" title="arabic vowel sign dot below">ٜ</li>
+    <li class="symb" data-code="1629" code="065d" title="arabic reversed damma">ٝ</li>
+    <li class="symb" data-code="1630" code="065e" title="arabic fatha with two dots">ٞ</li>
+    <li class="symb" data-code="1631" code="065f" title="arabic wavy hamza below">ٟ</li>
+    <li class="h">0660</li>
+    <li class="symb" data-code="1632" code="0660" title="arabic-indic digit zero">٠</li>
+    <li class="symb" data-code="1633" code="0661" title="arabic-indic digit one">١</li>
+    <li class="symb" data-code="1634" code="0662" title="arabic-indic digit two">٢</li>
+    <li class="symb" data-code="1635" code="0663" title="arabic-indic digit three">٣</li>
+    <li class="symb" data-code="1636" code="0664" title="arabic-indic digit four">٤</li>
+    <li class="symb" data-code="1637" code="0665" title="arabic-indic digit five">٥</li>
+    <li class="symb" data-code="1638" code="0666" title="arabic-indic digit six">٦</li>
+    <li class="symb" data-code="1639" code="0667" title="arabic-indic digit seven">٧</li>
+    <li class="symb" data-code="1640" code="0668" title="arabic-indic digit eight">٨</li>
+    <li class="symb" data-code="1641" code="0669" title="arabic-indic digit nine">٩</li>
+    <li class="symb" data-code="1642" code="066a" title="arabic percent sign">٪</li>
+    <li class="symb" data-code="1643" code="066b" title="arabic decimal separator">٫</li>
+    <li class="symb" data-code="1644" code="066c" title="arabic thousands separator">٬</li>
+    <li class="symb" data-code="1645" code="066d" title="arabic five pointed star">٭</li>
+    <li class="symb" data-code="1646" code="066e" title="arabic letter dotless beh">ٮ</li>
+    <li class="symb" data-code="1647" code="066f" title="arabic letter dotless qaf">ٯ</li>
+    <li class="h">0670</li>
+    <li class="symb" data-code="1648" code="0670" title="arabic letter superscript alef">ٰ</li>
+    <li class="symb" data-code="1649" code="0671" title="arabic letter alef wasla">ٱ</li>
+    <li class="symb" data-code="1650" code="0672" title="arabic letter alef with wavy hamza above">ٲ</li>
+    <li class="symb" data-code="1651" code="0673" title="arabic letter alef with wavy hamza below">ٳ</li>
+    <li class="symb" data-code="1652" code="0674" title="arabic letter high hamza">ٴ</li>
+    <li class="symb" data-code="1653" code="0675" title="arabic letter high hamza alef">ٵ</li>
+    <li class="symb" data-code="1654" code="0676" title="arabic letter high hamza waw">ٶ</li>
+    <li class="symb" data-code="1655" code="0677" title="arabic letter u with hamza above">ٷ</li>
+    <li class="symb" data-code="1656" code="0678" title="arabic letter high hamza yeh">ٸ</li>
+    <li class="symb" data-code="1657" code="0679" title="arabic letter tteh">ٹ</li>
+    <li class="symb" data-code="1658" code="067a" title="arabic letter tteheh">ٺ</li>
+    <li class="symb" data-code="1659" code="067b" title="arabic letter beeh">ٻ</li>
+    <li class="symb" data-code="1660" code="067c" title="arabic letter teh with ring">ټ</li>
+    <li class="symb" data-code="1661" code="067d" title="arabic letter teh with three dots above downwards">ٽ</li>
+    <li class="symb" data-code="1662" code="067e" title="arabic letter peh">پ</li>
+    <li class="symb" data-code="1663" code="067f" title="arabic letter teheh">ٿ</li>
+    <li class="h">0680</li>
+    <li class="symb" data-code="1664" code="0680" title="arabic letter beheh">ڀ</li>
+    <li class="symb" data-code="1665" code="0681" title="arabic letter hah with hamza above">ځ</li>
+    <li class="symb" data-code="1666" code="0682" title="arabic letter hah with two dots vertical above">ڂ</li>
+    <li class="symb" data-code="1667" code="0683" title="arabic letter nyeh">ڃ</li>
+    <li class="symb" data-code="1668" code="0684" title="arabic letter dyeh">ڄ</li>
+    <li class="symb" data-code="1669" code="0685" title="arabic letter hah with three dots above">څ</li>
+    <li class="symb" data-code="1670" code="0686" title="arabic letter tcheh">چ</li>
+    <li class="symb" data-code="1671" code="0687" title="arabic letter tcheheh">ڇ</li>
+    <li class="symb" data-code="1672" code="0688" title="arabic letter ddal">ڈ</li>
+    <li class="symb" data-code="1673" code="0689" title="arabic letter dal with ring">ډ</li>
+    <li class="symb" data-code="1674" code="068a" title="arabic letter dal with dot below">ڊ</li>
+    <li class="symb" data-code="1675" code="068b" title="arabic letter dal with dot below and small tah">ڋ</li>
+    <li class="symb" data-code="1676" code="068c" title="arabic letter dahal">ڌ</li>
+    <li class="symb" data-code="1677" code="068d" title="arabic letter ddahal">ڍ</li>
+    <li class="symb" data-code="1678" code="068e" title="arabic letter dul">ڎ</li>
+    <li class="symb" data-code="1679" code="068f" title="arabic letter dal with three dots above downwards">ڏ</li>
+    <li class="h">0690</li>
+    <li class="symb" data-code="1680" code="0690" title="arabic letter dal with four dots above">ڐ</li>
+    <li class="symb" data-code="1681" code="0691" title="arabic letter rreh">ڑ</li>
+    <li class="symb" data-code="1682" code="0692" title="arabic letter reh with small v">ڒ</li>
+    <li class="symb" data-code="1683" code="0693" title="arabic letter reh with ring">ړ</li>
+    <li class="symb" data-code="1684" code="0694" title="arabic letter reh with dot below">ڔ</li>
+    <li class="symb" data-code="1685" code="0695" title="arabic letter reh with small v below">ڕ</li>
+    <li class="symb" data-code="1686" code="0696" title="arabic letter reh with dot below and dot above">ږ</li>
+    <li class="symb" data-code="1687" code="0697" title="arabic letter reh with two dots above">ڗ</li>
+    <li class="symb" data-code="1688" code="0698" title="arabic letter jeh">ژ</li>
+    <li class="symb" data-code="1689" code="0699" title="arabic letter reh with four dots above">ڙ</li>
+    <li class="symb" data-code="1690" code="069a" title="arabic letter seen with dot below and dot above">ښ</li>
+    <li class="symb" data-code="1691" code="069b" title="arabic letter seen with three dots below">ڛ</li>
+    <li class="symb" data-code="1692" code="069c" title="arabic letter seen with three dots below and three dots above">ڜ</li>
+    <li class="symb" data-code="1693" code="069d" title="arabic letter sad with two dots below">ڝ</li>
+    <li class="symb" data-code="1694" code="069e" title="arabic letter sad with three dots above">ڞ</li>
+    <li class="symb" data-code="1695" code="069f" title="arabic letter tah with three dots above">ڟ</li>
+    <li class="h">06a0</li>
+    <li class="symb" data-code="1696" code="06a0" title="arabic letter ain with three dots above">ڠ</li>
+    <li class="symb" data-code="1697" code="06a1" title="arabic letter dotless feh">ڡ</li>
+    <li class="symb" data-code="1698" code="06a2" title="arabic letter feh with dot moved below">ڢ</li>
+    <li class="symb" data-code="1699" code="06a3" title="arabic letter feh with dot below">ڣ</li>
+    <li class="symb" data-code="1700" code="06a4" title="arabic letter veh">ڤ</li>
+    <li class="symb" data-code="1701" code="06a5" title="arabic letter feh with three dots below">ڥ</li>
+    <li class="symb" data-code="1702" code="06a6" title="arabic letter peheh">ڦ</li>
+    <li class="symb" data-code="1703" code="06a7" title="arabic letter qaf with dot above">ڧ</li>
+    <li class="symb" data-code="1704" code="06a8" title="arabic letter qaf with three dots above">ڨ</li>
+    <li class="symb" data-code="1705" code="06a9" title="arabic letter keheh">ک</li>
+    <li class="symb" data-code="1706" code="06aa" title="arabic letter swash kaf">ڪ</li>
+    <li class="symb" data-code="1707" code="06ab" title="arabic letter kaf with ring">ګ</li>
+    <li class="symb" data-code="1708" code="06ac" title="arabic letter kaf with dot above">ڬ</li>
+    <li class="symb" data-code="1709" code="06ad" title="arabic letter ng">ڭ</li>
+    <li class="symb" data-code="1710" code="06ae" title="arabic letter kaf with three dots below">ڮ</li>
+    <li class="symb" data-code="1711" code="06af" title="arabic letter gaf">گ</li>
+    <li class="h">06b0</li>
+    <li class="symb" data-code="1712" code="06b0" title="arabic letter gaf with ring">ڰ</li>
+    <li class="symb" data-code="1713" code="06b1" title="arabic letter ngoeh">ڱ</li>
+    <li class="symb" data-code="1714" code="06b2" title="arabic letter gaf with two dots below">ڲ</li>
+    <li class="symb" data-code="1715" code="06b3" title="arabic letter gueh">ڳ</li>
+    <li class="symb" data-code="1716" code="06b4" title="arabic letter gaf with three dots above">ڴ</li>
+    <li class="symb" data-code="1717" code="06b5" title="arabic letter lam with small v">ڵ</li>
+    <li class="symb" data-code="1718" code="06b6" title="arabic letter lam with dot above">ڶ</li>
+    <li class="symb" data-code="1719" code="06b7" title="arabic letter lam with three dots above">ڷ</li>
+    <li class="symb" data-code="1720" code="06b8" title="arabic letter lam with three dots below">ڸ</li>
+    <li class="symb" data-code="1721" code="06b9" title="arabic letter noon with dot below">ڹ</li>
+    <li class="symb" data-code="1722" code="06ba" title="arabic letter noon ghunna">ں</li>
+    <li class="symb" data-code="1723" code="06bb" title="arabic letter rnoon">ڻ</li>
+    <li class="symb" data-code="1724" code="06bc" title="arabic letter noon with ring">ڼ</li>
+    <li class="symb" data-code="1725" code="06bd" title="arabic letter noon with three dots above">ڽ</li>
+    <li class="symb" data-code="1726" code="06be" title="arabic letter heh doachashmee">ھ</li>
+    <li class="symb" data-code="1727" code="06bf" title="arabic letter tcheh with dot above">ڿ</li>
+    <li class="h">06c0</li>
+    <li class="symb" data-code="1728" code="06c0" title="arabic letter heh with yeh above">ۀ</li>
+    <li class="symb" data-code="1729" code="06c1" title="arabic letter heh goal">ہ</li>
+    <li class="symb" data-code="1730" code="06c2" title="arabic letter heh goal with hamza above">ۂ</li>
+    <li class="symb" data-code="1731" code="06c3" title="arabic letter teh marbuta goal">ۃ</li>
+    <li class="symb" data-code="1732" code="06c4" title="arabic letter waw with ring">ۄ</li>
+    <li class="symb" data-code="1733" code="06c5" title="arabic letter kirghiz oe">ۅ</li>
+    <li class="symb" data-code="1734" code="06c6" title="arabic letter oe">ۆ</li>
+    <li class="symb" data-code="1735" code="06c7" title="arabic letter u">ۇ</li>
+    <li class="symb" data-code="1736" code="06c8" title="arabic letter yu">ۈ</li>
+    <li class="symb" data-code="1737" code="06c9" title="arabic letter kirghiz yu">ۉ</li>
+    <li class="symb" data-code="1738" code="06ca" title="arabic letter waw with two dots above">ۊ</li>
+    <li class="symb" data-code="1739" code="06cb" title="arabic letter ve">ۋ</li>
+    <li class="symb" data-code="1740" code="06cc" title="arabic letter farsi yeh">ی</li>
+    <li class="symb" data-code="1741" code="06cd" title="arabic letter yeh with tail">ۍ</li>
+    <li class="symb" data-code="1742" code="06ce" title="arabic letter yeh with small v">ێ</li>
+    <li class="symb" data-code="1743" code="06cf" title="arabic letter waw with dot above">ۏ</li>
+    <li class="h">06d0</li>
+    <li class="symb" data-code="1744" code="06d0" title="arabic letter e">ې</li>
+    <li class="symb" data-code="1745" code="06d1" title="arabic letter yeh with three dots below">ۑ</li>
+    <li class="symb" data-code="1746" code="06d2" title="arabic letter yeh barree">ے</li>
+    <li class="symb" data-code="1747" code="06d3" title="arabic letter yeh barree with hamza above">ۓ</li>
+    <li class="symb" data-code="1748" code="06d4" title="arabic full stop">۔</li>
+    <li class="symb" data-code="1749" code="06d5" title="arabic letter ae">ە</li>
+    <li class="symb" data-code="1750" code="06d6" title="arabic small high ligature sad with lam with alef maksura">ۖ</li>
+    <li class="symb" data-code="1751" code="06d7" title="arabic small high ligature qaf with lam with alef maksura">ۗ</li>
+    <li class="symb" data-code="1752" code="06d8" title="arabic small high meem initial form">ۘ</li>
+    <li class="symb" data-code="1753" code="06d9" title="arabic small high lam alef">ۙ</li>
+    <li class="symb" data-code="1754" code="06da" title="arabic small high jeem">ۚ</li>
+    <li class="symb" data-code="1755" code="06db" title="arabic small high three dots">ۛ</li>
+    <li class="symb" data-code="1756" code="06dc" title="arabic small high seen">ۜ</li>
+    <li class="symb" data-code="1757" code="06dd" title="arabic end of ayah">۝</li>
+    <li class="symb" data-code="1758" code="06de" title="arabic start of rub el hizb">۞</li>
+    <li class="symb" data-code="1759" code="06df" title="arabic small high rounded zero">۟</li>
+    <li class="h">06e0</li>
+    <li class="symb" data-code="1760" code="06e0" title="arabic small high upright rectangular zero">۠</li>
+    <li class="symb" data-code="1761" code="06e1" title="arabic small high dotless head of khah">ۡ</li>
+    <li class="symb" data-code="1762" code="06e2" title="arabic small high meem isolated form">ۢ</li>
+    <li class="symb" data-code="1763" code="06e3" title="arabic small low seen">ۣ</li>
+    <li class="symb" data-code="1764" code="06e4" title="arabic small high madda">ۤ</li>
+    <li class="symb" data-code="1765" code="06e5" title="arabic small waw">ۥ</li>
+    <li class="symb" data-code="1766" code="06e6" title="arabic small yeh">ۦ</li>
+    <li class="symb" data-code="1767" code="06e7" title="arabic small high yeh">ۧ</li>
+    <li class="symb" data-code="1768" code="06e8" title="arabic small high noon">ۨ</li>
+    <li class="symb" data-code="1769" code="06e9" title="arabic place of sajdah">۩</li>
+    <li class="symb" data-code="1770" code="06ea" title="arabic empty centre low stop">۪</li>
+    <li class="symb" data-code="1771" code="06eb" title="arabic empty centre high stop">۫</li>
+    <li class="symb" data-code="1772" code="06ec" title="arabic rounded high stop with filled centre">۬</li>
+    <li class="symb" data-code="1773" code="06ed" title="arabic small low meem">ۭ</li>
+    <li class="symb" data-code="1774" code="06ee" title="arabic letter dal with inverted v">ۮ</li>
+    <li class="symb" data-code="1775" code="06ef" title="arabic letter reh with inverted v">ۯ</li>
+    <li class="h">06f0</li>
+    <li class="symb" data-code="1776" code="06f0" title="extended arabic-indic digit zero">۰</li>
+    <li class="symb" data-code="1777" code="06f1" title="extended arabic-indic digit one">۱</li>
+    <li class="symb" data-code="1778" code="06f2" title="extended arabic-indic digit two">۲</li>
+    <li class="symb" data-code="1779" code="06f3" title="extended arabic-indic digit three">۳</li>
+    <li class="symb" data-code="1780" code="06f4" title="extended arabic-indic digit four">۴</li>
+    <li class="symb" data-code="1781" code="06f5" title="extended arabic-indic digit five">۵</li>
+    <li class="symb" data-code="1782" code="06f6" title="extended arabic-indic digit six">۶</li>
+    <li class="symb" data-code="1783" code="06f7" title="extended arabic-indic digit seven">۷</li>
+    <li class="symb" data-code="1784" code="06f8" title="extended arabic-indic digit eight">۸</li>
+    <li class="symb" data-code="1785" code="06f9" title="extended arabic-indic digit nine">۹</li>
+    <li class="symb" data-code="1786" code="06fa" title="arabic letter sheen with dot below">ۺ</li>
+    <li class="symb" data-code="1787" code="06fb" title="arabic letter dad with dot below">ۻ</li>
+    <li class="symb" data-code="1788" code="06fc" title="arabic letter ghain with dot below">ۼ</li>
+    <li class="symb" data-code="1789" code="06fd" title="arabic sign sindhi ampersand">۽</li>
+    <li class="symb" data-code="1790" code="06fe" title="arabic sign sindhi postposition men">۾</li>
+    <li class="symb" data-code="1791" code="06ff" title="arabic letter heh with inverted v">ۿ</li>
+  </ul>
+</root>

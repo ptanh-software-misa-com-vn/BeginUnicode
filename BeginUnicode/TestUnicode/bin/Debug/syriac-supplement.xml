@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0860</li>
+    <li class="symb" data-code="2144" code="0860" title="syriac letter malayalam nga">ࡠ</li>
+    <li class="symb" data-code="2145" code="0861" title="syriac letter malayalam ja">ࡡ</li>
+    <li class="symb" data-code="2146" code="0862" title="syriac letter malayalam nya">ࡢ</li>
+    <li class="symb" data-code="2147" code="0863" title="syriac letter malayalam tta">ࡣ</li>
+    <li class="symb" data-code="2148" code="0864" title="syriac letter malayalam nna">ࡤ</li>
+    <li class="symb" data-code="2149" code="0865" title="syriac letter malayalam nnna">ࡥ</li>
+    <li class="symb" data-code="2150" code="0866" title="syriac letter malayalam bha">ࡦ</li>
+    <li class="symb" data-code="2151" code="0867" title="syriac letter malayalam ra">ࡧ</li>
+    <li class="symb" data-code="2152" code="0868" title="syriac letter malayalam lla">ࡨ</li>
+    <li class="symb" data-code="2153" code="0869" title="syriac letter malayalam llla">ࡩ</li>
+    <li class="symb" data-code="2154" code="086a" title="syriac letter malayalam ssa">ࡪ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

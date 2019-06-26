@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">19e0</li>
+    <li class="symb" data-code="6624" code="19e0" title="khmer symbol pathamasat">᧠</li>
+    <li class="symb" data-code="6625" code="19e1" title="khmer symbol muoy koet">᧡</li>
+    <li class="symb" data-code="6626" code="19e2" title="khmer symbol pii koet">᧢</li>
+    <li class="symb" data-code="6627" code="19e3" title="khmer symbol bei koet">᧣</li>
+    <li class="symb" data-code="6628" code="19e4" title="khmer symbol buon koet">᧤</li>
+    <li class="symb" data-code="6629" code="19e5" title="khmer symbol pram koet">᧥</li>
+    <li class="symb" data-code="6630" code="19e6" title="khmer symbol pram-muoy koet">᧦</li>
+    <li class="symb" data-code="6631" code="19e7" title="khmer symbol pram-pii koet">᧧</li>
+    <li class="symb" data-code="6632" code="19e8" title="khmer symbol pram-bei koet">᧨</li>
+    <li class="symb" data-code="6633" code="19e9" title="khmer symbol pram-buon koet">᧩</li>
+    <li class="symb" data-code="6634" code="19ea" title="khmer symbol dap koet">᧪</li>
+    <li class="symb" data-code="6635" code="19eb" title="khmer symbol dap-muoy koet">᧫</li>
+    <li class="symb" data-code="6636" code="19ec" title="khmer symbol dap-pii koet">᧬</li>
+    <li class="symb" data-code="6637" code="19ed" title="khmer symbol dap-bei koet">᧭</li>
+    <li class="symb" data-code="6638" code="19ee" title="khmer symbol dap-buon koet">᧮</li>
+    <li class="symb" data-code="6639" code="19ef" title="khmer symbol dap-pram koet">᧯</li>
+    <li class="h">19f0</li>
+    <li class="symb" data-code="6640" code="19f0" title="khmer symbol tuteyasat">᧰</li>
+    <li class="symb" data-code="6641" code="19f1" title="khmer symbol muoy roc">᧱</li>
+    <li class="symb" data-code="6642" code="19f2" title="khmer symbol pii roc">᧲</li>
+    <li class="symb" data-code="6643" code="19f3" title="khmer symbol bei roc">᧳</li>
+    <li class="symb" data-code="6644" code="19f4" title="khmer symbol buon roc">᧴</li>
+    <li class="symb" data-code="6645" code="19f5" title="khmer symbol pram roc">᧵</li>
+    <li class="symb" data-code="6646" code="19f6" title="khmer symbol pram-muoy roc">᧶</li>
+    <li class="symb" data-code="6647" code="19f7" title="khmer symbol pram-pii roc">᧷</li>
+    <li class="symb" data-code="6648" code="19f8" title="khmer symbol pram-bei roc">᧸</li>
+    <li class="symb" data-code="6649" code="19f9" title="khmer symbol pram-buon roc">᧹</li>
+    <li class="symb" data-code="6650" code="19fa" title="khmer symbol dap roc">᧺</li>
+    <li class="symb" data-code="6651" code="19fb" title="khmer symbol dap-muoy roc">᧻</li>
+    <li class="symb" data-code="6652" code="19fc" title="khmer symbol dap-pii roc">᧼</li>
+    <li class="symb" data-code="6653" code="19fd" title="khmer symbol dap-bei roc">᧽</li>
+    <li class="symb" data-code="6654" code="19fe" title="khmer symbol dap-buon roc">᧾</li>
+    <li class="symb" data-code="6655" code="19ff" title="khmer symbol dap-pram roc">᧿</li>
+  </ul>
+</root>

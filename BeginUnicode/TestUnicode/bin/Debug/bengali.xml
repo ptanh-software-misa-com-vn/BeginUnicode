@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0980</li>
+    <li class="symb" data-code="2432" code="0980" title="bengali anji">ঀ</li>
+    <li class="symb" data-code="2433" code="0981" title="bengali sign candrabindu">ঁ</li>
+    <li class="symb" data-code="2434" code="0982" title="bengali sign anusvara">ং</li>
+    <li class="symb" data-code="2435" code="0983" title="bengali sign visarga">ঃ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2437" code="0985" title="bengali letter a">অ</li>
+    <li class="symb" data-code="2438" code="0986" title="bengali letter aa">আ</li>
+    <li class="symb" data-code="2439" code="0987" title="bengali letter i">ই</li>
+    <li class="symb" data-code="2440" code="0988" title="bengali letter ii">ঈ</li>
+    <li class="symb" data-code="2441" code="0989" title="bengali letter u">উ</li>
+    <li class="symb" data-code="2442" code="098a" title="bengali letter uu">ঊ</li>
+    <li class="symb" data-code="2443" code="098b" title="bengali letter vocalic r">ঋ</li>
+    <li class="symb" data-code="2444" code="098c" title="bengali letter vocalic l">ঌ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2447" code="098f" title="bengali letter e">এ</li>
+    <li class="h">0990</li>
+    <li class="symb" data-code="2448" code="0990" title="bengali letter ai">ঐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2451" code="0993" title="bengali letter o">ও</li>
+    <li class="symb" data-code="2452" code="0994" title="bengali letter au">ঔ</li>
+    <li class="symb" data-code="2453" code="0995" title="bengali letter ka">ক</li>
+    <li class="symb" data-code="2454" code="0996" title="bengali letter kha">খ</li>
+    <li class="symb" data-code="2455" code="0997" title="bengali letter ga">গ</li>
+    <li class="symb" data-code="2456" code="0998" title="bengali letter gha">ঘ</li>
+    <li class="symb" data-code="2457" code="0999" title="bengali letter nga">ঙ</li>
+    <li class="symb" data-code="2458" code="099a" title="bengali letter ca">চ</li>
+    <li class="symb" data-code="2459" code="099b" title="bengali letter cha">ছ</li>
+    <li class="symb" data-code="2460" code="099c" title="bengali letter ja">জ</li>
+    <li class="symb" data-code="2461" code="099d" title="bengali letter jha">ঝ</li>
+    <li class="symb" data-code="2462" code="099e" title="bengali letter nya">ঞ</li>
+    <li class="symb" data-code="2463" code="099f" title="bengali letter tta">ট</li>
+    <li class="h">09a0</li>
+    <li class="symb" data-code="2464" code="09a0" title="bengali letter ttha">ঠ</li>
+    <li class="symb" data-code="2465" code="09a1" title="bengali letter dda">ড</li>
+    <li class="symb" data-code="2466" code="09a2" title="bengali letter ddha">ঢ</li>
+    <li class="symb" data-code="2467" code="09a3" title="bengali letter nna">ণ</li>
+    <li class="symb" data-code="2468" code="09a4" title="bengali letter ta">ত</li>
+    <li class="symb" data-code="2469" code="09a5" title="bengali letter tha">থ</li>
+    <li class="symb" data-code="2470" code="09a6" title="bengali letter da">দ</li>
+    <li class="symb" data-code="2471" code="09a7" title="bengali letter dha">ধ</li>
+    <li class="symb" data-code="2472" code="09a8" title="bengali letter na">ন</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2474" code="09aa" title="bengali letter pa">প</li>
+    <li class="symb" data-code="2475" code="09ab" title="bengali letter pha">ফ</li>
+    <li class="symb" data-code="2476" code="09ac" title="bengali letter ba">ব</li>
+    <li class="symb" data-code="2477" code="09ad" title="bengali letter bha">ভ</li>
+    <li class="symb" data-code="2478" code="09ae" title="bengali letter ma">ম</li>
+    <li class="symb" data-code="2479" code="09af" title="bengali letter ya">য</li>
+    <li class="h">09b0</li>
+    <li class="symb" data-code="2480" code="09b0" title="bengali letter ra">র</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2482" code="09b2" title="bengali letter la">ল</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2486" code="09b6" title="bengali letter sha">শ</li>
+    <li class="symb" data-code="2487" code="09b7" title="bengali letter ssa">ষ</li>
+    <li class="symb" data-code="2488" code="09b8" title="bengali letter sa">স</li>
+    <li class="symb" data-code="2489" code="09b9" title="bengali letter ha">হ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2492" code="09bc" title="bengali sign nukta">়</li>
+    <li class="symb" data-code="2493" code="09bd" title="bengali sign avagraha">ঽ</li>
+    <li class="symb" data-code="2494" code="09be" title="bengali vowel sign aa">া</li>
+    <li class="symb" data-code="2495" code="09bf" title="bengali vowel sign i">ি</li>
+    <li class="h">09c0</li>
+    <li class="symb" data-code="2496" code="09c0" title="bengali vowel sign ii">ী</li>
+    <li class="symb" data-code="2497" code="09c1" title="bengali vowel sign u">ু</li>
+    <li class="symb" data-code="2498" code="09c2" title="bengali vowel sign uu">ূ</li>
+    <li class="symb" data-code="2499" code="09c3" title="bengali vowel sign vocalic r">ৃ</li>
+    <li class="symb" data-code="2500" code="09c4" title="bengali vowel sign vocalic rr">ৄ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2503" code="09c7" title="bengali vowel sign e">ে</li>
+    <li class="symb" data-code="2504" code="09c8" title="bengali vowel sign ai">ৈ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2507" code="09cb" title="bengali vowel sign o">ো</li>
+    <li class="symb" data-code="2508" code="09cc" title="bengali vowel sign au">ৌ</li>
+    <li class="symb" data-code="2509" code="09cd" title="bengali sign virama">্</li>
+    <li class="symb" data-code="2510" code="09ce" title="bengali letter khanda ta">ৎ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">09d0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2519" code="09d7" title="bengali au length mark">ৗ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2524" code="09dc" title="bengali letter rra">ড়</li>
+    <li class="symb" data-code="2525" code="09dd" title="bengali letter rha">ঢ়</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2527" code="09df" title="bengali letter yya">য়</li>
+    <li class="h">09e0</li>
+    <li class="symb" data-code="2528" code="09e0" title="bengali letter vocalic rr">ৠ</li>
+    <li class="symb" data-code="2529" code="09e1" title="bengali letter vocalic ll">ৡ</li>
+    <li class="symb" data-code="2530" code="09e2" title="bengali vowel sign vocalic l">ৢ</li>
+    <li class="symb" data-code="2531" code="09e3" title="bengali vowel sign vocalic ll">ৣ</li>
+    <li class="symb" data-code="2532" code="09e4" title="reserved">৤</li>
+    <li class="symb" data-code="2533" code="09e5" title="reserved">৥</li>
+    <li class="symb" data-code="2534" code="09e6" title="bengali digit zero">০</li>
+    <li class="symb" data-code="2535" code="09e7" title="bengali digit one">১</li>
+    <li class="symb" data-code="2536" code="09e8" title="bengali digit two">২</li>
+    <li class="symb" data-code="2537" code="09e9" title="bengali digit three">৩</li>
+    <li class="symb" data-code="2538" code="09ea" title="bengali digit four">৪</li>
+    <li class="symb" data-code="2539" code="09eb" title="bengali digit five">৫</li>
+    <li class="symb" data-code="2540" code="09ec" title="bengali digit six">৬</li>
+    <li class="symb" data-code="2541" code="09ed" title="bengali digit seven">৭</li>
+    <li class="symb" data-code="2542" code="09ee" title="bengali digit eight">৮</li>
+    <li class="symb" data-code="2543" code="09ef" title="bengali digit nine">৯</li>
+    <li class="h">09f0</li>
+    <li class="symb" data-code="2544" code="09f0" title="bengali letter ra with middle diagonal">ৰ</li>
+    <li class="symb" data-code="2545" code="09f1" title="bengali letter ra with lower diagonal">ৱ</li>
+    <li class="symb" data-code="2546" code="09f2" title="bengali rupee mark">৲</li>
+    <li class="symb" data-code="2547" code="09f3" title="bengali rupee sign">৳</li>
+    <li class="symb" data-code="2548" code="09f4" title="bengali currency numerator one">৴</li>
+    <li class="symb" data-code="2549" code="09f5" title="bengali currency numerator two">৵</li>
+    <li class="symb" data-code="2550" code="09f6" title="bengali currency numerator three">৶</li>
+    <li class="symb" data-code="2551" code="09f7" title="bengali currency numerator four">৷</li>
+    <li class="symb" data-code="2552" code="09f8" title="bengali currency numerator one less than the denominator">৸</li>
+    <li class="symb" data-code="2553" code="09f9" title="bengali currency denominator sixteen">৹</li>
+    <li class="symb" data-code="2554" code="09fa" title="bengali isshar">৺</li>
+    <li class="symb" data-code="2555" code="09fb" title="bengali ganda mark">৻</li>
+    <li class="symb" data-code="2556" code="09fc" title="bengali letter vedic anusvara">ৼ</li>
+    <li class="symb" data-code="2557" code="09fd" title="bengali abbreviation sign">৽</li>
+    <li class="symb" data-code="2558" code="09fe" title="bengali sandhi mark">৾</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

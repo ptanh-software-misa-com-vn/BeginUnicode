@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0c00</li>
+    <li class="symb" data-code="3072" code="0c00" title="telugu sign combining candrabindu above">ఀ</li>
+    <li class="symb" data-code="3073" code="0c01" title="telugu sign candrabindu">ఁ</li>
+    <li class="symb" data-code="3074" code="0c02" title="telugu sign anusvara">ం</li>
+    <li class="symb" data-code="3075" code="0c03" title="telugu sign visarga">ః</li>
+    <li class="symb" data-code="3076" code="0c04" title="telugu sign combining anusvara above">ఄ</li>
+    <li class="symb" data-code="3077" code="0c05" title="telugu letter a">అ</li>
+    <li class="symb" data-code="3078" code="0c06" title="telugu letter aa">ఆ</li>
+    <li class="symb" data-code="3079" code="0c07" title="telugu letter i">ఇ</li>
+    <li class="symb" data-code="3080" code="0c08" title="telugu letter ii">ఈ</li>
+    <li class="symb" data-code="3081" code="0c09" title="telugu letter u">ఉ</li>
+    <li class="symb" data-code="3082" code="0c0a" title="telugu letter uu">ఊ</li>
+    <li class="symb" data-code="3083" code="0c0b" title="telugu letter vocalic r">ఋ</li>
+    <li class="symb" data-code="3084" code="0c0c" title="telugu letter vocalic l">ఌ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3086" code="0c0e" title="telugu letter e">ఎ</li>
+    <li class="symb" data-code="3087" code="0c0f" title="telugu letter ee">ఏ</li>
+    <li class="h">0c10</li>
+    <li class="symb" data-code="3088" code="0c10" title="telugu letter ai">ఐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3090" code="0c12" title="telugu letter o">ఒ</li>
+    <li class="symb" data-code="3091" code="0c13" title="telugu letter oo">ఓ</li>
+    <li class="symb" data-code="3092" code="0c14" title="telugu letter au">ఔ</li>
+    <li class="symb" data-code="3093" code="0c15" title="telugu letter ka">క</li>
+    <li class="symb" data-code="3094" code="0c16" title="telugu letter kha">ఖ</li>
+    <li class="symb" data-code="3095" code="0c17" title="telugu letter ga">గ</li>
+    <li class="symb" data-code="3096" code="0c18" title="telugu letter gha">ఘ</li>
+    <li class="symb" data-code="3097" code="0c19" title="telugu letter nga">ఙ</li>
+    <li class="symb" data-code="3098" code="0c1a" title="telugu letter ca">చ</li>
+    <li class="symb" data-code="3099" code="0c1b" title="telugu letter cha">ఛ</li>
+    <li class="symb" data-code="3100" code="0c1c" title="telugu letter ja">జ</li>
+    <li class="symb" data-code="3101" code="0c1d" title="telugu letter jha">ఝ</li>
+    <li class="symb" data-code="3102" code="0c1e" title="telugu letter nya">ఞ</li>
+    <li class="symb" data-code="3103" code="0c1f" title="telugu letter tta">ట</li>
+    <li class="h">0c20</li>
+    <li class="symb" data-code="3104" code="0c20" title="telugu letter ttha">ఠ</li>
+    <li class="symb" data-code="3105" code="0c21" title="telugu letter dda">డ</li>
+    <li class="symb" data-code="3106" code="0c22" title="telugu letter ddha">ఢ</li>
+    <li class="symb" data-code="3107" code="0c23" title="telugu letter nna">ణ</li>
+    <li class="symb" data-code="3108" code="0c24" title="telugu letter ta">త</li>
+    <li class="symb" data-code="3109" code="0c25" title="telugu letter tha">థ</li>
+    <li class="symb" data-code="3110" code="0c26" title="telugu letter da">ద</li>
+    <li class="symb" data-code="3111" code="0c27" title="telugu letter dha">ధ</li>
+    <li class="symb" data-code="3112" code="0c28" title="telugu letter na">న</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3114" code="0c2a" title="telugu letter pa">ప</li>
+    <li class="symb" data-code="3115" code="0c2b" title="telugu letter pha">ఫ</li>
+    <li class="symb" data-code="3116" code="0c2c" title="telugu letter ba">బ</li>
+    <li class="symb" data-code="3117" code="0c2d" title="telugu letter bha">భ</li>
+    <li class="symb" data-code="3118" code="0c2e" title="telugu letter ma">మ</li>
+    <li class="symb" data-code="3119" code="0c2f" title="telugu letter ya">య</li>
+    <li class="h">0c30</li>
+    <li class="symb" data-code="3120" code="0c30" title="telugu letter ra">ర</li>
+    <li class="symb" data-code="3121" code="0c31" title="telugu letter rra">ఱ</li>
+    <li class="symb" data-code="3122" code="0c32" title="telugu letter la">ల</li>
+    <li class="symb" data-code="3123" code="0c33" title="telugu letter lla">ళ</li>
+    <li class="symb" data-code="3124" code="0c34" title="telugu letter llla">ఴ</li>
+    <li class="symb" data-code="3125" code="0c35" title="telugu letter va">వ</li>
+    <li class="symb" data-code="3126" code="0c36" title="telugu letter sha">శ</li>
+    <li class="symb" data-code="3127" code="0c37" title="telugu letter ssa">ష</li>
+    <li class="symb" data-code="3128" code="0c38" title="telugu letter sa">స</li>
+    <li class="symb" data-code="3129" code="0c39" title="telugu letter ha">హ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3133" code="0c3d" title="telugu sign avagraha">ఽ</li>
+    <li class="symb" data-code="3134" code="0c3e" title="telugu vowel sign aa">ా</li>
+    <li class="symb" data-code="3135" code="0c3f" title="telugu vowel sign i">ి</li>
+    <li class="h">0c40</li>
+    <li class="symb" data-code="3136" code="0c40" title="telugu vowel sign ii">ీ</li>
+    <li class="symb" data-code="3137" code="0c41" title="telugu vowel sign u">ు</li>
+    <li class="symb" data-code="3138" code="0c42" title="telugu vowel sign uu">ూ</li>
+    <li class="symb" data-code="3139" code="0c43" title="telugu vowel sign vocalic r">ృ</li>
+    <li class="symb" data-code="3140" code="0c44" title="telugu vowel sign vocalic rr">ౄ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3142" code="0c46" title="telugu vowel sign e">ె</li>
+    <li class="symb" data-code="3143" code="0c47" title="telugu vowel sign ee">ే</li>
+    <li class="symb" data-code="3144" code="0c48" title="telugu vowel sign ai">ై</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3146" code="0c4a" title="telugu vowel sign o">ొ</li>
+    <li class="symb" data-code="3147" code="0c4b" title="telugu vowel sign oo">ో</li>
+    <li class="symb" data-code="3148" code="0c4c" title="telugu vowel sign au">ౌ</li>
+    <li class="symb" data-code="3149" code="0c4d" title="telugu sign virama">్</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0c50</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3157" code="0c55" title="telugu length mark">ౕ</li>
+    <li class="symb" data-code="3158" code="0c56" title="telugu ai length mark">ౖ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3160" code="0c58" title="telugu letter tsa">ౘ</li>
+    <li class="symb" data-code="3161" code="0c59" title="telugu letter dza">ౙ</li>
+    <li class="symb" data-code="3162" code="0c5a" title="telugu letter rrra">ౚ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0c60</li>
+    <li class="symb" data-code="3168" code="0c60" title="telugu letter vocalic rr">ౠ</li>
+    <li class="symb" data-code="3169" code="0c61" title="telugu letter vocalic ll">ౡ</li>
+    <li class="symb" data-code="3170" code="0c62" title="telugu vowel sign vocalic l">ౢ</li>
+    <li class="symb" data-code="3171" code="0c63" title="telugu vowel sign vocalic ll">ౣ</li>
+    <li class="symb" data-code="3172" code="0c64" title="reserved">౤</li>
+    <li class="symb" data-code="3173" code="0c65" title="reserved">౥</li>
+    <li class="symb" data-code="3174" code="0c66" title="telugu digit zero">౦</li>
+    <li class="symb" data-code="3175" code="0c67" title="telugu digit one">౧</li>
+    <li class="symb" data-code="3176" code="0c68" title="telugu digit two">౨</li>
+    <li class="symb" data-code="3177" code="0c69" title="telugu digit three">౩</li>
+    <li class="symb" data-code="3178" code="0c6a" title="telugu digit four">౪</li>
+    <li class="symb" data-code="3179" code="0c6b" title="telugu digit five">౫</li>
+    <li class="symb" data-code="3180" code="0c6c" title="telugu digit six">౬</li>
+    <li class="symb" data-code="3181" code="0c6d" title="telugu digit seven">౭</li>
+    <li class="symb" data-code="3182" code="0c6e" title="telugu digit eight">౮</li>
+    <li class="symb" data-code="3183" code="0c6f" title="telugu digit nine">౯</li>
+    <li class="h">0c70</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3192" code="0c78" title="telugu fraction digit zero for odd powers of four">౸</li>
+    <li class="symb" data-code="3193" code="0c79" title="telugu fraction digit one for odd powers of four">౹</li>
+    <li class="symb" data-code="3194" code="0c7a" title="telugu fraction digit two for odd powers of four">౺</li>
+    <li class="symb" data-code="3195" code="0c7b" title="telugu fraction digit three for odd powers of four">౻</li>
+    <li class="symb" data-code="3196" code="0c7c" title="telugu fraction digit one for even powers of four">౼</li>
+    <li class="symb" data-code="3197" code="0c7d" title="telugu fraction digit two for even powers of four">౽</li>
+    <li class="symb" data-code="3198" code="0c7e" title="telugu fraction digit three for even powers of four">౾</li>
+    <li class="symb" data-code="3199" code="0c7f" title="telugu sign tuumu">౿</li>
+  </ul>
+</root>

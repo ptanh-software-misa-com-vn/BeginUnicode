@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0080</li>
+    <li class="symb" data-code="128" code="0080" title="control"></li>
+    <li class="symb" data-code="129" code="0081" title="control"></li>
+    <li class="symb" data-code="130" code="0082" title="break permitted here"></li>
+    <li class="symb" data-code="131" code="0083" title="no break here"></li>
+    <li class="symb" data-code="132" code="0084" title="control"></li>
+    <li class="symb" data-code="133" code="0085" title="next line (nel)"></li>
+    <li class="symb" data-code="134" code="0086" title="start of selected area"></li>
+    <li class="symb" data-code="135" code="0087" title="end of selected area"></li>
+    <li class="symb" data-code="136" code="0088" title="character tabulation set"></li>
+    <li class="symb" data-code="137" code="0089" title="character tabulation with justification"></li>
+    <li class="symb" data-code="138" code="008a" title="line tabulation set"></li>
+    <li class="symb" data-code="139" code="008b" title="partial line forward"></li>
+    <li class="symb" data-code="140" code="008c" title="partial line backward"></li>
+    <li class="symb" data-code="141" code="008d" title="reverse line feed"></li>
+    <li class="symb" data-code="142" code="008e" title="single shift two"></li>
+    <li class="symb" data-code="143" code="008f" title="single shift three"></li>
+    <li class="h">0090</li>
+    <li class="symb" data-code="144" code="0090" title="device control string"></li>
+    <li class="symb" data-code="145" code="0091" title="private use one"></li>
+    <li class="symb" data-code="146" code="0092" title="private use two"></li>
+    <li class="symb" data-code="147" code="0093" title="set transmit state"></li>
+    <li class="symb" data-code="148" code="0094" title="cancel character"></li>
+    <li class="symb" data-code="149" code="0095" title="message waiting"></li>
+    <li class="symb" data-code="150" code="0096" title="start of guarded area"></li>
+    <li class="symb" data-code="151" code="0097" title="end of guarded area"></li>
+    <li class="symb" data-code="152" code="0098" title="start of string"></li>
+    <li class="symb" data-code="153" code="0099" title="control"></li>
+    <li class="symb" data-code="154" code="009a" title="single character introducer"></li>
+    <li class="symb" data-code="155" code="009b" title="control sequence introducer"></li>
+    <li class="symb" data-code="156" code="009c" title="string terminator"></li>
+    <li class="symb" data-code="157" code="009d" title="operating system command"></li>
+    <li class="symb" data-code="158" code="009e" title="privacy message"></li>
+    <li class="symb" data-code="159" code="009f" title="application program command"></li>
+    <li class="h">00a0</li>
+    <li class="symb" data-code="160" code="00a0" title="no-break space"> </li>
+    <li class="symb" data-code="161" code="00a1" title="inverted exclamation mark">¡</li>
+    <li class="symb" data-code="162" code="00a2" title="cent sign">¢</li>
+    <li class="symb" data-code="163" code="00a3" title="pound sign">£</li>
+    <li class="symb" data-code="164" code="00a4" title="currency sign">¤</li>
+    <li class="symb" data-code="165" code="00a5" title="yen sign">¥</li>
+    <li class="symb" data-code="166" code="00a6" title="broken bar">¦</li>
+    <li class="symb" data-code="167" code="00a7" title="section sign">§</li>
+    <li class="symb" data-code="168" code="00a8" title="diaeresis">¨</li>
+    <li class="symb" data-code="169" code="00a9" title="copyright sign">©</li>
+    <li class="symb" data-code="170" code="00aa" title="feminine ordinal indicator">ª</li>
+    <li class="symb" data-code="171" code="00ab" title="left-pointing double angle quotation mark">«</li>
+    <li class="symb" data-code="172" code="00ac" title="not sign">¬</li>
+    <li class="symb" data-code="173" code="00ad" title="soft hyphen">­</li>
+    <li class="symb" data-code="174" code="00ae" title="registered sign">®</li>
+    <li class="symb" data-code="175" code="00af" title="macron">¯</li>
+    <li class="h">00b0</li>
+    <li class="symb" data-code="176" code="00b0" title="degree sign">°</li>
+    <li class="symb" data-code="177" code="00b1" title="plus minus symbol">±</li>
+    <li class="symb" data-code="178" code="00b2" title="superscript two">²</li>
+    <li class="symb" data-code="179" code="00b3" title="superscript three">³</li>
+    <li class="symb" data-code="180" code="00b4" title="acute accent">´</li>
+    <li class="symb" data-code="181" code="00b5" title="micro sign">µ</li>
+    <li class="symb" data-code="182" code="00b6" title="pilcrow sign">¶</li>
+    <li class="symb" data-code="183" code="00b7" title="middle dot">·</li>
+    <li class="symb" data-code="184" code="00b8" title="cedilla">¸</li>
+    <li class="symb" data-code="185" code="00b9" title="superscript one">¹</li>
+    <li class="symb" data-code="186" code="00ba" title="masculine ordinal indicator">º</li>
+    <li class="symb" data-code="187" code="00bb" title="right-pointing double angle quotation mark">»</li>
+    <li class="symb" data-code="188" code="00bc" title="vulgar fraction one quarter">¼</li>
+    <li class="symb" data-code="189" code="00bd" title="vulgar fraction one half">½</li>
+    <li class="symb" data-code="190" code="00be" title="vulgar fraction three quarters">¾</li>
+    <li class="symb" data-code="191" code="00bf" title="inverted question mark">¿</li>
+    <li class="h">00c0</li>
+    <li class="symb" data-code="192" code="00c0" title="latin capital letter a with grave">à</li>
+    <li class="symb" data-code="193" code="00c1" title="latin capital letter a with acute">á</li>
+    <li class="symb" data-code="194" code="00c2" title="latin capital letter a with circumflex">â</li>
+    <li class="symb" data-code="195" code="00c3" title="latin capital letter a with tilde">ã</li>
+    <li class="symb" data-code="196" code="00c4" title="latin capital letter a with diaeresis">ä</li>
+    <li class="symb" data-code="197" code="00c5" title="latin capital letter a with ring above">å</li>
+    <li class="symb" data-code="198" code="00c6" title="latin capital letter ae">æ</li>
+    <li class="symb" data-code="199" code="00c7" title="latin capital letter c with cedilla">ç</li>
+    <li class="symb" data-code="200" code="00c8" title="latin capital letter e with grave">è</li>
+    <li class="symb" data-code="201" code="00c9" title="latin capital letter e with acute">é</li>
+    <li class="symb" data-code="202" code="00ca" title="latin capital letter e with circumflex">ê</li>
+    <li class="symb" data-code="203" code="00cb" title="latin capital letter e with diaeresis">ë</li>
+    <li class="symb" data-code="204" code="00cc" title="latin capital letter i with grave">ì</li>
+    <li class="symb" data-code="205" code="00cd" title="latin capital letter i with acute">í</li>
+    <li class="symb" data-code="206" code="00ce" title="latin capital letter i with circumflex">î</li>
+    <li class="symb" data-code="207" code="00cf" title="latin capital letter i with diaeresis">ï</li>
+    <li class="h">00d0</li>
+    <li class="symb" data-code="208" code="00d0" title="latin capital letter eth">ð</li>
+    <li class="symb" data-code="209" code="00d1" title="latin capital letter n with tilde">ñ</li>
+    <li class="symb" data-code="210" code="00d2" title="latin capital letter o with grave">ò</li>
+    <li class="symb" data-code="211" code="00d3" title="latin capital letter o with acute">ó</li>
+    <li class="symb" data-code="212" code="00d4" title="latin capital letter o with circumflex">ô</li>
+    <li class="symb" data-code="213" code="00d5" title="latin capital letter o with tilde">õ</li>
+    <li class="symb" data-code="214" code="00d6" title="latin capital letter o with diaeresis">ö</li>
+    <li class="symb" data-code="215" code="00d7" title="multiplication sign">×</li>
+    <li class="symb" data-code="216" code="00d8" title="latin capital letter o with stroke">ø</li>
+    <li class="symb" data-code="217" code="00d9" title="latin capital letter u with grave">ù</li>
+    <li class="symb" data-code="218" code="00da" title="latin capital letter u with acute">ú</li>
+    <li class="symb" data-code="219" code="00db" title="latin capital letter u with circumflex">û</li>
+    <li class="symb" data-code="220" code="00dc" title="latin capital letter u with diaeresis">ü</li>
+    <li class="symb" data-code="221" code="00dd" title="latin capital letter y with acute">ý</li>
+    <li class="symb" data-code="222" code="00de" title="latin capital letter thorn">þ</li>
+    <li class="symb" data-code="223" code="00df" title="latin small letter sharp s">ß</li>
+    <li class="h">00e0</li>
+    <li class="symb" data-code="224" code="00e0" title="latin small letter a with grave">à</li>
+    <li class="symb" data-code="225" code="00e1" title="latin small letter a with acute">á</li>
+    <li class="symb" data-code="226" code="00e2" title="latin small letter a with circumflex">â</li>
+    <li class="symb" data-code="227" code="00e3" title="latin small letter a with tilde">ã</li>
+    <li class="symb" data-code="228" code="00e4" title="latin small letter a with diaeresis">ä</li>
+    <li class="symb" data-code="229" code="00e5" title="latin small letter a with ring above">å</li>
+    <li class="symb" data-code="230" code="00e6" title="latin small letter ae">æ</li>
+    <li class="symb" data-code="231" code="00e7" title="latin small letter c with cedilla">ç</li>
+    <li class="symb" data-code="232" code="00e8" title="latin small letter e with grave">è</li>
+    <li class="symb" data-code="233" code="00e9" title="latin small letter e with acute">é</li>
+    <li class="symb" data-code="234" code="00ea" title="latin small letter e with circumflex">ê</li>
+    <li class="symb" data-code="235" code="00eb" title="latin small letter e with diaeresis">ë</li>
+    <li class="symb" data-code="236" code="00ec" title="latin small letter i with grave">ì</li>
+    <li class="symb" data-code="237" code="00ed" title="latin small letter i with acute">í</li>
+    <li class="symb" data-code="238" code="00ee" title="latin small letter i with circumflex">î</li>
+    <li class="symb" data-code="239" code="00ef" title="latin small letter i with diaeresis">ï</li>
+    <li class="h">00f0</li>
+    <li class="symb" data-code="240" code="00f0" title="latin small letter eth">ð</li>
+    <li class="symb" data-code="241" code="00f1" title="latin small letter n with tilde">ñ</li>
+    <li class="symb" data-code="242" code="00f2" title="latin small letter o with grave">ò</li>
+    <li class="symb" data-code="243" code="00f3" title="latin small letter o with acute">ó</li>
+    <li class="symb" data-code="244" code="00f4" title="latin small letter o with circumflex">ô</li>
+    <li class="symb" data-code="245" code="00f5" title="latin small letter o with tilde">õ</li>
+    <li class="symb" data-code="246" code="00f6" title="latin small letter o with diaeresis">ö</li>
+    <li class="symb" data-code="247" code="00f7" title="division sign">÷</li>
+    <li class="symb" data-code="248" code="00f8" title="latin small letter o with stroke">ø</li>
+    <li class="symb" data-code="249" code="00f9" title="latin small letter u with grave">ù</li>
+    <li class="symb" data-code="250" code="00fa" title="latin small letter u with acute">ú</li>
+    <li class="symb" data-code="251" code="00fb" title="latin small letter u with circumflex">û</li>
+    <li class="symb" data-code="252" code="00fc" title="u with two dots">ü</li>
+    <li class="symb" data-code="253" code="00fd" title="latin small letter y with acute">ý</li>
+    <li class="symb" data-code="254" code="00fe" title="latin small letter thorn">þ</li>
+    <li class="symb" data-code="255" code="00ff" title="latin small letter y with diaeresis">ÿ</li>
+  </ul>
+</root>

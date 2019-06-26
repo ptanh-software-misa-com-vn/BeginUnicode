@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0590</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="1425" code="0591" title="hebrew accent etnahta">֑</li>
+    <li class="symb" data-code="1426" code="0592" title="hebrew accent segol">֒</li>
+    <li class="symb" data-code="1427" code="0593" title="hebrew accent shalshelet">֓</li>
+    <li class="symb" data-code="1428" code="0594" title="hebrew accent zaqef qatan">֔</li>
+    <li class="symb" data-code="1429" code="0595" title="hebrew accent zaqef gadol">֕</li>
+    <li class="symb" data-code="1430" code="0596" title="hebrew accent tipeha">֖</li>
+    <li class="symb" data-code="1431" code="0597" title="hebrew accent revia">֗</li>
+    <li class="symb" data-code="1432" code="0598" title="hebrew accent zarqa">֘</li>
+    <li class="symb" data-code="1433" code="0599" title="hebrew accent pashta">֙</li>
+    <li class="symb" data-code="1434" code="059a" title="hebrew accent yetiv">֚</li>
+    <li class="symb" data-code="1435" code="059b" title="hebrew accent tevir">֛</li>
+    <li class="symb" data-code="1436" code="059c" title="hebrew accent geresh">֜</li>
+    <li class="symb" data-code="1437" code="059d" title="hebrew accent geresh muqdam">֝</li>
+    <li class="symb" data-code="1438" code="059e" title="hebrew accent gershayim">֞</li>
+    <li class="symb" data-code="1439" code="059f" title="hebrew accent qarney para">֟</li>
+    <li class="h">05a0</li>
+    <li class="symb" data-code="1440" code="05a0" title="hebrew accent telisha gedola">֠</li>
+    <li class="symb" data-code="1441" code="05a1" title="hebrew accent pazer">֡</li>
+    <li class="symb" data-code="1442" code="05a2" title="hebrew accent atnah hafukh">֢</li>
+    <li class="symb" data-code="1443" code="05a3" title="hebrew accent munah">֣</li>
+    <li class="symb" data-code="1444" code="05a4" title="hebrew accent mahapakh">֤</li>
+    <li class="symb" data-code="1445" code="05a5" title="hebrew accent merkha">֥</li>
+    <li class="symb" data-code="1446" code="05a6" title="hebrew accent merkha kefula">֦</li>
+    <li class="symb" data-code="1447" code="05a7" title="hebrew accent darga">֧</li>
+    <li class="symb" data-code="1448" code="05a8" title="hebrew accent qadma">֨</li>
+    <li class="symb" data-code="1449" code="05a9" title="hebrew accent telisha qetana">֩</li>
+    <li class="symb" data-code="1450" code="05aa" title="hebrew accent yerah ben yomo">֪</li>
+    <li class="symb" data-code="1451" code="05ab" title="hebrew accent ole">֫</li>
+    <li class="symb" data-code="1452" code="05ac" title="hebrew accent iluy">֬</li>
+    <li class="symb" data-code="1453" code="05ad" title="hebrew accent dehi">֭</li>
+    <li class="symb" data-code="1454" code="05ae" title="hebrew accent zinor">֮</li>
+    <li class="symb" data-code="1455" code="05af" title="hebrew mark masora circle">֯</li>
+    <li class="h">05b0</li>
+    <li class="symb" data-code="1456" code="05b0" title="hebrew point sheva">ְ</li>
+    <li class="symb" data-code="1457" code="05b1" title="hebrew point hataf segol">ֱ</li>
+    <li class="symb" data-code="1458" code="05b2" title="hebrew point hataf patah">ֲ</li>
+    <li class="symb" data-code="1459" code="05b3" title="hebrew point hataf qamats">ֳ</li>
+    <li class="symb" data-code="1460" code="05b4" title="hebrew point hiriq">ִ</li>
+    <li class="symb" data-code="1461" code="05b5" title="hebrew point tsere">ֵ</li>
+    <li class="symb" data-code="1462" code="05b6" title="hebrew point segol">ֶ</li>
+    <li class="symb" data-code="1463" code="05b7" title="hebrew point patah">ַ</li>
+    <li class="symb" data-code="1464" code="05b8" title="hebrew point qamats">ָ</li>
+    <li class="symb" data-code="1465" code="05b9" title="hebrew point holam">ֹ</li>
+    <li class="symb" data-code="1466" code="05ba" title="hebrew point holam haser for vav">ֺ</li>
+    <li class="symb" data-code="1467" code="05bb" title="hebrew point qubuts">ֻ</li>
+    <li class="symb" data-code="1468" code="05bc" title="hebrew point dagesh or mapiq">ּ</li>
+    <li class="symb" data-code="1469" code="05bd" title="hebrew point meteg">ֽ</li>
+    <li class="symb" data-code="1470" code="05be" title="hebrew punctuation maqaf">־</li>
+    <li class="symb" data-code="1471" code="05bf" title="hebrew point rafe">ֿ</li>
+    <li class="h">05c0</li>
+    <li class="symb" data-code="1472" code="05c0" title="hebrew punctuation paseq">׀</li>
+    <li class="symb" data-code="1473" code="05c1" title="hebrew point shin dot">ׁ</li>
+    <li class="symb" data-code="1474" code="05c2" title="hebrew point sin dot">ׂ</li>
+    <li class="symb" data-code="1475" code="05c3" title="hebrew punctuation sof pasuq">׃</li>
+    <li class="symb" data-code="1476" code="05c4" title="hebrew mark upper dot">ׄ</li>
+    <li class="symb" data-code="1477" code="05c5" title="hebrew mark lower dot">ׅ</li>
+    <li class="symb" data-code="1478" code="05c6" title="hebrew punctuation nun hafukha">׆</li>
+    <li class="symb" data-code="1479" code="05c7" title="hebrew point qamats qatan">ׇ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">05d0</li>
+    <li class="symb" data-code="1488" code="05d0" title="hebrew letter alef">א</li>
+    <li class="symb" data-code="1489" code="05d1" title="hebrew letter bet">ב</li>
+    <li class="symb" data-code="1490" code="05d2" title="hebrew letter gimel">ג</li>
+    <li class="symb" data-code="1491" code="05d3" title="hebrew letter dalet">ד</li>
+    <li class="symb" data-code="1492" code="05d4" title="hebrew letter he">ה</li>
+    <li class="symb" data-code="1493" code="05d5" title="hebrew letter vav">ו</li>
+    <li class="symb" data-code="1494" code="05d6" title="hebrew letter zayin">ז</li>
+    <li class="symb" data-code="1495" code="05d7" title="hebrew letter het">ח</li>
+    <li class="symb" data-code="1496" code="05d8" title="hebrew letter tet">ט</li>
+    <li class="symb" data-code="1497" code="05d9" title="hebrew letter yod">י</li>
+    <li class="symb" data-code="1498" code="05da" title="hebrew letter final kaf">ך</li>
+    <li class="symb" data-code="1499" code="05db" title="hebrew letter kaf">כ</li>
+    <li class="symb" data-code="1500" code="05dc" title="hebrew letter lamed">ל</li>
+    <li class="symb" data-code="1501" code="05dd" title="hebrew letter final mem">ם</li>
+    <li class="symb" data-code="1502" code="05de" title="hebrew letter mem">מ</li>
+    <li class="symb" data-code="1503" code="05df" title="hebrew letter final nun">ן</li>
+    <li class="h">05e0</li>
+    <li class="symb" data-code="1504" code="05e0" title="hebrew letter nun">נ</li>
+    <li class="symb" data-code="1505" code="05e1" title="hebrew letter samekh">ס</li>
+    <li class="symb" data-code="1506" code="05e2" title="hebrew letter ayin">ע</li>
+    <li class="symb" data-code="1507" code="05e3" title="hebrew letter final pe">ף</li>
+    <li class="symb" data-code="1508" code="05e4" title="hebrew letter pe">פ</li>
+    <li class="symb" data-code="1509" code="05e5" title="hebrew letter final tsadi">ץ</li>
+    <li class="symb" data-code="1510" code="05e6" title="hebrew letter tsadi">צ</li>
+    <li class="symb" data-code="1511" code="05e7" title="hebrew letter qof">ק</li>
+    <li class="symb" data-code="1512" code="05e8" title="hebrew letter resh">ר</li>
+    <li class="symb" data-code="1513" code="05e9" title="hebrew letter shin">ש</li>
+    <li class="symb" data-code="1514" code="05ea" title="hebrew letter tav">ת</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="1519" code="05ef" title="hebrew yod triangle">ׯ</li>
+    <li class="h">05f0</li>
+    <li class="symb" data-code="1520" code="05f0" title="hebrew ligature yiddish double vav">װ</li>
+    <li class="symb" data-code="1521" code="05f1" title="hebrew ligature yiddish vav yod">ױ</li>
+    <li class="symb" data-code="1522" code="05f2" title="hebrew ligature yiddish double yod">ײ</li>
+    <li class="symb" data-code="1523" code="05f3" title="hebrew punctuation geresh">׳</li>
+    <li class="symb" data-code="1524" code="05f4" title="hebrew punctuation gershayim">״</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

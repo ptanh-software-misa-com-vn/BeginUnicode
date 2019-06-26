@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0700</li>
+    <li class="symb" data-code="1792" code="0700" title="syriac end of paragraph">܀</li>
+    <li class="symb" data-code="1793" code="0701" title="syriac supralinear full stop">܁</li>
+    <li class="symb" data-code="1794" code="0702" title="syriac sublinear full stop">܂</li>
+    <li class="symb" data-code="1795" code="0703" title="syriac supralinear colon">܃</li>
+    <li class="symb" data-code="1796" code="0704" title="syriac sublinear colon">܄</li>
+    <li class="symb" data-code="1797" code="0705" title="syriac horizontal colon">܅</li>
+    <li class="symb" data-code="1798" code="0706" title="syriac colon skewed left">܆</li>
+    <li class="symb" data-code="1799" code="0707" title="syriac colon skewed right">܇</li>
+    <li class="symb" data-code="1800" code="0708" title="syriac supralinear colon skewed left">܈</li>
+    <li class="symb" data-code="1801" code="0709" title="syriac sublinear colon skewed right">܉</li>
+    <li class="symb" data-code="1802" code="070a" title="syriac contraction">܊</li>
+    <li class="symb" data-code="1803" code="070b" title="syriac harklean obelus">܋</li>
+    <li class="symb" data-code="1804" code="070c" title="syriac harklean metobelus">܌</li>
+    <li class="symb" data-code="1805" code="070d" title="syriac harklean asteriscus">܍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="1807" code="070f" title="syriac abbreviation mark">܏</li>
+    <li class="h">0710</li>
+    <li class="symb" data-code="1808" code="0710" title="syriac letter alaph">ܐ</li>
+    <li class="symb" data-code="1809" code="0711" title="syriac letter superscript alaph">ܑ</li>
+    <li class="symb" data-code="1810" code="0712" title="syriac letter beth">ܒ</li>
+    <li class="symb" data-code="1811" code="0713" title="syriac letter gamal">ܓ</li>
+    <li class="symb" data-code="1812" code="0714" title="syriac letter gamal garshuni">ܔ</li>
+    <li class="symb" data-code="1813" code="0715" title="syriac letter dalath">ܕ</li>
+    <li class="symb" data-code="1814" code="0716" title="syriac letter dotless dalath rish">ܖ</li>
+    <li class="symb" data-code="1815" code="0717" title="syriac letter he">ܗ</li>
+    <li class="symb" data-code="1816" code="0718" title="syriac letter waw">ܘ</li>
+    <li class="symb" data-code="1817" code="0719" title="syriac letter zain">ܙ</li>
+    <li class="symb" data-code="1818" code="071a" title="syriac letter heth">ܚ</li>
+    <li class="symb" data-code="1819" code="071b" title="syriac letter teth">ܛ</li>
+    <li class="symb" data-code="1820" code="071c" title="syriac letter teth garshuni">ܜ</li>
+    <li class="symb" data-code="1821" code="071d" title="syriac letter yudh">ܝ</li>
+    <li class="symb" data-code="1822" code="071e" title="syriac letter yudh he">ܞ</li>
+    <li class="symb" data-code="1823" code="071f" title="syriac letter kaph">ܟ</li>
+    <li class="h">0720</li>
+    <li class="symb" data-code="1824" code="0720" title="syriac letter lamadh">ܠ</li>
+    <li class="symb" data-code="1825" code="0721" title="syriac letter mim">ܡ</li>
+    <li class="symb" data-code="1826" code="0722" title="syriac letter nun">ܢ</li>
+    <li class="symb" data-code="1827" code="0723" title="syriac letter semkath">ܣ</li>
+    <li class="symb" data-code="1828" code="0724" title="syriac letter final semkath">ܤ</li>
+    <li class="symb" data-code="1829" code="0725" title="syriac letter e">ܥ</li>
+    <li class="symb" data-code="1830" code="0726" title="syriac letter pe">ܦ</li>
+    <li class="symb" data-code="1831" code="0727" title="syriac letter reversed pe">ܧ</li>
+    <li class="symb" data-code="1832" code="0728" title="syriac letter sadhe">ܨ</li>
+    <li class="symb" data-code="1833" code="0729" title="syriac letter qaph">ܩ</li>
+    <li class="symb" data-code="1834" code="072a" title="syriac letter rish">ܪ</li>
+    <li class="symb" data-code="1835" code="072b" title="syriac letter shin">ܫ</li>
+    <li class="symb" data-code="1836" code="072c" title="syriac letter taw">ܬ</li>
+    <li class="symb" data-code="1837" code="072d" title="syriac letter persian bheth">ܭ</li>
+    <li class="symb" data-code="1838" code="072e" title="syriac letter persian ghamal">ܮ</li>
+    <li class="symb" data-code="1839" code="072f" title="syriac letter persian dhalath">ܯ</li>
+    <li class="h">0730</li>
+    <li class="symb" data-code="1840" code="0730" title="syriac pthaha above">ܰ</li>
+    <li class="symb" data-code="1841" code="0731" title="syriac pthaha below">ܱ</li>
+    <li class="symb" data-code="1842" code="0732" title="syriac pthaha dotted">ܲ</li>
+    <li class="symb" data-code="1843" code="0733" title="syriac zqapha above">ܳ</li>
+    <li class="symb" data-code="1844" code="0734" title="syriac zqapha below">ܴ</li>
+    <li class="symb" data-code="1845" code="0735" title="syriac zqapha dotted">ܵ</li>
+    <li class="symb" data-code="1846" code="0736" title="syriac rbasa above">ܶ</li>
+    <li class="symb" data-code="1847" code="0737" title="syriac rbasa below">ܷ</li>
+    <li class="symb" data-code="1848" code="0738" title="syriac dotted zlama horizontal">ܸ</li>
+    <li class="symb" data-code="1849" code="0739" title="syriac dotted zlama angular">ܹ</li>
+    <li class="symb" data-code="1850" code="073a" title="syriac hbasa above">ܺ</li>
+    <li class="symb" data-code="1851" code="073b" title="syriac hbasa below">ܻ</li>
+    <li class="symb" data-code="1852" code="073c" title="syriac hbasa-esasa dotted">ܼ</li>
+    <li class="symb" data-code="1853" code="073d" title="syriac esasa above">ܽ</li>
+    <li class="symb" data-code="1854" code="073e" title="syriac esasa below">ܾ</li>
+    <li class="symb" data-code="1855" code="073f" title="syriac rwaha">ܿ</li>
+    <li class="h">0740</li>
+    <li class="symb" data-code="1856" code="0740" title="syriac feminine dot">݀</li>
+    <li class="symb" data-code="1857" code="0741" title="syriac qushshaya">݁</li>
+    <li class="symb" data-code="1858" code="0742" title="syriac rukkakha">݂</li>
+    <li class="symb" data-code="1859" code="0743" title="syriac two vertical dots above">݃</li>
+    <li class="symb" data-code="1860" code="0744" title="syriac two vertical dots below">݄</li>
+    <li class="symb" data-code="1861" code="0745" title="syriac three dots above">݅</li>
+    <li class="symb" data-code="1862" code="0746" title="syriac three dots below">݆</li>
+    <li class="symb" data-code="1863" code="0747" title="syriac oblique line above">݇</li>
+    <li class="symb" data-code="1864" code="0748" title="syriac oblique line below">݈</li>
+    <li class="symb" data-code="1865" code="0749" title="syriac music">݉</li>
+    <li class="symb" data-code="1866" code="074a" title="syriac barrekh">݊</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="1869" code="074d" title="syriac letter sogdian zhain">ݍ</li>
+    <li class="symb" data-code="1870" code="074e" title="syriac letter sogdian khaph">ݎ</li>
+    <li class="symb" data-code="1871" code="074f" title="syriac letter sogdian fe">ݏ</li>
+  </ul>
+</root>

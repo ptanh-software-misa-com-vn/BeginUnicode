@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0400</li>
+    <li class="symb" data-code="1024" code="0400" title="cyrillic capital letter ie with grave">ѐ</li>
+    <li class="symb" data-code="1025" code="0401" title="cyrillic capital letter io">ё</li>
+    <li class="symb" data-code="1026" code="0402" title="cyrillic capital letter dje">ђ</li>
+    <li class="symb" data-code="1027" code="0403" title="cyrillic capital letter gje">ѓ</li>
+    <li class="symb" data-code="1028" code="0404" title="cyrillic capital letter ukrainian ie">є</li>
+    <li class="symb" data-code="1029" code="0405" title="cyrillic capital letter dze">ѕ</li>
+    <li class="symb" data-code="1030" code="0406" title="cyrillic capital letter byelorussian-ukrainian i">і</li>
+    <li class="symb" data-code="1031" code="0407" title="cyrillic capital letter yi">ї</li>
+    <li class="symb" data-code="1032" code="0408" title="cyrillic capital letter je">ј</li>
+    <li class="symb" data-code="1033" code="0409" title="cyrillic capital letter lje">љ</li>
+    <li class="symb" data-code="1034" code="040a" title="cyrillic capital letter nje">њ</li>
+    <li class="symb" data-code="1035" code="040b" title="cyrillic capital letter tshe">ћ</li>
+    <li class="symb" data-code="1036" code="040c" title="cyrillic capital letter kje">ќ</li>
+    <li class="symb" data-code="1037" code="040d" title="cyrillic capital letter i with grave">ѝ</li>
+    <li class="symb" data-code="1038" code="040e" title="cyrillic capital letter short u">ў</li>
+    <li class="symb" data-code="1039" code="040f" title="cyrillic capital letter dzhe">џ</li>
+    <li class="h">0410</li>
+    <li class="symb" data-code="1040" code="0410" title="cyrillic capital letter a">а</li>
+    <li class="symb" data-code="1041" code="0411" title="cyrillic capital letter be">б</li>
+    <li class="symb" data-code="1042" code="0412" title="cyrillic capital letter ve">в</li>
+    <li class="symb" data-code="1043" code="0413" title="cyrillic capital letter ghe">г</li>
+    <li class="symb" data-code="1044" code="0414" title="cyrillic capital letter de">д</li>
+    <li class="symb" data-code="1045" code="0415" title="cyrillic capital letter ie">е</li>
+    <li class="symb" data-code="1046" code="0416" title="cyrillic capital letter zhe">ж</li>
+    <li class="symb" data-code="1047" code="0417" title="cyrillic capital letter ze">з</li>
+    <li class="symb" data-code="1048" code="0418" title="cyrillic capital letter i">и</li>
+    <li class="symb" data-code="1049" code="0419" title="cyrillic capital letter short i">й</li>
+    <li class="symb" data-code="1050" code="041a" title="cyrillic capital letter ka">к</li>
+    <li class="symb" data-code="1051" code="041b" title="cyrillic capital letter el">л</li>
+    <li class="symb" data-code="1052" code="041c" title="cyrillic capital letter em">м</li>
+    <li class="symb" data-code="1053" code="041d" title="cyrillic capital letter en">н</li>
+    <li class="symb" data-code="1054" code="041e" title="cyrillic capital letter o">о</li>
+    <li class="symb" data-code="1055" code="041f" title="cyrillic capital letter pe">п</li>
+    <li class="h">0420</li>
+    <li class="symb" data-code="1056" code="0420" title="cyrillic capital letter er">р</li>
+    <li class="symb" data-code="1057" code="0421" title="cyrillic capital letter es">с</li>
+    <li class="symb" data-code="1058" code="0422" title="cyrillic capital letter te">т</li>
+    <li class="symb" data-code="1059" code="0423" title="cyrillic capital letter u">у</li>
+    <li class="symb" data-code="1060" code="0424" title="cyrillic capital letter ef">ф</li>
+    <li class="symb" data-code="1061" code="0425" title="cyrillic capital letter ha">х</li>
+    <li class="symb" data-code="1062" code="0426" title="cyrillic capital letter tse">ц</li>
+    <li class="symb" data-code="1063" code="0427" title="cyrillic capital letter che">ч</li>
+    <li class="symb" data-code="1064" code="0428" title="cyrillic capital letter sha">ш</li>
+    <li class="symb" data-code="1065" code="0429" title="cyrillic capital letter shcha">щ</li>
+    <li class="symb" data-code="1066" code="042a" title="cyrillic capital letter hard sign">ъ</li>
+    <li class="symb" data-code="1067" code="042b" title="cyrillic capital letter yeru">ы</li>
+    <li class="symb" data-code="1068" code="042c" title="cyrillic capital letter soft sign">ь</li>
+    <li class="symb" data-code="1069" code="042d" title="cyrillic capital letter e">э</li>
+    <li class="symb" data-code="1070" code="042e" title="cyrillic capital letter yu">ю</li>
+    <li class="symb" data-code="1071" code="042f" title="cyrillic capital letter ya">я</li>
+    <li class="h">0430</li>
+    <li class="symb" data-code="1072" code="0430" title="cyrillic small letter a">а</li>
+    <li class="symb" data-code="1073" code="0431" title="cyrillic small letter be">б</li>
+    <li class="symb" data-code="1074" code="0432" title="cyrillic small letter ve">в</li>
+    <li class="symb" data-code="1075" code="0433" title="cyrillic small letter ghe">г</li>
+    <li class="symb" data-code="1076" code="0434" title="cyrillic small letter de">д</li>
+    <li class="symb" data-code="1077" code="0435" title="cyrillic small letter ie">е</li>
+    <li class="symb" data-code="1078" code="0436" title="cyrillic small letter zhe">ж</li>
+    <li class="symb" data-code="1079" code="0437" title="cyrillic small letter ze">з</li>
+    <li class="symb" data-code="1080" code="0438" title="cyrillic small letter i">и</li>
+    <li class="symb" data-code="1081" code="0439" title="cyrillic small letter short i">й</li>
+    <li class="symb" data-code="1082" code="043a" title="cyrillic small letter ka">к</li>
+    <li class="symb" data-code="1083" code="043b" title="cyrillic small letter el">л</li>
+    <li class="symb" data-code="1084" code="043c" title="cyrillic small letter em">м</li>
+    <li class="symb" data-code="1085" code="043d" title="cyrillic small letter en">н</li>
+    <li class="symb" data-code="1086" code="043e" title="cyrillic small letter o">о</li>
+    <li class="symb" data-code="1087" code="043f" title="cyrillic small letter pe">п</li>
+    <li class="h">0440</li>
+    <li class="symb" data-code="1088" code="0440" title="cyrillic small letter er">р</li>
+    <li class="symb" data-code="1089" code="0441" title="cyrillic small letter es">с</li>
+    <li class="symb" data-code="1090" code="0442" title="cyrillic small letter te">т</li>
+    <li class="symb" data-code="1091" code="0443" title="cyrillic small letter u">у</li>
+    <li class="symb" data-code="1092" code="0444" title="cyrillic small letter ef">ф</li>
+    <li class="symb" data-code="1093" code="0445" title="cyrillic small letter ha">х</li>
+    <li class="symb" data-code="1094" code="0446" title="cyrillic small letter tse">ц</li>
+    <li class="symb" data-code="1095" code="0447" title="cyrillic small letter che">ч</li>
+    <li class="symb" data-code="1096" code="0448" title="cyrillic small letter sha">ш</li>
+    <li class="symb" data-code="1097" code="0449" title="cyrillic small letter shcha">щ</li>
+    <li class="symb" data-code="1098" code="044a" title="cyrillic small letter hard sign">ъ</li>
+    <li class="symb" data-code="1099" code="044b" title="cyrillic small letter yeru">ы</li>
+    <li class="symb" data-code="1100" code="044c" title="cyrillic small letter soft sign">ь</li>
+    <li class="symb" data-code="1101" code="044d" title="cyrillic small letter e">э</li>
+    <li class="symb" data-code="1102" code="044e" title="cyrillic small letter yu">ю</li>
+    <li class="symb" data-code="1103" code="044f" title="cyrillic small letter ya">я</li>
+    <li class="h">0450</li>
+    <li class="symb" data-code="1104" code="0450" title="cyrillic small letter ie with grave">ѐ</li>
+    <li class="symb" data-code="1105" code="0451" title="cyrillic small letter io">ё</li>
+    <li class="symb" data-code="1106" code="0452" title="cyrillic small letter dje">ђ</li>
+    <li class="symb" data-code="1107" code="0453" title="cyrillic small letter gje">ѓ</li>
+    <li class="symb" data-code="1108" code="0454" title="cyrillic small letter ukrainian ie">є</li>
+    <li class="symb" data-code="1109" code="0455" title="cyrillic small letter dze">ѕ</li>
+    <li class="symb" data-code="1110" code="0456" title="cyrillic small letter byelorussian-ukrainian i">і</li>
+    <li class="symb" data-code="1111" code="0457" title="cyrillic small letter yi">ї</li>
+    <li class="symb" data-code="1112" code="0458" title="cyrillic small letter je">ј</li>
+    <li class="symb" data-code="1113" code="0459" title="cyrillic small letter lje">љ</li>
+    <li class="symb" data-code="1114" code="045a" title="cyrillic small letter nje">њ</li>
+    <li class="symb" data-code="1115" code="045b" title="cyrillic small letter tshe">ћ</li>
+    <li class="symb" data-code="1116" code="045c" title="cyrillic small letter kje">ќ</li>
+    <li class="symb" data-code="1117" code="045d" title="cyrillic small letter i with grave">ѝ</li>
+    <li class="symb" data-code="1118" code="045e" title="cyrillic small letter short u">ў</li>
+    <li class="symb" data-code="1119" code="045f" title="cyrillic small letter dzhe">џ</li>
+    <li class="h">0460</li>
+    <li class="symb" data-code="1120" code="0460" title="cyrillic capital letter omega">ѡ</li>
+    <li class="symb" data-code="1121" code="0461" title="cyrillic small letter omega">ѡ</li>
+    <li class="symb" data-code="1122" code="0462" title="cyrillic capital letter yat">ѣ</li>
+    <li class="symb" data-code="1123" code="0463" title="cyrillic small letter yat">ѣ</li>
+    <li class="symb" data-code="1124" code="0464" title="cyrillic capital letter iotified e">ѥ</li>
+    <li class="symb" data-code="1125" code="0465" title="cyrillic small letter iotified e">ѥ</li>
+    <li class="symb" data-code="1126" code="0466" title="cyrillic capital letter little yus">ѧ</li>
+    <li class="symb" data-code="1127" code="0467" title="cyrillic small letter little yus">ѧ</li>
+    <li class="symb" data-code="1128" code="0468" title="cyrillic capital letter iotified little yus">ѩ</li>
+    <li class="symb" data-code="1129" code="0469" title="cyrillic small letter iotified little yus">ѩ</li>
+    <li class="symb" data-code="1130" code="046a" title="cyrillic capital letter big yus">ѫ</li>
+    <li class="symb" data-code="1131" code="046b" title="cyrillic small letter big yus">ѫ</li>
+    <li class="symb" data-code="1132" code="046c" title="cyrillic capital letter iotified big yus">ѭ</li>
+    <li class="symb" data-code="1133" code="046d" title="cyrillic small letter iotified big yus">ѭ</li>
+    <li class="symb" data-code="1134" code="046e" title="cyrillic capital letter ksi">ѯ</li>
+    <li class="symb" data-code="1135" code="046f" title="cyrillic small letter ksi">ѯ</li>
+    <li class="h">0470</li>
+    <li class="symb" data-code="1136" code="0470" title="cyrillic capital letter psi">ѱ</li>
+    <li class="symb" data-code="1137" code="0471" title="cyrillic small letter psi">ѱ</li>
+    <li class="symb" data-code="1138" code="0472" title="cyrillic capital letter fita">ѳ</li>
+    <li class="symb" data-code="1139" code="0473" title="cyrillic small letter fita">ѳ</li>
+    <li class="symb" data-code="1140" code="0474" title="cyrillic capital letter izhitsa">ѵ</li>
+    <li class="symb" data-code="1141" code="0475" title="cyrillic small letter izhitsa">ѵ</li>
+    <li class="symb" data-code="1142" code="0476" title="cyrillic capital letter izhitsa with double grave accent">ѷ</li>
+    <li class="symb" data-code="1143" code="0477" title="cyrillic small letter izhitsa with double grave accent">ѷ</li>
+    <li class="symb" data-code="1144" code="0478" title="cyrillic capital letter uk">ѹ</li>
+    <li class="symb" data-code="1145" code="0479" title="cyrillic small letter uk">ѹ</li>
+    <li class="symb" data-code="1146" code="047a" title="cyrillic capital letter round omega">ѻ</li>
+    <li class="symb" data-code="1147" code="047b" title="cyrillic small letter round omega">ѻ</li>
+    <li class="symb" data-code="1148" code="047c" title="cyrillic capital letter omega with titlo">ѽ</li>
+    <li class="symb" data-code="1149" code="047d" title="cyrillic small letter omega with titlo">ѽ</li>
+    <li class="symb" data-code="1150" code="047e" title="cyrillic capital letter ot">ѿ</li>
+    <li class="symb" data-code="1151" code="047f" title="cyrillic small letter ot">ѿ</li>
+    <li class="h">0480</li>
+    <li class="symb" data-code="1152" code="0480" title="cyrillic capital letter koppa">ҁ</li>
+    <li class="symb" data-code="1153" code="0481" title="cyrillic small letter koppa">ҁ</li>
+    <li class="symb" data-code="1154" code="0482" title="cyrillic thousands sign">҂</li>
+    <li class="symb" data-code="1155" code="0483" title="combining cyrillic titlo">҃</li>
+    <li class="symb" data-code="1156" code="0484" title="combining cyrillic palatalization">҄</li>
+    <li class="symb" data-code="1157" code="0485" title="combining cyrillic dasia pneumata">҅</li>
+    <li class="symb" data-code="1158" code="0486" title="combining cyrillic psili pneumata">҆</li>
+    <li class="symb" data-code="1159" code="0487" title="combining cyrillic pokrytie">҇</li>
+    <li class="symb" data-code="1160" code="0488" title="combining cyrillic hundred thousands sign">҈</li>
+    <li class="symb" data-code="1161" code="0489" title="combining cyrillic millions sign">҉</li>
+    <li class="symb" data-code="1162" code="048a" title="cyrillic capital letter short i with tail">ҋ</li>
+    <li class="symb" data-code="1163" code="048b" title="cyrillic small letter short i with tail">ҋ</li>
+    <li class="symb" data-code="1164" code="048c" title="cyrillic capital letter semisoft sign">ҍ</li>
+    <li class="symb" data-code="1165" code="048d" title="cyrillic small letter semisoft sign">ҍ</li>
+    <li class="symb" data-code="1166" code="048e" title="cyrillic capital letter er with tick">ҏ</li>
+    <li class="symb" data-code="1167" code="048f" title="cyrillic small letter er with tick">ҏ</li>
+    <li class="h">0490</li>
+    <li class="symb" data-code="1168" code="0490" title="cyrillic capital letter ghe with upturn">ґ</li>
+    <li class="symb" data-code="1169" code="0491" title="cyrillic small letter ghe with upturn">ґ</li>
+    <li class="symb" data-code="1170" code="0492" title="cyrillic capital letter ghe with stroke">ғ</li>
+    <li class="symb" data-code="1171" code="0493" title="cyrillic small letter ghe with stroke">ғ</li>
+    <li class="symb" data-code="1172" code="0494" title="cyrillic capital letter ghe with middle hook">ҕ</li>
+    <li class="symb" data-code="1173" code="0495" title="cyrillic small letter ghe with middle hook">ҕ</li>
+    <li class="symb" data-code="1174" code="0496" title="cyrillic capital letter zhe with descender">җ</li>
+    <li class="symb" data-code="1175" code="0497" title="cyrillic small letter zhe with descender">җ</li>
+    <li class="symb" data-code="1176" code="0498" title="cyrillic capital letter ze with descender">ҙ</li>
+    <li class="symb" data-code="1177" code="0499" title="cyrillic small letter ze with descender">ҙ</li>
+    <li class="symb" data-code="1178" code="049a" title="cyrillic capital letter ka with descender">қ</li>
+    <li class="symb" data-code="1179" code="049b" title="cyrillic small letter ka with descender">қ</li>
+    <li class="symb" data-code="1180" code="049c" title="cyrillic capital letter ka with vertical stroke">ҝ</li>
+    <li class="symb" data-code="1181" code="049d" title="cyrillic small letter ka with vertical stroke">ҝ</li>
+    <li class="symb" data-code="1182" code="049e" title="cyrillic capital letter ka with stroke">ҟ</li>
+    <li class="symb" data-code="1183" code="049f" title="cyrillic small letter ka with stroke">ҟ</li>
+    <li class="h">04a0</li>
+    <li class="symb" data-code="1184" code="04a0" title="cyrillic capital letter bashkir ka">ҡ</li>
+    <li class="symb" data-code="1185" code="04a1" title="cyrillic small letter bashkir ka">ҡ</li>
+    <li class="symb" data-code="1186" code="04a2" title="cyrillic capital letter en with descender">ң</li>
+    <li class="symb" data-code="1187" code="04a3" title="cyrillic small letter en with descender">ң</li>
+    <li class="symb" data-code="1188" code="04a4" title="cyrillic capital ligature en ghe">ҥ</li>
+    <li class="symb" data-code="1189" code="04a5" title="cyrillic small ligature en ghe">ҥ</li>
+    <li class="symb" data-code="1190" code="04a6" title="cyrillic capital letter pe with middle hook">ҧ</li>
+    <li class="symb" data-code="1191" code="04a7" title="cyrillic small letter pe with middle hook">ҧ</li>
+    <li class="symb" data-code="1192" code="04a8" title="cyrillic capital letter abkhasian ha">ҩ</li>
+    <li class="symb" data-code="1193" code="04a9" title="cyrillic small letter abkhasian ha">ҩ</li>
+    <li class="symb" data-code="1194" code="04aa" title="cyrillic capital letter es with descender">ҫ</li>
+    <li class="symb" data-code="1195" code="04ab" title="cyrillic small letter es with descender">ҫ</li>
+    <li class="symb" data-code="1196" code="04ac" title="cyrillic capital letter te with descender">ҭ</li>
+    <li class="symb" data-code="1197" code="04ad" title="cyrillic small letter te with descender">ҭ</li>
+    <li class="symb" data-code="1198" code="04ae" title="cyrillic capital letter straight u">ү</li>
+    <li class="symb" data-code="1199" code="04af" title="cyrillic small letter straight u">ү</li>
+    <li class="h">04b0</li>
+    <li class="symb" data-code="1200" code="04b0" title="cyrillic capital letter straight u with stroke">ұ</li>
+    <li class="symb" data-code="1201" code="04b1" title="cyrillic small letter straight u with stroke">ұ</li>
+    <li class="symb" data-code="1202" code="04b2" title="cyrillic capital letter ha with descender">ҳ</li>
+    <li class="symb" data-code="1203" code="04b3" title="cyrillic small letter ha with descender">ҳ</li>
+    <li class="symb" data-code="1204" code="04b4" title="cyrillic capital ligature te tse">ҵ</li>
+    <li class="symb" data-code="1205" code="04b5" title="cyrillic small ligature te tse">ҵ</li>
+    <li class="symb" data-code="1206" code="04b6" title="cyrillic capital letter che with descender">ҷ</li>
+    <li class="symb" data-code="1207" code="04b7" title="cyrillic small letter che with descender">ҷ</li>
+    <li class="symb" data-code="1208" code="04b8" title="cyrillic capital letter che with vertical stroke">ҹ</li>
+    <li class="symb" data-code="1209" code="04b9" title="cyrillic small letter che with vertical stroke">ҹ</li>
+    <li class="symb" data-code="1210" code="04ba" title="cyrillic capital letter shha">һ</li>
+    <li class="symb" data-code="1211" code="04bb" title="cyrillic small letter shha">һ</li>
+    <li class="symb" data-code="1212" code="04bc" title="cyrillic capital letter abkhasian che">ҽ</li>
+    <li class="symb" data-code="1213" code="04bd" title="cyrillic small letter abkhasian che">ҽ</li>
+    <li class="symb" data-code="1214" code="04be" title="cyrillic capital letter abkhasian che with descender">ҿ</li>
+    <li class="symb" data-code="1215" code="04bf" title="cyrillic small letter abkhasian che with descender">ҿ</li>
+    <li class="h">04c0</li>
+    <li class="symb" data-code="1216" code="04c0" title="cyrillic letter palochka">ӏ</li>
+    <li class="symb" data-code="1217" code="04c1" title="cyrillic capital letter zhe with breve">ӂ</li>
+    <li class="symb" data-code="1218" code="04c2" title="cyrillic small letter zhe with breve">ӂ</li>
+    <li class="symb" data-code="1219" code="04c3" title="cyrillic capital letter ka with hook">ӄ</li>
+    <li class="symb" data-code="1220" code="04c4" title="cyrillic small letter ka with hook">ӄ</li>
+    <li class="symb" data-code="1221" code="04c5" title="cyrillic capital letter el with tail">ӆ</li>
+    <li class="symb" data-code="1222" code="04c6" title="cyrillic small letter el with tail">ӆ</li>
+    <li class="symb" data-code="1223" code="04c7" title="cyrillic capital letter en with hook">ӈ</li>
+    <li class="symb" data-code="1224" code="04c8" title="cyrillic small letter en with hook">ӈ</li>
+    <li class="symb" data-code="1225" code="04c9" title="cyrillic capital letter en with tail">ӊ</li>
+    <li class="symb" data-code="1226" code="04ca" title="cyrillic small letter en with tail">ӊ</li>
+    <li class="symb" data-code="1227" code="04cb" title="cyrillic capital letter khakassian che">ӌ</li>
+    <li class="symb" data-code="1228" code="04cc" title="cyrillic small letter khakassian che">ӌ</li>
+    <li class="symb" data-code="1229" code="04cd" title="cyrillic capital letter em with tail">ӎ</li>
+    <li class="symb" data-code="1230" code="04ce" title="cyrillic small letter em with tail">ӎ</li>
+    <li class="symb" data-code="1231" code="04cf" title="cyrillic small letter palochka">ӏ</li>
+    <li class="h">04d0</li>
+    <li class="symb" data-code="1232" code="04d0" title="cyrillic capital letter a with breve">ӑ</li>
+    <li class="symb" data-code="1233" code="04d1" title="cyrillic small letter a with breve">ӑ</li>
+    <li class="symb" data-code="1234" code="04d2" title="cyrillic capital letter a with diaeresis">ӓ</li>
+    <li class="symb" data-code="1235" code="04d3" title="cyrillic small letter a with diaeresis">ӓ</li>
+    <li class="symb" data-code="1236" code="04d4" title="cyrillic capital ligature a ie">ӕ</li>
+    <li class="symb" data-code="1237" code="04d5" title="cyrillic small ligature a ie">ӕ</li>
+    <li class="symb" data-code="1238" code="04d6" title="cyrillic capital letter ie with breve">ӗ</li>
+    <li class="symb" data-code="1239" code="04d7" title="cyrillic small letter ie with breve">ӗ</li>
+    <li class="symb" data-code="1240" code="04d8" title="cyrillic capital letter schwa">ә</li>
+    <li class="symb" data-code="1241" code="04d9" title="cyrillic small letter schwa">ә</li>
+    <li class="symb" data-code="1242" code="04da" title="cyrillic capital letter schwa with diaeresis">ӛ</li>
+    <li class="symb" data-code="1243" code="04db" title="cyrillic small letter schwa with diaeresis">ӛ</li>
+    <li class="symb" data-code="1244" code="04dc" title="cyrillic capital letter zhe with diaeresis">ӝ</li>
+    <li class="symb" data-code="1245" code="04dd" title="cyrillic small letter zhe with diaeresis">ӝ</li>
+    <li class="symb" data-code="1246" code="04de" title="cyrillic capital letter ze with diaeresis">ӟ</li>
+    <li class="symb" data-code="1247" code="04df" title="cyrillic small letter ze with diaeresis">ӟ</li>
+    <li class="h">04e0</li>
+    <li class="symb" data-code="1248" code="04e0" title="cyrillic capital letter abkhasian dze">ӡ</li>
+    <li class="symb" data-code="1249" code="04e1" title="cyrillic small letter abkhasian dze">ӡ</li>
+    <li class="symb" data-code="1250" code="04e2" title="cyrillic capital letter i with macron">ӣ</li>
+    <li class="symb" data-code="1251" code="04e3" title="cyrillic small letter i with macron">ӣ</li>
+    <li class="symb" data-code="1252" code="04e4" title="cyrillic capital letter i with diaeresis">ӥ</li>
+    <li class="symb" data-code="1253" code="04e5" title="cyrillic small letter i with diaeresis">ӥ</li>
+    <li class="symb" data-code="1254" code="04e6" title="cyrillic capital letter o with diaeresis">ӧ</li>
+    <li class="symb" data-code="1255" code="04e7" title="cyrillic small letter o with diaeresis">ӧ</li>
+    <li class="symb" data-code="1256" code="04e8" title="cyrillic capital letter barred o">ө</li>
+    <li class="symb" data-code="1257" code="04e9" title="cyrillic small letter barred o">ө</li>
+    <li class="symb" data-code="1258" code="04ea" title="cyrillic capital letter barred o with diaeresis">ӫ</li>
+    <li class="symb" data-code="1259" code="04eb" title="cyrillic small letter barred o with diaeresis">ӫ</li>
+    <li class="symb" data-code="1260" code="04ec" title="cyrillic capital letter e with diaeresis">ӭ</li>
+    <li class="symb" data-code="1261" code="04ed" title="cyrillic small letter e with diaeresis">ӭ</li>
+    <li class="symb" data-code="1262" code="04ee" title="cyrillic capital letter u with macron">ӯ</li>
+    <li class="symb" data-code="1263" code="04ef" title="cyrillic small letter u with macron">ӯ</li>
+    <li class="h">04f0</li>
+    <li class="symb" data-code="1264" code="04f0" title="cyrillic capital letter u with diaeresis">ӱ</li>
+    <li class="symb" data-code="1265" code="04f1" title="cyrillic small letter u with diaeresis">ӱ</li>
+    <li class="symb" data-code="1266" code="04f2" title="cyrillic capital letter u with double acute">ӳ</li>
+    <li class="symb" data-code="1267" code="04f3" title="cyrillic small letter u with double acute">ӳ</li>
+    <li class="symb" data-code="1268" code="04f4" title="cyrillic capital letter che with diaeresis">ӵ</li>
+    <li class="symb" data-code="1269" code="04f5" title="cyrillic small letter che with diaeresis">ӵ</li>
+    <li class="symb" data-code="1270" code="04f6" title="cyrillic capital letter ghe with descender">ӷ</li>
+    <li class="symb" data-code="1271" code="04f7" title="cyrillic small letter ghe with descender">ӷ</li>
+    <li class="symb" data-code="1272" code="04f8" title="cyrillic capital letter yeru with diaeresis">ӹ</li>
+    <li class="symb" data-code="1273" code="04f9" title="cyrillic small letter yeru with diaeresis">ӹ</li>
+    <li class="symb" data-code="1274" code="04fa" title="cyrillic capital letter ghe with stroke and hook">ӻ</li>
+    <li class="symb" data-code="1275" code="04fb" title="cyrillic small letter ghe with stroke and hook">ӻ</li>
+    <li class="symb" data-code="1276" code="04fc" title="cyrillic capital letter ha with hook">ӽ</li>
+    <li class="symb" data-code="1277" code="04fd" title="cyrillic small letter ha with hook">ӽ</li>
+    <li class="symb" data-code="1278" code="04fe" title="cyrillic capital letter ha with stroke">ӿ</li>
+    <li class="symb" data-code="1279" code="04ff" title="cyrillic small letter ha with stroke">ӿ</li>
+  </ul>
+</root>

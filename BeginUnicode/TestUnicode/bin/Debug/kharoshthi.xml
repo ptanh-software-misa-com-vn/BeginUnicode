@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">10a00</li>
+    <li class="symb" data-code="68096" code="10a00" title="kharoshthi letter a">𐨀</li>
+    <li class="symb" data-code="68097" code="10a01" title="kharoshthi vowel sign i">𐨁</li>
+    <li class="symb" data-code="68098" code="10a02" title="kharoshthi vowel sign u">𐨂</li>
+    <li class="symb" data-code="68099" code="10a03" title="kharoshthi vowel sign vocalic r">𐨃</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="68101" code="10a05" title="kharoshthi vowel sign e">𐨅</li>
+    <li class="symb" data-code="68102" code="10a06" title="kharoshthi vowel sign o">𐨆</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="68108" code="10a0c" title="kharoshthi vowel length mark">𐨌</li>
+    <li class="symb" data-code="68109" code="10a0d" title="kharoshthi sign double ring below">𐨍</li>
+    <li class="symb" data-code="68110" code="10a0e" title="kharoshthi sign anusvara">𐨎</li>
+    <li class="symb" data-code="68111" code="10a0f" title="kharoshthi sign visarga">𐨏</li>
+    <li class="h">10a10</li>
+    <li class="symb" data-code="68112" code="10a10" title="kharoshthi letter ka">𐨐</li>
+    <li class="symb" data-code="68113" code="10a11" title="kharoshthi letter kha">𐨑</li>
+    <li class="symb" data-code="68114" code="10a12" title="kharoshthi letter ga">𐨒</li>
+    <li class="symb" data-code="68115" code="10a13" title="kharoshthi letter gha">𐨓</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="68117" code="10a15" title="kharoshthi letter ca">𐨕</li>
+    <li class="symb" data-code="68118" code="10a16" title="kharoshthi letter cha">𐨖</li>
+    <li class="symb" data-code="68119" code="10a17" title="kharoshthi letter ja">𐨗</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="68121" code="10a19" title="kharoshthi letter nya">𐨙</li>
+    <li class="symb" data-code="68122" code="10a1a" title="kharoshthi letter tta">𐨚</li>
+    <li class="symb" data-code="68123" code="10a1b" title="kharoshthi letter ttha">𐨛</li>
+    <li class="symb" data-code="68124" code="10a1c" title="kharoshthi letter dda">𐨜</li>
+    <li class="symb" data-code="68125" code="10a1d" title="kharoshthi letter ddha">𐨝</li>
+    <li class="symb" data-code="68126" code="10a1e" title="kharoshthi letter nna">𐨞</li>
+    <li class="symb" data-code="68127" code="10a1f" title="kharoshthi letter ta">𐨟</li>
+    <li class="h">10a20</li>
+    <li class="symb" data-code="68128" code="10a20" title="kharoshthi letter tha">𐨠</li>
+    <li class="symb" data-code="68129" code="10a21" title="kharoshthi letter da">𐨡</li>
+    <li class="symb" data-code="68130" code="10a22" title="kharoshthi letter dha">𐨢</li>
+    <li class="symb" data-code="68131" code="10a23" title="kharoshthi letter na">𐨣</li>
+    <li class="symb" data-code="68132" code="10a24" title="kharoshthi letter pa">𐨤</li>
+    <li class="symb" data-code="68133" code="10a25" title="kharoshthi letter pha">𐨥</li>
+    <li class="symb" data-code="68134" code="10a26" title="kharoshthi letter ba">𐨦</li>
+    <li class="symb" data-code="68135" code="10a27" title="kharoshthi letter bha">𐨧</li>
+    <li class="symb" data-code="68136" code="10a28" title="kharoshthi letter ma">𐨨</li>
+    <li class="symb" data-code="68137" code="10a29" title="kharoshthi letter ya">𐨩</li>
+    <li class="symb" data-code="68138" code="10a2a" title="kharoshthi letter ra">𐨪</li>
+    <li class="symb" data-code="68139" code="10a2b" title="kharoshthi letter la">𐨫</li>
+    <li class="symb" data-code="68140" code="10a2c" title="kharoshthi letter va">𐨬</li>
+    <li class="symb" data-code="68141" code="10a2d" title="kharoshthi letter sha">𐨭</li>
+    <li class="symb" data-code="68142" code="10a2e" title="kharoshthi letter ssa">𐨮</li>
+    <li class="symb" data-code="68143" code="10a2f" title="kharoshthi letter sa">𐨯</li>
+    <li class="h">10a30</li>
+    <li class="symb" data-code="68144" code="10a30" title="kharoshthi letter za">𐨰</li>
+    <li class="symb" data-code="68145" code="10a31" title="kharoshthi letter ha">𐨱</li>
+    <li class="symb" data-code="68146" code="10a32" title="kharoshthi letter kka">𐨲</li>
+    <li class="symb" data-code="68147" code="10a33" title="kharoshthi letter tttha">𐨳</li>
+    <li class="symb" data-code="68148" code="10a34" title="kharoshthi letter ttta">𐨴</li>
+    <li class="symb" data-code="68149" code="10a35" title="kharoshthi letter vha">𐨵</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="68152" code="10a38" title="kharoshthi sign bar above">𐨸</li>
+    <li class="symb" data-code="68153" code="10a39" title="kharoshthi sign cauda">𐨹</li>
+    <li class="symb" data-code="68154" code="10a3a" title="kharoshthi sign dot below">𐨺</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="68159" code="10a3f" title="kharoshthi virama">𐨿</li>
+    <li class="h">10a40</li>
+    <li class="symb" data-code="68160" code="10a40" title="kharoshthi digit one">𐩀</li>
+    <li class="symb" data-code="68161" code="10a41" title="kharoshthi digit two">𐩁</li>
+    <li class="symb" data-code="68162" code="10a42" title="kharoshthi digit three">𐩂</li>
+    <li class="symb" data-code="68163" code="10a43" title="kharoshthi digit four">𐩃</li>
+    <li class="symb" data-code="68164" code="10a44" title="kharoshthi number ten">𐩄</li>
+    <li class="symb" data-code="68165" code="10a45" title="kharoshthi number twenty">𐩅</li>
+    <li class="symb" data-code="68166" code="10a46" title="kharoshthi number one hundred">𐩆</li>
+    <li class="symb" data-code="68167" code="10a47" title="kharoshthi number one thousand">𐩇</li>
+    <li class="symb" data-code="68168" code="10a48" title="kharoshthi fraction one half">𐩈</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">10a50</li>
+    <li class="symb" data-code="68176" code="10a50" title="kharoshthi punctuation dot">𐩐</li>
+    <li class="symb" data-code="68177" code="10a51" title="kharoshthi punctuation small circle">𐩑</li>
+    <li class="symb" data-code="68178" code="10a52" title="kharoshthi punctuation circle">𐩒</li>
+    <li class="symb" data-code="68179" code="10a53" title="kharoshthi punctuation crescent bar">𐩓</li>
+    <li class="symb" data-code="68180" code="10a54" title="kharoshthi punctuation mangalam">𐩔</li>
+    <li class="symb" data-code="68181" code="10a55" title="kharoshthi punctuation lotus">𐩕</li>
+    <li class="symb" data-code="68182" code="10a56" title="kharoshthi punctuation danda">𐩖</li>
+    <li class="symb" data-code="68183" code="10a57" title="kharoshthi punctuation double danda">𐩗</li>
+    <li class="symb" data-code="68184" code="10a58" title="kharoshthi punctuation lines">𐩘</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

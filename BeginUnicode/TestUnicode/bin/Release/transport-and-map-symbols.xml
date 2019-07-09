@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1f680</li>
+    <li class="symb" data-code="128640" code="1f680" title="rocket">🚀</li>
+    <li class="symb" data-code="128641" code="1f681" title="helicopter">🚁</li>
+    <li class="symb" data-code="128642" code="1f682" title="steam locomotive">🚂</li>
+    <li class="symb" data-code="128643" code="1f683" title="railway car">🚃</li>
+    <li class="symb" data-code="128644" code="1f684" title="high-speed train">🚄</li>
+    <li class="symb" data-code="128645" code="1f685" title="high-speed train with bullet nose">🚅</li>
+    <li class="symb" data-code="128646" code="1f686" title="train">🚆</li>
+    <li class="symb" data-code="128647" code="1f687" title="metro">🚇</li>
+    <li class="symb" data-code="128648" code="1f688" title="light rail">🚈</li>
+    <li class="symb" data-code="128649" code="1f689" title="station">🚉</li>
+    <li class="symb" data-code="128650" code="1f68a" title="tram">🚊</li>
+    <li class="symb" data-code="128651" code="1f68b" title="tram car">🚋</li>
+    <li class="symb" data-code="128652" code="1f68c" title="bus">🚌</li>
+    <li class="symb" data-code="128653" code="1f68d" title="oncoming bus">🚍</li>
+    <li class="symb" data-code="128654" code="1f68e" title="trolleybus">🚎</li>
+    <li class="symb" data-code="128655" code="1f68f" title="bus stop">🚏</li>
+    <li class="h">1f690</li>
+    <li class="symb" data-code="128656" code="1f690" title="minibus">🚐</li>
+    <li class="symb" data-code="128657" code="1f691" title="ambulance">🚑</li>
+    <li class="symb" data-code="128658" code="1f692" title="fire engine">🚒</li>
+    <li class="symb" data-code="128659" code="1f693" title="police car">🚓</li>
+    <li class="symb" data-code="128660" code="1f694" title="oncoming police car">🚔</li>
+    <li class="symb" data-code="128661" code="1f695" title="taxi">🚕</li>
+    <li class="symb" data-code="128662" code="1f696" title="oncoming taxi">🚖</li>
+    <li class="symb" data-code="128663" code="1f697" title="automobile">🚗</li>
+    <li class="symb" data-code="128664" code="1f698" title="oncoming automobile">🚘</li>
+    <li class="symb" data-code="128665" code="1f699" title="recreational vehicle">🚙</li>
+    <li class="symb" data-code="128666" code="1f69a" title="delivery truck">🚚</li>
+    <li class="symb" data-code="128667" code="1f69b" title="articulated lorry">🚛</li>
+    <li class="symb" data-code="128668" code="1f69c" title="tractor">🚜</li>
+    <li class="symb" data-code="128669" code="1f69d" title="monorail">🚝</li>
+    <li class="symb" data-code="128670" code="1f69e" title="mountain railway">🚞</li>
+    <li class="symb" data-code="128671" code="1f69f" title="suspension railway">🚟</li>
+    <li class="h">1f6a0</li>
+    <li class="symb" data-code="128672" code="1f6a0" title="mountain cableway">🚠</li>
+    <li class="symb" data-code="128673" code="1f6a1" title="aerial tramway">🚡</li>
+    <li class="symb" data-code="128674" code="1f6a2" title="ship">🚢</li>
+    <li class="symb" data-code="128675" code="1f6a3" title="rowboat">🚣</li>
+    <li class="symb" data-code="128676" code="1f6a4" title="speedboat">🚤</li>
+    <li class="symb" data-code="128677" code="1f6a5" title="horizontal traffic light">🚥</li>
+    <li class="symb" data-code="128678" code="1f6a6" title="vertical traffic light">🚦</li>
+    <li class="symb" data-code="128679" code="1f6a7" title="construction sign">🚧</li>
+    <li class="symb" data-code="128680" code="1f6a8" title="police cars revolving light">🚨</li>
+    <li class="symb" data-code="128681" code="1f6a9" title="triangular flag on post">🚩</li>
+    <li class="symb" data-code="128682" code="1f6aa" title="door">🚪</li>
+    <li class="symb" data-code="128683" code="1f6ab" title="no entry sign">🚫</li>
+    <li class="symb" data-code="128684" code="1f6ac" title="smoking symbol">🚬</li>
+    <li class="symb" data-code="128685" code="1f6ad" title="no smoking symbol">🚭</li>
+    <li class="symb" data-code="128686" code="1f6ae" title="put litter in its place symbol">🚮</li>
+    <li class="symb" data-code="128687" code="1f6af" title="do not litter symbol">🚯</li>
+    <li class="h">1f6b0</li>
+    <li class="symb" data-code="128688" code="1f6b0" title="potable water symbol">🚰</li>
+    <li class="symb" data-code="128689" code="1f6b1" title="non-potable water symbol">🚱</li>
+    <li class="symb" data-code="128690" code="1f6b2" title="bicycle">🚲</li>
+    <li class="symb" data-code="128691" code="1f6b3" title="no bicycles">🚳</li>
+    <li class="symb" data-code="128692" code="1f6b4" title="bicyclist">🚴</li>
+    <li class="symb" data-code="128693" code="1f6b5" title="mountain bicyclist">🚵</li>
+    <li class="symb" data-code="128694" code="1f6b6" title="pedestrian">🚶</li>
+    <li class="symb" data-code="128695" code="1f6b7" title="no pedestrians">🚷</li>
+    <li class="symb" data-code="128696" code="1f6b8" title="children crossing">🚸</li>
+    <li class="symb" data-code="128697" code="1f6b9" title="mens symbol">🚹</li>
+    <li class="symb" data-code="128698" code="1f6ba" title="womens symbol">🚺</li>
+    <li class="symb" data-code="128699" code="1f6bb" title="restroom">🚻</li>
+    <li class="symb" data-code="128700" code="1f6bc" title="baby symbol">🚼</li>
+    <li class="symb" data-code="128701" code="1f6bd" title="toilet">🚽</li>
+    <li class="symb" data-code="128702" code="1f6be" title="water closet">🚾</li>
+    <li class="symb" data-code="128703" code="1f6bf" title="shower">🚿</li>
+    <li class="h">1f6c0</li>
+    <li class="symb" data-code="128704" code="1f6c0" title="bath">🛀</li>
+    <li class="symb" data-code="128705" code="1f6c1" title="bathtub">🛁</li>
+    <li class="symb" data-code="128706" code="1f6c2" title="passport control">🛂</li>
+    <li class="symb" data-code="128707" code="1f6c3" title="customs">🛃</li>
+    <li class="symb" data-code="128708" code="1f6c4" title="baggage claim">🛄</li>
+    <li class="symb" data-code="128709" code="1f6c5" title="left luggage">🛅</li>
+    <li class="symb" data-code="128710" code="1f6c6" title="triangle with rounded corners">🛆</li>
+    <li class="symb" data-code="128711" code="1f6c7" title="prohibited sign">🛇</li>
+    <li class="symb" data-code="128712" code="1f6c8" title="circled information source">🛈</li>
+    <li class="symb" data-code="128713" code="1f6c9" title="boys symbol">🛉</li>
+    <li class="symb" data-code="128714" code="1f6ca" title="girls symbol">🛊</li>
+    <li class="symb" data-code="128715" code="1f6cb" title="couch and lamp">🛋</li>
+    <li class="symb" data-code="128716" code="1f6cc" title="sleeping accommodation">🛌</li>
+    <li class="symb" data-code="128717" code="1f6cd" title="shopping bags">🛍</li>
+    <li class="symb" data-code="128718" code="1f6ce" title="bellhop bell">🛎</li>
+    <li class="symb" data-code="128719" code="1f6cf" title="bed">🛏</li>
+    <li class="h">1f6d0</li>
+    <li class="symb" data-code="128720" code="1f6d0" title="place of worship">🛐</li>
+    <li class="symb" data-code="128721" code="1f6d1" title="octagonal sign">🛑</li>
+    <li class="symb" data-code="128722" code="1f6d2" title="shopping trolley">🛒</li>
+    <li class="symb" data-code="128723" code="1f6d3" title="stupa">🛓</li>
+    <li class="symb" data-code="128724" code="1f6d4" title="pagoda">🛔</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f6e0</li>
+    <li class="symb" data-code="128736" code="1f6e0" title="hammer and wrench">🛠</li>
+    <li class="symb" data-code="128737" code="1f6e1" title="shield">🛡</li>
+    <li class="symb" data-code="128738" code="1f6e2" title="oil drum">🛢</li>
+    <li class="symb" data-code="128739" code="1f6e3" title="motorway">🛣</li>
+    <li class="symb" data-code="128740" code="1f6e4" title="railway track">🛤</li>
+    <li class="symb" data-code="128741" code="1f6e5" title="motor boat">🛥</li>
+    <li class="symb" data-code="128742" code="1f6e6" title="up-pointing military airplane">🛦</li>
+    <li class="symb" data-code="128743" code="1f6e7" title="up-pointing airplane">🛧</li>
+    <li class="symb" data-code="128744" code="1f6e8" title="up-pointing small airplane">🛨</li>
+    <li class="symb" data-code="128745" code="1f6e9" title="small airplane">🛩</li>
+    <li class="symb" data-code="128746" code="1f6ea" title="northeast-pointing airplane">🛪</li>
+    <li class="symb" data-code="128747" code="1f6eb" title="airplane departure">🛫</li>
+    <li class="symb" data-code="128748" code="1f6ec" title="airplane arriving">🛬</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f6f0</li>
+    <li class="symb" data-code="128752" code="1f6f0" title="satellite">🛰</li>
+    <li class="symb" data-code="128753" code="1f6f1" title="oncoming fire engine">🛱</li>
+    <li class="symb" data-code="128754" code="1f6f2" title="diesel locomotive">🛲</li>
+    <li class="symb" data-code="128755" code="1f6f3" title="passenger ship">🛳</li>
+    <li class="symb" data-code="128756" code="1f6f4" title="scooter">🛴</li>
+    <li class="symb" data-code="128757" code="1f6f5" title="motor scooter">🛵</li>
+    <li class="symb" data-code="128758" code="1f6f6" title="canoe">🛶</li>
+    <li class="symb" data-code="128759" code="1f6f7" title="sled">🛷</li>
+    <li class="symb" data-code="128760" code="1f6f8" title="flying saucer">🛸</li>
+    <li class="symb" data-code="128761" code="1f6f9" title="skateboard">🛹</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

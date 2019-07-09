@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2b00</li>
+    <li class="symb" data-code="11008" code="2b00" title="north east white arrow">⬀</li>
+    <li class="symb" data-code="11009" code="2b01" title="north west white arrow">⬁</li>
+    <li class="symb" data-code="11010" code="2b02" title="south east white arrow">⬂</li>
+    <li class="symb" data-code="11011" code="2b03" title="south west white arrow">⬃</li>
+    <li class="symb" data-code="11012" code="2b04" title="left right white arrow">⬄</li>
+    <li class="symb" data-code="11013" code="2b05" title="leftwards black arrow">⬅</li>
+    <li class="symb" data-code="11014" code="2b06" title="upwards black arrow">⬆</li>
+    <li class="symb" data-code="11015" code="2b07" title="downwards black arrow">⬇</li>
+    <li class="symb" data-code="11016" code="2b08" title="north east black arrow">⬈</li>
+    <li class="symb" data-code="11017" code="2b09" title="north west black arrow">⬉</li>
+    <li class="symb" data-code="11018" code="2b0a" title="south east black arrow">⬊</li>
+    <li class="symb" data-code="11019" code="2b0b" title="south west black arrow">⬋</li>
+    <li class="symb" data-code="11020" code="2b0c" title="left right black arrow">⬌</li>
+    <li class="symb" data-code="11021" code="2b0d" title="up down black arrow">⬍</li>
+    <li class="symb" data-code="11022" code="2b0e" title="rightwards arrow with tip downwards">⬎</li>
+    <li class="symb" data-code="11023" code="2b0f" title="rightwards arrow with tip upwards">⬏</li>
+    <li class="h">2b10</li>
+    <li class="symb" data-code="11024" code="2b10" title="leftwards arrow with tip downwards">⬐</li>
+    <li class="symb" data-code="11025" code="2b11" title="leftwards arrow with tip upwards">⬑</li>
+    <li class="symb" data-code="11026" code="2b12" title="square with top half black">⬒</li>
+    <li class="symb" data-code="11027" code="2b13" title="square with bottom half black">⬓</li>
+    <li class="symb" data-code="11028" code="2b14" title="square with upper right diagonal half black">⬔</li>
+    <li class="symb" data-code="11029" code="2b15" title="square with lower left diagonal half black">⬕</li>
+    <li class="symb" data-code="11030" code="2b16" title="diamond with left half black">⬖</li>
+    <li class="symb" data-code="11031" code="2b17" title="diamond with right half black">⬗</li>
+    <li class="symb" data-code="11032" code="2b18" title="diamond with top half black">⬘</li>
+    <li class="symb" data-code="11033" code="2b19" title="diamond with bottom half black">⬙</li>
+    <li class="symb" data-code="11034" code="2b1a" title="dotted square">⬚</li>
+    <li class="symb" data-code="11035" code="2b1b" title="black large square">⬛</li>
+    <li class="symb" data-code="11036" code="2b1c" title="white large square">⬜</li>
+    <li class="symb" data-code="11037" code="2b1d" title="black very small square">⬝</li>
+    <li class="symb" data-code="11038" code="2b1e" title="white very small square">⬞</li>
+    <li class="symb" data-code="11039" code="2b1f" title="black pentagon">⬟</li>
+    <li class="h">2b20</li>
+    <li class="symb" data-code="11040" code="2b20" title="white pentagon">⬠</li>
+    <li class="symb" data-code="11041" code="2b21" title="white hexagon">⬡</li>
+    <li class="symb" data-code="11042" code="2b22" title="black hexagon">⬢</li>
+    <li class="symb" data-code="11043" code="2b23" title="horizontal black hexagon">⬣</li>
+    <li class="symb" data-code="11044" code="2b24" title="black large circle">⬤</li>
+    <li class="symb" data-code="11045" code="2b25" title="black medium diamond">⬥</li>
+    <li class="symb" data-code="11046" code="2b26" title="white medium diamond">⬦</li>
+    <li class="symb" data-code="11047" code="2b27" title="black medium lozenge">⬧</li>
+    <li class="symb" data-code="11048" code="2b28" title="white medium lozenge">⬨</li>
+    <li class="symb" data-code="11049" code="2b29" title="black small diamond">⬩</li>
+    <li class="symb" data-code="11050" code="2b2a" title="black small lozenge">⬪</li>
+    <li class="symb" data-code="11051" code="2b2b" title="white small lozenge">⬫</li>
+    <li class="symb" data-code="11052" code="2b2c" title="black horizontal ellipse">⬬</li>
+    <li class="symb" data-code="11053" code="2b2d" title="white horizontal ellipse">⬭</li>
+    <li class="symb" data-code="11054" code="2b2e" title="black vertical ellipse">⬮</li>
+    <li class="symb" data-code="11055" code="2b2f" title="white vertical ellipse">⬯</li>
+    <li class="h">2b30</li>
+    <li class="symb" data-code="11056" code="2b30" title="left arrow with small circle">⬰</li>
+    <li class="symb" data-code="11057" code="2b31" title="three leftwards arrows">⬱</li>
+    <li class="symb" data-code="11058" code="2b32" title="left arrow with circled plus">⬲</li>
+    <li class="symb" data-code="11059" code="2b33" title="long leftwards squiggle arrow">⬳</li>
+    <li class="symb" data-code="11060" code="2b34" title="leftwards two-headed arrow with vertical stroke">⬴</li>
+    <li class="symb" data-code="11061" code="2b35" title="leftwards two-headed arrow with double vertical stroke">⬵</li>
+    <li class="symb" data-code="11062" code="2b36" title="leftwards two-headed arrow from bar">⬶</li>
+    <li class="symb" data-code="11063" code="2b37" title="leftwards two-headed triple dash arrow">⬷</li>
+    <li class="symb" data-code="11064" code="2b38" title="leftwards arrow with dotted stem">⬸</li>
+    <li class="symb" data-code="11065" code="2b39" title="leftwards arrow with tail with vertical stroke">⬹</li>
+    <li class="symb" data-code="11066" code="2b3a" title="leftwards arrow with tail with double vertical stroke">⬺</li>
+    <li class="symb" data-code="11067" code="2b3b" title="leftwards two-headed arrow with tail">⬻</li>
+    <li class="symb" data-code="11068" code="2b3c" title="leftwards two-headed arrow with tail with vertical stroke">⬼</li>
+    <li class="symb" data-code="11069" code="2b3d" title="leftwards two-headed arrow with tail with double vertical stroke">⬽</li>
+    <li class="symb" data-code="11070" code="2b3e" title="leftwards arrow through x">⬾</li>
+    <li class="symb" data-code="11071" code="2b3f" title="wave arrow pointing directly left">⬿</li>
+    <li class="h">2b40</li>
+    <li class="symb" data-code="11072" code="2b40" title="equals sign above leftwards arrow">⭀</li>
+    <li class="symb" data-code="11073" code="2b41" title="reverse tilde operator above leftwards arrow">⭁</li>
+    <li class="symb" data-code="11074" code="2b42" title="leftwards arrow above reverse almost equal to">⭂</li>
+    <li class="symb" data-code="11075" code="2b43" title="rightwards arrow through greater-than">⭃</li>
+    <li class="symb" data-code="11076" code="2b44" title="rightwards arrow through superset">⭄</li>
+    <li class="symb" data-code="11077" code="2b45" title="leftwards quadruple arrow">⭅</li>
+    <li class="symb" data-code="11078" code="2b46" title="rightwards quadruple arrow">⭆</li>
+    <li class="symb" data-code="11079" code="2b47" title="reverse tilde operator above rightwards arrow">⭇</li>
+    <li class="symb" data-code="11080" code="2b48" title="rightwards arrow above reverse almost equal to">⭈</li>
+    <li class="symb" data-code="11081" code="2b49" title="tilde operator above leftwards arrow">⭉</li>
+    <li class="symb" data-code="11082" code="2b4a" title="leftwards arrow above almost equal to">⭊</li>
+    <li class="symb" data-code="11083" code="2b4b" title="leftwards arrow above reverse tilde operator">⭋</li>
+    <li class="symb" data-code="11084" code="2b4c" title="rightwards arrow above reverse tilde operator">⭌</li>
+    <li class="symb" data-code="11085" code="2b4d" title="downwards triangle-headed zigzag arrow">⭍</li>
+    <li class="symb" data-code="11086" code="2b4e" title="short slanted north arrow">⭎</li>
+    <li class="symb" data-code="11087" code="2b4f" title="short backslanted south arrow">⭏</li>
+    <li class="h">2b50</li>
+    <li class="symb" data-code="11088" code="2b50" title="white medium star">⭐</li>
+    <li class="symb" data-code="11089" code="2b51" title="black small star">⭑</li>
+    <li class="symb" data-code="11090" code="2b52" title="white small star">⭒</li>
+    <li class="symb" data-code="11091" code="2b53" title="black right-pointing pentagon">⭓</li>
+    <li class="symb" data-code="11092" code="2b54" title="white right-pointing pentagon">⭔</li>
+    <li class="symb" data-code="11093" code="2b55" title="heavy large circle">⭕</li>
+    <li class="symb" data-code="11094" code="2b56" title="heavy oval with oval inside">⭖</li>
+    <li class="symb" data-code="11095" code="2b57" title="heavy circle with circle inside">⭗</li>
+    <li class="symb" data-code="11096" code="2b58" title="heavy circle">⭘</li>
+    <li class="symb" data-code="11097" code="2b59" title="heavy circled saltire">⭙</li>
+    <li class="symb" data-code="11098" code="2b5a" title="slanted north arrow with hooked head">⭚</li>
+    <li class="symb" data-code="11099" code="2b5b" title="backslanted south arrow with hooked tail">⭛</li>
+    <li class="symb" data-code="11100" code="2b5c" title="slanted north arrow with horizontal tail">⭜</li>
+    <li class="symb" data-code="11101" code="2b5d" title="backslanted south arrow with horizontal tail">⭝</li>
+    <li class="symb" data-code="11102" code="2b5e" title="bent arrow pointing downwards then north east">⭞</li>
+    <li class="symb" data-code="11103" code="2b5f" title="short bent arrow pointing downwards then north east">⭟</li>
+    <li class="h">2b60</li>
+    <li class="symb" data-code="11104" code="2b60" title="leftwards triangle-headed arrow">⭠</li>
+    <li class="symb" data-code="11105" code="2b61" title="upwards triangle-headed arrow">⭡</li>
+    <li class="symb" data-code="11106" code="2b62" title="rightwards triangle-headed arrow">⭢</li>
+    <li class="symb" data-code="11107" code="2b63" title="downwards triangle-headed arrow">⭣</li>
+    <li class="symb" data-code="11108" code="2b64" title="left right triangle-headed arrow">⭤</li>
+    <li class="symb" data-code="11109" code="2b65" title="up down triangle-headed arrow">⭥</li>
+    <li class="symb" data-code="11110" code="2b66" title="north west triangle-headed arrow">⭦</li>
+    <li class="symb" data-code="11111" code="2b67" title="north east triangle-headed arrow">⭧</li>
+    <li class="symb" data-code="11112" code="2b68" title="south east triangle-headed arrow">⭨</li>
+    <li class="symb" data-code="11113" code="2b69" title="south west triangle-headed arrow">⭩</li>
+    <li class="symb" data-code="11114" code="2b6a" title="leftwards triangle-headed dashed arrow">⭪</li>
+    <li class="symb" data-code="11115" code="2b6b" title="upwards triangle-headed dashed arrow">⭫</li>
+    <li class="symb" data-code="11116" code="2b6c" title="rightwards triangle-headed dashed arrow">⭬</li>
+    <li class="symb" data-code="11117" code="2b6d" title="downwards triangle-headed dashed arrow">⭭</li>
+    <li class="symb" data-code="11118" code="2b6e" title="clockwise triangle-headed open circle arrow">⭮</li>
+    <li class="symb" data-code="11119" code="2b6f" title="anticlockwise triangle-headed open circle arrow">⭯</li>
+    <li class="h">2b70</li>
+    <li class="symb" data-code="11120" code="2b70" title="leftwards triangle-headed arrow to bar">⭰</li>
+    <li class="symb" data-code="11121" code="2b71" title="upwards triangle-headed arrow to bar">⭱</li>
+    <li class="symb" data-code="11122" code="2b72" title="rightwards triangle-headed arrow to bar">⭲</li>
+    <li class="symb" data-code="11123" code="2b73" title="downwards triangle-headed arrow to bar">⭳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="11126" code="2b76" title="north west triangle-headed arrow to bar">⭶</li>
+    <li class="symb" data-code="11127" code="2b77" title="north east triangle-headed arrow to bar">⭷</li>
+    <li class="symb" data-code="11128" code="2b78" title="south east triangle-headed arrow to bar">⭸</li>
+    <li class="symb" data-code="11129" code="2b79" title="south west triangle-headed arrow to bar">⭹</li>
+    <li class="symb" data-code="11130" code="2b7a" title="leftwards triangle-headed arrow with double horizontal stroke">⭺</li>
+    <li class="symb" data-code="11131" code="2b7b" title="upwards triangle-headed arrow with double horizontal stroke">⭻</li>
+    <li class="symb" data-code="11132" code="2b7c" title="rightwards triangle-headed arrow with double horizontal stroke">⭼</li>
+    <li class="symb" data-code="11133" code="2b7d" title="downwards triangle-headed arrow with double horizontal stroke">⭽</li>
+    <li class="symb" data-code="11134" code="2b7e" title="horizontal tab key">⭾</li>
+    <li class="symb" data-code="11135" code="2b7f" title="vertical tab key">⭿</li>
+    <li class="h">2b80</li>
+    <li class="symb" data-code="11136" code="2b80" title="leftwards triangle-headed arrow over rightwards triangle-headed arrow">⮀</li>
+    <li class="symb" data-code="11137" code="2b81" title="upwards triangle-headed arrow leftwards of downwards triangle-headed arrow">⮁</li>
+    <li class="symb" data-code="11138" code="2b82" title="rightwards triangle-headed arrow over leftwards triangle-headed arrow">⮂</li>
+    <li class="symb" data-code="11139" code="2b83" title="downwards triangle-headed arrow leftwards of upwards triangle-headed arrow">⮃</li>
+    <li class="symb" data-code="11140" code="2b84" title="leftwards triangle-headed paired arrows">⮄</li>
+    <li class="symb" data-code="11141" code="2b85" title="upwards triangle-headed paired arrows">⮅</li>
+    <li class="symb" data-code="11142" code="2b86" title="rightwards triangle-headed paired arrows">⮆</li>
+    <li class="symb" data-code="11143" code="2b87" title="downwards triangle-headed paired arrows">⮇</li>
+    <li class="symb" data-code="11144" code="2b88" title="leftwards black circled white arrow">⮈</li>
+    <li class="symb" data-code="11145" code="2b89" title="upwards black circled white arrow">⮉</li>
+    <li class="symb" data-code="11146" code="2b8a" title="rightwards black circled white arrow">⮊</li>
+    <li class="symb" data-code="11147" code="2b8b" title="downwards black circled white arrow">⮋</li>
+    <li class="symb" data-code="11148" code="2b8c" title="anticlockwise triangle-headed right u-shaped arrow">⮌</li>
+    <li class="symb" data-code="11149" code="2b8d" title="anticlockwise triangle-headed bottom u-shaped arrow">⮍</li>
+    <li class="symb" data-code="11150" code="2b8e" title="anticlockwise triangle-headed left u-shaped arrow">⮎</li>
+    <li class="symb" data-code="11151" code="2b8f" title="anticlockwise triangle-headed top u-shaped arrow">⮏</li>
+    <li class="h">2b90</li>
+    <li class="symb" data-code="11152" code="2b90" title="return left">⮐</li>
+    <li class="symb" data-code="11153" code="2b91" title="return right">⮑</li>
+    <li class="symb" data-code="11154" code="2b92" title="newline left">⮒</li>
+    <li class="symb" data-code="11155" code="2b93" title="newline right">⮓</li>
+    <li class="symb" data-code="11156" code="2b94" title="four corner arrows circling anticlockwise">⮔</li>
+    <li class="symb" data-code="11157" code="2b95" title="rightwards black arrow">⮕</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="11160" code="2b98" title="three-d top-lighted leftwards equilateral arrowhead">⮘</li>
+    <li class="symb" data-code="11161" code="2b99" title="three-d right-lighted upwards equilateral arrowhead">⮙</li>
+    <li class="symb" data-code="11162" code="2b9a" title="three-d top-lighted rightwards equilateral arrowhead">⮚</li>
+    <li class="symb" data-code="11163" code="2b9b" title="three-d left-lighted downwards equilateral arrowhead">⮛</li>
+    <li class="symb" data-code="11164" code="2b9c" title="black leftwards equilateral arrowhead">⮜</li>
+    <li class="symb" data-code="11165" code="2b9d" title="black upwards equilateral arrowhead">⮝</li>
+    <li class="symb" data-code="11166" code="2b9e" title="black rightwards equilateral arrowhead">⮞</li>
+    <li class="symb" data-code="11167" code="2b9f" title="black downwards equilateral arrowhead">⮟</li>
+    <li class="h">2ba0</li>
+    <li class="symb" data-code="11168" code="2ba0" title="downwards triangle-headed arrow with long tip leftwards">⮠</li>
+    <li class="symb" data-code="11169" code="2ba1" title="downwards triangle-headed arrow with long tip rightwards">⮡</li>
+    <li class="symb" data-code="11170" code="2ba2" title="upwards triangle-headed arrow with long tip leftwards">⮢</li>
+    <li class="symb" data-code="11171" code="2ba3" title="upwards triangle-headed arrow with long tip rightwards">⮣</li>
+    <li class="symb" data-code="11172" code="2ba4" title="leftwards triangle-headed arrow with long tip upwards">⮤</li>
+    <li class="symb" data-code="11173" code="2ba5" title="rightwards triangle-headed arrow with long tip upwards">⮥</li>
+    <li class="symb" data-code="11174" code="2ba6" title="leftwards triangle-headed arrow with long tip downwards">⮦</li>
+    <li class="symb" data-code="11175" code="2ba7" title="rightwards triangle-headed arrow with long tip downwards">⮧</li>
+    <li class="symb" data-code="11176" code="2ba8" title="black curved downwards and leftwards arrow">⮨</li>
+    <li class="symb" data-code="11177" code="2ba9" title="black curved downwards and rightwards arrow">⮩</li>
+    <li class="symb" data-code="11178" code="2baa" title="black curved upwards and leftwards arrow">⮪</li>
+    <li class="symb" data-code="11179" code="2bab" title="black curved upwards and rightwards arrow">⮫</li>
+    <li class="symb" data-code="11180" code="2bac" title="black curved leftwards and upwards arrow">⮬</li>
+    <li class="symb" data-code="11181" code="2bad" title="black curved rightwards and upwards arrow">⮭</li>
+    <li class="symb" data-code="11182" code="2bae" title="black curved leftwards and downwards arrow">⮮</li>
+    <li class="symb" data-code="11183" code="2baf" title="black curved rightwards and downwards arrow">⮯</li>
+    <li class="h">2bb0</li>
+    <li class="symb" data-code="11184" code="2bb0" title="ribbon arrow down left">⮰</li>
+    <li class="symb" data-code="11185" code="2bb1" title="ribbon arrow down right">⮱</li>
+    <li class="symb" data-code="11186" code="2bb2" title="ribbon arrow up left">⮲</li>
+    <li class="symb" data-code="11187" code="2bb3" title="ribbon arrow up right">⮳</li>
+    <li class="symb" data-code="11188" code="2bb4" title="ribbon arrow left up">⮴</li>
+    <li class="symb" data-code="11189" code="2bb5" title="ribbon arrow right up">⮵</li>
+    <li class="symb" data-code="11190" code="2bb6" title="ribbon arrow left down">⮶</li>
+    <li class="symb" data-code="11191" code="2bb7" title="ribbon arrow right down">⮷</li>
+    <li class="symb" data-code="11192" code="2bb8" title="upwards white arrow from bar with horizontal bar">⮸</li>
+    <li class="symb" data-code="11193" code="2bb9" title="up arrowhead in a rectangle box">⮹</li>
+    <li class="symb" data-code="11194" code="2bba" title="overlapping white squares">⮺</li>
+    <li class="symb" data-code="11195" code="2bbb" title="overlapping white and black squares">⮻</li>
+    <li class="symb" data-code="11196" code="2bbc" title="overlapping black squares">⮼</li>
+    <li class="symb" data-code="11197" code="2bbd" title="ballot box with light x">⮽</li>
+    <li class="symb" data-code="11198" code="2bbe" title="circled x">⮾</li>
+    <li class="symb" data-code="11199" code="2bbf" title="circled bold x">⮿</li>
+    <li class="h">2bc0</li>
+    <li class="symb" data-code="11200" code="2bc0" title="black square centred">⯀</li>
+    <li class="symb" data-code="11201" code="2bc1" title="black diamond centred">⯁</li>
+    <li class="symb" data-code="11202" code="2bc2" title="turned black pentagon">⯂</li>
+    <li class="symb" data-code="11203" code="2bc3" title="horizontal black octagon">⯃</li>
+    <li class="symb" data-code="11204" code="2bc4" title="black octagon">⯄</li>
+    <li class="symb" data-code="11205" code="2bc5" title="black medium up-pointing triangle centred">⯅</li>
+    <li class="symb" data-code="11206" code="2bc6" title="black medium down-pointing triangle centred">⯆</li>
+    <li class="symb" data-code="11207" code="2bc7" title="black medium left-pointing triangle centred">⯇</li>
+    <li class="symb" data-code="11208" code="2bc8" title="black medium right-pointing triangle centred">⯈</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="11210" code="2bca" title="top half black circle">⯊</li>
+    <li class="symb" data-code="11211" code="2bcb" title="bottom half black circle">⯋</li>
+    <li class="symb" data-code="11212" code="2bcc" title="light four pointed black cusp">⯌</li>
+    <li class="symb" data-code="11213" code="2bcd" title="rotated light four pointed black cusp">⯍</li>
+    <li class="symb" data-code="11214" code="2bce" title="white four pointed cusp">⯎</li>
+    <li class="symb" data-code="11215" code="2bcf" title="rotated white four pointed cusp">⯏</li>
+    <li class="h">2bd0</li>
+    <li class="symb" data-code="11216" code="2bd0" title="square position indicator">⯐</li>
+    <li class="symb" data-code="11217" code="2bd1" title="uncertainty sign">⯑</li>
+    <li class="symb" data-code="11218" code="2bd2" title="group mark">⯒</li>
+    <li class="symb" data-code="11219" code="2bd3" title="pluto form two">⯓</li>
+    <li class="symb" data-code="11220" code="2bd4" title="pluto form three">⯔</li>
+    <li class="symb" data-code="11221" code="2bd5" title="pluto form four">⯕</li>
+    <li class="symb" data-code="11222" code="2bd6" title="pluto form five">⯖</li>
+    <li class="symb" data-code="11223" code="2bd7" title="transpluto">⯗</li>
+    <li class="symb" data-code="11224" code="2bd8" title="proserpina">⯘</li>
+    <li class="symb" data-code="11225" code="2bd9" title="astraea">⯙</li>
+    <li class="symb" data-code="11226" code="2bda" title="hygiea">⯚</li>
+    <li class="symb" data-code="11227" code="2bdb" title="pholus">⯛</li>
+    <li class="symb" data-code="11228" code="2bdc" title="nessus">⯜</li>
+    <li class="symb" data-code="11229" code="2bdd" title="white moon selena">⯝</li>
+    <li class="symb" data-code="11230" code="2bde" title="black diamond on cross">⯞</li>
+    <li class="symb" data-code="11231" code="2bdf" title="true light moon arta">⯟</li>
+    <li class="h">2be0</li>
+    <li class="symb" data-code="11232" code="2be0" title="cupido">⯠</li>
+    <li class="symb" data-code="11233" code="2be1" title="hades">⯡</li>
+    <li class="symb" data-code="11234" code="2be2" title="zeus">⯢</li>
+    <li class="symb" data-code="11235" code="2be3" title="kronos">⯣</li>
+    <li class="symb" data-code="11236" code="2be4" title="apollon">⯤</li>
+    <li class="symb" data-code="11237" code="2be5" title="admetos">⯥</li>
+    <li class="symb" data-code="11238" code="2be6" title="vulcanus">⯦</li>
+    <li class="symb" data-code="11239" code="2be7" title="poseidon">⯧</li>
+    <li class="symb" data-code="11240" code="2be8" title="left half black star">⯨</li>
+    <li class="symb" data-code="11241" code="2be9" title="right half black star">⯩</li>
+    <li class="symb" data-code="11242" code="2bea" title="star with left half black">⯪</li>
+    <li class="symb" data-code="11243" code="2beb" title="star with right half black">⯫</li>
+    <li class="symb" data-code="11244" code="2bec" title="leftwards two-headed arrow with tringle arrowheads">⯬</li>
+    <li class="symb" data-code="11245" code="2bed" title="upwards two-headed arrow with tringle arrowheads">⯭</li>
+    <li class="symb" data-code="11246" code="2bee" title="rightwards two-headed arrow with tringle arrowheads">⯮</li>
+    <li class="symb" data-code="11247" code="2bef" title="downwards two-headed arrow with tringle arrowheads">⯯</li>
+    <li class="h">2bf0</li>
+    <li class="symb" data-code="11248" code="2bf0" title="eris form one">⯰</li>
+    <li class="symb" data-code="11249" code="2bf1" title="eris form two">⯱</li>
+    <li class="symb" data-code="11250" code="2bf2" title="sedna">⯲</li>
+    <li class="symb" data-code="11251" code="2bf3" title="russian astrological symbol vigintile">⯳</li>
+    <li class="symb" data-code="11252" code="2bf4" title="russian astrological symbol novile">⯴</li>
+    <li class="symb" data-code="11253" code="2bf5" title="russian astrological symbol quintile">⯵</li>
+    <li class="symb" data-code="11254" code="2bf6" title="russian astrological symbol binovile">⯶</li>
+    <li class="symb" data-code="11255" code="2bf7" title="russian astrological symbol sentagon">⯷</li>
+    <li class="symb" data-code="11256" code="2bf8" title="russian astrological symbol tredecile">⯸</li>
+    <li class="symb" data-code="11257" code="2bf9" title="equals sign with infinity below">⯹</li>
+    <li class="symb" data-code="11258" code="2bfa" title="united symbol">⯺</li>
+    <li class="symb" data-code="11259" code="2bfb" title="separated symbol">⯻</li>
+    <li class="symb" data-code="11260" code="2bfc" title="doubled symbol">⯼</li>
+    <li class="symb" data-code="11261" code="2bfd" title="passed symbol">⯽</li>
+    <li class="symb" data-code="11262" code="2bfe" title="reversed right angle">⯾</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

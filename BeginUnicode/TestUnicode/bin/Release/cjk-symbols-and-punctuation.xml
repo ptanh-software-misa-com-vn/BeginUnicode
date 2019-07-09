@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">3000</li>
+    <li class="symb" data-code="12288" code="3000" title="ideographic space">　</li>
+    <li class="symb" data-code="12289" code="3001" title="ideographic comma">、</li>
+    <li class="symb" data-code="12290" code="3002" title="ideographic full stop">。</li>
+    <li class="symb" data-code="12291" code="3003" title="ditto mark">〃</li>
+    <li class="symb" data-code="12292" code="3004" title="japanese industrial standard symbol">〄</li>
+    <li class="symb" data-code="12293" code="3005" title="ideographic iteration mark">々</li>
+    <li class="symb" data-code="12294" code="3006" title="ideographic closing mark">〆</li>
+    <li class="symb" data-code="12295" code="3007" title="ideographic number zero">〇</li>
+    <li class="symb" data-code="12296" code="3008" title="left angle bracket">〈</li>
+    <li class="symb" data-code="12297" code="3009" title="right angle bracket">〉</li>
+    <li class="symb" data-code="12298" code="300a" title="left double angle bracket">《</li>
+    <li class="symb" data-code="12299" code="300b" title="right double angle bracket">》</li>
+    <li class="symb" data-code="12300" code="300c" title="left corner bracket">「</li>
+    <li class="symb" data-code="12301" code="300d" title="right corner bracket">」</li>
+    <li class="symb" data-code="12302" code="300e" title="left white corner bracket">『</li>
+    <li class="symb" data-code="12303" code="300f" title="right white corner bracket">』</li>
+    <li class="h">3010</li>
+    <li class="symb" data-code="12304" code="3010" title="left black lenticular bracket">【</li>
+    <li class="symb" data-code="12305" code="3011" title="right black lenticular bracket">】</li>
+    <li class="symb" data-code="12306" code="3012" title="postal mark">〒</li>
+    <li class="symb" data-code="12307" code="3013" title="geta mark">〓</li>
+    <li class="symb" data-code="12308" code="3014" title="left tortoise shell bracket">〔</li>
+    <li class="symb" data-code="12309" code="3015" title="right tortoise shell bracket">〕</li>
+    <li class="symb" data-code="12310" code="3016" title="left white lenticular bracket">〖</li>
+    <li class="symb" data-code="12311" code="3017" title="right white lenticular bracket">〗</li>
+    <li class="symb" data-code="12312" code="3018" title="left white tortoise shell bracket">〘</li>
+    <li class="symb" data-code="12313" code="3019" title="right white tortoise shell bracket">〙</li>
+    <li class="symb" data-code="12314" code="301a" title="left white square bracket">〚</li>
+    <li class="symb" data-code="12315" code="301b" title="right white square bracket">〛</li>
+    <li class="symb" data-code="12316" code="301c" title="wave dash">〜</li>
+    <li class="symb" data-code="12317" code="301d" title="reversed double prime quotation mark">〝</li>
+    <li class="symb" data-code="12318" code="301e" title="double prime quotation mark">〞</li>
+    <li class="symb" data-code="12319" code="301f" title="low double prime quotation mark">〟</li>
+    <li class="h">3020</li>
+    <li class="symb" data-code="12320" code="3020" title="postal mark face">〠</li>
+    <li class="symb" data-code="12321" code="3021" title="hangzhou numeral one">〡</li>
+    <li class="symb" data-code="12322" code="3022" title="hangzhou numeral two">〢</li>
+    <li class="symb" data-code="12323" code="3023" title="hangzhou numeral three">〣</li>
+    <li class="symb" data-code="12324" code="3024" title="hangzhou numeral four">〤</li>
+    <li class="symb" data-code="12325" code="3025" title="hangzhou numeral five">〥</li>
+    <li class="symb" data-code="12326" code="3026" title="hangzhou numeral six">〦</li>
+    <li class="symb" data-code="12327" code="3027" title="hangzhou numeral seven">〧</li>
+    <li class="symb" data-code="12328" code="3028" title="hangzhou numeral eight">〨</li>
+    <li class="symb" data-code="12329" code="3029" title="hangzhou numeral nine">〩</li>
+    <li class="symb" data-code="12330" code="302a" title="ideographic level tone mark">〪</li>
+    <li class="symb" data-code="12331" code="302b" title="ideographic rising tone mark">〫</li>
+    <li class="symb" data-code="12332" code="302c" title="ideographic departing tone mark">〬</li>
+    <li class="symb" data-code="12333" code="302d" title="ideographic entering tone mark">〭</li>
+    <li class="symb" data-code="12334" code="302e" title="hangul single dot tone mark">〮</li>
+    <li class="symb" data-code="12335" code="302f" title="hangul double dot tone mark">〯</li>
+    <li class="h">3030</li>
+    <li class="symb" data-code="12336" code="3030" title="wavy dash">〰</li>
+    <li class="symb" data-code="12337" code="3031" title="vertical kana repeat mark">〱</li>
+    <li class="symb" data-code="12338" code="3032" title="vertical kana repeat with voiced sound mark">〲</li>
+    <li class="symb" data-code="12339" code="3033" title="vertical kana repeat mark upper half">〳</li>
+    <li class="symb" data-code="12340" code="3034" title="vertical kana repeat with voiced sound mark upper half">〴</li>
+    <li class="symb" data-code="12341" code="3035" title="vertical kana repeat mark lower half">〵</li>
+    <li class="symb" data-code="12342" code="3036" title="circled postal mark">〶</li>
+    <li class="symb" data-code="12343" code="3037" title="ideographic telegraph line feed separator symbol">〷</li>
+    <li class="symb" data-code="12344" code="3038" title="hangzhou numeral ten">〸</li>
+    <li class="symb" data-code="12345" code="3039" title="hangzhou numeral twenty">〹</li>
+    <li class="symb" data-code="12346" code="303a" title="hangzhou numeral thirty">〺</li>
+    <li class="symb" data-code="12347" code="303b" title="vertical ideographic iteration mark">〻</li>
+    <li class="symb" data-code="12348" code="303c" title="masu mark">〼</li>
+    <li class="symb" data-code="12349" code="303d" title="part alternation mark">〽</li>
+    <li class="symb" data-code="12350" code="303e" title="ideographic variation indicator">〾</li>
+    <li class="symb" data-code="12351" code="303f" title="ideographic half fill space">〿</li>
+  </ul>
+</root>

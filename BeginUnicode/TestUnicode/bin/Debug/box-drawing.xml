@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2500</li>
+    <li class="symb" data-code="9472" code="2500" title="box drawings light horizontal">─</li>
+    <li class="symb" data-code="9473" code="2501" title="box drawings heavy horizontal">━</li>
+    <li class="symb" data-code="9474" code="2502" title="box drawings light vertical">│</li>
+    <li class="symb" data-code="9475" code="2503" title="box drawings heavy vertical">┃</li>
+    <li class="symb" data-code="9476" code="2504" title="box drawings light triple dash horizontal">┄</li>
+    <li class="symb" data-code="9477" code="2505" title="box drawings heavy triple dash horizontal">┅</li>
+    <li class="symb" data-code="9478" code="2506" title="box drawings light triple dash vertical">┆</li>
+    <li class="symb" data-code="9479" code="2507" title="box drawings heavy triple dash vertical">┇</li>
+    <li class="symb" data-code="9480" code="2508" title="box drawings light quadruple dash horizontal">┈</li>
+    <li class="symb" data-code="9481" code="2509" title="box drawings heavy quadruple dash horizontal">┉</li>
+    <li class="symb" data-code="9482" code="250a" title="box drawings light quadruple dash vertical">┊</li>
+    <li class="symb" data-code="9483" code="250b" title="box drawings heavy quadruple dash vertical">┋</li>
+    <li class="symb" data-code="9484" code="250c" title="box drawings light down and right">┌</li>
+    <li class="symb" data-code="9485" code="250d" title="box drawings down light and right heavy">┍</li>
+    <li class="symb" data-code="9486" code="250e" title="box drawings down heavy and right light">┎</li>
+    <li class="symb" data-code="9487" code="250f" title="box drawings heavy down and right">┏</li>
+    <li class="h">2510</li>
+    <li class="symb" data-code="9488" code="2510" title="box drawings light down and left">┐</li>
+    <li class="symb" data-code="9489" code="2511" title="box drawings down light and left heavy">┑</li>
+    <li class="symb" data-code="9490" code="2512" title="box drawings down heavy and left light">┒</li>
+    <li class="symb" data-code="9491" code="2513" title="box drawings heavy down and left">┓</li>
+    <li class="symb" data-code="9492" code="2514" title="box drawings light up and right">└</li>
+    <li class="symb" data-code="9493" code="2515" title="box drawings up light and right heavy">┕</li>
+    <li class="symb" data-code="9494" code="2516" title="box drawings up heavy and right light">┖</li>
+    <li class="symb" data-code="9495" code="2517" title="box drawings heavy up and right">┗</li>
+    <li class="symb" data-code="9496" code="2518" title="box drawings light up and left">┘</li>
+    <li class="symb" data-code="9497" code="2519" title="box drawings up light and left heavy">┙</li>
+    <li class="symb" data-code="9498" code="251a" title="box drawings up heavy and left light">┚</li>
+    <li class="symb" data-code="9499" code="251b" title="box drawings heavy up and left">┛</li>
+    <li class="symb" data-code="9500" code="251c" title="box drawings light vertical and right">├</li>
+    <li class="symb" data-code="9501" code="251d" title="box drawings vertical light and right heavy">┝</li>
+    <li class="symb" data-code="9502" code="251e" title="box drawings up heavy and right down light">┞</li>
+    <li class="symb" data-code="9503" code="251f" title="box drawings down heavy and right up light">┟</li>
+    <li class="h">2520</li>
+    <li class="symb" data-code="9504" code="2520" title="box drawings vertical heavy and right light">┠</li>
+    <li class="symb" data-code="9505" code="2521" title="box drawings down light and right up heavy">┡</li>
+    <li class="symb" data-code="9506" code="2522" title="box drawings up light and right down heavy">┢</li>
+    <li class="symb" data-code="9507" code="2523" title="box drawings heavy vertical and right">┣</li>
+    <li class="symb" data-code="9508" code="2524" title="box drawings light vertical and left">┤</li>
+    <li class="symb" data-code="9509" code="2525" title="box drawings vertical light and left heavy">┥</li>
+    <li class="symb" data-code="9510" code="2526" title="box drawings up heavy and left down light">┦</li>
+    <li class="symb" data-code="9511" code="2527" title="box drawings down heavy and left up light">┧</li>
+    <li class="symb" data-code="9512" code="2528" title="box drawings vertical heavy and left light">┨</li>
+    <li class="symb" data-code="9513" code="2529" title="box drawings down light and left up heavy">┩</li>
+    <li class="symb" data-code="9514" code="252a" title="box drawings up light and left down heavy">┪</li>
+    <li class="symb" data-code="9515" code="252b" title="box drawings heavy vertical and left">┫</li>
+    <li class="symb" data-code="9516" code="252c" title="box drawings light down and horizontal">┬</li>
+    <li class="symb" data-code="9517" code="252d" title="box drawings left heavy and right down light">┭</li>
+    <li class="symb" data-code="9518" code="252e" title="box drawings right heavy and left down light">┮</li>
+    <li class="symb" data-code="9519" code="252f" title="box drawings down light and horizontal heavy">┯</li>
+    <li class="h">2530</li>
+    <li class="symb" data-code="9520" code="2530" title="box drawings down heavy and horizontal light">┰</li>
+    <li class="symb" data-code="9521" code="2531" title="box drawings right light and left down heavy">┱</li>
+    <li class="symb" data-code="9522" code="2532" title="box drawings left light and right down heavy">┲</li>
+    <li class="symb" data-code="9523" code="2533" title="box drawings heavy down and horizontal">┳</li>
+    <li class="symb" data-code="9524" code="2534" title="box drawings light up and horizontal">┴</li>
+    <li class="symb" data-code="9525" code="2535" title="box drawings left heavy and right up light">┵</li>
+    <li class="symb" data-code="9526" code="2536" title="box drawings right heavy and left up light">┶</li>
+    <li class="symb" data-code="9527" code="2537" title="box drawings up light and horizontal heavy">┷</li>
+    <li class="symb" data-code="9528" code="2538" title="box drawings up heavy and horizontal light">┸</li>
+    <li class="symb" data-code="9529" code="2539" title="box drawings right light and left up heavy">┹</li>
+    <li class="symb" data-code="9530" code="253a" title="box drawings left light and right up heavy">┺</li>
+    <li class="symb" data-code="9531" code="253b" title="box drawings heavy up and horizontal">┻</li>
+    <li class="symb" data-code="9532" code="253c" title="box drawings light vertical and horizontal">┼</li>
+    <li class="symb" data-code="9533" code="253d" title="box drawings left heavy and right vertical light">┽</li>
+    <li class="symb" data-code="9534" code="253e" title="box drawings right heavy and left vertical light">┾</li>
+    <li class="symb" data-code="9535" code="253f" title="box drawings vertical light and horizontal heavy">┿</li>
+    <li class="h">2540</li>
+    <li class="symb" data-code="9536" code="2540" title="box drawings up heavy and down horizontal light">╀</li>
+    <li class="symb" data-code="9537" code="2541" title="box drawings down heavy and up horizontal light">╁</li>
+    <li class="symb" data-code="9538" code="2542" title="box drawings vertical heavy and horizontal light">╂</li>
+    <li class="symb" data-code="9539" code="2543" title="box drawings left up heavy and right down light">╃</li>
+    <li class="symb" data-code="9540" code="2544" title="box drawings right up heavy and left down light">╄</li>
+    <li class="symb" data-code="9541" code="2545" title="box drawings left down heavy and right up light">╅</li>
+    <li class="symb" data-code="9542" code="2546" title="box drawings right down heavy and left up light">╆</li>
+    <li class="symb" data-code="9543" code="2547" title="box drawings down light and up horizontal heavy">╇</li>
+    <li class="symb" data-code="9544" code="2548" title="box drawings up light and down horizontal heavy">╈</li>
+    <li class="symb" data-code="9545" code="2549" title="box drawings right light and left vertical heavy">╉</li>
+    <li class="symb" data-code="9546" code="254a" title="box drawings left light and right vertical heavy">╊</li>
+    <li class="symb" data-code="9547" code="254b" title="box drawings heavy vertical and horizontal">╋</li>
+    <li class="symb" data-code="9548" code="254c" title="box drawings light double dash horizontal">╌</li>
+    <li class="symb" data-code="9549" code="254d" title="box drawings heavy double dash horizontal">╍</li>
+    <li class="symb" data-code="9550" code="254e" title="box drawings light double dash vertical">╎</li>
+    <li class="symb" data-code="9551" code="254f" title="box drawings heavy double dash vertical">╏</li>
+    <li class="h">2550</li>
+    <li class="symb" data-code="9552" code="2550" title="box drawings double horizontal">═</li>
+    <li class="symb" data-code="9553" code="2551" title="box drawings double vertical">║</li>
+    <li class="symb" data-code="9554" code="2552" title="box drawings down single and right double">╒</li>
+    <li class="symb" data-code="9555" code="2553" title="box drawings down double and right single">╓</li>
+    <li class="symb" data-code="9556" code="2554" title="box drawings double down and right">╔</li>
+    <li class="symb" data-code="9557" code="2555" title="box drawings down single and left double">╕</li>
+    <li class="symb" data-code="9558" code="2556" title="box drawings down double and left single">╖</li>
+    <li class="symb" data-code="9559" code="2557" title="box drawings double down and left">╗</li>
+    <li class="symb" data-code="9560" code="2558" title="box drawings up single and right double">╘</li>
+    <li class="symb" data-code="9561" code="2559" title="box drawings up double and right single">╙</li>
+    <li class="symb" data-code="9562" code="255a" title="box drawings double up and right">╚</li>
+    <li class="symb" data-code="9563" code="255b" title="box drawings up single and left double">╛</li>
+    <li class="symb" data-code="9564" code="255c" title="box drawings up double and left single">╜</li>
+    <li class="symb" data-code="9565" code="255d" title="box drawings double up and left">╝</li>
+    <li class="symb" data-code="9566" code="255e" title="box drawings vertical single and right double">╞</li>
+    <li class="symb" data-code="9567" code="255f" title="box drawings vertical double and right single">╟</li>
+    <li class="h">2560</li>
+    <li class="symb" data-code="9568" code="2560" title="box drawings double vertical and right">╠</li>
+    <li class="symb" data-code="9569" code="2561" title="box drawings vertical single and left double">╡</li>
+    <li class="symb" data-code="9570" code="2562" title="box drawings vertical double and left single">╢</li>
+    <li class="symb" data-code="9571" code="2563" title="box drawings double vertical and left">╣</li>
+    <li class="symb" data-code="9572" code="2564" title="box drawings down single and horizontal double">╤</li>
+    <li class="symb" data-code="9573" code="2565" title="box drawings down double and horizontal single">╥</li>
+    <li class="symb" data-code="9574" code="2566" title="box drawings double down and horizontal">╦</li>
+    <li class="symb" data-code="9575" code="2567" title="box drawings up single and horizontal double">╧</li>
+    <li class="symb" data-code="9576" code="2568" title="box drawings up double and horizontal single">╨</li>
+    <li class="symb" data-code="9577" code="2569" title="box drawings double up and horizontal">╩</li>
+    <li class="symb" data-code="9578" code="256a" title="box drawings vertical single and horizontal double">╪</li>
+    <li class="symb" data-code="9579" code="256b" title="box drawings vertical double and horizontal single">╫</li>
+    <li class="symb" data-code="9580" code="256c" title="box drawings double vertical and horizontal">╬</li>
+    <li class="symb" data-code="9581" code="256d" title="box drawings light arc down and right">╭</li>
+    <li class="symb" data-code="9582" code="256e" title="box drawings light arc down and left">╮</li>
+    <li class="symb" data-code="9583" code="256f" title="box drawings light arc up and left">╯</li>
+    <li class="h">2570</li>
+    <li class="symb" data-code="9584" code="2570" title="box drawings light arc up and right">╰</li>
+    <li class="symb" data-code="9585" code="2571" title="box drawings light diagonal upper right to lower left">╱</li>
+    <li class="symb" data-code="9586" code="2572" title="box drawings light diagonal upper left to lower right">╲</li>
+    <li class="symb" data-code="9587" code="2573" title="box drawings light diagonal cross">╳</li>
+    <li class="symb" data-code="9588" code="2574" title="box drawings light left">╴</li>
+    <li class="symb" data-code="9589" code="2575" title="box drawings light up">╵</li>
+    <li class="symb" data-code="9590" code="2576" title="box drawings light right">╶</li>
+    <li class="symb" data-code="9591" code="2577" title="box drawings light down">╷</li>
+    <li class="symb" data-code="9592" code="2578" title="box drawings heavy left">╸</li>
+    <li class="symb" data-code="9593" code="2579" title="box drawings heavy up">╹</li>
+    <li class="symb" data-code="9594" code="257a" title="box drawings heavy right">╺</li>
+    <li class="symb" data-code="9595" code="257b" title="box drawings heavy down">╻</li>
+    <li class="symb" data-code="9596" code="257c" title="box drawings light left and heavy right">╼</li>
+    <li class="symb" data-code="9597" code="257d" title="box drawings light up and heavy down">╽</li>
+    <li class="symb" data-code="9598" code="257e" title="box drawings heavy left and light right">╾</li>
+    <li class="symb" data-code="9599" code="257f" title="box drawings heavy up and light down">╿</li>
+  </ul>
+</root>

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1d100</li>
+    <li class="symb" data-code="119040" code="1d100" title="musical symbol single barline">𝄀</li>
+    <li class="symb" data-code="119041" code="1d101" title="musical symbol double barline">𝄁</li>
+    <li class="symb" data-code="119042" code="1d102" title="musical symbol final barline">𝄂</li>
+    <li class="symb" data-code="119043" code="1d103" title="musical symbol reverse final barline">𝄃</li>
+    <li class="symb" data-code="119044" code="1d104" title="musical symbol dashed barline">𝄄</li>
+    <li class="symb" data-code="119045" code="1d105" title="musical symbol short barline">𝄅</li>
+    <li class="symb" data-code="119046" code="1d106" title="musical symbol left repeat sign">𝄆</li>
+    <li class="symb" data-code="119047" code="1d107" title="musical symbol right repeat sign">𝄇</li>
+    <li class="symb" data-code="119048" code="1d108" title="musical symbol repeat dots">𝄈</li>
+    <li class="symb" data-code="119049" code="1d109" title="musical symbol dal segno">𝄉</li>
+    <li class="symb" data-code="119050" code="1d10a" title="musical symbol da capo">𝄊</li>
+    <li class="symb" data-code="119051" code="1d10b" title="musical symbol segno">𝄋</li>
+    <li class="symb" data-code="119052" code="1d10c" title="musical symbol coda">𝄌</li>
+    <li class="symb" data-code="119053" code="1d10d" title="musical symbol repeated figure-1">𝄍</li>
+    <li class="symb" data-code="119054" code="1d10e" title="musical symbol repeated figure-2">𝄎</li>
+    <li class="symb" data-code="119055" code="1d10f" title="musical symbol repeated figure-3">𝄏</li>
+    <li class="h">1d110</li>
+    <li class="symb" data-code="119056" code="1d110" title="musical symbol fermata">𝄐</li>
+    <li class="symb" data-code="119057" code="1d111" title="musical symbol fermata below">𝄑</li>
+    <li class="symb" data-code="119058" code="1d112" title="musical symbol breath mark">𝄒</li>
+    <li class="symb" data-code="119059" code="1d113" title="musical symbol caesura">𝄓</li>
+    <li class="symb" data-code="119060" code="1d114" title="musical symbol brace">𝄔</li>
+    <li class="symb" data-code="119061" code="1d115" title="musical symbol bracket">𝄕</li>
+    <li class="symb" data-code="119062" code="1d116" title="musical symbol one-line staff">𝄖</li>
+    <li class="symb" data-code="119063" code="1d117" title="musical symbol two-line staff">𝄗</li>
+    <li class="symb" data-code="119064" code="1d118" title="musical symbol three-line staff">𝄘</li>
+    <li class="symb" data-code="119065" code="1d119" title="musical symbol four-line staff">𝄙</li>
+    <li class="symb" data-code="119066" code="1d11a" title="musical symbol five-line staff">𝄚</li>
+    <li class="symb" data-code="119067" code="1d11b" title="musical symbol six-line staff">𝄛</li>
+    <li class="symb" data-code="119068" code="1d11c" title="musical symbol six-string fretboard">𝄜</li>
+    <li class="symb" data-code="119069" code="1d11d" title="musical symbol four-string fretboard">𝄝</li>
+    <li class="symb" data-code="119070" code="1d11e" title="musical symbol g clef">𝄞</li>
+    <li class="symb" data-code="119071" code="1d11f" title="musical symbol g clef ottava alta">𝄟</li>
+    <li class="h">1d120</li>
+    <li class="symb" data-code="119072" code="1d120" title="musical symbol g clef ottava bassa">𝄠</li>
+    <li class="symb" data-code="119073" code="1d121" title="musical symbol c clef">𝄡</li>
+    <li class="symb" data-code="119074" code="1d122" title="musical symbol f clef">𝄢</li>
+    <li class="symb" data-code="119075" code="1d123" title="musical symbol f clef ottava alta">𝄣</li>
+    <li class="symb" data-code="119076" code="1d124" title="musical symbol f clef ottava bassa">𝄤</li>
+    <li class="symb" data-code="119077" code="1d125" title="musical symbol drum clef-1">𝄥</li>
+    <li class="symb" data-code="119078" code="1d126" title="musical symbol drum clef-2">𝄦</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="119081" code="1d129" title="musical symbol multiple measure rest">𝄩</li>
+    <li class="symb" data-code="119082" code="1d12a" title="musical symbol double sharp">𝄪</li>
+    <li class="symb" data-code="119083" code="1d12b" title="musical symbol double flat">𝄫</li>
+    <li class="symb" data-code="119084" code="1d12c" title="musical symbol flat up">𝄬</li>
+    <li class="symb" data-code="119085" code="1d12d" title="musical symbol flat down">𝄭</li>
+    <li class="symb" data-code="119086" code="1d12e" title="musical symbol natural up">𝄮</li>
+    <li class="symb" data-code="119087" code="1d12f" title="musical symbol natural down">𝄯</li>
+    <li class="h">1d130</li>
+    <li class="symb" data-code="119088" code="1d130" title="musical symbol sharp up">𝄰</li>
+    <li class="symb" data-code="119089" code="1d131" title="musical symbol sharp down">𝄱</li>
+    <li class="symb" data-code="119090" code="1d132" title="musical symbol quarter tone sharp">𝄲</li>
+    <li class="symb" data-code="119091" code="1d133" title="musical symbol quarter tone flat">𝄳</li>
+    <li class="symb" data-code="119092" code="1d134" title="musical symbol common time">𝄴</li>
+    <li class="symb" data-code="119093" code="1d135" title="musical symbol cut time">𝄵</li>
+    <li class="symb" data-code="119094" code="1d136" title="musical symbol ottava alta">𝄶</li>
+    <li class="symb" data-code="119095" code="1d137" title="musical symbol ottava bassa">𝄷</li>
+    <li class="symb" data-code="119096" code="1d138" title="musical symbol quindicesima alta">𝄸</li>
+    <li class="symb" data-code="119097" code="1d139" title="musical symbol quindicesima bassa">𝄹</li>
+    <li class="symb" data-code="119098" code="1d13a" title="musical symbol multi rest">𝄺</li>
+    <li class="symb" data-code="119099" code="1d13b" title="musical symbol whole rest">𝄻</li>
+    <li class="symb" data-code="119100" code="1d13c" title="musical symbol half rest">𝄼</li>
+    <li class="symb" data-code="119101" code="1d13d" title="musical symbol quarter rest">𝄽</li>
+    <li class="symb" data-code="119102" code="1d13e" title="musical symbol eighth rest">𝄾</li>
+    <li class="symb" data-code="119103" code="1d13f" title="musical symbol sixteenth rest">𝄿</li>
+    <li class="h">1d140</li>
+    <li class="symb" data-code="119104" code="1d140" title="musical symbol thirty-second rest">𝅀</li>
+    <li class="symb" data-code="119105" code="1d141" title="musical symbol sixty-fourth rest">𝅁</li>
+    <li class="symb" data-code="119106" code="1d142" title="musical symbol one hundred twenty-eighth rest">𝅂</li>
+    <li class="symb" data-code="119107" code="1d143" title="musical symbol x notehead">𝅃</li>
+    <li class="symb" data-code="119108" code="1d144" title="musical symbol plus notehead">𝅄</li>
+    <li class="symb" data-code="119109" code="1d145" title="musical symbol circle x notehead">𝅅</li>
+    <li class="symb" data-code="119110" code="1d146" title="musical symbol square notehead white">𝅆</li>
+    <li class="symb" data-code="119111" code="1d147" title="musical symbol square notehead black">𝅇</li>
+    <li class="symb" data-code="119112" code="1d148" title="musical symbol triangle notehead up white">𝅈</li>
+    <li class="symb" data-code="119113" code="1d149" title="musical symbol triangle notehead up black">𝅉</li>
+    <li class="symb" data-code="119114" code="1d14a" title="musical symbol triangle notehead left white">𝅊</li>
+    <li class="symb" data-code="119115" code="1d14b" title="musical symbol triangle notehead left black">𝅋</li>
+    <li class="symb" data-code="119116" code="1d14c" title="musical symbol triangle notehead right white">𝅌</li>
+    <li class="symb" data-code="119117" code="1d14d" title="musical symbol triangle notehead right black">𝅍</li>
+    <li class="symb" data-code="119118" code="1d14e" title="musical symbol triangle notehead down white">𝅎</li>
+    <li class="symb" data-code="119119" code="1d14f" title="musical symbol triangle notehead down black">𝅏</li>
+    <li class="h">1d150</li>
+    <li class="symb" data-code="119120" code="1d150" title="musical symbol triangle notehead up right white">𝅐</li>
+    <li class="symb" data-code="119121" code="1d151" title="musical symbol triangle notehead up right black">𝅑</li>
+    <li class="symb" data-code="119122" code="1d152" title="musical symbol moon notehead white">𝅒</li>
+    <li class="symb" data-code="119123" code="1d153" title="musical symbol moon notehead black">𝅓</li>
+    <li class="symb" data-code="119124" code="1d154" title="musical symbol triangle-round notehead down white">𝅔</li>
+    <li class="symb" data-code="119125" code="1d155" title="musical symbol triangle-round notehead down black">𝅕</li>
+    <li class="symb" data-code="119126" code="1d156" title="musical symbol parenthesis notehead">𝅖</li>
+    <li class="symb" data-code="119127" code="1d157" title="musical symbol void notehead">𝅗</li>
+    <li class="symb" data-code="119128" code="1d158" title="musical symbol notehead black">𝅘</li>
+    <li class="symb" data-code="119129" code="1d159" title="musical symbol null notehead">𝅙</li>
+    <li class="symb" data-code="119130" code="1d15a" title="musical symbol cluster notehead white">𝅚</li>
+    <li class="symb" data-code="119131" code="1d15b" title="musical symbol cluster notehead black">𝅛</li>
+    <li class="symb" data-code="119132" code="1d15c" title="musical symbol breve">𝅜</li>
+    <li class="symb" data-code="119133" code="1d15d" title="musical symbol whole note">𝅝</li>
+    <li class="symb" data-code="119134" code="1d15e" title="musical symbol half note">𝅗𝅥</li>
+    <li class="symb" data-code="119135" code="1d15f" title="musical symbol quarter note">𝅘𝅥</li>
+    <li class="h">1d160</li>
+    <li class="symb" data-code="119136" code="1d160" title="musical symbol eighth note">𝅘𝅥𝅮</li>
+    <li class="symb" data-code="119137" code="1d161" title="musical symbol sixteenth note">𝅘𝅥𝅯</li>
+    <li class="symb" data-code="119138" code="1d162" title="musical symbol thirty-second note">𝅘𝅥𝅰</li>
+    <li class="symb" data-code="119139" code="1d163" title="musical symbol sixty-fourth note">𝅘𝅥𝅱</li>
+    <li class="symb" data-code="119140" code="1d164" title="musical symbol one hundred twenty-eighth note">𝅘𝅥𝅲</li>
+    <li class="symb" data-code="119141" code="1d165" title="musical symbol combining stem">𝅥</li>
+    <li class="symb" data-code="119142" code="1d166" title="musical symbol combining sprechgesang stem">𝅦</li>
+    <li class="symb" data-code="119143" code="1d167" title="musical symbol combining tremolo-1">𝅧</li>
+    <li class="symb" data-code="119144" code="1d168" title="musical symbol combining tremolo-2">𝅨</li>
+    <li class="symb" data-code="119145" code="1d169" title="musical symbol combining tremolo-3">𝅩</li>
+    <li class="symb" data-code="119146" code="1d16a" title="musical symbol fingered tremolo-1">𝅪</li>
+    <li class="symb" data-code="119147" code="1d16b" title="musical symbol fingered tremolo-2">𝅫</li>
+    <li class="symb" data-code="119148" code="1d16c" title="musical symbol fingered tremolo-3">𝅬</li>
+    <li class="symb" data-code="119149" code="1d16d" title="musical symbol combining augmentation dot">𝅭</li>
+    <li class="symb" data-code="119150" code="1d16e" title="musical symbol combining flag-1">𝅮</li>
+    <li class="symb" data-code="119151" code="1d16f" title="musical symbol combining flag-2">𝅯</li>
+    <li class="h">1d170</li>
+    <li class="symb" data-code="119152" code="1d170" title="musical symbol combining flag-3">𝅰</li>
+    <li class="symb" data-code="119153" code="1d171" title="musical symbol combining flag-4">𝅱</li>
+    <li class="symb" data-code="119154" code="1d172" title="musical symbol combining flag-5">𝅲</li>
+    <li class="symb" data-code="119155" code="1d173" title="musical symbol begin beam">𝅳</li>
+    <li class="symb" data-code="119156" code="1d174" title="musical symbol end beam">𝅴</li>
+    <li class="symb" data-code="119157" code="1d175" title="musical symbol begin tie">𝅵</li>
+    <li class="symb" data-code="119158" code="1d176" title="musical symbol end tie">𝅶</li>
+    <li class="symb" data-code="119159" code="1d177" title="musical symbol begin slur">𝅷</li>
+    <li class="symb" data-code="119160" code="1d178" title="musical symbol end slur">𝅸</li>
+    <li class="symb" data-code="119161" code="1d179" title="musical symbol begin phrase">𝅹</li>
+    <li class="symb" data-code="119162" code="1d17a" title="musical symbol end phrase">𝅺</li>
+    <li class="symb" data-code="119163" code="1d17b" title="musical symbol combining accent">𝅻</li>
+    <li class="symb" data-code="119164" code="1d17c" title="musical symbol combining staccato">𝅼</li>
+    <li class="symb" data-code="119165" code="1d17d" title="musical symbol combining tenuto">𝅽</li>
+    <li class="symb" data-code="119166" code="1d17e" title="musical symbol combining staccatissimo">𝅾</li>
+    <li class="symb" data-code="119167" code="1d17f" title="musical symbol combining marcato">𝅿</li>
+    <li class="h">1d180</li>
+    <li class="symb" data-code="119168" code="1d180" title="musical symbol combining marcato-staccato">𝆀</li>
+    <li class="symb" data-code="119169" code="1d181" title="musical symbol combining accent-staccato">𝆁</li>
+    <li class="symb" data-code="119170" code="1d182" title="musical symbol combining loure">𝆂</li>
+    <li class="symb" data-code="119171" code="1d183" title="musical symbol arpeggiato up">𝆃</li>
+    <li class="symb" data-code="119172" code="1d184" title="musical symbol arpeggiato down">𝆄</li>
+    <li class="symb" data-code="119173" code="1d185" title="musical symbol combining doit">𝆅</li>
+    <li class="symb" data-code="119174" code="1d186" title="musical symbol combining rip">𝆆</li>
+    <li class="symb" data-code="119175" code="1d187" title="musical symbol combining flip">𝆇</li>
+    <li class="symb" data-code="119176" code="1d188" title="musical symbol combining smear">𝆈</li>
+    <li class="symb" data-code="119177" code="1d189" title="musical symbol combining bend">𝆉</li>
+    <li class="symb" data-code="119178" code="1d18a" title="musical symbol combining double tongue">𝆊</li>
+    <li class="symb" data-code="119179" code="1d18b" title="musical symbol combining triple tongue">𝆋</li>
+    <li class="symb" data-code="119180" code="1d18c" title="musical symbol rinforzando">𝆌</li>
+    <li class="symb" data-code="119181" code="1d18d" title="musical symbol subito">𝆍</li>
+    <li class="symb" data-code="119182" code="1d18e" title="musical symbol z">𝆎</li>
+    <li class="symb" data-code="119183" code="1d18f" title="musical symbol piano">𝆏</li>
+    <li class="h">1d190</li>
+    <li class="symb" data-code="119184" code="1d190" title="musical symbol mezzo">𝆐</li>
+    <li class="symb" data-code="119185" code="1d191" title="musical symbol forte">𝆑</li>
+    <li class="symb" data-code="119186" code="1d192" title="musical symbol crescendo">𝆒</li>
+    <li class="symb" data-code="119187" code="1d193" title="musical symbol decrescendo">𝆓</li>
+    <li class="symb" data-code="119188" code="1d194" title="musical symbol grace note slash">𝆔</li>
+    <li class="symb" data-code="119189" code="1d195" title="musical symbol grace note no slash">𝆕</li>
+    <li class="symb" data-code="119190" code="1d196" title="musical symbol tr">𝆖</li>
+    <li class="symb" data-code="119191" code="1d197" title="musical symbol turn">𝆗</li>
+    <li class="symb" data-code="119192" code="1d198" title="musical symbol inverted turn">𝆘</li>
+    <li class="symb" data-code="119193" code="1d199" title="musical symbol turn slash">𝆙</li>
+    <li class="symb" data-code="119194" code="1d19a" title="musical symbol turn up">𝆚</li>
+    <li class="symb" data-code="119195" code="1d19b" title="musical symbol ornament stroke-1">𝆛</li>
+    <li class="symb" data-code="119196" code="1d19c" title="musical symbol ornament stroke-2">𝆜</li>
+    <li class="symb" data-code="119197" code="1d19d" title="musical symbol ornament stroke-3">𝆝</li>
+    <li class="symb" data-code="119198" code="1d19e" title="musical symbol ornament stroke-4">𝆞</li>
+    <li class="symb" data-code="119199" code="1d19f" title="musical symbol ornament stroke-5">𝆟</li>
+    <li class="h">1d1a0</li>
+    <li class="symb" data-code="119200" code="1d1a0" title="musical symbol ornament stroke-6">𝆠</li>
+    <li class="symb" data-code="119201" code="1d1a1" title="musical symbol ornament stroke-7">𝆡</li>
+    <li class="symb" data-code="119202" code="1d1a2" title="musical symbol ornament stroke-8">𝆢</li>
+    <li class="symb" data-code="119203" code="1d1a3" title="musical symbol ornament stroke-9">𝆣</li>
+    <li class="symb" data-code="119204" code="1d1a4" title="musical symbol ornament stroke-10">𝆤</li>
+    <li class="symb" data-code="119205" code="1d1a5" title="musical symbol ornament stroke-11">𝆥</li>
+    <li class="symb" data-code="119206" code="1d1a6" title="musical symbol hauptstimme">𝆦</li>
+    <li class="symb" data-code="119207" code="1d1a7" title="musical symbol nebenstimme">𝆧</li>
+    <li class="symb" data-code="119208" code="1d1a8" title="musical symbol end of stimme">𝆨</li>
+    <li class="symb" data-code="119209" code="1d1a9" title="musical symbol degree slash">𝆩</li>
+    <li class="symb" data-code="119210" code="1d1aa" title="musical symbol combining down bow">𝆪</li>
+    <li class="symb" data-code="119211" code="1d1ab" title="musical symbol combining up bow">𝆫</li>
+    <li class="symb" data-code="119212" code="1d1ac" title="musical symbol combining harmonic">𝆬</li>
+    <li class="symb" data-code="119213" code="1d1ad" title="musical symbol combining snap pizzicato">𝆭</li>
+    <li class="symb" data-code="119214" code="1d1ae" title="musical symbol pedal mark">𝆮</li>
+    <li class="symb" data-code="119215" code="1d1af" title="musical symbol pedal up mark">𝆯</li>
+    <li class="h">1d1b0</li>
+    <li class="symb" data-code="119216" code="1d1b0" title="musical symbol half pedal mark">𝆰</li>
+    <li class="symb" data-code="119217" code="1d1b1" title="musical symbol glissando up">𝆱</li>
+    <li class="symb" data-code="119218" code="1d1b2" title="musical symbol glissando down">𝆲</li>
+    <li class="symb" data-code="119219" code="1d1b3" title="musical symbol with fingernails">𝆳</li>
+    <li class="symb" data-code="119220" code="1d1b4" title="musical symbol damp">𝆴</li>
+    <li class="symb" data-code="119221" code="1d1b5" title="musical symbol damp all">𝆵</li>
+    <li class="symb" data-code="119222" code="1d1b6" title="musical symbol maxima">𝆶</li>
+    <li class="symb" data-code="119223" code="1d1b7" title="musical symbol longa">𝆷</li>
+    <li class="symb" data-code="119224" code="1d1b8" title="musical symbol brevis">𝆸</li>
+    <li class="symb" data-code="119225" code="1d1b9" title="musical symbol semibrevis white">𝆹</li>
+    <li class="symb" data-code="119226" code="1d1ba" title="musical symbol semibrevis black">𝆺</li>
+    <li class="symb" data-code="119227" code="1d1bb" title="musical symbol minima">𝆹𝅥</li>
+    <li class="symb" data-code="119228" code="1d1bc" title="musical symbol minima black">𝆺𝅥</li>
+    <li class="symb" data-code="119229" code="1d1bd" title="musical symbol semiminima white">𝆹𝅥𝅮</li>
+    <li class="symb" data-code="119230" code="1d1be" title="musical symbol semiminima black">𝆺𝅥𝅮</li>
+    <li class="symb" data-code="119231" code="1d1bf" title="musical symbol fusa white">𝆹𝅥𝅯</li>
+    <li class="h">1d1c0</li>
+    <li class="symb" data-code="119232" code="1d1c0" title="musical symbol fusa black">𝆺𝅥𝅯</li>
+    <li class="symb" data-code="119233" code="1d1c1" title="musical symbol longa perfecta rest">𝇁</li>
+    <li class="symb" data-code="119234" code="1d1c2" title="musical symbol longa imperfecta rest">𝇂</li>
+    <li class="symb" data-code="119235" code="1d1c3" title="musical symbol brevis rest">𝇃</li>
+    <li class="symb" data-code="119236" code="1d1c4" title="musical symbol semibrevis rest">𝇄</li>
+    <li class="symb" data-code="119237" code="1d1c5" title="musical symbol minima rest">𝇅</li>
+    <li class="symb" data-code="119238" code="1d1c6" title="musical symbol semiminima rest">𝇆</li>
+    <li class="symb" data-code="119239" code="1d1c7" title="musical symbol tempus perfectum cum prolatione perfecta">𝇇</li>
+    <li class="symb" data-code="119240" code="1d1c8" title="musical symbol tempus perfectum cum prolatione imperfecta">𝇈</li>
+    <li class="symb" data-code="119241" code="1d1c9" title="musical symbol tempus perfectum cum prolatione perfecta diminution-1">𝇉</li>
+    <li class="symb" data-code="119242" code="1d1ca" title="musical symbol tempus imperfectum cum prolatione perfecta">𝇊</li>
+    <li class="symb" data-code="119243" code="1d1cb" title="musical symbol tempus imperfectum cum prolatione imperfecta">𝇋</li>
+    <li class="symb" data-code="119244" code="1d1cc" title="musical symbol tempus imperfectum cum prolatione imperfecta diminution-1">𝇌</li>
+    <li class="symb" data-code="119245" code="1d1cd" title="musical symbol tempus imperfectum cum prolatione imperfecta diminution-2">𝇍</li>
+    <li class="symb" data-code="119246" code="1d1ce" title="musical symbol tempus imperfectum cum prolatione imperfecta diminution-3">𝇎</li>
+    <li class="symb" data-code="119247" code="1d1cf" title="musical symbol croix">𝇏</li>
+    <li class="h">1d1d0</li>
+    <li class="symb" data-code="119248" code="1d1d0" title="musical symbol gregorian c clef">𝇐</li>
+    <li class="symb" data-code="119249" code="1d1d1" title="musical symbol gregorian f clef">𝇑</li>
+    <li class="symb" data-code="119250" code="1d1d2" title="musical symbol square b">𝇒</li>
+    <li class="symb" data-code="119251" code="1d1d3" title="musical symbol virga">𝇓</li>
+    <li class="symb" data-code="119252" code="1d1d4" title="musical symbol podatus">𝇔</li>
+    <li class="symb" data-code="119253" code="1d1d5" title="musical symbol clivis">𝇕</li>
+    <li class="symb" data-code="119254" code="1d1d6" title="musical symbol scandicus">𝇖</li>
+    <li class="symb" data-code="119255" code="1d1d7" title="musical symbol climacus">𝇗</li>
+    <li class="symb" data-code="119256" code="1d1d8" title="musical symbol torculus">𝇘</li>
+    <li class="symb" data-code="119257" code="1d1d9" title="musical symbol porrectus">𝇙</li>
+    <li class="symb" data-code="119258" code="1d1da" title="musical symbol porrectus flexus">𝇚</li>
+    <li class="symb" data-code="119259" code="1d1db" title="musical symbol scandicus flexus">𝇛</li>
+    <li class="symb" data-code="119260" code="1d1dc" title="musical symbol torculus resupinus">𝇜</li>
+    <li class="symb" data-code="119261" code="1d1dd" title="musical symbol pes subpunctis">𝇝</li>
+    <li class="symb" data-code="119262" code="1d1de" title="musical symbol kievan c clef">𝇞</li>
+    <li class="symb" data-code="119263" code="1d1df" title="musical symbol kievan end of piece">𝇟</li>
+    <li class="h">1d1e0</li>
+    <li class="symb" data-code="119264" code="1d1e0" title="musical symbol kievan final note">𝇠</li>
+    <li class="symb" data-code="119265" code="1d1e1" title="musical symbol kievan recitative mark">𝇡</li>
+    <li class="symb" data-code="119266" code="1d1e2" title="musical symbol kievan whole note">𝇢</li>
+    <li class="symb" data-code="119267" code="1d1e3" title="musical symbol kievan half note">𝇣</li>
+    <li class="symb" data-code="119268" code="1d1e4" title="musical symbol kievan quarter note stem down">𝇤</li>
+    <li class="symb" data-code="119269" code="1d1e5" title="musical symbol kievan quarter note stem up">𝇥</li>
+    <li class="symb" data-code="119270" code="1d1e6" title="musical symbol kievan eighth note stem down">𝇦</li>
+    <li class="symb" data-code="119271" code="1d1e7" title="musical symbol kievan eighth note stem up">𝇧</li>
+    <li class="symb" data-code="119272" code="1d1e8" title="musical symbol kievan flat sign">𝇨</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1d1f0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

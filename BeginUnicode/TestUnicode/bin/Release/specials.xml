@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">fff0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65529" code="fff9" title="interlinear annotation anchor">￹</li>
+    <li class="symb" data-code="65530" code="fffa" title="interlinear annotation separator">￺</li>
+    <li class="symb" data-code="65531" code="fffb" title="interlinear annotation terminator">￻</li>
+    <li class="symb" data-code="65532" code="fffc" title="object replacement character">￼</li>
+    <li class="symb" data-code="65533" code="fffd" title="replacement character">�</li>
+    <li class="symb" data-code="65534" code="fffe" title="not a character">�</li>
+    <li class="symb" data-code="65535" code="ffff" title="not a character">�</li>
+  </ul>
+</root>

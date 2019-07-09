@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2400</li>
+    <li class="symb" data-code="9216" code="2400" title="symbol for null">␀</li>
+    <li class="symb" data-code="9217" code="2401" title="symbol for start of heading">␁</li>
+    <li class="symb" data-code="9218" code="2402" title="symbol for start of text">␂</li>
+    <li class="symb" data-code="9219" code="2403" title="symbol for end of text">␃</li>
+    <li class="symb" data-code="9220" code="2404" title="symbol for end of transmission">␄</li>
+    <li class="symb" data-code="9221" code="2405" title="symbol for enquiry">␅</li>
+    <li class="symb" data-code="9222" code="2406" title="symbol for acknowledge">␆</li>
+    <li class="symb" data-code="9223" code="2407" title="symbol for bell">␇</li>
+    <li class="symb" data-code="9224" code="2408" title="symbol for backspace">␈</li>
+    <li class="symb" data-code="9225" code="2409" title="symbol for horizontal tabulation">␉</li>
+    <li class="symb" data-code="9226" code="240a" title="symbol for line feed">␊</li>
+    <li class="symb" data-code="9227" code="240b" title="symbol for vertical tabulation">␋</li>
+    <li class="symb" data-code="9228" code="240c" title="symbol for form feed">␌</li>
+    <li class="symb" data-code="9229" code="240d" title="symbol for carriage return">␍</li>
+    <li class="symb" data-code="9230" code="240e" title="symbol for shift out">␎</li>
+    <li class="symb" data-code="9231" code="240f" title="symbol for shift in">␏</li>
+    <li class="h">2410</li>
+    <li class="symb" data-code="9232" code="2410" title="symbol for data link escape">␐</li>
+    <li class="symb" data-code="9233" code="2411" title="symbol for device control one">␑</li>
+    <li class="symb" data-code="9234" code="2412" title="symbol for device control two">␒</li>
+    <li class="symb" data-code="9235" code="2413" title="symbol for device control three">␓</li>
+    <li class="symb" data-code="9236" code="2414" title="symbol for device control four">␔</li>
+    <li class="symb" data-code="9237" code="2415" title="symbol for negative acknowledge">␕</li>
+    <li class="symb" data-code="9238" code="2416" title="symbol for synchronous idle">␖</li>
+    <li class="symb" data-code="9239" code="2417" title="symbol for end of transmission block">␗</li>
+    <li class="symb" data-code="9240" code="2418" title="symbol for cancel">␘</li>
+    <li class="symb" data-code="9241" code="2419" title="symbol for end of medium">␙</li>
+    <li class="symb" data-code="9242" code="241a" title="symbol for substitute">␚</li>
+    <li class="symb" data-code="9243" code="241b" title="symbol for escape">␛</li>
+    <li class="symb" data-code="9244" code="241c" title="symbol for file separator">␜</li>
+    <li class="symb" data-code="9245" code="241d" title="symbol for group separator">␝</li>
+    <li class="symb" data-code="9246" code="241e" title="symbol for record separator">␞</li>
+    <li class="symb" data-code="9247" code="241f" title="symbol for unit separator">␟</li>
+    <li class="h">2420</li>
+    <li class="symb" data-code="9248" code="2420" title="symbol for space">␠</li>
+    <li class="symb" data-code="9249" code="2421" title="symbol for delete">␡</li>
+    <li class="symb" data-code="9250" code="2422" title="blank symbol">␢</li>
+    <li class="symb" data-code="9251" code="2423" title="open box">␣</li>
+    <li class="symb" data-code="9252" code="2424" title="symbol for newline">␤</li>
+    <li class="symb" data-code="9253" code="2425" title="symbol for delete form two">␥</li>
+    <li class="symb" data-code="9254" code="2426" title="symbol for substitute form two">␦</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">2430</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

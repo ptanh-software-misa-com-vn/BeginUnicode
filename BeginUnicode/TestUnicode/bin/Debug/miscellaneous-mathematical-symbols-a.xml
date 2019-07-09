@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">27c0</li>
+    <li class="symb" data-code="10176" code="27c0" title="three dimensional angle">⟀</li>
+    <li class="symb" data-code="10177" code="27c1" title="white triangle containing small white triangle">⟁</li>
+    <li class="symb" data-code="10178" code="27c2" title="perpendicular">⟂</li>
+    <li class="symb" data-code="10179" code="27c3" title="open subset">⟃</li>
+    <li class="symb" data-code="10180" code="27c4" title="open superset">⟄</li>
+    <li class="symb" data-code="10181" code="27c5" title="left s-shaped bag delimiter">⟅</li>
+    <li class="symb" data-code="10182" code="27c6" title="right s-shaped bag delimiter">⟆</li>
+    <li class="symb" data-code="10183" code="27c7" title="or with dot inside">⟇</li>
+    <li class="symb" data-code="10184" code="27c8" title="reverse solidus preceding subset">⟈</li>
+    <li class="symb" data-code="10185" code="27c9" title="superset preceding solidus">⟉</li>
+    <li class="symb" data-code="10186" code="27ca" title="vertical bar with horizontal stroke">⟊</li>
+    <li class="symb" data-code="10187" code="27cb" title="mathematical rising diagonal">⟋</li>
+    <li class="symb" data-code="10188" code="27cc" title="long division">⟌</li>
+    <li class="symb" data-code="10189" code="27cd" title="mathematical falling diagonal">⟍</li>
+    <li class="symb" data-code="10190" code="27ce" title="squared logical and">⟎</li>
+    <li class="symb" data-code="10191" code="27cf" title="squared logical or">⟏</li>
+    <li class="h">27d0</li>
+    <li class="symb" data-code="10192" code="27d0" title="white diamond with centred dot">⟐</li>
+    <li class="symb" data-code="10193" code="27d1" title="and with dot">⟑</li>
+    <li class="symb" data-code="10194" code="27d2" title="element of opening upwards">⟒</li>
+    <li class="symb" data-code="10195" code="27d3" title="lower right corner with dot">⟓</li>
+    <li class="symb" data-code="10196" code="27d4" title="upper left corner with dot">⟔</li>
+    <li class="symb" data-code="10197" code="27d5" title="left outer join">⟕</li>
+    <li class="symb" data-code="10198" code="27d6" title="right outer join">⟖</li>
+    <li class="symb" data-code="10199" code="27d7" title="full outer join">⟗</li>
+    <li class="symb" data-code="10200" code="27d8" title="large up tack">⟘</li>
+    <li class="symb" data-code="10201" code="27d9" title="large down tack">⟙</li>
+    <li class="symb" data-code="10202" code="27da" title="left and right double turnstile">⟚</li>
+    <li class="symb" data-code="10203" code="27db" title="left and right tack">⟛</li>
+    <li class="symb" data-code="10204" code="27dc" title="left multimap">⟜</li>
+    <li class="symb" data-code="10205" code="27dd" title="long right tack">⟝</li>
+    <li class="symb" data-code="10206" code="27de" title="long left tack">⟞</li>
+    <li class="symb" data-code="10207" code="27df" title="up tack with circle above">⟟</li>
+    <li class="h">27e0</li>
+    <li class="symb" data-code="10208" code="27e0" title="lozenge divided by horizontal rule">⟠</li>
+    <li class="symb" data-code="10209" code="27e1" title="white concave-sided diamond">⟡</li>
+    <li class="symb" data-code="10210" code="27e2" title="white concave-sided diamond with leftwards tick">⟢</li>
+    <li class="symb" data-code="10211" code="27e3" title="white concave-sided diamond with rightwards tick">⟣</li>
+    <li class="symb" data-code="10212" code="27e4" title="white square with leftwards tick">⟤</li>
+    <li class="symb" data-code="10213" code="27e5" title="white square with rightwards tick">⟥</li>
+    <li class="symb" data-code="10214" code="27e6" title="mathematical left white square bracket">⟦</li>
+    <li class="symb" data-code="10215" code="27e7" title="mathematical right white square bracket">⟧</li>
+    <li class="symb" data-code="10216" code="27e8" title="mathematical left angle bracket">⟨</li>
+    <li class="symb" data-code="10217" code="27e9" title="mathematical right angle bracket">⟩</li>
+    <li class="symb" data-code="10218" code="27ea" title="mathematical left double angle bracket">⟪</li>
+    <li class="symb" data-code="10219" code="27eb" title="mathematical right double angle bracket">⟫</li>
+    <li class="symb" data-code="10220" code="27ec" title="mathematical left white tortoise shell bracket">⟬</li>
+    <li class="symb" data-code="10221" code="27ed" title="mathematical right white tortoise shell bracket">⟭</li>
+    <li class="symb" data-code="10222" code="27ee" title="mathematical left flattened parenthesis">⟮</li>
+    <li class="symb" data-code="10223" code="27ef" title="mathematical right flattened parenthesis">⟯</li>
+  </ul>
+</root>

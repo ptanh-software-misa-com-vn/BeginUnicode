@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1f100</li>
+    <li class="symb" data-code="127232" code="1f100" title="digit zero full stop">🄀</li>
+    <li class="symb" data-code="127233" code="1f101" title="digit zero comma">🄁</li>
+    <li class="symb" data-code="127234" code="1f102" title="digit one comma">🄂</li>
+    <li class="symb" data-code="127235" code="1f103" title="digit two comma">🄃</li>
+    <li class="symb" data-code="127236" code="1f104" title="digit three comma">🄄</li>
+    <li class="symb" data-code="127237" code="1f105" title="digit four comma">🄅</li>
+    <li class="symb" data-code="127238" code="1f106" title="digit five comma">🄆</li>
+    <li class="symb" data-code="127239" code="1f107" title="digit six comma">🄇</li>
+    <li class="symb" data-code="127240" code="1f108" title="digit seven comma">🄈</li>
+    <li class="symb" data-code="127241" code="1f109" title="digit eight comma">🄉</li>
+    <li class="symb" data-code="127242" code="1f10a" title="digit nine comma">🄊</li>
+    <li class="symb" data-code="127243" code="1f10b" title="dingbat circled sans-serif digit zero">🄋</li>
+    <li class="symb" data-code="127244" code="1f10c" title="dingbat negative circled sans-serif digit zero">🄌</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f110</li>
+    <li class="symb" data-code="127248" code="1f110" title="parenthesized latin capital letter a">🄐</li>
+    <li class="symb" data-code="127249" code="1f111" title="parenthesized latin capital letter b">🄑</li>
+    <li class="symb" data-code="127250" code="1f112" title="parenthesized latin capital letter c">🄒</li>
+    <li class="symb" data-code="127251" code="1f113" title="parenthesized latin capital letter d">🄓</li>
+    <li class="symb" data-code="127252" code="1f114" title="parenthesized latin capital letter e">🄔</li>
+    <li class="symb" data-code="127253" code="1f115" title="parenthesized latin capital letter f">🄕</li>
+    <li class="symb" data-code="127254" code="1f116" title="parenthesized latin capital letter g">🄖</li>
+    <li class="symb" data-code="127255" code="1f117" title="parenthesized latin capital letter h">🄗</li>
+    <li class="symb" data-code="127256" code="1f118" title="parenthesized latin capital letter i">🄘</li>
+    <li class="symb" data-code="127257" code="1f119" title="parenthesized latin capital letter j">🄙</li>
+    <li class="symb" data-code="127258" code="1f11a" title="parenthesized latin capital letter k">🄚</li>
+    <li class="symb" data-code="127259" code="1f11b" title="parenthesized latin capital letter l">🄛</li>
+    <li class="symb" data-code="127260" code="1f11c" title="parenthesized latin capital letter m">🄜</li>
+    <li class="symb" data-code="127261" code="1f11d" title="parenthesized latin capital letter n">🄝</li>
+    <li class="symb" data-code="127262" code="1f11e" title="parenthesized latin capital letter o">🄞</li>
+    <li class="symb" data-code="127263" code="1f11f" title="parenthesized latin capital letter p">🄟</li>
+    <li class="h">1f120</li>
+    <li class="symb" data-code="127264" code="1f120" title="parenthesized latin capital letter q">🄠</li>
+    <li class="symb" data-code="127265" code="1f121" title="parenthesized latin capital letter r">🄡</li>
+    <li class="symb" data-code="127266" code="1f122" title="parenthesized latin capital letter s">🄢</li>
+    <li class="symb" data-code="127267" code="1f123" title="parenthesized latin capital letter t">🄣</li>
+    <li class="symb" data-code="127268" code="1f124" title="parenthesized latin capital letter u">🄤</li>
+    <li class="symb" data-code="127269" code="1f125" title="parenthesized latin capital letter v">🄥</li>
+    <li class="symb" data-code="127270" code="1f126" title="parenthesized latin capital letter w">🄦</li>
+    <li class="symb" data-code="127271" code="1f127" title="parenthesized latin capital letter x">🄧</li>
+    <li class="symb" data-code="127272" code="1f128" title="parenthesized latin capital letter y">🄨</li>
+    <li class="symb" data-code="127273" code="1f129" title="parenthesized latin capital letter z">🄩</li>
+    <li class="symb" data-code="127274" code="1f12a" title="tortoise shell bracketed latin capital letter s">🄪</li>
+    <li class="symb" data-code="127275" code="1f12b" title="circled italic latin capital letter c">🄫</li>
+    <li class="symb" data-code="127276" code="1f12c" title="circled italic latin capital letter r">🄬</li>
+    <li class="symb" data-code="127277" code="1f12d" title="circled cd">🄭</li>
+    <li class="symb" data-code="127278" code="1f12e" title="circled wz">🄮</li>
+    <li class="symb" data-code="127279" code="1f12f" title="copyleft symbol">🄯</li>
+    <li class="h">1f130</li>
+    <li class="symb" data-code="127280" code="1f130" title="squared latin capital letter a">🄰</li>
+    <li class="symb" data-code="127281" code="1f131" title="squared latin capital letter b">🄱</li>
+    <li class="symb" data-code="127282" code="1f132" title="squared latin capital letter c">🄲</li>
+    <li class="symb" data-code="127283" code="1f133" title="squared latin capital letter d">🄳</li>
+    <li class="symb" data-code="127284" code="1f134" title="squared latin capital letter e">🄴</li>
+    <li class="symb" data-code="127285" code="1f135" title="squared latin capital letter f">🄵</li>
+    <li class="symb" data-code="127286" code="1f136" title="squared latin capital letter g">🄶</li>
+    <li class="symb" data-code="127287" code="1f137" title="squared latin capital letter h">🄷</li>
+    <li class="symb" data-code="127288" code="1f138" title="squared latin capital letter i">🄸</li>
+    <li class="symb" data-code="127289" code="1f139" title="squared latin capital letter j">🄹</li>
+    <li class="symb" data-code="127290" code="1f13a" title="squared latin capital letter k">🄺</li>
+    <li class="symb" data-code="127291" code="1f13b" title="squared latin capital letter l">🄻</li>
+    <li class="symb" data-code="127292" code="1f13c" title="squared latin capital letter m">🄼</li>
+    <li class="symb" data-code="127293" code="1f13d" title="squared latin capital letter n">🄽</li>
+    <li class="symb" data-code="127294" code="1f13e" title="squared latin capital letter o">🄾</li>
+    <li class="symb" data-code="127295" code="1f13f" title="squared latin capital letter p">🄿</li>
+    <li class="h">1f140</li>
+    <li class="symb" data-code="127296" code="1f140" title="squared latin capital letter q">🅀</li>
+    <li class="symb" data-code="127297" code="1f141" title="squared latin capital letter r">🅁</li>
+    <li class="symb" data-code="127298" code="1f142" title="squared latin capital letter s">🅂</li>
+    <li class="symb" data-code="127299" code="1f143" title="squared latin capital letter t">🅃</li>
+    <li class="symb" data-code="127300" code="1f144" title="squared latin capital letter u">🅄</li>
+    <li class="symb" data-code="127301" code="1f145" title="squared latin capital letter v">🅅</li>
+    <li class="symb" data-code="127302" code="1f146" title="squared latin capital letter w">🅆</li>
+    <li class="symb" data-code="127303" code="1f147" title="squared latin capital letter x">🅇</li>
+    <li class="symb" data-code="127304" code="1f148" title="squared latin capital letter y">🅈</li>
+    <li class="symb" data-code="127305" code="1f149" title="squared latin capital letter z">🅉</li>
+    <li class="symb" data-code="127306" code="1f14a" title="squared hv">🅊</li>
+    <li class="symb" data-code="127307" code="1f14b" title="squared mv">🅋</li>
+    <li class="symb" data-code="127308" code="1f14c" title="squared sd">🅌</li>
+    <li class="symb" data-code="127309" code="1f14d" title="squared ss">🅍</li>
+    <li class="symb" data-code="127310" code="1f14e" title="squared ppv">🅎</li>
+    <li class="symb" data-code="127311" code="1f14f" title="squared wc">🅏</li>
+    <li class="h">1f150</li>
+    <li class="symb" data-code="127312" code="1f150" title="negative circled latin capital letter a">🅐</li>
+    <li class="symb" data-code="127313" code="1f151" title="negative circled latin capital letter b">🅑</li>
+    <li class="symb" data-code="127314" code="1f152" title="negative circled latin capital letter c">🅒</li>
+    <li class="symb" data-code="127315" code="1f153" title="negative circled latin capital letter d">🅓</li>
+    <li class="symb" data-code="127316" code="1f154" title="negative circled latin capital letter e">🅔</li>
+    <li class="symb" data-code="127317" code="1f155" title="negative circled latin capital letter f">🅕</li>
+    <li class="symb" data-code="127318" code="1f156" title="negative circled latin capital letter g">🅖</li>
+    <li class="symb" data-code="127319" code="1f157" title="negative circled latin capital letter h">🅗</li>
+    <li class="symb" data-code="127320" code="1f158" title="negative circled latin capital letter i">🅘</li>
+    <li class="symb" data-code="127321" code="1f159" title="negative circled latin capital letter j">🅙</li>
+    <li class="symb" data-code="127322" code="1f15a" title="negative circled latin capital letter k">🅚</li>
+    <li class="symb" data-code="127323" code="1f15b" title="negative circled latin capital letter l">🅛</li>
+    <li class="symb" data-code="127324" code="1f15c" title="negative circled latin capital letter m">🅜</li>
+    <li class="symb" data-code="127325" code="1f15d" title="negative circled latin capital letter n">🅝</li>
+    <li class="symb" data-code="127326" code="1f15e" title="negative circled latin capital letter o">🅞</li>
+    <li class="symb" data-code="127327" code="1f15f" title="negative circled latin capital letter p">🅟</li>
+    <li class="h">1f160</li>
+    <li class="symb" data-code="127328" code="1f160" title="negative circled latin capital letter q">🅠</li>
+    <li class="symb" data-code="127329" code="1f161" title="negative circled latin capital letter r">🅡</li>
+    <li class="symb" data-code="127330" code="1f162" title="negative circled latin capital letter s">🅢</li>
+    <li class="symb" data-code="127331" code="1f163" title="negative circled latin capital letter t">🅣</li>
+    <li class="symb" data-code="127332" code="1f164" title="negative circled latin capital letter u">🅤</li>
+    <li class="symb" data-code="127333" code="1f165" title="negative circled latin capital letter v">🅥</li>
+    <li class="symb" data-code="127334" code="1f166" title="negative circled latin capital letter w">🅦</li>
+    <li class="symb" data-code="127335" code="1f167" title="negative circled latin capital letter x">🅧</li>
+    <li class="symb" data-code="127336" code="1f168" title="negative circled latin capital letter y">🅨</li>
+    <li class="symb" data-code="127337" code="1f169" title="negative circled latin capital letter z">🅩</li>
+    <li class="symb" data-code="127338" code="1f16a" title="raised mc sign">🅪</li>
+    <li class="symb" data-code="127339" code="1f16b" title="raised md sign">🅫</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f170</li>
+    <li class="symb" data-code="127344" code="1f170" title="negative squared latin capital letter a">🅰</li>
+    <li class="symb" data-code="127345" code="1f171" title="negative squared latin capital letter b">🅱</li>
+    <li class="symb" data-code="127346" code="1f172" title="negative squared latin capital letter c">🅲</li>
+    <li class="symb" data-code="127347" code="1f173" title="negative squared latin capital letter d">🅳</li>
+    <li class="symb" data-code="127348" code="1f174" title="negative squared latin capital letter e">🅴</li>
+    <li class="symb" data-code="127349" code="1f175" title="negative squared latin capital letter f">🅵</li>
+    <li class="symb" data-code="127350" code="1f176" title="negative squared latin capital letter g">🅶</li>
+    <li class="symb" data-code="127351" code="1f177" title="negative squared latin capital letter h">🅷</li>
+    <li class="symb" data-code="127352" code="1f178" title="negative squared latin capital letter i">🅸</li>
+    <li class="symb" data-code="127353" code="1f179" title="negative squared latin capital letter j">🅹</li>
+    <li class="symb" data-code="127354" code="1f17a" title="negative squared latin capital letter k">🅺</li>
+    <li class="symb" data-code="127355" code="1f17b" title="negative squared latin capital letter l">🅻</li>
+    <li class="symb" data-code="127356" code="1f17c" title="negative squared latin capital letter m">🅼</li>
+    <li class="symb" data-code="127357" code="1f17d" title="negative squared latin capital letter n">🅽</li>
+    <li class="symb" data-code="127358" code="1f17e" title="negative squared latin capital letter o">🅾</li>
+    <li class="symb" data-code="127359" code="1f17f" title="negative squared latin capital letter p">🅿</li>
+    <li class="h">1f180</li>
+    <li class="symb" data-code="127360" code="1f180" title="negative squared latin capital letter q">🆀</li>
+    <li class="symb" data-code="127361" code="1f181" title="negative squared latin capital letter r">🆁</li>
+    <li class="symb" data-code="127362" code="1f182" title="negative squared latin capital letter s">🆂</li>
+    <li class="symb" data-code="127363" code="1f183" title="negative squared latin capital letter t">🆃</li>
+    <li class="symb" data-code="127364" code="1f184" title="negative squared latin capital letter u">🆄</li>
+    <li class="symb" data-code="127365" code="1f185" title="negative squared latin capital letter v">🆅</li>
+    <li class="symb" data-code="127366" code="1f186" title="negative squared latin capital letter w">🆆</li>
+    <li class="symb" data-code="127367" code="1f187" title="negative squared latin capital letter x">🆇</li>
+    <li class="symb" data-code="127368" code="1f188" title="negative squared latin capital letter y">🆈</li>
+    <li class="symb" data-code="127369" code="1f189" title="negative squared latin capital letter z">🆉</li>
+    <li class="symb" data-code="127370" code="1f18a" title="crossed negative squared latin capital letter p">🆊</li>
+    <li class="symb" data-code="127371" code="1f18b" title="negative squared ic">🆋</li>
+    <li class="symb" data-code="127372" code="1f18c" title="negative squared pa">🆌</li>
+    <li class="symb" data-code="127373" code="1f18d" title="negative squared sa">🆍</li>
+    <li class="symb" data-code="127374" code="1f18e" title="negative squared ab">🆎</li>
+    <li class="symb" data-code="127375" code="1f18f" title="negative squared wc">🆏</li>
+    <li class="h">1f190</li>
+    <li class="symb" data-code="127376" code="1f190" title="square dj">🆐</li>
+    <li class="symb" data-code="127377" code="1f191" title="squared cl">🆑</li>
+    <li class="symb" data-code="127378" code="1f192" title="squared cool">🆒</li>
+    <li class="symb" data-code="127379" code="1f193" title="squared free">🆓</li>
+    <li class="symb" data-code="127380" code="1f194" title="squared id">🆔</li>
+    <li class="symb" data-code="127381" code="1f195" title="squared new">🆕</li>
+    <li class="symb" data-code="127382" code="1f196" title="squared ng">🆖</li>
+    <li class="symb" data-code="127383" code="1f197" title="squared ok">🆗</li>
+    <li class="symb" data-code="127384" code="1f198" title="squared sos">🆘</li>
+    <li class="symb" data-code="127385" code="1f199" title="squared up with exclamation mark">🆙</li>
+    <li class="symb" data-code="127386" code="1f19a" title="squared vs">🆚</li>
+    <li class="symb" data-code="127387" code="1f19b" title="squared three d">🆛</li>
+    <li class="symb" data-code="127388" code="1f19c" title="squared second screen">🆜</li>
+    <li class="symb" data-code="127389" code="1f19d" title="squared two k">🆝</li>
+    <li class="symb" data-code="127390" code="1f19e" title="squared four k">🆞</li>
+    <li class="symb" data-code="127391" code="1f19f" title="squared eight k">🆟</li>
+    <li class="h">1f1a0</li>
+    <li class="symb" data-code="127392" code="1f1a0" title="squared five point one">🆠</li>
+    <li class="symb" data-code="127393" code="1f1a1" title="squared seven point one">🆡</li>
+    <li class="symb" data-code="127394" code="1f1a2" title="squared twenty-two point two">🆢</li>
+    <li class="symb" data-code="127395" code="1f1a3" title="squared sixty p">🆣</li>
+    <li class="symb" data-code="127396" code="1f1a4" title="squared one hundred twenty p">🆤</li>
+    <li class="symb" data-code="127397" code="1f1a5" title="squared latin small letter d">🆥</li>
+    <li class="symb" data-code="127398" code="1f1a6" title="squared hc">🆦</li>
+    <li class="symb" data-code="127399" code="1f1a7" title="squared hdr">🆧</li>
+    <li class="symb" data-code="127400" code="1f1a8" title="squared hi-res">🆨</li>
+    <li class="symb" data-code="127401" code="1f1a9" title="squared lossless">🆩</li>
+    <li class="symb" data-code="127402" code="1f1aa" title="squared shv">🆪</li>
+    <li class="symb" data-code="127403" code="1f1ab" title="squared uhd">🆫</li>
+    <li class="symb" data-code="127404" code="1f1ac" title="squared vod">🆬</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f1b0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f1c0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f1d0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f1e0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="127462" code="1f1e6" title="regional indicator symbol letter a">🇦</li>
+    <li class="symb" data-code="127463" code="1f1e7" title="regional indicator symbol letter b">🇧</li>
+    <li class="symb" data-code="127464" code="1f1e8" title="regional indicator symbol letter c">🇨</li>
+    <li class="symb" data-code="127465" code="1f1e9" title="regional indicator symbol letter d">🇩</li>
+    <li class="symb" data-code="127466" code="1f1ea" title="regional indicator symbol letter e">🇪</li>
+    <li class="symb" data-code="127467" code="1f1eb" title="regional indicator symbol letter f">🇫</li>
+    <li class="symb" data-code="127468" code="1f1ec" title="regional indicator symbol letter g">🇬</li>
+    <li class="symb" data-code="127469" code="1f1ed" title="regional indicator symbol letter h">🇭</li>
+    <li class="symb" data-code="127470" code="1f1ee" title="regional indicator symbol letter i">🇮</li>
+    <li class="symb" data-code="127471" code="1f1ef" title="regional indicator symbol letter j">🇯</li>
+    <li class="h">1f1f0</li>
+    <li class="symb" data-code="127472" code="1f1f0" title="regional indicator symbol letter k">🇰</li>
+    <li class="symb" data-code="127473" code="1f1f1" title="regional indicator symbol letter l">🇱</li>
+    <li class="symb" data-code="127474" code="1f1f2" title="regional indicator symbol letter m">🇲</li>
+    <li class="symb" data-code="127475" code="1f1f3" title="regional indicator symbol letter n">🇳</li>
+    <li class="symb" data-code="127476" code="1f1f4" title="regional indicator symbol letter o">🇴</li>
+    <li class="symb" data-code="127477" code="1f1f5" title="regional indicator symbol letter p">🇵</li>
+    <li class="symb" data-code="127478" code="1f1f6" title="regional indicator symbol letter q">🇶</li>
+    <li class="symb" data-code="127479" code="1f1f7" title="regional indicator symbol letter r">🇷</li>
+    <li class="symb" data-code="127480" code="1f1f8" title="regional indicator symbol letter s">🇸</li>
+    <li class="symb" data-code="127481" code="1f1f9" title="regional indicator symbol letter t">🇹</li>
+    <li class="symb" data-code="127482" code="1f1fa" title="regional indicator symbol letter u">🇺</li>
+    <li class="symb" data-code="127483" code="1f1fb" title="regional indicator symbol letter v">🇻</li>
+    <li class="symb" data-code="127484" code="1f1fc" title="regional indicator symbol letter w">🇼</li>
+    <li class="symb" data-code="127485" code="1f1fd" title="regional indicator symbol letter x">🇽</li>
+    <li class="symb" data-code="127486" code="1f1fe" title="regional indicator symbol letter y">🇾</li>
+    <li class="symb" data-code="127487" code="1f1ff" title="regional indicator symbol letter z">🇿</li>
+  </ul>
+</root>

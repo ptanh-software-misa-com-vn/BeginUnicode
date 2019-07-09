@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1d800</li>
+    <li class="symb" data-code="120832" code="1d800" title="signwriting hand-fist index">𝠀</li>
+    <li class="symb" data-code="120833" code="1d801" title="signwriting hand-circle index">𝠁</li>
+    <li class="symb" data-code="120834" code="1d802" title="signwriting hand-cup index">𝠂</li>
+    <li class="symb" data-code="120835" code="1d803" title="signwriting hand-oval index">𝠃</li>
+    <li class="symb" data-code="120836" code="1d804" title="signwriting hand-hinge index">𝠄</li>
+    <li class="symb" data-code="120837" code="1d805" title="signwriting hand-angle index">𝠅</li>
+    <li class="symb" data-code="120838" code="1d806" title="signwriting hand-fist index bent">𝠆</li>
+    <li class="symb" data-code="120839" code="1d807" title="signwriting hand-circle index bent">𝠇</li>
+    <li class="symb" data-code="120840" code="1d808" title="signwriting hand-fist thumb under index bent">𝠈</li>
+    <li class="symb" data-code="120841" code="1d809" title="signwriting hand-fist index raised knuckle">𝠉</li>
+    <li class="symb" data-code="120842" code="1d80a" title="signwriting hand-fist index cupped">𝠊</li>
+    <li class="symb" data-code="120843" code="1d80b" title="signwriting hand-fist index hinged">𝠋</li>
+    <li class="symb" data-code="120844" code="1d80c" title="signwriting hand-fist index hinged low">𝠌</li>
+    <li class="symb" data-code="120845" code="1d80d" title="signwriting hand-circle index hinge">𝠍</li>
+    <li class="symb" data-code="120846" code="1d80e" title="signwriting hand-fist index middle">𝠎</li>
+    <li class="symb" data-code="120847" code="1d80f" title="signwriting hand-circle index middle">𝠏</li>
+    <li class="h">1d810</li>
+    <li class="symb" data-code="120848" code="1d810" title="signwriting hand-fist index middle bent">𝠐</li>
+    <li class="symb" data-code="120849" code="1d811" title="signwriting hand-fist index middle raised knuckles">𝠑</li>
+    <li class="symb" data-code="120850" code="1d812" title="signwriting hand-fist index middle hinged">𝠒</li>
+    <li class="symb" data-code="120851" code="1d813" title="signwriting hand-fist index up middle hinged">𝠓</li>
+    <li class="symb" data-code="120852" code="1d814" title="signwriting hand-fist index hinged middle up">𝠔</li>
+    <li class="symb" data-code="120853" code="1d815" title="signwriting hand-fist index middle conjoined">𝠕</li>
+    <li class="symb" data-code="120854" code="1d816" title="signwriting hand-fist index middle conjoined index bent">𝠖</li>
+    <li class="symb" data-code="120855" code="1d817" title="signwriting hand-fist index middle conjoined middle bent">𝠗</li>
+    <li class="symb" data-code="120856" code="1d818" title="signwriting hand-fist index middle conjoined cupped">𝠘</li>
+    <li class="symb" data-code="120857" code="1d819" title="signwriting hand-fist index middle conjoined hinged">𝠙</li>
+    <li class="symb" data-code="120858" code="1d81a" title="signwriting hand-fist index middle crossed">𝠚</li>
+    <li class="symb" data-code="120859" code="1d81b" title="signwriting hand-circle index middle crossed">𝠛</li>
+    <li class="symb" data-code="120860" code="1d81c" title="signwriting hand-fist middle bent over index">𝠜</li>
+    <li class="symb" data-code="120861" code="1d81d" title="signwriting hand-fist index bent over middle">𝠝</li>
+    <li class="symb" data-code="120862" code="1d81e" title="signwriting hand-fist index middle thumb">𝠞</li>
+    <li class="symb" data-code="120863" code="1d81f" title="signwriting hand-circle index middle thumb">𝠟</li>
+    <li class="h">1d820</li>
+    <li class="symb" data-code="120864" code="1d820" title="signwriting hand-fist index middle straight thumb bent">𝠠</li>
+    <li class="symb" data-code="120865" code="1d821" title="signwriting hand-fist index middle bent thumb straight">𝠡</li>
+    <li class="symb" data-code="120866" code="1d822" title="signwriting hand-fist index middle thumb bent">𝠢</li>
+    <li class="symb" data-code="120867" code="1d823" title="signwriting hand-fist index middle hinged spread thumb side">𝠣</li>
+    <li class="symb" data-code="120868" code="1d824" title="signwriting hand-fist index up middle hinged thumb side">𝠤</li>
+    <li class="symb" data-code="120869" code="1d825" title="signwriting hand-fist index up middle hinged thumb conjoined">𝠥</li>
+    <li class="symb" data-code="120870" code="1d826" title="signwriting hand-fist index hinged middle up thumb side">𝠦</li>
+    <li class="symb" data-code="120871" code="1d827" title="signwriting hand-fist index middle up spread thumb forward">𝠧</li>
+    <li class="symb" data-code="120872" code="1d828" title="signwriting hand-fist index middle thumb cupped">𝠨</li>
+    <li class="symb" data-code="120873" code="1d829" title="signwriting hand-fist index middle thumb circled">𝠩</li>
+    <li class="symb" data-code="120874" code="1d82a" title="signwriting hand-fist index middle thumb hooked">𝠪</li>
+    <li class="symb" data-code="120875" code="1d82b" title="signwriting hand-fist index middle thumb hinged">𝠫</li>
+    <li class="symb" data-code="120876" code="1d82c" title="signwriting hand-fist thumb between index middle straight">𝠬</li>
+    <li class="symb" data-code="120877" code="1d82d" title="signwriting hand-fist index middle conjoined thumb side">𝠭</li>
+    <li class="symb" data-code="120878" code="1d82e" title="signwriting hand-fist index middle conjoined thumb side conjoined">𝠮</li>
+    <li class="symb" data-code="120879" code="1d82f" title="signwriting hand-fist index middle conjoined thumb side bent">𝠯</li>
+    <li class="h">1d830</li>
+    <li class="symb" data-code="120880" code="1d830" title="signwriting hand-fist middle thumb hooked index up">𝠰</li>
+    <li class="symb" data-code="120881" code="1d831" title="signwriting hand-fist index thumb hooked middle up">𝠱</li>
+    <li class="symb" data-code="120882" code="1d832" title="signwriting hand-fist index middle conjoined hinged thumb side">𝠲</li>
+    <li class="symb" data-code="120883" code="1d833" title="signwriting hand-fist index middle crossed thumb side">𝠳</li>
+    <li class="symb" data-code="120884" code="1d834" title="signwriting hand-fist index middle conjoined thumb forward">𝠴</li>
+    <li class="symb" data-code="120885" code="1d835" title="signwriting hand-fist index middle conjoined cupped thumb forward">𝠵</li>
+    <li class="symb" data-code="120886" code="1d836" title="signwriting hand-fist middle thumb cupped index up">𝠶</li>
+    <li class="symb" data-code="120887" code="1d837" title="signwriting hand-fist index thumb cupped middle up">𝠷</li>
+    <li class="symb" data-code="120888" code="1d838" title="signwriting hand-fist middle thumb circled index up">𝠸</li>
+    <li class="symb" data-code="120889" code="1d839" title="signwriting hand-fist middle thumb circled index hinged">𝠹</li>
+    <li class="symb" data-code="120890" code="1d83a" title="signwriting hand-fist index thumb angled out middle up">𝠺</li>
+    <li class="symb" data-code="120891" code="1d83b" title="signwriting hand-fist index thumb angled in middle up">𝠻</li>
+    <li class="symb" data-code="120892" code="1d83c" title="signwriting hand-fist index thumb circled middle up">𝠼</li>
+    <li class="symb" data-code="120893" code="1d83d" title="signwriting hand-fist index middle thumb conjoined hinged">𝠽</li>
+    <li class="symb" data-code="120894" code="1d83e" title="signwriting hand-fist index middle thumb angled out">𝠾</li>
+    <li class="symb" data-code="120895" code="1d83f" title="signwriting hand-fist index middle thumb angled">𝠿</li>
+    <li class="h">1d840</li>
+    <li class="symb" data-code="120896" code="1d840" title="signwriting hand-fist middle thumb angled out index up">𝡀</li>
+    <li class="symb" data-code="120897" code="1d841" title="signwriting hand-fist middle thumb angled out index crossed">𝡁</li>
+    <li class="symb" data-code="120898" code="1d842" title="signwriting hand-fist middle thumb angled index up">𝡂</li>
+    <li class="symb" data-code="120899" code="1d843" title="signwriting hand-fist index thumb hooked middle hinged">𝡃</li>
+    <li class="symb" data-code="120900" code="1d844" title="signwriting hand-flat four fingers">𝡄</li>
+    <li class="symb" data-code="120901" code="1d845" title="signwriting hand-flat four fingers bent">𝡅</li>
+    <li class="symb" data-code="120902" code="1d846" title="signwriting hand-flat four fingers hinged">𝡆</li>
+    <li class="symb" data-code="120903" code="1d847" title="signwriting hand-flat four fingers conjoined">𝡇</li>
+    <li class="symb" data-code="120904" code="1d848" title="signwriting hand-flat four fingers conjoined split">𝡈</li>
+    <li class="symb" data-code="120905" code="1d849" title="signwriting hand-claw four fingers conjoined">𝡉</li>
+    <li class="symb" data-code="120906" code="1d84a" title="signwriting hand-fist four fingers conjoined bent">𝡊</li>
+    <li class="symb" data-code="120907" code="1d84b" title="signwriting hand-hinge four fingers conjoined">𝡋</li>
+    <li class="symb" data-code="120908" code="1d84c" title="signwriting hand-flat five fingers spread">𝡌</li>
+    <li class="symb" data-code="120909" code="1d84d" title="signwriting hand-flat heel five fingers spread">𝡍</li>
+    <li class="symb" data-code="120910" code="1d84e" title="signwriting hand-flat five fingers spread four bent">𝡎</li>
+    <li class="symb" data-code="120911" code="1d84f" title="signwriting hand-flat heel five fingers spread four bent">𝡏</li>
+    <li class="h">1d850</li>
+    <li class="symb" data-code="120912" code="1d850" title="signwriting hand-flat five fingers spread bent">𝡐</li>
+    <li class="symb" data-code="120913" code="1d851" title="signwriting hand-flat heel five fingers spread bent">𝡑</li>
+    <li class="symb" data-code="120914" code="1d852" title="signwriting hand-flat five fingers spread thumb forward">𝡒</li>
+    <li class="symb" data-code="120915" code="1d853" title="signwriting hand-cup five fingers spread">𝡓</li>
+    <li class="symb" data-code="120916" code="1d854" title="signwriting hand-cup five fingers spread open">𝡔</li>
+    <li class="symb" data-code="120917" code="1d855" title="signwriting hand-hinge five fingers spread open">𝡕</li>
+    <li class="symb" data-code="120918" code="1d856" title="signwriting hand-oval five fingers spread">𝡖</li>
+    <li class="symb" data-code="120919" code="1d857" title="signwriting hand-flat five fingers spread hinged">𝡗</li>
+    <li class="symb" data-code="120920" code="1d858" title="signwriting hand-flat five fingers spread hinged thumb side">𝡘</li>
+    <li class="symb" data-code="120921" code="1d859" title="signwriting hand-flat five fingers spread hinged no thumb">𝡙</li>
+    <li class="symb" data-code="120922" code="1d85a" title="signwriting hand-flat">𝡚</li>
+    <li class="symb" data-code="120923" code="1d85b" title="signwriting hand-flat between palm facings">𝡛</li>
+    <li class="symb" data-code="120924" code="1d85c" title="signwriting hand-flat heel">𝡜</li>
+    <li class="symb" data-code="120925" code="1d85d" title="signwriting hand-flat thumb side">𝡝</li>
+    <li class="symb" data-code="120926" code="1d85e" title="signwriting hand-flat heel thumb side">𝡞</li>
+    <li class="symb" data-code="120927" code="1d85f" title="signwriting hand-flat thumb bent">𝡟</li>
+    <li class="h">1d860</li>
+    <li class="symb" data-code="120928" code="1d860" title="signwriting hand-flat thumb forward">𝡠</li>
+    <li class="symb" data-code="120929" code="1d861" title="signwriting hand-flat split index thumb side">𝡡</li>
+    <li class="symb" data-code="120930" code="1d862" title="signwriting hand-flat split centre">𝡢</li>
+    <li class="symb" data-code="120931" code="1d863" title="signwriting hand-flat split centre thumb side">𝡣</li>
+    <li class="symb" data-code="120932" code="1d864" title="signwriting hand-flat split centre thumb side bent">𝡤</li>
+    <li class="symb" data-code="120933" code="1d865" title="signwriting hand-flat split little">𝡥</li>
+    <li class="symb" data-code="120934" code="1d866" title="signwriting hand-claw">𝡦</li>
+    <li class="symb" data-code="120935" code="1d867" title="signwriting hand-claw thumb side">𝡧</li>
+    <li class="symb" data-code="120936" code="1d868" title="signwriting hand-claw no thumb">𝡨</li>
+    <li class="symb" data-code="120937" code="1d869" title="signwriting hand-claw thumb forward">𝡩</li>
+    <li class="symb" data-code="120938" code="1d86a" title="signwriting hand-hook curlicue">𝡪</li>
+    <li class="symb" data-code="120939" code="1d86b" title="signwriting hand-hook">𝡫</li>
+    <li class="symb" data-code="120940" code="1d86c" title="signwriting hand-cup open">𝡬</li>
+    <li class="symb" data-code="120941" code="1d86d" title="signwriting hand-cup">𝡭</li>
+    <li class="symb" data-code="120942" code="1d86e" title="signwriting hand-cup open thumb side">𝡮</li>
+    <li class="symb" data-code="120943" code="1d86f" title="signwriting hand-cup thumb side">𝡯</li>
+    <li class="h">1d870</li>
+    <li class="symb" data-code="120944" code="1d870" title="signwriting hand-cup open no thumb">𝡰</li>
+    <li class="symb" data-code="120945" code="1d871" title="signwriting hand-cup no thumb">𝡱</li>
+    <li class="symb" data-code="120946" code="1d872" title="signwriting hand-cup open thumb forward">𝡲</li>
+    <li class="symb" data-code="120947" code="1d873" title="signwriting hand-cup thumb forward">𝡳</li>
+    <li class="symb" data-code="120948" code="1d874" title="signwriting hand-curlicue open">𝡴</li>
+    <li class="symb" data-code="120949" code="1d875" title="signwriting hand-curlicue">𝡵</li>
+    <li class="symb" data-code="120950" code="1d876" title="signwriting hand-circle">𝡶</li>
+    <li class="symb" data-code="120951" code="1d877" title="signwriting hand-oval">𝡷</li>
+    <li class="symb" data-code="120952" code="1d878" title="signwriting hand-oval thumb side">𝡸</li>
+    <li class="symb" data-code="120953" code="1d879" title="signwriting hand-oval no thumb">𝡹</li>
+    <li class="symb" data-code="120954" code="1d87a" title="signwriting hand-oval thumb forward">𝡺</li>
+    <li class="symb" data-code="120955" code="1d87b" title="signwriting hand-hinge open">𝡻</li>
+    <li class="symb" data-code="120956" code="1d87c" title="signwriting hand-hinge open thumb forward">𝡼</li>
+    <li class="symb" data-code="120957" code="1d87d" title="signwriting hand-hinge">𝡽</li>
+    <li class="symb" data-code="120958" code="1d87e" title="signwriting hand-hinge small">𝡾</li>
+    <li class="symb" data-code="120959" code="1d87f" title="signwriting hand-hinge open thumb side">𝡿</li>
+    <li class="h">1d880</li>
+    <li class="symb" data-code="120960" code="1d880" title="signwriting hand-hinge thumb side">𝢀</li>
+    <li class="symb" data-code="120961" code="1d881" title="signwriting hand-hinge open no thumb">𝢁</li>
+    <li class="symb" data-code="120962" code="1d882" title="signwriting hand-hinge no thumb">𝢂</li>
+    <li class="symb" data-code="120963" code="1d883" title="signwriting hand-hinge thumb side touching index">𝢃</li>
+    <li class="symb" data-code="120964" code="1d884" title="signwriting hand-hinge thumb between middle ring">𝢄</li>
+    <li class="symb" data-code="120965" code="1d885" title="signwriting hand-angle">𝢅</li>
+    <li class="symb" data-code="120966" code="1d886" title="signwriting hand-fist index middle ring">𝢆</li>
+    <li class="symb" data-code="120967" code="1d887" title="signwriting hand-circle index middle ring">𝢇</li>
+    <li class="symb" data-code="120968" code="1d888" title="signwriting hand-hinge index middle ring">𝢈</li>
+    <li class="symb" data-code="120969" code="1d889" title="signwriting hand-angle index middle ring">𝢉</li>
+    <li class="symb" data-code="120970" code="1d88a" title="signwriting hand-hinge little">𝢊</li>
+    <li class="symb" data-code="120971" code="1d88b" title="signwriting hand-fist index middle ring bent">𝢋</li>
+    <li class="symb" data-code="120972" code="1d88c" title="signwriting hand-fist index middle ring conjoined">𝢌</li>
+    <li class="symb" data-code="120973" code="1d88d" title="signwriting hand-hinge index middle ring conjoined">𝢍</li>
+    <li class="symb" data-code="120974" code="1d88e" title="signwriting hand-fist little down">𝢎</li>
+    <li class="symb" data-code="120975" code="1d88f" title="signwriting hand-fist little down ripple straight">𝢏</li>
+    <li class="h">1d890</li>
+    <li class="symb" data-code="120976" code="1d890" title="signwriting hand-fist little down ripple curved">𝢐</li>
+    <li class="symb" data-code="120977" code="1d891" title="signwriting hand-fist little down others circled">𝢑</li>
+    <li class="symb" data-code="120978" code="1d892" title="signwriting hand-fist little up">𝢒</li>
+    <li class="symb" data-code="120979" code="1d893" title="signwriting hand-fist thumb under little up">𝢓</li>
+    <li class="symb" data-code="120980" code="1d894" title="signwriting hand-circle little up">𝢔</li>
+    <li class="symb" data-code="120981" code="1d895" title="signwriting hand-oval little up">𝢕</li>
+    <li class="symb" data-code="120982" code="1d896" title="signwriting hand-angle little up">𝢖</li>
+    <li class="symb" data-code="120983" code="1d897" title="signwriting hand-fist little raised knuckle">𝢗</li>
+    <li class="symb" data-code="120984" code="1d898" title="signwriting hand-fist little bent">𝢘</li>
+    <li class="symb" data-code="120985" code="1d899" title="signwriting hand-fist little touches thumb">𝢙</li>
+    <li class="symb" data-code="120986" code="1d89a" title="signwriting hand-fist little thumb">𝢚</li>
+    <li class="symb" data-code="120987" code="1d89b" title="signwriting hand-hinge little thumb">𝢛</li>
+    <li class="symb" data-code="120988" code="1d89c" title="signwriting hand-fist little index thumb">𝢜</li>
+    <li class="symb" data-code="120989" code="1d89d" title="signwriting hand-hinge little index thumb">𝢝</li>
+    <li class="symb" data-code="120990" code="1d89e" title="signwriting hand-angle little index thumb index thumb out">𝢞</li>
+    <li class="symb" data-code="120991" code="1d89f" title="signwriting hand-angle little index thumb index thumb">𝢟</li>
+    <li class="h">1d8a0</li>
+    <li class="symb" data-code="120992" code="1d8a0" title="signwriting hand-fist little index">𝢠</li>
+    <li class="symb" data-code="120993" code="1d8a1" title="signwriting hand-circle little index">𝢡</li>
+    <li class="symb" data-code="120994" code="1d8a2" title="signwriting hand-hinge little index">𝢢</li>
+    <li class="symb" data-code="120995" code="1d8a3" title="signwriting hand-angle little index">𝢣</li>
+    <li class="symb" data-code="120996" code="1d8a4" title="signwriting hand-fist index middle little">𝢤</li>
+    <li class="symb" data-code="120997" code="1d8a5" title="signwriting hand-circle index middle little">𝢥</li>
+    <li class="symb" data-code="120998" code="1d8a6" title="signwriting hand-hinge index middle little">𝢦</li>
+    <li class="symb" data-code="120999" code="1d8a7" title="signwriting hand-hinge ring">𝢧</li>
+    <li class="symb" data-code="121000" code="1d8a8" title="signwriting hand-angle index middle little">𝢨</li>
+    <li class="symb" data-code="121001" code="1d8a9" title="signwriting hand-fist index middle cross little">𝢩</li>
+    <li class="symb" data-code="121002" code="1d8aa" title="signwriting hand-circle index middle cross little">𝢪</li>
+    <li class="symb" data-code="121003" code="1d8ab" title="signwriting hand-fist ring down">𝢫</li>
+    <li class="symb" data-code="121004" code="1d8ac" title="signwriting hand-hinge ring down index thumb hook middle">𝢬</li>
+    <li class="symb" data-code="121005" code="1d8ad" title="signwriting hand-angle ring down middle thumb index cross">𝢭</li>
+    <li class="symb" data-code="121006" code="1d8ae" title="signwriting hand-fist ring up">𝢮</li>
+    <li class="symb" data-code="121007" code="1d8af" title="signwriting hand-fist ring raised knuckle">𝢯</li>
+    <li class="h">1d8b0</li>
+    <li class="symb" data-code="121008" code="1d8b0" title="signwriting hand-fist ring little">𝢰</li>
+    <li class="symb" data-code="121009" code="1d8b1" title="signwriting hand-circle ring little">𝢱</li>
+    <li class="symb" data-code="121010" code="1d8b2" title="signwriting hand-oval ring little">𝢲</li>
+    <li class="symb" data-code="121011" code="1d8b3" title="signwriting hand-angle ring little">𝢳</li>
+    <li class="symb" data-code="121012" code="1d8b4" title="signwriting hand-fist ring middle">𝢴</li>
+    <li class="symb" data-code="121013" code="1d8b5" title="signwriting hand-fist ring middle conjoined">𝢵</li>
+    <li class="symb" data-code="121014" code="1d8b6" title="signwriting hand-fist ring middle raised knuckles">𝢶</li>
+    <li class="symb" data-code="121015" code="1d8b7" title="signwriting hand-fist ring index">𝢷</li>
+    <li class="symb" data-code="121016" code="1d8b8" title="signwriting hand-fist ring thumb">𝢸</li>
+    <li class="symb" data-code="121017" code="1d8b9" title="signwriting hand-hook ring thumb">𝢹</li>
+    <li class="symb" data-code="121018" code="1d8ba" title="signwriting hand-fist index ring little">𝢺</li>
+    <li class="symb" data-code="121019" code="1d8bb" title="signwriting hand-circle index ring little">𝢻</li>
+    <li class="symb" data-code="121020" code="1d8bc" title="signwriting hand-curlicue index ring little on">𝢼</li>
+    <li class="symb" data-code="121021" code="1d8bd" title="signwriting hand-hook index ring little out">𝢽</li>
+    <li class="symb" data-code="121022" code="1d8be" title="signwriting hand-hook index ring little in">𝢾</li>
+    <li class="symb" data-code="121023" code="1d8bf" title="signwriting hand-hook index ring little under">𝢿</li>
+    <li class="h">1d8c0</li>
+    <li class="symb" data-code="121024" code="1d8c0" title="signwriting hand-cup index ring little">𝣀</li>
+    <li class="symb" data-code="121025" code="1d8c1" title="signwriting hand-hinge index ring little">𝣁</li>
+    <li class="symb" data-code="121026" code="1d8c2" title="signwriting hand-angle index ring little out">𝣂</li>
+    <li class="symb" data-code="121027" code="1d8c3" title="signwriting hand-angle index ring little">𝣃</li>
+    <li class="symb" data-code="121028" code="1d8c4" title="signwriting hand-fist middle down">𝣄</li>
+    <li class="symb" data-code="121029" code="1d8c5" title="signwriting hand-hinge middle">𝣅</li>
+    <li class="symb" data-code="121030" code="1d8c6" title="signwriting hand-fist middle up">𝣆</li>
+    <li class="symb" data-code="121031" code="1d8c7" title="signwriting hand-circle middle up">𝣇</li>
+    <li class="symb" data-code="121032" code="1d8c8" title="signwriting hand-fist middle raised knuckle">𝣈</li>
+    <li class="symb" data-code="121033" code="1d8c9" title="signwriting hand-fist middle up thumb side">𝣉</li>
+    <li class="symb" data-code="121034" code="1d8ca" title="signwriting hand-hook middle thumb">𝣊</li>
+    <li class="symb" data-code="121035" code="1d8cb" title="signwriting hand-fist middle thumb little">𝣋</li>
+    <li class="symb" data-code="121036" code="1d8cc" title="signwriting hand-fist middle little">𝣌</li>
+    <li class="symb" data-code="121037" code="1d8cd" title="signwriting hand-fist middle ring little">𝣍</li>
+    <li class="symb" data-code="121038" code="1d8ce" title="signwriting hand-circle middle ring little">𝣎</li>
+    <li class="symb" data-code="121039" code="1d8cf" title="signwriting hand-curlicue middle ring little on">𝣏</li>
+    <li class="h">1d8d0</li>
+    <li class="symb" data-code="121040" code="1d8d0" title="signwriting hand-cup middle ring little">𝣐</li>
+    <li class="symb" data-code="121041" code="1d8d1" title="signwriting hand-hinge middle ring little">𝣑</li>
+    <li class="symb" data-code="121042" code="1d8d2" title="signwriting hand-angle middle ring little out">𝣒</li>
+    <li class="symb" data-code="121043" code="1d8d3" title="signwriting hand-angle middle ring little in">𝣓</li>
+    <li class="symb" data-code="121044" code="1d8d4" title="signwriting hand-angle middle ring little">𝣔</li>
+    <li class="symb" data-code="121045" code="1d8d5" title="signwriting hand-circle middle ring little bent">𝣕</li>
+    <li class="symb" data-code="121046" code="1d8d6" title="signwriting hand-claw middle ring little conjoined">𝣖</li>
+    <li class="symb" data-code="121047" code="1d8d7" title="signwriting hand-claw middle ring little conjoined side">𝣗</li>
+    <li class="symb" data-code="121048" code="1d8d8" title="signwriting hand-hook middle ring little conjoined out">𝣘</li>
+    <li class="symb" data-code="121049" code="1d8d9" title="signwriting hand-hook middle ring little conjoined in">𝣙</li>
+    <li class="symb" data-code="121050" code="1d8da" title="signwriting hand-hook middle ring little conjoined">𝣚</li>
+    <li class="symb" data-code="121051" code="1d8db" title="signwriting hand-hinge index hinged">𝣛</li>
+    <li class="symb" data-code="121052" code="1d8dc" title="signwriting hand-fist index thumb side">𝣜</li>
+    <li class="symb" data-code="121053" code="1d8dd" title="signwriting hand-hinge index thumb side">𝣝</li>
+    <li class="symb" data-code="121054" code="1d8de" title="signwriting hand-fist index thumb side thumb diagonal">𝣞</li>
+    <li class="symb" data-code="121055" code="1d8df" title="signwriting hand-fist index thumb side thumb conjoined">𝣟</li>
+    <li class="h">1d8e0</li>
+    <li class="symb" data-code="121056" code="1d8e0" title="signwriting hand-fist index thumb side thumb bent">𝣠</li>
+    <li class="symb" data-code="121057" code="1d8e1" title="signwriting hand-fist index thumb side index bent">𝣡</li>
+    <li class="symb" data-code="121058" code="1d8e2" title="signwriting hand-fist index thumb side both bent">𝣢</li>
+    <li class="symb" data-code="121059" code="1d8e3" title="signwriting hand-fist index thumb side index hinge">𝣣</li>
+    <li class="symb" data-code="121060" code="1d8e4" title="signwriting hand-fist index thumb forward index straight">𝣤</li>
+    <li class="symb" data-code="121061" code="1d8e5" title="signwriting hand-fist index thumb forward index bent">𝣥</li>
+    <li class="symb" data-code="121062" code="1d8e6" title="signwriting hand-fist index thumb hook">𝣦</li>
+    <li class="symb" data-code="121063" code="1d8e7" title="signwriting hand-fist index thumb curlicue">𝣧</li>
+    <li class="symb" data-code="121064" code="1d8e8" title="signwriting hand-fist index thumb curve thumb inside">𝣨</li>
+    <li class="symb" data-code="121065" code="1d8e9" title="signwriting hand-claw index thumb curve thumb inside">𝣩</li>
+    <li class="symb" data-code="121066" code="1d8ea" title="signwriting hand-fist index thumb curve thumb under">𝣪</li>
+    <li class="symb" data-code="121067" code="1d8eb" title="signwriting hand-fist index thumb circle">𝣫</li>
+    <li class="symb" data-code="121068" code="1d8ec" title="signwriting hand-cup index thumb">𝣬</li>
+    <li class="symb" data-code="121069" code="1d8ed" title="signwriting hand-cup index thumb open">𝣭</li>
+    <li class="symb" data-code="121070" code="1d8ee" title="signwriting hand-hinge index thumb open">𝣮</li>
+    <li class="symb" data-code="121071" code="1d8ef" title="signwriting hand-hinge index thumb large">𝣯</li>
+    <li class="h">1d8f0</li>
+    <li class="symb" data-code="121072" code="1d8f0" title="signwriting hand-hinge index thumb">𝣰</li>
+    <li class="symb" data-code="121073" code="1d8f1" title="signwriting hand-hinge index thumb small">𝣱</li>
+    <li class="symb" data-code="121074" code="1d8f2" title="signwriting hand-angle index thumb out">𝣲</li>
+    <li class="symb" data-code="121075" code="1d8f3" title="signwriting hand-angle index thumb in">𝣳</li>
+    <li class="symb" data-code="121076" code="1d8f4" title="signwriting hand-angle index thumb">𝣴</li>
+    <li class="symb" data-code="121077" code="1d8f5" title="signwriting hand-fist thumb">𝣵</li>
+    <li class="symb" data-code="121078" code="1d8f6" title="signwriting hand-fist thumb heel">𝣶</li>
+    <li class="symb" data-code="121079" code="1d8f7" title="signwriting hand-fist thumb side diagonal">𝣷</li>
+    <li class="symb" data-code="121080" code="1d8f8" title="signwriting hand-fist thumb side conjoined">𝣸</li>
+    <li class="symb" data-code="121081" code="1d8f9" title="signwriting hand-fist thumb side bent">𝣹</li>
+    <li class="symb" data-code="121082" code="1d8fa" title="signwriting hand-fist thumb forward">𝣺</li>
+    <li class="symb" data-code="121083" code="1d8fb" title="signwriting hand-fist thumb between index middle">𝣻</li>
+    <li class="symb" data-code="121084" code="1d8fc" title="signwriting hand-fist thumb between middle ring">𝣼</li>
+    <li class="symb" data-code="121085" code="1d8fd" title="signwriting hand-fist thumb between ring little">𝣽</li>
+    <li class="symb" data-code="121086" code="1d8fe" title="signwriting hand-fist thumb under two fingers">𝣾</li>
+    <li class="symb" data-code="121087" code="1d8ff" title="signwriting hand-fist thumb over two fingers">𝣿</li>
+    <li class="h">1d900</li>
+    <li class="symb" data-code="121088" code="1d900" title="signwriting hand-fist thumb under three fingers">𝤀</li>
+    <li class="symb" data-code="121089" code="1d901" title="signwriting hand-fist thumb under four fingers">𝤁</li>
+    <li class="symb" data-code="121090" code="1d902" title="signwriting hand-fist thumb over four raised knuckles">𝤂</li>
+    <li class="symb" data-code="121091" code="1d903" title="signwriting hand-fist">𝤃</li>
+    <li class="symb" data-code="121092" code="1d904" title="signwriting hand-fist heel">𝤄</li>
+    <li class="symb" data-code="121093" code="1d905" title="signwriting touch single">𝤅</li>
+    <li class="symb" data-code="121094" code="1d906" title="signwriting touch multiple">𝤆</li>
+    <li class="symb" data-code="121095" code="1d907" title="signwriting touch between">𝤇</li>
+    <li class="symb" data-code="121096" code="1d908" title="signwriting grasp single">𝤈</li>
+    <li class="symb" data-code="121097" code="1d909" title="signwriting grasp multiple">𝤉</li>
+    <li class="symb" data-code="121098" code="1d90a" title="signwriting grasp between">𝤊</li>
+    <li class="symb" data-code="121099" code="1d90b" title="signwriting strike single">𝤋</li>
+    <li class="symb" data-code="121100" code="1d90c" title="signwriting strike multiple">𝤌</li>
+    <li class="symb" data-code="121101" code="1d90d" title="signwriting strike between">𝤍</li>
+    <li class="symb" data-code="121102" code="1d90e" title="signwriting brush single">𝤎</li>
+    <li class="symb" data-code="121103" code="1d90f" title="signwriting brush multiple">𝤏</li>
+    <li class="h">1d910</li>
+    <li class="symb" data-code="121104" code="1d910" title="signwriting brush between">𝤐</li>
+    <li class="symb" data-code="121105" code="1d911" title="signwriting rub single">𝤑</li>
+    <li class="symb" data-code="121106" code="1d912" title="signwriting rub multiple">𝤒</li>
+    <li class="symb" data-code="121107" code="1d913" title="signwriting rub between">𝤓</li>
+    <li class="symb" data-code="121108" code="1d914" title="signwriting surface symbols">𝤔</li>
+    <li class="symb" data-code="121109" code="1d915" title="signwriting surface between">𝤕</li>
+    <li class="symb" data-code="121110" code="1d916" title="signwriting squeeze large single">𝤖</li>
+    <li class="symb" data-code="121111" code="1d917" title="signwriting squeeze small single">𝤗</li>
+    <li class="symb" data-code="121112" code="1d918" title="signwriting squeeze large multiple">𝤘</li>
+    <li class="symb" data-code="121113" code="1d919" title="signwriting squeeze small multiple">𝤙</li>
+    <li class="symb" data-code="121114" code="1d91a" title="signwriting squeeze sequential">𝤚</li>
+    <li class="symb" data-code="121115" code="1d91b" title="signwriting flick large single">𝤛</li>
+    <li class="symb" data-code="121116" code="1d91c" title="signwriting flick small single">𝤜</li>
+    <li class="symb" data-code="121117" code="1d91d" title="signwriting flick large multiple">𝤝</li>
+    <li class="symb" data-code="121118" code="1d91e" title="signwriting flick small multiple">𝤞</li>
+    <li class="symb" data-code="121119" code="1d91f" title="signwriting flick sequential">𝤟</li>
+    <li class="h">1d920</li>
+    <li class="symb" data-code="121120" code="1d920" title="signwriting squeeze flick alternating">𝤠</li>
+    <li class="symb" data-code="121121" code="1d921" title="signwriting movement-hinge up down large">𝤡</li>
+    <li class="symb" data-code="121122" code="1d922" title="signwriting movement-hinge up down small">𝤢</li>
+    <li class="symb" data-code="121123" code="1d923" title="signwriting movement-hinge up sequential">𝤣</li>
+    <li class="symb" data-code="121124" code="1d924" title="signwriting movement-hinge down sequential">𝤤</li>
+    <li class="symb" data-code="121125" code="1d925" title="signwriting movement-hinge up down alternating large">𝤥</li>
+    <li class="symb" data-code="121126" code="1d926" title="signwriting movement-hinge up down alternating small">𝤦</li>
+    <li class="symb" data-code="121127" code="1d927" title="signwriting movement-hinge side to side scissors">𝤧</li>
+    <li class="symb" data-code="121128" code="1d928" title="signwriting movement-wallplane finger contact">𝤨</li>
+    <li class="symb" data-code="121129" code="1d929" title="signwriting movement-floorplane finger contact">𝤩</li>
+    <li class="symb" data-code="121130" code="1d92a" title="signwriting movement-wallplane single straight small">𝤪</li>
+    <li class="symb" data-code="121131" code="1d92b" title="signwriting movement-wallplane single straight medium">𝤫</li>
+    <li class="symb" data-code="121132" code="1d92c" title="signwriting movement-wallplane single straight large">𝤬</li>
+    <li class="symb" data-code="121133" code="1d92d" title="signwriting movement-wallplane single straight largest">𝤭</li>
+    <li class="symb" data-code="121134" code="1d92e" title="signwriting movement-wallplane single wrist flex">𝤮</li>
+    <li class="symb" data-code="121135" code="1d92f" title="signwriting movement-wallplane double straight">𝤯</li>
+    <li class="h">1d930</li>
+    <li class="symb" data-code="121136" code="1d930" title="signwriting movement-wallplane double wrist flex">𝤰</li>
+    <li class="symb" data-code="121137" code="1d931" title="signwriting movement-wallplane double alternating">𝤱</li>
+    <li class="symb" data-code="121138" code="1d932" title="signwriting movement-wallplane double alternating wrist flex">𝤲</li>
+    <li class="symb" data-code="121139" code="1d933" title="signwriting movement-wallplane cross">𝤳</li>
+    <li class="symb" data-code="121140" code="1d934" title="signwriting movement-wallplane triple straight movement">𝤴</li>
+    <li class="symb" data-code="121141" code="1d935" title="signwriting movement-wallplane triple wrist flex">𝤵</li>
+    <li class="symb" data-code="121142" code="1d936" title="signwriting movement-wallplane triple alternating">𝤶</li>
+    <li class="symb" data-code="121143" code="1d937" title="signwriting movement-wallplane triple alternating wrist flex">𝤷</li>
+    <li class="symb" data-code="121144" code="1d938" title="signwriting movement-wallplane bend small">𝤸</li>
+    <li class="symb" data-code="121145" code="1d939" title="signwriting movement-wallplane bend medium">𝤹</li>
+    <li class="symb" data-code="121146" code="1d93a" title="signwriting movement-wallplane bend large">𝤺</li>
+    <li class="symb" data-code="121147" code="1d93b" title="signwriting movement-wallplane corner small">𝤻</li>
+    <li class="symb" data-code="121148" code="1d93c" title="signwriting movement-wallplane corner medium">𝤼</li>
+    <li class="symb" data-code="121149" code="1d93d" title="signwriting movement-wallplane corner large">𝤽</li>
+    <li class="symb" data-code="121150" code="1d93e" title="signwriting movement-wallplane corner rotation">𝤾</li>
+    <li class="symb" data-code="121151" code="1d93f" title="signwriting movement-wallplane check small">𝤿</li>
+    <li class="h">1d940</li>
+    <li class="symb" data-code="121152" code="1d940" title="signwriting movement-wallplane check medium">𝥀</li>
+    <li class="symb" data-code="121153" code="1d941" title="signwriting movement-wallplane check large">𝥁</li>
+    <li class="symb" data-code="121154" code="1d942" title="signwriting movement-wallplane box small">𝥂</li>
+    <li class="symb" data-code="121155" code="1d943" title="signwriting movement-wallplane box medium">𝥃</li>
+    <li class="symb" data-code="121156" code="1d944" title="signwriting movement-wallplane box large">𝥄</li>
+    <li class="symb" data-code="121157" code="1d945" title="signwriting movement-wallplane zigzag small">𝥅</li>
+    <li class="symb" data-code="121158" code="1d946" title="signwriting movement-wallplane zigzag medium">𝥆</li>
+    <li class="symb" data-code="121159" code="1d947" title="signwriting movement-wallplane zigzag large">𝥇</li>
+    <li class="symb" data-code="121160" code="1d948" title="signwriting movement-wallplane peaks small">𝥈</li>
+    <li class="symb" data-code="121161" code="1d949" title="signwriting movement-wallplane peaks medium">𝥉</li>
+    <li class="symb" data-code="121162" code="1d94a" title="signwriting movement-wallplane peaks large">𝥊</li>
+    <li class="symb" data-code="121163" code="1d94b" title="signwriting travel-wallplane rotation-wallplane single">𝥋</li>
+    <li class="symb" data-code="121164" code="1d94c" title="signwriting travel-wallplane rotation-wallplane double">𝥌</li>
+    <li class="symb" data-code="121165" code="1d94d" title="signwriting travel-wallplane rotation-wallplane alternating">𝥍</li>
+    <li class="symb" data-code="121166" code="1d94e" title="signwriting travel-wallplane rotation-floorplane single">𝥎</li>
+    <li class="symb" data-code="121167" code="1d94f" title="signwriting travel-wallplane rotation-floorplane double">𝥏</li>
+    <li class="h">1d950</li>
+    <li class="symb" data-code="121168" code="1d950" title="signwriting travel-wallplane rotation-floorplane alternating">𝥐</li>
+    <li class="symb" data-code="121169" code="1d951" title="signwriting travel-wallplane shaking">𝥑</li>
+    <li class="symb" data-code="121170" code="1d952" title="signwriting travel-wallplane arm spiral single">𝥒</li>
+    <li class="symb" data-code="121171" code="1d953" title="signwriting travel-wallplane arm spiral double">𝥓</li>
+    <li class="symb" data-code="121172" code="1d954" title="signwriting travel-wallplane arm spiral triple">𝥔</li>
+    <li class="symb" data-code="121173" code="1d955" title="signwriting movement-diagonal away small">𝥕</li>
+    <li class="symb" data-code="121174" code="1d956" title="signwriting movement-diagonal away medium">𝥖</li>
+    <li class="symb" data-code="121175" code="1d957" title="signwriting movement-diagonal away large">𝥗</li>
+    <li class="symb" data-code="121176" code="1d958" title="signwriting movement-diagonal away largest">𝥘</li>
+    <li class="symb" data-code="121177" code="1d959" title="signwriting movement-diagonal towards small">𝥙</li>
+    <li class="symb" data-code="121178" code="1d95a" title="signwriting movement-diagonal towards medium">𝥚</li>
+    <li class="symb" data-code="121179" code="1d95b" title="signwriting movement-diagonal towards large">𝥛</li>
+    <li class="symb" data-code="121180" code="1d95c" title="signwriting movement-diagonal towards largest">𝥜</li>
+    <li class="symb" data-code="121181" code="1d95d" title="signwriting movement-diagonal between away small">𝥝</li>
+    <li class="symb" data-code="121182" code="1d95e" title="signwriting movement-diagonal between away medium">𝥞</li>
+    <li class="symb" data-code="121183" code="1d95f" title="signwriting movement-diagonal between away large">𝥟</li>
+    <li class="h">1d960</li>
+    <li class="symb" data-code="121184" code="1d960" title="signwriting movement-diagonal between away largest">𝥠</li>
+    <li class="symb" data-code="121185" code="1d961" title="signwriting movement-diagonal between towards small">𝥡</li>
+    <li class="symb" data-code="121186" code="1d962" title="signwriting movement-diagonal between towards medium">𝥢</li>
+    <li class="symb" data-code="121187" code="1d963" title="signwriting movement-diagonal between towards large">𝥣</li>
+    <li class="symb" data-code="121188" code="1d964" title="signwriting movement-diagonal between towards largest">𝥤</li>
+    <li class="symb" data-code="121189" code="1d965" title="signwriting movement-floorplane single straight small">𝥥</li>
+    <li class="symb" data-code="121190" code="1d966" title="signwriting movement-floorplane single straight medium">𝥦</li>
+    <li class="symb" data-code="121191" code="1d967" title="signwriting movement-floorplane single straight large">𝥧</li>
+    <li class="symb" data-code="121192" code="1d968" title="signwriting movement-floorplane single straight largest">𝥨</li>
+    <li class="symb" data-code="121193" code="1d969" title="signwriting movement-floorplane single wrist flex">𝥩</li>
+    <li class="symb" data-code="121194" code="1d96a" title="signwriting movement-floorplane double straight">𝥪</li>
+    <li class="symb" data-code="121195" code="1d96b" title="signwriting movement-floorplane double wrist flex">𝥫</li>
+    <li class="symb" data-code="121196" code="1d96c" title="signwriting movement-floorplane double alternating">𝥬</li>
+    <li class="symb" data-code="121197" code="1d96d" title="signwriting movement-floorplane double alternating wrist flex">𝥭</li>
+    <li class="symb" data-code="121198" code="1d96e" title="signwriting movement-floorplane cross">𝥮</li>
+    <li class="symb" data-code="121199" code="1d96f" title="signwriting movement-floorplane triple straight movement">𝥯</li>
+    <li class="h">1d970</li>
+    <li class="symb" data-code="121200" code="1d970" title="signwriting movement-floorplane triple wrist flex">𝥰</li>
+    <li class="symb" data-code="121201" code="1d971" title="signwriting movement-floorplane triple alternating movement">𝥱</li>
+    <li class="symb" data-code="121202" code="1d972" title="signwriting movement-floorplane triple alternating wrist flex">𝥲</li>
+    <li class="symb" data-code="121203" code="1d973" title="signwriting movement-floorplane bend">𝥳</li>
+    <li class="symb" data-code="121204" code="1d974" title="signwriting movement-floorplane corner small">𝥴</li>
+    <li class="symb" data-code="121205" code="1d975" title="signwriting movement-floorplane corner medium">𝥵</li>
+    <li class="symb" data-code="121206" code="1d976" title="signwriting movement-floorplane corner large">𝥶</li>
+    <li class="symb" data-code="121207" code="1d977" title="signwriting movement-floorplane check">𝥷</li>
+    <li class="symb" data-code="121208" code="1d978" title="signwriting movement-floorplane box small">𝥸</li>
+    <li class="symb" data-code="121209" code="1d979" title="signwriting movement-floorplane box medium">𝥹</li>
+    <li class="symb" data-code="121210" code="1d97a" title="signwriting movement-floorplane box large">𝥺</li>
+    <li class="symb" data-code="121211" code="1d97b" title="signwriting movement-floorplane zigzag small">𝥻</li>
+    <li class="symb" data-code="121212" code="1d97c" title="signwriting movement-floorplane zigzag medium">𝥼</li>
+    <li class="symb" data-code="121213" code="1d97d" title="signwriting movement-floorplane zigzag large">𝥽</li>
+    <li class="symb" data-code="121214" code="1d97e" title="signwriting movement-floorplane peaks small">𝥾</li>
+    <li class="symb" data-code="121215" code="1d97f" title="signwriting movement-floorplane peaks medium">𝥿</li>
+    <li class="h">1d980</li>
+    <li class="symb" data-code="121216" code="1d980" title="signwriting movement-floorplane peaks large">𝦀</li>
+    <li class="symb" data-code="121217" code="1d981" title="signwriting travel-floorplane rotation-floorplane single">𝦁</li>
+    <li class="symb" data-code="121218" code="1d982" title="signwriting travel-floorplane rotation-floorplane double">𝦂</li>
+    <li class="symb" data-code="121219" code="1d983" title="signwriting travel-floorplane rotation-floorplane alternating">𝦃</li>
+    <li class="symb" data-code="121220" code="1d984" title="signwriting travel-floorplane rotation-wallplane single">𝦄</li>
+    <li class="symb" data-code="121221" code="1d985" title="signwriting travel-floorplane rotation-wallplane double">𝦅</li>
+    <li class="symb" data-code="121222" code="1d986" title="signwriting travel-floorplane rotation-wallplane alternating">𝦆</li>
+    <li class="symb" data-code="121223" code="1d987" title="signwriting travel-floorplane shaking">𝦇</li>
+    <li class="symb" data-code="121224" code="1d988" title="signwriting movement-wallplane curve quarter small">𝦈</li>
+    <li class="symb" data-code="121225" code="1d989" title="signwriting movement-wallplane curve quarter medium">𝦉</li>
+    <li class="symb" data-code="121226" code="1d98a" title="signwriting movement-wallplane curve quarter large">𝦊</li>
+    <li class="symb" data-code="121227" code="1d98b" title="signwriting movement-wallplane curve quarter largest">𝦋</li>
+    <li class="symb" data-code="121228" code="1d98c" title="signwriting movement-wallplane curve half-circle small">𝦌</li>
+    <li class="symb" data-code="121229" code="1d98d" title="signwriting movement-wallplane curve half-circle medium">𝦍</li>
+    <li class="symb" data-code="121230" code="1d98e" title="signwriting movement-wallplane curve half-circle large">𝦎</li>
+    <li class="symb" data-code="121231" code="1d98f" title="signwriting movement-wallplane curve half-circle largest">𝦏</li>
+    <li class="h">1d990</li>
+    <li class="symb" data-code="121232" code="1d990" title="signwriting movement-wallplane curve three-quarter circle small">𝦐</li>
+    <li class="symb" data-code="121233" code="1d991" title="signwriting movement-wallplane curve three-quarter circle medium">𝦑</li>
+    <li class="symb" data-code="121234" code="1d992" title="signwriting movement-wallplane hump small">𝦒</li>
+    <li class="symb" data-code="121235" code="1d993" title="signwriting movement-wallplane hump medium">𝦓</li>
+    <li class="symb" data-code="121236" code="1d994" title="signwriting movement-wallplane hump large">𝦔</li>
+    <li class="symb" data-code="121237" code="1d995" title="signwriting movement-wallplane loop small">𝦕</li>
+    <li class="symb" data-code="121238" code="1d996" title="signwriting movement-wallplane loop medium">𝦖</li>
+    <li class="symb" data-code="121239" code="1d997" title="signwriting movement-wallplane loop large">𝦗</li>
+    <li class="symb" data-code="121240" code="1d998" title="signwriting movement-wallplane loop small double">𝦘</li>
+    <li class="symb" data-code="121241" code="1d999" title="signwriting movement-wallplane wave curve double small">𝦙</li>
+    <li class="symb" data-code="121242" code="1d99a" title="signwriting movement-wallplane wave curve double medium">𝦚</li>
+    <li class="symb" data-code="121243" code="1d99b" title="signwriting movement-wallplane wave curve double large">𝦛</li>
+    <li class="symb" data-code="121244" code="1d99c" title="signwriting movement-wallplane wave curve triple small">𝦜</li>
+    <li class="symb" data-code="121245" code="1d99d" title="signwriting movement-wallplane wave curve triple medium">𝦝</li>
+    <li class="symb" data-code="121246" code="1d99e" title="signwriting movement-wallplane wave curve triple large">𝦞</li>
+    <li class="symb" data-code="121247" code="1d99f" title="signwriting movement-wallplane curve then straight">𝦟</li>
+    <li class="h">1d9a0</li>
+    <li class="symb" data-code="121248" code="1d9a0" title="signwriting movement-wallplane curved cross small">𝦠</li>
+    <li class="symb" data-code="121249" code="1d9a1" title="signwriting movement-wallplane curved cross medium">𝦡</li>
+    <li class="symb" data-code="121250" code="1d9a2" title="signwriting rotation-wallplane single">𝦢</li>
+    <li class="symb" data-code="121251" code="1d9a3" title="signwriting rotation-wallplane double">𝦣</li>
+    <li class="symb" data-code="121252" code="1d9a4" title="signwriting rotation-wallplane alternate">𝦤</li>
+    <li class="symb" data-code="121253" code="1d9a5" title="signwriting movement-wallplane shaking">𝦥</li>
+    <li class="symb" data-code="121254" code="1d9a6" title="signwriting movement-wallplane curve hitting front wall">𝦦</li>
+    <li class="symb" data-code="121255" code="1d9a7" title="signwriting movement-wallplane hump hitting front wall">𝦧</li>
+    <li class="symb" data-code="121256" code="1d9a8" title="signwriting movement-wallplane loop hitting front wall">𝦨</li>
+    <li class="symb" data-code="121257" code="1d9a9" title="signwriting movement-wallplane wave hitting front wall">𝦩</li>
+    <li class="symb" data-code="121258" code="1d9aa" title="signwriting rotation-wallplane single hitting front wall">𝦪</li>
+    <li class="symb" data-code="121259" code="1d9ab" title="signwriting rotation-wallplane double hitting front wall">𝦫</li>
+    <li class="symb" data-code="121260" code="1d9ac" title="signwriting rotation-wallplane alternating hitting front wall">𝦬</li>
+    <li class="symb" data-code="121261" code="1d9ad" title="signwriting movement-wallplane curve hitting chest">𝦭</li>
+    <li class="symb" data-code="121262" code="1d9ae" title="signwriting movement-wallplane hump hitting chest">𝦮</li>
+    <li class="symb" data-code="121263" code="1d9af" title="signwriting movement-wallplane loop hitting chest">𝦯</li>
+    <li class="h">1d9b0</li>
+    <li class="symb" data-code="121264" code="1d9b0" title="signwriting movement-wallplane wave hitting chest">𝦰</li>
+    <li class="symb" data-code="121265" code="1d9b1" title="signwriting rotation-wallplane single hitting chest">𝦱</li>
+    <li class="symb" data-code="121266" code="1d9b2" title="signwriting rotation-wallplane double hitting chest">𝦲</li>
+    <li class="symb" data-code="121267" code="1d9b3" title="signwriting rotation-wallplane alternating hitting chest">𝦳</li>
+    <li class="symb" data-code="121268" code="1d9b4" title="signwriting movement-wallplane wave diagonal path small">𝦴</li>
+    <li class="symb" data-code="121269" code="1d9b5" title="signwriting movement-wallplane wave diagonal path medium">𝦵</li>
+    <li class="symb" data-code="121270" code="1d9b6" title="signwriting movement-wallplane wave diagonal path large">𝦶</li>
+    <li class="symb" data-code="121271" code="1d9b7" title="signwriting movement-floorplane curve hitting ceiling small">𝦷</li>
+    <li class="symb" data-code="121272" code="1d9b8" title="signwriting movement-floorplane curve hitting ceiling large">𝦸</li>
+    <li class="symb" data-code="121273" code="1d9b9" title="signwriting movement-floorplane hump hitting ceiling small double">𝦹</li>
+    <li class="symb" data-code="121274" code="1d9ba" title="signwriting movement-floorplane hump hitting ceiling large double">𝦺</li>
+    <li class="symb" data-code="121275" code="1d9bb" title="signwriting movement-floorplane hump hitting ceiling small triple">𝦻</li>
+    <li class="symb" data-code="121276" code="1d9bc" title="signwriting movement-floorplane hump hitting ceiling large triple">𝦼</li>
+    <li class="symb" data-code="121277" code="1d9bd" title="signwriting movement-floorplane loop hitting ceiling small single">𝦽</li>
+    <li class="symb" data-code="121278" code="1d9be" title="signwriting movement-floorplane loop hitting ceiling large single">𝦾</li>
+    <li class="symb" data-code="121279" code="1d9bf" title="signwriting movement-floorplane loop hitting ceiling small double">𝦿</li>
+    <li class="h">1d9c0</li>
+    <li class="symb" data-code="121280" code="1d9c0" title="signwriting movement-floorplane loop hitting ceiling large double">𝧀</li>
+    <li class="symb" data-code="121281" code="1d9c1" title="signwriting movement-floorplane wave hitting ceiling small">𝧁</li>
+    <li class="symb" data-code="121282" code="1d9c2" title="signwriting movement-floorplane wave hitting ceiling large">𝧂</li>
+    <li class="symb" data-code="121283" code="1d9c3" title="signwriting rotation-floorplane single hitting ceiling">𝧃</li>
+    <li class="symb" data-code="121284" code="1d9c4" title="signwriting rotation-floorplane double hitting ceiling">𝧄</li>
+    <li class="symb" data-code="121285" code="1d9c5" title="signwriting rotation-floorplane alternating hitting ceiling">𝧅</li>
+    <li class="symb" data-code="121286" code="1d9c6" title="signwriting movement-floorplane curve hitting floor small">𝧆</li>
+    <li class="symb" data-code="121287" code="1d9c7" title="signwriting movement-floorplane curve hitting floor large">𝧇</li>
+    <li class="symb" data-code="121288" code="1d9c8" title="signwriting movement-floorplane hump hitting floor small double">𝧈</li>
+    <li class="symb" data-code="121289" code="1d9c9" title="signwriting movement-floorplane hump hitting floor large double">𝧉</li>
+    <li class="symb" data-code="121290" code="1d9ca" title="signwriting movement-floorplane hump hitting floor triple small triple">𝧊</li>
+    <li class="symb" data-code="121291" code="1d9cb" title="signwriting movement-floorplane hump hitting floor triple large triple">𝧋</li>
+    <li class="symb" data-code="121292" code="1d9cc" title="signwriting movement-floorplane loop hitting floor small single">𝧌</li>
+    <li class="symb" data-code="121293" code="1d9cd" title="signwriting movement-floorplane loop hitting floor large single">𝧍</li>
+    <li class="symb" data-code="121294" code="1d9ce" title="signwriting movement-floorplane loop hitting floor small double">𝧎</li>
+    <li class="symb" data-code="121295" code="1d9cf" title="signwriting movement-floorplane loop hitting floor large double">𝧏</li>
+    <li class="h">1d9d0</li>
+    <li class="symb" data-code="121296" code="1d9d0" title="signwriting movement-floorplane wave hitting floor small">𝧐</li>
+    <li class="symb" data-code="121297" code="1d9d1" title="signwriting movement-floorplane wave hitting floor large">𝧑</li>
+    <li class="symb" data-code="121298" code="1d9d2" title="signwriting rotation-floorplane single hitting floor">𝧒</li>
+    <li class="symb" data-code="121299" code="1d9d3" title="signwriting rotation-floorplane double hitting floor">𝧓</li>
+    <li class="symb" data-code="121300" code="1d9d4" title="signwriting rotation-floorplane alternating hitting floor">𝧔</li>
+    <li class="symb" data-code="121301" code="1d9d5" title="signwriting movement-floorplane curve small">𝧕</li>
+    <li class="symb" data-code="121302" code="1d9d6" title="signwriting movement-floorplane curve medium">𝧖</li>
+    <li class="symb" data-code="121303" code="1d9d7" title="signwriting movement-floorplane curve large">𝧗</li>
+    <li class="symb" data-code="121304" code="1d9d8" title="signwriting movement-floorplane curve largest">𝧘</li>
+    <li class="symb" data-code="121305" code="1d9d9" title="signwriting movement-floorplane curve combined">𝧙</li>
+    <li class="symb" data-code="121306" code="1d9da" title="signwriting movement-floorplane hump small">𝧚</li>
+    <li class="symb" data-code="121307" code="1d9db" title="signwriting movement-floorplane loop small">𝧛</li>
+    <li class="symb" data-code="121308" code="1d9dc" title="signwriting movement-floorplane wave snake">𝧜</li>
+    <li class="symb" data-code="121309" code="1d9dd" title="signwriting movement-floorplane wave small">𝧝</li>
+    <li class="symb" data-code="121310" code="1d9de" title="signwriting movement-floorplane wave large">𝧞</li>
+    <li class="symb" data-code="121311" code="1d9df" title="signwriting rotation-floorplane single">𝧟</li>
+    <li class="h">1d9e0</li>
+    <li class="symb" data-code="121312" code="1d9e0" title="signwriting rotation-floorplane double">𝧠</li>
+    <li class="symb" data-code="121313" code="1d9e1" title="signwriting rotation-floorplane alternating">𝧡</li>
+    <li class="symb" data-code="121314" code="1d9e2" title="signwriting movement-floorplane shaking parallel">𝧢</li>
+    <li class="symb" data-code="121315" code="1d9e3" title="signwriting movement-wallplane arm circle small single">𝧣</li>
+    <li class="symb" data-code="121316" code="1d9e4" title="signwriting movement-wallplane arm circle medium single">𝧤</li>
+    <li class="symb" data-code="121317" code="1d9e5" title="signwriting movement-wallplane arm circle small double">𝧥</li>
+    <li class="symb" data-code="121318" code="1d9e6" title="signwriting movement-wallplane arm circle medium double">𝧦</li>
+    <li class="symb" data-code="121319" code="1d9e7" title="signwriting movement-floorplane arm circle hitting wall small single">𝧧</li>
+    <li class="symb" data-code="121320" code="1d9e8" title="signwriting movement-floorplane arm circle hitting wall medium single">𝧨</li>
+    <li class="symb" data-code="121321" code="1d9e9" title="signwriting movement-floorplane arm circle hitting wall large single">𝧩</li>
+    <li class="symb" data-code="121322" code="1d9ea" title="signwriting movement-floorplane arm circle hitting wall small double">𝧪</li>
+    <li class="symb" data-code="121323" code="1d9eb" title="signwriting movement-floorplane arm circle hitting wall medium double">𝧫</li>
+    <li class="symb" data-code="121324" code="1d9ec" title="signwriting movement-floorplane arm circle hitting wall large double">𝧬</li>
+    <li class="symb" data-code="121325" code="1d9ed" title="signwriting movement-wallplane wrist circle front single">𝧭</li>
+    <li class="symb" data-code="121326" code="1d9ee" title="signwriting movement-wallplane wrist circle front double">𝧮</li>
+    <li class="symb" data-code="121327" code="1d9ef" title="signwriting movement-floorplane wrist circle hitting wall single">𝧯</li>
+    <li class="h">1d9f0</li>
+    <li class="symb" data-code="121328" code="1d9f0" title="signwriting movement-floorplane wrist circle hitting wall double">𝧰</li>
+    <li class="symb" data-code="121329" code="1d9f1" title="signwriting movement-wallplane finger circles single">𝧱</li>
+    <li class="symb" data-code="121330" code="1d9f2" title="signwriting movement-wallplane finger circles double">𝧲</li>
+    <li class="symb" data-code="121331" code="1d9f3" title="signwriting movement-floorplane finger circles hitting wall single">𝧳</li>
+    <li class="symb" data-code="121332" code="1d9f4" title="signwriting movement-floorplane finger circles hitting wall double">𝧴</li>
+    <li class="symb" data-code="121333" code="1d9f5" title="signwriting dynamic arrowhead small">𝧵</li>
+    <li class="symb" data-code="121334" code="1d9f6" title="signwriting dynamic arrowhead large">𝧶</li>
+    <li class="symb" data-code="121335" code="1d9f7" title="signwriting dynamic fast">𝧷</li>
+    <li class="symb" data-code="121336" code="1d9f8" title="signwriting dynamic slow">𝧸</li>
+    <li class="symb" data-code="121337" code="1d9f9" title="signwriting dynamic tense">𝧹</li>
+    <li class="symb" data-code="121338" code="1d9fa" title="signwriting dynamic relaxed">𝧺</li>
+    <li class="symb" data-code="121339" code="1d9fb" title="signwriting dynamic simultaneous">𝧻</li>
+    <li class="symb" data-code="121340" code="1d9fc" title="signwriting dynamic simultaneous alternating">𝧼</li>
+    <li class="symb" data-code="121341" code="1d9fd" title="signwriting dynamic every other time">𝧽</li>
+    <li class="symb" data-code="121342" code="1d9fe" title="signwriting dynamic gradual">𝧾</li>
+    <li class="symb" data-code="121343" code="1d9ff" title="signwriting head">𝧿</li>
+  </ul>
+</root>

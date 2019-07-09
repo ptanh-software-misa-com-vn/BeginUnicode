@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1f000</li>
+    <li class="symb" data-code="126976" code="1f000" title="mahjong tile east wind">🀀</li>
+    <li class="symb" data-code="126977" code="1f001" title="mahjong tile south wind">🀁</li>
+    <li class="symb" data-code="126978" code="1f002" title="mahjong tile west wind">🀂</li>
+    <li class="symb" data-code="126979" code="1f003" title="mahjong tile north wind">🀃</li>
+    <li class="symb" data-code="126980" code="1f004" title="mahjong tile red dragon">🀄</li>
+    <li class="symb" data-code="126981" code="1f005" title="mahjong tile green dragon">🀅</li>
+    <li class="symb" data-code="126982" code="1f006" title="mahjong tile white dragon">🀆</li>
+    <li class="symb" data-code="126983" code="1f007" title="mahjong tile one of characters">🀇</li>
+    <li class="symb" data-code="126984" code="1f008" title="mahjong tile two of characters">🀈</li>
+    <li class="symb" data-code="126985" code="1f009" title="mahjong tile three of characters">🀉</li>
+    <li class="symb" data-code="126986" code="1f00a" title="mahjong tile four of characters">🀊</li>
+    <li class="symb" data-code="126987" code="1f00b" title="mahjong tile five of characters">🀋</li>
+    <li class="symb" data-code="126988" code="1f00c" title="mahjong tile six of characters">🀌</li>
+    <li class="symb" data-code="126989" code="1f00d" title="mahjong tile seven of characters">🀍</li>
+    <li class="symb" data-code="126990" code="1f00e" title="mahjong tile eight of characters">🀎</li>
+    <li class="symb" data-code="126991" code="1f00f" title="mahjong tile nine of characters">🀏</li>
+    <li class="h">1f010</li>
+    <li class="symb" data-code="126992" code="1f010" title="mahjong tile one of bamboos">🀐</li>
+    <li class="symb" data-code="126993" code="1f011" title="mahjong tile two of bamboos">🀑</li>
+    <li class="symb" data-code="126994" code="1f012" title="mahjong tile three of bamboos">🀒</li>
+    <li class="symb" data-code="126995" code="1f013" title="mahjong tile four of bamboos">🀓</li>
+    <li class="symb" data-code="126996" code="1f014" title="mahjong tile five of bamboos">🀔</li>
+    <li class="symb" data-code="126997" code="1f015" title="mahjong tile six of bamboos">🀕</li>
+    <li class="symb" data-code="126998" code="1f016" title="mahjong tile seven of bamboos">🀖</li>
+    <li class="symb" data-code="126999" code="1f017" title="mahjong tile eight of bamboos">🀗</li>
+    <li class="symb" data-code="127000" code="1f018" title="mahjong tile nine of bamboos">🀘</li>
+    <li class="symb" data-code="127001" code="1f019" title="mahjong tile one of circles">🀙</li>
+    <li class="symb" data-code="127002" code="1f01a" title="mahjong tile two of circles">🀚</li>
+    <li class="symb" data-code="127003" code="1f01b" title="mahjong tile three of circles">🀛</li>
+    <li class="symb" data-code="127004" code="1f01c" title="mahjong tile four of circles">🀜</li>
+    <li class="symb" data-code="127005" code="1f01d" title="mahjong tile five of circles">🀝</li>
+    <li class="symb" data-code="127006" code="1f01e" title="mahjong tile six of circles">🀞</li>
+    <li class="symb" data-code="127007" code="1f01f" title="mahjong tile seven of circles">🀟</li>
+    <li class="h">1f020</li>
+    <li class="symb" data-code="127008" code="1f020" title="mahjong tile eight of circles">🀠</li>
+    <li class="symb" data-code="127009" code="1f021" title="mahjong tile nine of circles">🀡</li>
+    <li class="symb" data-code="127010" code="1f022" title="mahjong tile plum">🀢</li>
+    <li class="symb" data-code="127011" code="1f023" title="mahjong tile orchid">🀣</li>
+    <li class="symb" data-code="127012" code="1f024" title="mahjong tile bamboo">🀤</li>
+    <li class="symb" data-code="127013" code="1f025" title="mahjong tile chrysanthemum">🀥</li>
+    <li class="symb" data-code="127014" code="1f026" title="mahjong tile spring">🀦</li>
+    <li class="symb" data-code="127015" code="1f027" title="mahjong tile summer">🀧</li>
+    <li class="symb" data-code="127016" code="1f028" title="mahjong tile autumn">🀨</li>
+    <li class="symb" data-code="127017" code="1f029" title="mahjong tile winter">🀩</li>
+    <li class="symb" data-code="127018" code="1f02a" title="mahjong tile joker">🀪</li>
+    <li class="symb" data-code="127019" code="1f02b" title="mahjong tile back">🀫</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">11300</li>
+    <li class="symb" data-code="70400" code="11300" title="grantha sign combining anusvara above">𑌀</li>
+    <li class="symb" data-code="70401" code="11301" title="grantha sign candrabindu">𑌁</li>
+    <li class="symb" data-code="70402" code="11302" title="grantha sign anusvara">𑌂</li>
+    <li class="symb" data-code="70403" code="11303" title="grantha sign visarga">𑌃</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70405" code="11305" title="grantha letter a">𑌅</li>
+    <li class="symb" data-code="70406" code="11306" title="grantha letter aa">𑌆</li>
+    <li class="symb" data-code="70407" code="11307" title="grantha letter i">𑌇</li>
+    <li class="symb" data-code="70408" code="11308" title="grantha letter ii">𑌈</li>
+    <li class="symb" data-code="70409" code="11309" title="grantha letter u">𑌉</li>
+    <li class="symb" data-code="70410" code="1130a" title="grantha letter uu">𑌊</li>
+    <li class="symb" data-code="70411" code="1130b" title="grantha letter vocalic r">𑌋</li>
+    <li class="symb" data-code="70412" code="1130c" title="grantha letter vocalic l">𑌌</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70415" code="1130f" title="grantha letter ee">𑌏</li>
+    <li class="h">11310</li>
+    <li class="symb" data-code="70416" code="11310" title="grantha letter ai">𑌐</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70419" code="11313" title="grantha letter oo">𑌓</li>
+    <li class="symb" data-code="70420" code="11314" title="grantha letter au">𑌔</li>
+    <li class="symb" data-code="70421" code="11315" title="grantha letter ka">𑌕</li>
+    <li class="symb" data-code="70422" code="11316" title="grantha letter kha">𑌖</li>
+    <li class="symb" data-code="70423" code="11317" title="grantha letter ga">𑌗</li>
+    <li class="symb" data-code="70424" code="11318" title="grantha letter gha">𑌘</li>
+    <li class="symb" data-code="70425" code="11319" title="grantha letter nga">𑌙</li>
+    <li class="symb" data-code="70426" code="1131a" title="grantha letter ca">𑌚</li>
+    <li class="symb" data-code="70427" code="1131b" title="grantha letter cha">𑌛</li>
+    <li class="symb" data-code="70428" code="1131c" title="grantha letter ja">𑌜</li>
+    <li class="symb" data-code="70429" code="1131d" title="grantha letter jha">𑌝</li>
+    <li class="symb" data-code="70430" code="1131e" title="grantha letter nya">𑌞</li>
+    <li class="symb" data-code="70431" code="1131f" title="grantha letter tta">𑌟</li>
+    <li class="h">11320</li>
+    <li class="symb" data-code="70432" code="11320" title="grantha letter ttha">𑌠</li>
+    <li class="symb" data-code="70433" code="11321" title="grantha letter dda">𑌡</li>
+    <li class="symb" data-code="70434" code="11322" title="grantha letter ddha">𑌢</li>
+    <li class="symb" data-code="70435" code="11323" title="grantha letter nna">𑌣</li>
+    <li class="symb" data-code="70436" code="11324" title="grantha letter ta">𑌤</li>
+    <li class="symb" data-code="70437" code="11325" title="grantha letter tha">𑌥</li>
+    <li class="symb" data-code="70438" code="11326" title="grantha letter da">𑌦</li>
+    <li class="symb" data-code="70439" code="11327" title="grantha letter dha">𑌧</li>
+    <li class="symb" data-code="70440" code="11328" title="grantha letter na">𑌨</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70442" code="1132a" title="grantha letter pa">𑌪</li>
+    <li class="symb" data-code="70443" code="1132b" title="grantha letter pha">𑌫</li>
+    <li class="symb" data-code="70444" code="1132c" title="grantha letter ba">𑌬</li>
+    <li class="symb" data-code="70445" code="1132d" title="grantha letter bha">𑌭</li>
+    <li class="symb" data-code="70446" code="1132e" title="grantha letter ma">𑌮</li>
+    <li class="symb" data-code="70447" code="1132f" title="grantha letter ya">𑌯</li>
+    <li class="h">11330</li>
+    <li class="symb" data-code="70448" code="11330" title="grantha letter ra">𑌰</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70450" code="11332" title="grantha letter la">𑌲</li>
+    <li class="symb" data-code="70451" code="11333" title="grantha letter lla">𑌳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70453" code="11335" title="grantha letter va">𑌵</li>
+    <li class="symb" data-code="70454" code="11336" title="grantha letter sha">𑌶</li>
+    <li class="symb" data-code="70455" code="11337" title="grantha letter ssa">𑌷</li>
+    <li class="symb" data-code="70456" code="11338" title="grantha letter sa">𑌸</li>
+    <li class="symb" data-code="70457" code="11339" title="grantha letter ha">𑌹</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70459" code="1133b" title="combining bindu below">𑌻</li>
+    <li class="symb" data-code="70460" code="1133c" title="grantha sign nukta">𑌼</li>
+    <li class="symb" data-code="70461" code="1133d" title="grantha sign avagraha">𑌽</li>
+    <li class="symb" data-code="70462" code="1133e" title="grantha vowel sign aa">𑌾</li>
+    <li class="symb" data-code="70463" code="1133f" title="grantha vowel sign i">𑌿</li>
+    <li class="h">11340</li>
+    <li class="symb" data-code="70464" code="11340" title="grantha vowel sign ii">𑍀</li>
+    <li class="symb" data-code="70465" code="11341" title="grantha vowel sign u">𑍁</li>
+    <li class="symb" data-code="70466" code="11342" title="grantha vowel sign uu">𑍂</li>
+    <li class="symb" data-code="70467" code="11343" title="grantha vowel sign vocalic r">𑍃</li>
+    <li class="symb" data-code="70468" code="11344" title="grantha vowel sign vocalic rr">𑍄</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70471" code="11347" title="grantha vowel sign ee">𑍇</li>
+    <li class="symb" data-code="70472" code="11348" title="grantha vowel sign ai">𑍈</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70475" code="1134b" title="grantha vowel sign oo">𑍋</li>
+    <li class="symb" data-code="70476" code="1134c" title="grantha vowel sign au">𑍌</li>
+    <li class="symb" data-code="70477" code="1134d" title="grantha sign virama">𑍍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">11350</li>
+    <li class="symb" data-code="70480" code="11350" title="grantha om">𑍐</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70487" code="11357" title="grantha au length mark">𑍗</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70493" code="1135d" title="grantha sign pluta">𑍝</li>
+    <li class="symb" data-code="70494" code="1135e" title="grantha letter vedic anusvara">𑍞</li>
+    <li class="symb" data-code="70495" code="1135f" title="grantha letter vedic double anusvara">𑍟</li>
+    <li class="h">11360</li>
+    <li class="symb" data-code="70496" code="11360" title="grantha letter vocalic rr">𑍠</li>
+    <li class="symb" data-code="70497" code="11361" title="grantha letter vocalic ll">𑍡</li>
+    <li class="symb" data-code="70498" code="11362" title="grantha vowel sign vocalic l">𑍢</li>
+    <li class="symb" data-code="70499" code="11363" title="grantha vowel sign vocalic ll">𑍣</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70502" code="11366" title="combining grantha digit zero">𑍦</li>
+    <li class="symb" data-code="70503" code="11367" title="combining grantha digit one">𑍧</li>
+    <li class="symb" data-code="70504" code="11368" title="combining grantha digit two">𑍨</li>
+    <li class="symb" data-code="70505" code="11369" title="combining grantha digit three">𑍩</li>
+    <li class="symb" data-code="70506" code="1136a" title="combining grantha digit four">𑍪</li>
+    <li class="symb" data-code="70507" code="1136b" title="combining grantha digit five">𑍫</li>
+    <li class="symb" data-code="70508" code="1136c" title="combining grantha digit six">𑍬</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">11370</li>
+    <li class="symb" data-code="70512" code="11370" title="combining grantha letter a">𑍰</li>
+    <li class="symb" data-code="70513" code="11371" title="combining grantha letter ka">𑍱</li>
+    <li class="symb" data-code="70514" code="11372" title="combining grantha letter na">𑍲</li>
+    <li class="symb" data-code="70515" code="11373" title="combining grantha letter vi">𑍳</li>
+    <li class="symb" data-code="70516" code="11374" title="combining grantha letter pa">𑍴</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

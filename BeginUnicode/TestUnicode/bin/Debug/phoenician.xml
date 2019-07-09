@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">10900</li>
+    <li class="symb" data-code="67840" code="10900" title="phoenician letter alf">𐤀</li>
+    <li class="symb" data-code="67841" code="10901" title="phoenician letter bet">𐤁</li>
+    <li class="symb" data-code="67842" code="10902" title="phoenician letter gaml">𐤂</li>
+    <li class="symb" data-code="67843" code="10903" title="phoenician letter delt">𐤃</li>
+    <li class="symb" data-code="67844" code="10904" title="phoenician letter he">𐤄</li>
+    <li class="symb" data-code="67845" code="10905" title="phoenician letter wau">𐤅</li>
+    <li class="symb" data-code="67846" code="10906" title="phoenician letter zai">𐤆</li>
+    <li class="symb" data-code="67847" code="10907" title="phoenician letter het">𐤇</li>
+    <li class="symb" data-code="67848" code="10908" title="phoenician letter tet">𐤈</li>
+    <li class="symb" data-code="67849" code="10909" title="phoenician letter yod">𐤉</li>
+    <li class="symb" data-code="67850" code="1090a" title="phoenician letter kaf">𐤊</li>
+    <li class="symb" data-code="67851" code="1090b" title="phoenician letter lamd">𐤋</li>
+    <li class="symb" data-code="67852" code="1090c" title="phoenician letter mem">𐤌</li>
+    <li class="symb" data-code="67853" code="1090d" title="phoenician letter nun">𐤍</li>
+    <li class="symb" data-code="67854" code="1090e" title="phoenician letter semk">𐤎</li>
+    <li class="symb" data-code="67855" code="1090f" title="phoenician letter ain">𐤏</li>
+    <li class="h">10910</li>
+    <li class="symb" data-code="67856" code="10910" title="phoenician letter pe">𐤐</li>
+    <li class="symb" data-code="67857" code="10911" title="phoenician letter sade">𐤑</li>
+    <li class="symb" data-code="67858" code="10912" title="phoenician letter qof">𐤒</li>
+    <li class="symb" data-code="67859" code="10913" title="phoenician letter rosh">𐤓</li>
+    <li class="symb" data-code="67860" code="10914" title="phoenician letter shin">𐤔</li>
+    <li class="symb" data-code="67861" code="10915" title="phoenician letter tau">𐤕</li>
+    <li class="symb" data-code="67862" code="10916" title="phoenician number one">𐤖</li>
+    <li class="symb" data-code="67863" code="10917" title="phoenician number ten">𐤗</li>
+    <li class="symb" data-code="67864" code="10918" title="phoenician number twenty">𐤘</li>
+    <li class="symb" data-code="67865" code="10919" title="phoenician number one hundred">𐤙</li>
+    <li class="symb" data-code="67866" code="1091a" title="phoenician number two">𐤚</li>
+    <li class="symb" data-code="67867" code="1091b" title="phoenician number three">𐤛</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="67871" code="1091f" title="phoenician word separator">𐤟</li>
+  </ul>
+</root>

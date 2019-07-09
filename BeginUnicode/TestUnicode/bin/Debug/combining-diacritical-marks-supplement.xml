@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1dc0</li>
+    <li class="symb" data-code="7616" code="1dc0" title="combining dotted grave accent">᷀</li>
+    <li class="symb" data-code="7617" code="1dc1" title="combining dotted acute accent">᷁</li>
+    <li class="symb" data-code="7618" code="1dc2" title="combining snake below">᷂</li>
+    <li class="symb" data-code="7619" code="1dc3" title="combining suspension mark">᷃</li>
+    <li class="symb" data-code="7620" code="1dc4" title="combining macron-acute">᷄</li>
+    <li class="symb" data-code="7621" code="1dc5" title="combining grave-macron">᷅</li>
+    <li class="symb" data-code="7622" code="1dc6" title="combining macron-grave">᷆</li>
+    <li class="symb" data-code="7623" code="1dc7" title="combining acute-macron">᷇</li>
+    <li class="symb" data-code="7624" code="1dc8" title="combining grave-acute-grave">᷈</li>
+    <li class="symb" data-code="7625" code="1dc9" title="combining acute-grave-acute">᷉</li>
+    <li class="symb" data-code="7626" code="1dca" title="combining latin small letter r below">᷊</li>
+    <li class="symb" data-code="7627" code="1dcb" title="combining breve-macron">᷋</li>
+    <li class="symb" data-code="7628" code="1dcc" title="combining macron-breve">᷌</li>
+    <li class="symb" data-code="7629" code="1dcd" title="combining double circumflex above">᷍</li>
+    <li class="symb" data-code="7630" code="1dce" title="combining ogonek above">᷎</li>
+    <li class="symb" data-code="7631" code="1dcf" title="combining zigzag below">᷏</li>
+    <li class="h">1dd0</li>
+    <li class="symb" data-code="7632" code="1dd0" title="combining is below">᷐</li>
+    <li class="symb" data-code="7633" code="1dd1" title="combining ur above">᷑</li>
+    <li class="symb" data-code="7634" code="1dd2" title="combining us above">᷒</li>
+    <li class="symb" data-code="7635" code="1dd3" title="combining latin small letter flattened open a above">ᷓ</li>
+    <li class="symb" data-code="7636" code="1dd4" title="combining latin small letter ae">ᷔ</li>
+    <li class="symb" data-code="7637" code="1dd5" title="combining latin small letter ao">ᷕ</li>
+    <li class="symb" data-code="7638" code="1dd6" title="combining latin small letter av">ᷖ</li>
+    <li class="symb" data-code="7639" code="1dd7" title="combining latin small letter c cedilla">ᷗ</li>
+    <li class="symb" data-code="7640" code="1dd8" title="combining latin small letter insular d">ᷘ</li>
+    <li class="symb" data-code="7641" code="1dd9" title="combining latin small letter eth">ᷙ</li>
+    <li class="symb" data-code="7642" code="1dda" title="combining latin small letter g">ᷚ</li>
+    <li class="symb" data-code="7643" code="1ddb" title="combining latin letter small capital g">ᷛ</li>
+    <li class="symb" data-code="7644" code="1ddc" title="combining latin small letter k">ᷜ</li>
+    <li class="symb" data-code="7645" code="1ddd" title="combining latin small letter l">ᷝ</li>
+    <li class="symb" data-code="7646" code="1dde" title="combining latin letter small capital l">ᷞ</li>
+    <li class="symb" data-code="7647" code="1ddf" title="combining latin letter small capital m">ᷟ</li>
+    <li class="h">1de0</li>
+    <li class="symb" data-code="7648" code="1de0" title="combining latin small letter n">ᷠ</li>
+    <li class="symb" data-code="7649" code="1de1" title="combining latin letter small capital n">ᷡ</li>
+    <li class="symb" data-code="7650" code="1de2" title="combining latin letter small capital r">ᷢ</li>
+    <li class="symb" data-code="7651" code="1de3" title="combining latin small letter r rotunda">ᷣ</li>
+    <li class="symb" data-code="7652" code="1de4" title="combining latin small letter s">ᷤ</li>
+    <li class="symb" data-code="7653" code="1de5" title="combining latin small letter long s">ᷥ</li>
+    <li class="symb" data-code="7654" code="1de6" title="combining latin small letter z">ᷦ</li>
+    <li class="symb" data-code="7655" code="1de7" title="combining latin small letter alpha">ᷧ</li>
+    <li class="symb" data-code="7656" code="1de8" title="combining latin small letter b">ᷨ</li>
+    <li class="symb" data-code="7657" code="1de9" title="combining latin small letter beta">ᷩ</li>
+    <li class="symb" data-code="7658" code="1dea" title="combining latin small letter schwa">ᷪ</li>
+    <li class="symb" data-code="7659" code="1deb" title="combining latin small letter f">ᷫ</li>
+    <li class="symb" data-code="7660" code="1dec" title="combining latin small letter l with double middle tilde">ᷬ</li>
+    <li class="symb" data-code="7661" code="1ded" title="combining latin small letter o with light centralization stroke">ᷭ</li>
+    <li class="symb" data-code="7662" code="1dee" title="combining latin small letter p">ᷮ</li>
+    <li class="symb" data-code="7663" code="1def" title="combining latin small letter esh">ᷯ</li>
+    <li class="h">1df0</li>
+    <li class="symb" data-code="7664" code="1df0" title="combining latin small letter u with light centralization stroke">ᷰ</li>
+    <li class="symb" data-code="7665" code="1df1" title="combining latin small letter w">ᷱ</li>
+    <li class="symb" data-code="7666" code="1df2" title="combining latin small letter a with diaeresis">ᷲ</li>
+    <li class="symb" data-code="7667" code="1df3" title="combining latin small letter o with diaeresis">ᷳ</li>
+    <li class="symb" data-code="7668" code="1df4" title="combining latin small letter u with diaeresis">ᷴ</li>
+    <li class="symb" data-code="7669" code="1df5" title="combining up tack above">᷵</li>
+    <li class="symb" data-code="7670" code="1df6" title="combining kavyka above right">᷶</li>
+    <li class="symb" data-code="7671" code="1df7" title="combining kavyka above left">᷷</li>
+    <li class="symb" data-code="7672" code="1df8" title="combining dot above left">᷸</li>
+    <li class="symb" data-code="7673" code="1df9" title="combining wide inverted bridge below">᷹</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="7675" code="1dfb" title="combining deletion mark">᷻</li>
+    <li class="symb" data-code="7676" code="1dfc" title="combining double inverted breve below">᷼</li>
+    <li class="symb" data-code="7677" code="1dfd" title="combining almost equal to below">᷽</li>
+    <li class="symb" data-code="7678" code="1dfe" title="combining left arrowhead above">᷾</li>
+    <li class="symb" data-code="7679" code="1dff" title="combining right arrowhead and down arrowhead below">᷿</li>
+  </ul>
+</root>

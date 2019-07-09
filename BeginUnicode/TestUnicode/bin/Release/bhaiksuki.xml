@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">11c00</li>
+    <li class="symb" data-code="72704" code="11c00" title="bhaiksuki letter a">𑰀</li>
+    <li class="symb" data-code="72705" code="11c01" title="bhaiksuki letter aa">𑰁</li>
+    <li class="symb" data-code="72706" code="11c02" title="bhaiksuki letter i">𑰂</li>
+    <li class="symb" data-code="72707" code="11c03" title="bhaiksuki letter ii">𑰃</li>
+    <li class="symb" data-code="72708" code="11c04" title="bhaiksuki letter u">𑰄</li>
+    <li class="symb" data-code="72709" code="11c05" title="bhaiksuki letter uu">𑰅</li>
+    <li class="symb" data-code="72710" code="11c06" title="bhaiksuki letter vocalic r">𑰆</li>
+    <li class="symb" data-code="72711" code="11c07" title="bhaiksuki letter vocalic rr">𑰇</li>
+    <li class="symb" data-code="72712" code="11c08" title="bhaiksuki letter vocalic l">𑰈</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="72714" code="11c0a" title="bhaiksuki letter e">𑰊</li>
+    <li class="symb" data-code="72715" code="11c0b" title="bhaiksuki letter ai">𑰋</li>
+    <li class="symb" data-code="72716" code="11c0c" title="bhaiksuki letter o">𑰌</li>
+    <li class="symb" data-code="72717" code="11c0d" title="bhaiksuki letter au">𑰍</li>
+    <li class="symb" data-code="72718" code="11c0e" title="bhaiksuki letter ka">𑰎</li>
+    <li class="symb" data-code="72719" code="11c0f" title="bhaiksuki letter kha">𑰏</li>
+    <li class="h">11c10</li>
+    <li class="symb" data-code="72720" code="11c10" title="bhaiksuki letter ga">𑰐</li>
+    <li class="symb" data-code="72721" code="11c11" title="bhaiksuki letter gha">𑰑</li>
+    <li class="symb" data-code="72722" code="11c12" title="bhaiksuki letter nga">𑰒</li>
+    <li class="symb" data-code="72723" code="11c13" title="bhaiksuki letter ca">𑰓</li>
+    <li class="symb" data-code="72724" code="11c14" title="bhaiksuki letter cha">𑰔</li>
+    <li class="symb" data-code="72725" code="11c15" title="bhaiksuki letter ja">𑰕</li>
+    <li class="symb" data-code="72726" code="11c16" title="bhaiksuki letter jha">𑰖</li>
+    <li class="symb" data-code="72727" code="11c17" title="bhaiksuki letter nya">𑰗</li>
+    <li class="symb" data-code="72728" code="11c18" title="bhaiksuki letter tta">𑰘</li>
+    <li class="symb" data-code="72729" code="11c19" title="bhaiksuki letter ttha">𑰙</li>
+    <li class="symb" data-code="72730" code="11c1a" title="bhaiksuki letter dda">𑰚</li>
+    <li class="symb" data-code="72731" code="11c1b" title="bhaiksuki letter ddha">𑰛</li>
+    <li class="symb" data-code="72732" code="11c1c" title="bhaiksuki letter nna">𑰜</li>
+    <li class="symb" data-code="72733" code="11c1d" title="bhaiksuki letter ta">𑰝</li>
+    <li class="symb" data-code="72734" code="11c1e" title="bhaiksuki letter tha">𑰞</li>
+    <li class="symb" data-code="72735" code="11c1f" title="bhaiksuki letter da">𑰟</li>
+    <li class="h">11c20</li>
+    <li class="symb" data-code="72736" code="11c20" title="bhaiksuki letter dha">𑰠</li>
+    <li class="symb" data-code="72737" code="11c21" title="bhaiksuki letter na">𑰡</li>
+    <li class="symb" data-code="72738" code="11c22" title="bhaiksuki letter pa">𑰢</li>
+    <li class="symb" data-code="72739" code="11c23" title="bhaiksuki letter pha">𑰣</li>
+    <li class="symb" data-code="72740" code="11c24" title="bhaiksuki letter ba">𑰤</li>
+    <li class="symb" data-code="72741" code="11c25" title="bhaiksuki letter bha">𑰥</li>
+    <li class="symb" data-code="72742" code="11c26" title="bhaiksuki letter ma">𑰦</li>
+    <li class="symb" data-code="72743" code="11c27" title="bhaiksuki letter ya">𑰧</li>
+    <li class="symb" data-code="72744" code="11c28" title="bhaiksuki letter ra">𑰨</li>
+    <li class="symb" data-code="72745" code="11c29" title="bhaiksuki letter la">𑰩</li>
+    <li class="symb" data-code="72746" code="11c2a" title="bhaiksuki letter va">𑰪</li>
+    <li class="symb" data-code="72747" code="11c2b" title="bhaiksuki letter sha">𑰫</li>
+    <li class="symb" data-code="72748" code="11c2c" title="bhaiksuki letter ssa">𑰬</li>
+    <li class="symb" data-code="72749" code="11c2d" title="bhaiksuki letter sa">𑰭</li>
+    <li class="symb" data-code="72750" code="11c2e" title="bhaiksuki letter ha">𑰮</li>
+    <li class="symb" data-code="72751" code="11c2f" title="bhaiksuki vowel sign aa">𑰯</li>
+    <li class="h">11c30</li>
+    <li class="symb" data-code="72752" code="11c30" title="bhaiksuki vowel sign i">𑰰</li>
+    <li class="symb" data-code="72753" code="11c31" title="bhaiksuki vowel sign ii">𑰱</li>
+    <li class="symb" data-code="72754" code="11c32" title="bhaiksuki vowel sign u">𑰲</li>
+    <li class="symb" data-code="72755" code="11c33" title="bhaiksuki vowel sign uu">𑰳</li>
+    <li class="symb" data-code="72756" code="11c34" title="bhaiksuki vowel sign vocalic r">𑰴</li>
+    <li class="symb" data-code="72757" code="11c35" title="bhaiksuki vowel sign vocalic rr">𑰵</li>
+    <li class="symb" data-code="72758" code="11c36" title="bhaiksuki vowel sign vocalic l">𑰶</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="72760" code="11c38" title="bhaiksuki vowel sign e">𑰸</li>
+    <li class="symb" data-code="72761" code="11c39" title="bhaiksuki vowel sign ai">𑰹</li>
+    <li class="symb" data-code="72762" code="11c3a" title="bhaiksuki vowel sign o">𑰺</li>
+    <li class="symb" data-code="72763" code="11c3b" title="bhaiksuki vowel sign au">𑰻</li>
+    <li class="symb" data-code="72764" code="11c3c" title="bhaiksuki sign candrabindu">𑰼</li>
+    <li class="symb" data-code="72765" code="11c3d" title="bhaiksuki sign anusvara">𑰽</li>
+    <li class="symb" data-code="72766" code="11c3e" title="bhaiksuki sign visarga">𑰾</li>
+    <li class="symb" data-code="72767" code="11c3f" title="bhaiksuki sign virama">𑰿</li>
+    <li class="h">11c40</li>
+    <li class="symb" data-code="72768" code="11c40" title="bhaiksuki sign avagraha">𑱀</li>
+    <li class="symb" data-code="72769" code="11c41" title="bhaiksuki danda">𑱁</li>
+    <li class="symb" data-code="72770" code="11c42" title="bhaiksuki double danda">𑱂</li>
+    <li class="symb" data-code="72771" code="11c43" title="bhaiksuki word separator">𑱃</li>
+    <li class="symb" data-code="72772" code="11c44" title="bhaiksuki gap filler-1">𑱄</li>
+    <li class="symb" data-code="72773" code="11c45" title="bhaiksuki gap filler-2">𑱅</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">11c50</li>
+    <li class="symb" data-code="72784" code="11c50" title="bhaiksuki digit zero">𑱐</li>
+    <li class="symb" data-code="72785" code="11c51" title="bhaiksuki digit one">𑱑</li>
+    <li class="symb" data-code="72786" code="11c52" title="bhaiksuki digit two">𑱒</li>
+    <li class="symb" data-code="72787" code="11c53" title="bhaiksuki digit three">𑱓</li>
+    <li class="symb" data-code="72788" code="11c54" title="bhaiksuki digit four">𑱔</li>
+    <li class="symb" data-code="72789" code="11c55" title="bhaiksuki digit five">𑱕</li>
+    <li class="symb" data-code="72790" code="11c56" title="bhaiksuki digit six">𑱖</li>
+    <li class="symb" data-code="72791" code="11c57" title="bhaiksuki digit seven">𑱗</li>
+    <li class="symb" data-code="72792" code="11c58" title="bhaiksuki digit eight">𑱘</li>
+    <li class="symb" data-code="72793" code="11c59" title="bhaiksuki digit nine">𑱙</li>
+    <li class="symb" data-code="72794" code="11c5a" title="bhaiksuki number one">𑱚</li>
+    <li class="symb" data-code="72795" code="11c5b" title="bhaiksuki number two">𑱛</li>
+    <li class="symb" data-code="72796" code="11c5c" title="bhaiksuki number three">𑱜</li>
+    <li class="symb" data-code="72797" code="11c5d" title="bhaiksuki number four">𑱝</li>
+    <li class="symb" data-code="72798" code="11c5e" title="bhaiksuki number five">𑱞</li>
+    <li class="symb" data-code="72799" code="11c5f" title="bhaiksuki number six">𑱟</li>
+    <li class="h">11c60</li>
+    <li class="symb" data-code="72800" code="11c60" title="bhaiksuki number seven">𑱠</li>
+    <li class="symb" data-code="72801" code="11c61" title="bhaiksuki number eight">𑱡</li>
+    <li class="symb" data-code="72802" code="11c62" title="bhaiksuki number nine">𑱢</li>
+    <li class="symb" data-code="72803" code="11c63" title="bhaiksuki number ten">𑱣</li>
+    <li class="symb" data-code="72804" code="11c64" title="bhaiksuki number twenty">𑱤</li>
+    <li class="symb" data-code="72805" code="11c65" title="bhaiksuki number thirty">𑱥</li>
+    <li class="symb" data-code="72806" code="11c66" title="bhaiksuki number forty">𑱦</li>
+    <li class="symb" data-code="72807" code="11c67" title="bhaiksuki number fifty">𑱧</li>
+    <li class="symb" data-code="72808" code="11c68" title="bhaiksuki number sixty">𑱨</li>
+    <li class="symb" data-code="72809" code="11c69" title="bhaiksuki number seventy">𑱩</li>
+    <li class="symb" data-code="72810" code="11c6a" title="bhaiksuki number eighty">𑱪</li>
+    <li class="symb" data-code="72811" code="11c6b" title="bhaiksuki number ninety">𑱫</li>
+    <li class="symb" data-code="72812" code="11c6c" title="bhaiksuki hundreds unit mark">𑱬</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">a640</li>
+    <li class="symb" data-code="42560" code="a640" title="cyrillic capital letter zemlya">ꙁ</li>
+    <li class="symb" data-code="42561" code="a641" title="cyrillic small letter zemlya">ꙁ</li>
+    <li class="symb" data-code="42562" code="a642" title="cyrillic capital letter dzelo">ꙃ</li>
+    <li class="symb" data-code="42563" code="a643" title="cyrillic small letter dzelo">ꙃ</li>
+    <li class="symb" data-code="42564" code="a644" title="cyrillic capital letter reversed dze">ꙅ</li>
+    <li class="symb" data-code="42565" code="a645" title="cyrillic small letter reversed dze">ꙅ</li>
+    <li class="symb" data-code="42566" code="a646" title="cyrillic capital letter iota">ꙇ</li>
+    <li class="symb" data-code="42567" code="a647" title="cyrillic small letter iota">ꙇ</li>
+    <li class="symb" data-code="42568" code="a648" title="cyrillic capital letter djerv">ꙉ</li>
+    <li class="symb" data-code="42569" code="a649" title="cyrillic small letter djerv">ꙉ</li>
+    <li class="symb" data-code="42570" code="a64a" title="cyrillic capital letter monograph uk">ꙋ</li>
+    <li class="symb" data-code="42571" code="a64b" title="cyrillic small letter monograph uk">ꙋ</li>
+    <li class="symb" data-code="42572" code="a64c" title="cyrillic capital letter broad omega">ꙍ</li>
+    <li class="symb" data-code="42573" code="a64d" title="cyrillic small letter broad omega">ꙍ</li>
+    <li class="symb" data-code="42574" code="a64e" title="cyrillic capital letter neutral yer">ꙏ</li>
+    <li class="symb" data-code="42575" code="a64f" title="cyrillic small letter neutral yer">ꙏ</li>
+    <li class="h">a650</li>
+    <li class="symb" data-code="42576" code="a650" title="cyrillic capital letter yeru with back yer">ꙑ</li>
+    <li class="symb" data-code="42577" code="a651" title="cyrillic small letter yeru with back yer">ꙑ</li>
+    <li class="symb" data-code="42578" code="a652" title="cyrillic capital letter iotified yat">ꙓ</li>
+    <li class="symb" data-code="42579" code="a653" title="cyrillic small letter iotified yat">ꙓ</li>
+    <li class="symb" data-code="42580" code="a654" title="cyrillic capital letter reversed yu">ꙕ</li>
+    <li class="symb" data-code="42581" code="a655" title="cyrillic small letter reversed yu">ꙕ</li>
+    <li class="symb" data-code="42582" code="a656" title="cyrillic capital letter iotified a">ꙗ</li>
+    <li class="symb" data-code="42583" code="a657" title="cyrillic small letter iotified a">ꙗ</li>
+    <li class="symb" data-code="42584" code="a658" title="cyrillic capital letter closed little yus">ꙙ</li>
+    <li class="symb" data-code="42585" code="a659" title="cyrillic small letter closed little yus">ꙙ</li>
+    <li class="symb" data-code="42586" code="a65a" title="cyrillic capital letter blended yus">ꙛ</li>
+    <li class="symb" data-code="42587" code="a65b" title="cyrillic small letter blended yus">ꙛ</li>
+    <li class="symb" data-code="42588" code="a65c" title="cyrillic capital letter iotified closed little yus">ꙝ</li>
+    <li class="symb" data-code="42589" code="a65d" title="cyrillic small letter iotified closed little yus">ꙝ</li>
+    <li class="symb" data-code="42590" code="a65e" title="cyrillic capital letter yn">ꙟ</li>
+    <li class="symb" data-code="42591" code="a65f" title="cyrillic small letter yn">ꙟ</li>
+    <li class="h">a660</li>
+    <li class="symb" data-code="42592" code="a660" title="cyrillic capital letter reversed tse">Ꙡ</li>
+    <li class="symb" data-code="42593" code="a661" title="cyrillic small letter reversed tse">ꙡ</li>
+    <li class="symb" data-code="42594" code="a662" title="cyrillic capital letter soft de">ꙣ</li>
+    <li class="symb" data-code="42595" code="a663" title="cyrillic small letter soft de">ꙣ</li>
+    <li class="symb" data-code="42596" code="a664" title="cyrillic capital letter soft el">ꙥ</li>
+    <li class="symb" data-code="42597" code="a665" title="cyrillic small letter soft el">ꙥ</li>
+    <li class="symb" data-code="42598" code="a666" title="cyrillic capital letter soft em">ꙧ</li>
+    <li class="symb" data-code="42599" code="a667" title="cyrillic small letter soft em">ꙧ</li>
+    <li class="symb" data-code="42600" code="a668" title="cyrillic capital letter monocular o">ꙩ</li>
+    <li class="symb" data-code="42601" code="a669" title="cyrillic small letter monocular o">ꙩ</li>
+    <li class="symb" data-code="42602" code="a66a" title="cyrillic capital letter binocular o">ꙫ</li>
+    <li class="symb" data-code="42603" code="a66b" title="cyrillic small letter binocular o">ꙫ</li>
+    <li class="symb" data-code="42604" code="a66c" title="cyrillic capital letter double monocular o">ꙭ</li>
+    <li class="symb" data-code="42605" code="a66d" title="cyrillic small letter double monocular o">ꙭ</li>
+    <li class="symb" data-code="42606" code="a66e" title="cyrillic letter multiocular o">ꙮ</li>
+    <li class="symb" data-code="42607" code="a66f" title="combining cyrillic vzmet">꙯</li>
+    <li class="h">a670</li>
+    <li class="symb" data-code="42608" code="a670" title="combining cyrillic ten millions sign">꙰</li>
+    <li class="symb" data-code="42609" code="a671" title="combining cyrillic hundred millions sign">꙱</li>
+    <li class="symb" data-code="42610" code="a672" title="combining cyrillic thousand millions sign">꙲</li>
+    <li class="symb" data-code="42611" code="a673" title="slavonic asterisk">꙳</li>
+    <li class="symb" data-code="42612" code="a674" title="combining cyrillic letter ukrainian ie">ꙴ</li>
+    <li class="symb" data-code="42613" code="a675" title="combining cyrillic letter i">ꙵ</li>
+    <li class="symb" data-code="42614" code="a676" title="combining cyrillic letter yi">ꙶ</li>
+    <li class="symb" data-code="42615" code="a677" title="combining cyrillic letter u">ꙷ</li>
+    <li class="symb" data-code="42616" code="a678" title="combining cyrillic letter hard sign">ꙸ</li>
+    <li class="symb" data-code="42617" code="a679" title="combining cyrillic letter yeru">ꙹ</li>
+    <li class="symb" data-code="42618" code="a67a" title="combining cyrillic letter soft sign">ꙺ</li>
+    <li class="symb" data-code="42619" code="a67b" title="combining cyrillic letter omega">ꙻ</li>
+    <li class="symb" data-code="42620" code="a67c" title="combining cyrillic kavyka">꙼</li>
+    <li class="symb" data-code="42621" code="a67d" title="combining cyrillic payerok">꙽</li>
+    <li class="symb" data-code="42622" code="a67e" title="cyrillic kavyka">꙾</li>
+    <li class="symb" data-code="42623" code="a67f" title="cyrillic payerok">ꙿ</li>
+    <li class="h">a680</li>
+    <li class="symb" data-code="42624" code="a680" title="cyrillic capital letter dwe">ꚁ</li>
+    <li class="symb" data-code="42625" code="a681" title="cyrillic small letter dwe">ꚁ</li>
+    <li class="symb" data-code="42626" code="a682" title="cyrillic capital letter dzwe">ꚃ</li>
+    <li class="symb" data-code="42627" code="a683" title="cyrillic small letter dzwe">ꚃ</li>
+    <li class="symb" data-code="42628" code="a684" title="cyrillic capital letter zhwe">ꚅ</li>
+    <li class="symb" data-code="42629" code="a685" title="cyrillic small letter zhwe">ꚅ</li>
+    <li class="symb" data-code="42630" code="a686" title="cyrillic capital letter cche">ꚇ</li>
+    <li class="symb" data-code="42631" code="a687" title="cyrillic small letter cche">ꚇ</li>
+    <li class="symb" data-code="42632" code="a688" title="cyrillic capital letter dzze">ꚉ</li>
+    <li class="symb" data-code="42633" code="a689" title="cyrillic small letter dzze">ꚉ</li>
+    <li class="symb" data-code="42634" code="a68a" title="cyrillic capital letter te with middle hook">ꚋ</li>
+    <li class="symb" data-code="42635" code="a68b" title="cyrillic small letter te with middle hook">ꚋ</li>
+    <li class="symb" data-code="42636" code="a68c" title="cyrillic capital letter twe">ꚍ</li>
+    <li class="symb" data-code="42637" code="a68d" title="cyrillic small letter twe">ꚍ</li>
+    <li class="symb" data-code="42638" code="a68e" title="cyrillic capital letter tswe">ꚏ</li>
+    <li class="symb" data-code="42639" code="a68f" title="cyrillic small letter tswe">ꚏ</li>
+    <li class="h">a690</li>
+    <li class="symb" data-code="42640" code="a690" title="cyrillic capital letter tsse">ꚑ</li>
+    <li class="symb" data-code="42641" code="a691" title="cyrillic small letter tsse">ꚑ</li>
+    <li class="symb" data-code="42642" code="a692" title="cyrillic capital letter tche">ꚓ</li>
+    <li class="symb" data-code="42643" code="a693" title="cyrillic small letter tche">ꚓ</li>
+    <li class="symb" data-code="42644" code="a694" title="cyrillic capital letter hwe">ꚕ</li>
+    <li class="symb" data-code="42645" code="a695" title="cyrillic small letter hwe">ꚕ</li>
+    <li class="symb" data-code="42646" code="a696" title="cyrillic capital letter shwe">ꚗ</li>
+    <li class="symb" data-code="42647" code="a697" title="cyrillic small letter shwe">ꚗ</li>
+    <li class="symb" data-code="42648" code="a698" title="cyrillic capital letter double o">Ꚙ</li>
+    <li class="symb" data-code="42649" code="a699" title="cyrillic small letter double o">ꚙ</li>
+    <li class="symb" data-code="42650" code="a69a" title="cyrillic capital letter crossed o">Ꚛ</li>
+    <li class="symb" data-code="42651" code="a69b" title="cyrillic small letter crossed o">ꚛ</li>
+    <li class="symb" data-code="42652" code="a69c" title="modifier letter cyrillic hard sign">ꚜ</li>
+    <li class="symb" data-code="42653" code="a69d" title="modifier letter cyrillic soft sign">ꚝ</li>
+    <li class="symb" data-code="42654" code="a69e" title="combining cyrillic letter ef">ꚞ</li>
+    <li class="symb" data-code="42655" code="a69f" title="combining cyrillic letter iotified e">ꚟ</li>
+  </ul>
+</root>

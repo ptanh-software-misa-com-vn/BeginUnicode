@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2600</li>
+    <li class="symb" data-code="9728" code="2600" title="black sun with rays">☀</li>
+    <li class="symb" data-code="9729" code="2601" title="cloud">☁</li>
+    <li class="symb" data-code="9730" code="2602" title="umbrella">☂</li>
+    <li class="symb" data-code="9731" code="2603" title="snowman">☃</li>
+    <li class="symb" data-code="9732" code="2604" title="comet">☄</li>
+    <li class="symb" data-code="9733" code="2605" title="black star">★</li>
+    <li class="symb" data-code="9734" code="2606" title="white star">☆</li>
+    <li class="symb" data-code="9735" code="2607" title="lightning">☇</li>
+    <li class="symb" data-code="9736" code="2608" title="thunderstorm">☈</li>
+    <li class="symb" data-code="9737" code="2609" title="sun">☉</li>
+    <li class="symb" data-code="9738" code="260a" title="ascending node">☊</li>
+    <li class="symb" data-code="9739" code="260b" title="descending node">☋</li>
+    <li class="symb" data-code="9740" code="260c" title="conjunction">☌</li>
+    <li class="symb" data-code="9741" code="260d" title="opposition">☍</li>
+    <li class="symb" data-code="9742" code="260e" title="black telephone">☎</li>
+    <li class="symb" data-code="9743" code="260f" title="white telephone">☏</li>
+    <li class="h">2610</li>
+    <li class="symb" data-code="9744" code="2610" title="ballot box">☐</li>
+    <li class="symb" data-code="9745" code="2611" title="ballot box with check">☑</li>
+    <li class="symb" data-code="9746" code="2612" title="ballot box with x">☒</li>
+    <li class="symb" data-code="9747" code="2613" title="saltire">☓</li>
+    <li class="symb" data-code="9748" code="2614" title="umbrella with rain drops">☔</li>
+    <li class="symb" data-code="9749" code="2615" title="hot beverage">☕</li>
+    <li class="symb" data-code="9750" code="2616" title="white shogi piece">☖</li>
+    <li class="symb" data-code="9751" code="2617" title="black shogi piece">☗</li>
+    <li class="symb" data-code="9752" code="2618" title="shamrock">☘</li>
+    <li class="symb" data-code="9753" code="2619" title="reversed rotated floral heart bullet">☙</li>
+    <li class="symb" data-code="9754" code="261a" title="black left pointing index">☚</li>
+    <li class="symb" data-code="9755" code="261b" title="black right pointing index">☛</li>
+    <li class="symb" data-code="9756" code="261c" title="white left pointing index">☜</li>
+    <li class="symb" data-code="9757" code="261d" title="white up pointing index">☝</li>
+    <li class="symb" data-code="9758" code="261e" title="white right pointing index">☞</li>
+    <li class="symb" data-code="9759" code="261f" title="white down pointing index">☟</li>
+    <li class="h">2620</li>
+    <li class="symb" data-code="9760" code="2620" title="skull and crossbones">☠</li>
+    <li class="symb" data-code="9761" code="2621" title="caution sign">☡</li>
+    <li class="symb" data-code="9762" code="2622" title="radioactive sign">☢</li>
+    <li class="symb" data-code="9763" code="2623" title="biohazard sign">☣</li>
+    <li class="symb" data-code="9764" code="2624" title="caduceus">☤</li>
+    <li class="symb" data-code="9765" code="2625" title="ankh">☥</li>
+    <li class="symb" data-code="9766" code="2626" title="orthodox cross">☦</li>
+    <li class="symb" data-code="9767" code="2627" title="chi rho">☧</li>
+    <li class="symb" data-code="9768" code="2628" title="cross of lorraine">☨</li>
+    <li class="symb" data-code="9769" code="2629" title="cross of jerusalem">☩</li>
+    <li class="symb" data-code="9770" code="262a" title="star and crescent">☪</li>
+    <li class="symb" data-code="9771" code="262b" title="farsi symbol">☫</li>
+    <li class="symb" data-code="9772" code="262c" title="adi shakti">☬</li>
+    <li class="symb" data-code="9773" code="262d" title="hammer and sickle">☭</li>
+    <li class="symb" data-code="9774" code="262e" title="peace symbol">☮</li>
+    <li class="symb" data-code="9775" code="262f" title="yin yang">☯</li>
+    <li class="h">2630</li>
+    <li class="symb" data-code="9776" code="2630" title="trigram for heaven">☰</li>
+    <li class="symb" data-code="9777" code="2631" title="trigram for lake">☱</li>
+    <li class="symb" data-code="9778" code="2632" title="trigram for fire">☲</li>
+    <li class="symb" data-code="9779" code="2633" title="trigram for thunder">☳</li>
+    <li class="symb" data-code="9780" code="2634" title="trigram for wind">☴</li>
+    <li class="symb" data-code="9781" code="2635" title="trigram for water">☵</li>
+    <li class="symb" data-code="9782" code="2636" title="trigram for mountain">☶</li>
+    <li class="symb" data-code="9783" code="2637" title="trigram for earth">☷</li>
+    <li class="symb" data-code="9784" code="2638" title="wheel of dharma">☸</li>
+    <li class="symb" data-code="9785" code="2639" title="white frowning face">☹</li>
+    <li class="symb" data-code="9786" code="263a" title="white smiling face">☺</li>
+    <li class="symb" data-code="9787" code="263b" title="black smiling face">☻</li>
+    <li class="symb" data-code="9788" code="263c" title="white sun with rays">☼</li>
+    <li class="symb" data-code="9789" code="263d" title="first quarter moon">☽</li>
+    <li class="symb" data-code="9790" code="263e" title="last quarter moon">☾</li>
+    <li class="symb" data-code="9791" code="263f" title="mercury">☿</li>
+    <li class="h">2640</li>
+    <li class="symb" data-code="9792" code="2640" title="female sign">♀</li>
+    <li class="symb" data-code="9793" code="2641" title="earth">♁</li>
+    <li class="symb" data-code="9794" code="2642" title="male sign">♂</li>
+    <li class="symb" data-code="9795" code="2643" title="jupiter">♃</li>
+    <li class="symb" data-code="9796" code="2644" title="saturn">♄</li>
+    <li class="symb" data-code="9797" code="2645" title="uranus">♅</li>
+    <li class="symb" data-code="9798" code="2646" title="neptune">♆</li>
+    <li class="symb" data-code="9799" code="2647" title="pluto">♇</li>
+    <li class="symb" data-code="9800" code="2648" title="aries">♈</li>
+    <li class="symb" data-code="9801" code="2649" title="taurus">♉</li>
+    <li class="symb" data-code="9802" code="264a" title="gemini">♊</li>
+    <li class="symb" data-code="9803" code="264b" title="cancer">♋</li>
+    <li class="symb" data-code="9804" code="264c" title="leo">♌</li>
+    <li class="symb" data-code="9805" code="264d" title="virgo">♍</li>
+    <li class="symb" data-code="9806" code="264e" title="libra">♎</li>
+    <li class="symb" data-code="9807" code="264f" title="scorpius">♏</li>
+    <li class="h">2650</li>
+    <li class="symb" data-code="9808" code="2650" title="sagittarius">♐</li>
+    <li class="symb" data-code="9809" code="2651" title="capricorn">♑</li>
+    <li class="symb" data-code="9810" code="2652" title="aquarius">♒</li>
+    <li class="symb" data-code="9811" code="2653" title="pisces">♓</li>
+    <li class="symb" data-code="9812" code="2654" title="white chess king">♔</li>
+    <li class="symb" data-code="9813" code="2655" title="white chess queen">♕</li>
+    <li class="symb" data-code="9814" code="2656" title="white chess rook">♖</li>
+    <li class="symb" data-code="9815" code="2657" title="white chess bishop">♗</li>
+    <li class="symb" data-code="9816" code="2658" title="white chess knight">♘</li>
+    <li class="symb" data-code="9817" code="2659" title="white chess pawn">♙</li>
+    <li class="symb" data-code="9818" code="265a" title="black chess king">♚</li>
+    <li class="symb" data-code="9819" code="265b" title="black chess queen">♛</li>
+    <li class="symb" data-code="9820" code="265c" title="black chess rook">♜</li>
+    <li class="symb" data-code="9821" code="265d" title="black chess bishop">♝</li>
+    <li class="symb" data-code="9822" code="265e" title="black chess knight">♞</li>
+    <li class="symb" data-code="9823" code="265f" title="black chess pawn">♟</li>
+    <li class="h">2660</li>
+    <li class="symb" data-code="9824" code="2660" title="black spade suit">♠</li>
+    <li class="symb" data-code="9825" code="2661" title="white heart suit">♡</li>
+    <li class="symb" data-code="9826" code="2662" title="white diamond suit">♢</li>
+    <li class="symb" data-code="9827" code="2663" title="black club suit">♣</li>
+    <li class="symb" data-code="9828" code="2664" title="white spade suit">♤</li>
+    <li class="symb" data-code="9829" code="2665" title="black heart suit">♥</li>
+    <li class="symb" data-code="9830" code="2666" title="black diamond suit">♦</li>
+    <li class="symb" data-code="9831" code="2667" title="white club suit">♧</li>
+    <li class="symb" data-code="9832" code="2668" title="hot springs">♨</li>
+    <li class="symb" data-code="9833" code="2669" title="quarter note">♩</li>
+    <li class="symb" data-code="9834" code="266a" title="eighth note">♪</li>
+    <li class="symb" data-code="9835" code="266b" title="beamed eighth notes">♫</li>
+    <li class="symb" data-code="9836" code="266c" title="beamed sixteenth notes">♬</li>
+    <li class="symb" data-code="9837" code="266d" title="music flat sign">♭</li>
+    <li class="symb" data-code="9838" code="266e" title="music natural sign">♮</li>
+    <li class="symb" data-code="9839" code="266f" title="music sharp sign">♯</li>
+    <li class="h">2670</li>
+    <li class="symb" data-code="9840" code="2670" title="west syriac cross">♰</li>
+    <li class="symb" data-code="9841" code="2671" title="east syriac cross">♱</li>
+    <li class="symb" data-code="9842" code="2672" title="universal recycling symbol">♲</li>
+    <li class="symb" data-code="9843" code="2673" title="recycling symbol for type-1 plastics">♳</li>
+    <li class="symb" data-code="9844" code="2674" title="recycling symbol for type-2 plastics">♴</li>
+    <li class="symb" data-code="9845" code="2675" title="recycling symbol for type-3 plastics">♵</li>
+    <li class="symb" data-code="9846" code="2676" title="recycling symbol for type-4 plastics">♶</li>
+    <li class="symb" data-code="9847" code="2677" title="recycling symbol for type-5 plastics">♷</li>
+    <li class="symb" data-code="9848" code="2678" title="recycling symbol for type-6 plastics">♸</li>
+    <li class="symb" data-code="9849" code="2679" title="recycling symbol for type-7 plastics">♹</li>
+    <li class="symb" data-code="9850" code="267a" title="recycling symbol for generic materials">♺</li>
+    <li class="symb" data-code="9851" code="267b" title="black universal recycling symbol">♻</li>
+    <li class="symb" data-code="9852" code="267c" title="recycled paper symbol">♼</li>
+    <li class="symb" data-code="9853" code="267d" title="partially-recycled paper symbol">♽</li>
+    <li class="symb" data-code="9854" code="267e" title="permanent paper sign">♾</li>
+    <li class="symb" data-code="9855" code="267f" title="wheelchair symbol">♿</li>
+    <li class="h">2680</li>
+    <li class="symb" data-code="9856" code="2680" title="die face-1">⚀</li>
+    <li class="symb" data-code="9857" code="2681" title="die face-2">⚁</li>
+    <li class="symb" data-code="9858" code="2682" title="die face-3">⚂</li>
+    <li class="symb" data-code="9859" code="2683" title="die face-4">⚃</li>
+    <li class="symb" data-code="9860" code="2684" title="die face-5">⚄</li>
+    <li class="symb" data-code="9861" code="2685" title="die face-6">⚅</li>
+    <li class="symb" data-code="9862" code="2686" title="white circle with dot right">⚆</li>
+    <li class="symb" data-code="9863" code="2687" title="white circle with two dots">⚇</li>
+    <li class="symb" data-code="9864" code="2688" title="black circle with white dot right">⚈</li>
+    <li class="symb" data-code="9865" code="2689" title="black circle with two white dots">⚉</li>
+    <li class="symb" data-code="9866" code="268a" title="monogram for yang">⚊</li>
+    <li class="symb" data-code="9867" code="268b" title="monogram for yin">⚋</li>
+    <li class="symb" data-code="9868" code="268c" title="digram for greater yang">⚌</li>
+    <li class="symb" data-code="9869" code="268d" title="digram for lesser yin">⚍</li>
+    <li class="symb" data-code="9870" code="268e" title="digram for lesser yang">⚎</li>
+    <li class="symb" data-code="9871" code="268f" title="digram for greater yin">⚏</li>
+    <li class="h">2690</li>
+    <li class="symb" data-code="9872" code="2690" title="white flag">⚐</li>
+    <li class="symb" data-code="9873" code="2691" title="black flag">⚑</li>
+    <li class="symb" data-code="9874" code="2692" title="hammer and pick">⚒</li>
+    <li class="symb" data-code="9875" code="2693" title="anchor">⚓</li>
+    <li class="symb" data-code="9876" code="2694" title="crossed swords">⚔</li>
+    <li class="symb" data-code="9877" code="2695" title="staff of aesculapius">⚕</li>
+    <li class="symb" data-code="9878" code="2696" title="scales">⚖</li>
+    <li class="symb" data-code="9879" code="2697" title="alembic">⚗</li>
+    <li class="symb" data-code="9880" code="2698" title="flower">⚘</li>
+    <li class="symb" data-code="9881" code="2699" title="gear">⚙</li>
+    <li class="symb" data-code="9882" code="269a" title="staff of hermes">⚚</li>
+    <li class="symb" data-code="9883" code="269b" title="atom symbol">⚛</li>
+    <li class="symb" data-code="9884" code="269c" title="fleur-de-lis">⚜</li>
+    <li class="symb" data-code="9885" code="269d" title="outlined white star">⚝</li>
+    <li class="symb" data-code="9886" code="269e" title="three lines converging right">⚞</li>
+    <li class="symb" data-code="9887" code="269f" title="three lines converging left">⚟</li>
+    <li class="h">26a0</li>
+    <li class="symb" data-code="9888" code="26a0" title="warning sign">⚠</li>
+    <li class="symb" data-code="9889" code="26a1" title="high voltage sign">⚡</li>
+    <li class="symb" data-code="9890" code="26a2" title="doubled female sign">⚢</li>
+    <li class="symb" data-code="9891" code="26a3" title="doubled male sign">⚣</li>
+    <li class="symb" data-code="9892" code="26a4" title="interlocked female and male sign">⚤</li>
+    <li class="symb" data-code="9893" code="26a5" title="male and female sign">⚥</li>
+    <li class="symb" data-code="9894" code="26a6" title="male with stroke sign">⚦</li>
+    <li class="symb" data-code="9895" code="26a7" title="male with stroke and male and female sign">⚧</li>
+    <li class="symb" data-code="9896" code="26a8" title="vertical male with stroke sign">⚨</li>
+    <li class="symb" data-code="9897" code="26a9" title="horizontal male with stroke sign">⚩</li>
+    <li class="symb" data-code="9898" code="26aa" title="medium white circle">⚪</li>
+    <li class="symb" data-code="9899" code="26ab" title="medium black circle">⚫</li>
+    <li class="symb" data-code="9900" code="26ac" title="medium small white circle">⚬</li>
+    <li class="symb" data-code="9901" code="26ad" title="marriage symbol">⚭</li>
+    <li class="symb" data-code="9902" code="26ae" title="divorce symbol">⚮</li>
+    <li class="symb" data-code="9903" code="26af" title="unmarried partnership symbol">⚯</li>
+    <li class="h">26b0</li>
+    <li class="symb" data-code="9904" code="26b0" title="coffin">⚰</li>
+    <li class="symb" data-code="9905" code="26b1" title="funeral urn">⚱</li>
+    <li class="symb" data-code="9906" code="26b2" title="neuter">⚲</li>
+    <li class="symb" data-code="9907" code="26b3" title="ceres">⚳</li>
+    <li class="symb" data-code="9908" code="26b4" title="pallas">⚴</li>
+    <li class="symb" data-code="9909" code="26b5" title="juno">⚵</li>
+    <li class="symb" data-code="9910" code="26b6" title="vesta">⚶</li>
+    <li class="symb" data-code="9911" code="26b7" title="chiron">⚷</li>
+    <li class="symb" data-code="9912" code="26b8" title="black moon lilith">⚸</li>
+    <li class="symb" data-code="9913" code="26b9" title="sextile">⚹</li>
+    <li class="symb" data-code="9914" code="26ba" title="semisextile">⚺</li>
+    <li class="symb" data-code="9915" code="26bb" title="quincunx">⚻</li>
+    <li class="symb" data-code="9916" code="26bc" title="sesquiquadrate">⚼</li>
+    <li class="symb" data-code="9917" code="26bd" title="soccer ball">⚽</li>
+    <li class="symb" data-code="9918" code="26be" title="baseball">⚾</li>
+    <li class="symb" data-code="9919" code="26bf" title="squared key">⚿</li>
+    <li class="h">26c0</li>
+    <li class="symb" data-code="9920" code="26c0" title="white draughts man">⛀</li>
+    <li class="symb" data-code="9921" code="26c1" title="white draughts king">⛁</li>
+    <li class="symb" data-code="9922" code="26c2" title="black draughts man">⛂</li>
+    <li class="symb" data-code="9923" code="26c3" title="black draughts king">⛃</li>
+    <li class="symb" data-code="9924" code="26c4" title="snowman without snow">⛄</li>
+    <li class="symb" data-code="9925" code="26c5" title="sun behind cloud">⛅</li>
+    <li class="symb" data-code="9926" code="26c6" title="rain">⛆</li>
+    <li class="symb" data-code="9927" code="26c7" title="black snowman">⛇</li>
+    <li class="symb" data-code="9928" code="26c8" title="thunder cloud and rain">⛈</li>
+    <li class="symb" data-code="9929" code="26c9" title="turned white shogi piece">⛉</li>
+    <li class="symb" data-code="9930" code="26ca" title="turned black shogi piece">⛊</li>
+    <li class="symb" data-code="9931" code="26cb" title="white diamond in square">⛋</li>
+    <li class="symb" data-code="9932" code="26cc" title="crossing lanes">⛌</li>
+    <li class="symb" data-code="9933" code="26cd" title="disabled car">⛍</li>
+    <li class="symb" data-code="9934" code="26ce" title="ophiuchus">⛎</li>
+    <li class="symb" data-code="9935" code="26cf" title="pick">⛏</li>
+    <li class="h">26d0</li>
+    <li class="symb" data-code="9936" code="26d0" title="car sliding">⛐</li>
+    <li class="symb" data-code="9937" code="26d1" title="helmet with white cross">⛑</li>
+    <li class="symb" data-code="9938" code="26d2" title="circled crossing lanes">⛒</li>
+    <li class="symb" data-code="9939" code="26d3" title="chains">⛓</li>
+    <li class="symb" data-code="9940" code="26d4" title="no entry">⛔</li>
+    <li class="symb" data-code="9941" code="26d5" title="alternate one-way left way traffic">⛕</li>
+    <li class="symb" data-code="9942" code="26d6" title="black two-way left way traffic">⛖</li>
+    <li class="symb" data-code="9943" code="26d7" title="white two-way left way traffic">⛗</li>
+    <li class="symb" data-code="9944" code="26d8" title="black left lane merge">⛘</li>
+    <li class="symb" data-code="9945" code="26d9" title="white left lane merge">⛙</li>
+    <li class="symb" data-code="9946" code="26da" title="drive slow sign">⛚</li>
+    <li class="symb" data-code="9947" code="26db" title="heavy white down-pointing triangle">⛛</li>
+    <li class="symb" data-code="9948" code="26dc" title="left closed entry">⛜</li>
+    <li class="symb" data-code="9949" code="26dd" title="squared saltire">⛝</li>
+    <li class="symb" data-code="9950" code="26de" title="falling diagonal in white circle in black square">⛞</li>
+    <li class="symb" data-code="9951" code="26df" title="black truck">⛟</li>
+    <li class="h">26e0</li>
+    <li class="symb" data-code="9952" code="26e0" title="restricted left entry-1">⛠</li>
+    <li class="symb" data-code="9953" code="26e1" title="restricted left entry-2">⛡</li>
+    <li class="symb" data-code="9954" code="26e2" title="astronomical symbol for uranus">⛢</li>
+    <li class="symb" data-code="9955" code="26e3" title="heavy circle with stroke and two dots above">⛣</li>
+    <li class="symb" data-code="9956" code="26e4" title="pentagram">⛤</li>
+    <li class="symb" data-code="9957" code="26e5" title="right-handed interlaced pentagram">⛥</li>
+    <li class="symb" data-code="9958" code="26e6" title="left-handed interlaced pentagram">⛦</li>
+    <li class="symb" data-code="9959" code="26e7" title="inverted pentagram">⛧</li>
+    <li class="symb" data-code="9960" code="26e8" title="black cross on shield">⛨</li>
+    <li class="symb" data-code="9961" code="26e9" title="shinto shrine">⛩</li>
+    <li class="symb" data-code="9962" code="26ea" title="church">⛪</li>
+    <li class="symb" data-code="9963" code="26eb" title="castle">⛫</li>
+    <li class="symb" data-code="9964" code="26ec" title="historic site">⛬</li>
+    <li class="symb" data-code="9965" code="26ed" title="gear without hub">⛭</li>
+    <li class="symb" data-code="9966" code="26ee" title="gear with handles">⛮</li>
+    <li class="symb" data-code="9967" code="26ef" title="map symbol for lighthouse">⛯</li>
+    <li class="h">26f0</li>
+    <li class="symb" data-code="9968" code="26f0" title="mountain">⛰</li>
+    <li class="symb" data-code="9969" code="26f1" title="umbrella on ground">⛱</li>
+    <li class="symb" data-code="9970" code="26f2" title="fountain">⛲</li>
+    <li class="symb" data-code="9971" code="26f3" title="flag in hole">⛳</li>
+    <li class="symb" data-code="9972" code="26f4" title="ferry">⛴</li>
+    <li class="symb" data-code="9973" code="26f5" title="sailboat">⛵</li>
+    <li class="symb" data-code="9974" code="26f6" title="square four corners">⛶</li>
+    <li class="symb" data-code="9975" code="26f7" title="skier">⛷</li>
+    <li class="symb" data-code="9976" code="26f8" title="ice skate">⛸</li>
+    <li class="symb" data-code="9977" code="26f9" title="person with ball">⛹</li>
+    <li class="symb" data-code="9978" code="26fa" title="tent">⛺</li>
+    <li class="symb" data-code="9979" code="26fb" title="japanese bank symbol">⛻</li>
+    <li class="symb" data-code="9980" code="26fc" title="headstone graveyard symbol">⛼</li>
+    <li class="symb" data-code="9981" code="26fd" title="fuel pump">⛽</li>
+    <li class="symb" data-code="9982" code="26fe" title="cup on black square">⛾</li>
+    <li class="symb" data-code="9983" code="26ff" title="white flag with horizontal middle black stripe">⛿</li>
+  </ul>
+</root>

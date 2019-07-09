@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">10b60</li>
+    <li class="symb" data-code="68448" code="10b60" title="inscriptional pahlavi letter aleph">𐭠</li>
+    <li class="symb" data-code="68449" code="10b61" title="inscriptional pahlavi letter beth">𐭡</li>
+    <li class="symb" data-code="68450" code="10b62" title="inscriptional pahlavi letter gimel">𐭢</li>
+    <li class="symb" data-code="68451" code="10b63" title="inscriptional pahlavi letter daleth">𐭣</li>
+    <li class="symb" data-code="68452" code="10b64" title="inscriptional pahlavi letter he">𐭤</li>
+    <li class="symb" data-code="68453" code="10b65" title="inscriptional pahlavi letter waw-ayin-resh">𐭥</li>
+    <li class="symb" data-code="68454" code="10b66" title="inscriptional pahlavi letter zayin">𐭦</li>
+    <li class="symb" data-code="68455" code="10b67" title="inscriptional pahlavi letter heth">𐭧</li>
+    <li class="symb" data-code="68456" code="10b68" title="inscriptional pahlavi letter teth">𐭨</li>
+    <li class="symb" data-code="68457" code="10b69" title="inscriptional pahlavi letter yodh">𐭩</li>
+    <li class="symb" data-code="68458" code="10b6a" title="inscriptional pahlavi letter kaph">𐭪</li>
+    <li class="symb" data-code="68459" code="10b6b" title="inscriptional pahlavi letter lamedh">𐭫</li>
+    <li class="symb" data-code="68460" code="10b6c" title="inscriptional pahlavi letter mem-qoph">𐭬</li>
+    <li class="symb" data-code="68461" code="10b6d" title="inscriptional pahlavi letter nun">𐭭</li>
+    <li class="symb" data-code="68462" code="10b6e" title="inscriptional pahlavi letter samekh">𐭮</li>
+    <li class="symb" data-code="68463" code="10b6f" title="inscriptional pahlavi letter pe">𐭯</li>
+    <li class="h">10b70</li>
+    <li class="symb" data-code="68464" code="10b70" title="inscriptional pahlavi letter sadhe">𐭰</li>
+    <li class="symb" data-code="68465" code="10b71" title="inscriptional pahlavi letter shin">𐭱</li>
+    <li class="symb" data-code="68466" code="10b72" title="inscriptional pahlavi letter taw">𐭲</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="68472" code="10b78" title="inscriptional pahlavi number one">𐭸</li>
+    <li class="symb" data-code="68473" code="10b79" title="inscriptional pahlavi number two">𐭹</li>
+    <li class="symb" data-code="68474" code="10b7a" title="inscriptional pahlavi number three">𐭺</li>
+    <li class="symb" data-code="68475" code="10b7b" title="inscriptional pahlavi number four">𐭻</li>
+    <li class="symb" data-code="68476" code="10b7c" title="inscriptional pahlavi number ten">𐭼</li>
+    <li class="symb" data-code="68477" code="10b7d" title="inscriptional pahlavi number twenty">𐭽</li>
+    <li class="symb" data-code="68478" code="10b7e" title="inscriptional pahlavi number one hundred">𐭾</li>
+    <li class="symb" data-code="68479" code="10b7f" title="inscriptional pahlavi number one thousand">𐭿</li>
+  </ul>
+</root>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0d00</li>
+    <li class="symb" data-code="3328" code="0d00" title="malayalam sign combining anusvara above">ഀ</li>
+    <li class="symb" data-code="3329" code="0d01" title="malayalam sign candrabindu">ഁ</li>
+    <li class="symb" data-code="3330" code="0d02" title="malayalam sign anusvara">ം</li>
+    <li class="symb" data-code="3331" code="0d03" title="malayalam sign visarga">ഃ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3333" code="0d05" title="malayalam letter a">അ</li>
+    <li class="symb" data-code="3334" code="0d06" title="malayalam letter aa">ആ</li>
+    <li class="symb" data-code="3335" code="0d07" title="malayalam letter i">ഇ</li>
+    <li class="symb" data-code="3336" code="0d08" title="malayalam letter ii">ഈ</li>
+    <li class="symb" data-code="3337" code="0d09" title="malayalam letter u">ഉ</li>
+    <li class="symb" data-code="3338" code="0d0a" title="malayalam letter uu">ഊ</li>
+    <li class="symb" data-code="3339" code="0d0b" title="malayalam letter vocalic r">ഋ</li>
+    <li class="symb" data-code="3340" code="0d0c" title="malayalam letter vocalic l">ഌ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3342" code="0d0e" title="malayalam letter e">എ</li>
+    <li class="symb" data-code="3343" code="0d0f" title="malayalam letter ee">ഏ</li>
+    <li class="h">0d10</li>
+    <li class="symb" data-code="3344" code="0d10" title="malayalam letter ai">ഐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3346" code="0d12" title="malayalam letter o">ഒ</li>
+    <li class="symb" data-code="3347" code="0d13" title="malayalam letter oo">ഓ</li>
+    <li class="symb" data-code="3348" code="0d14" title="malayalam letter au">ഔ</li>
+    <li class="symb" data-code="3349" code="0d15" title="malayalam letter ka">ക</li>
+    <li class="symb" data-code="3350" code="0d16" title="malayalam letter kha">ഖ</li>
+    <li class="symb" data-code="3351" code="0d17" title="malayalam letter ga">ഗ</li>
+    <li class="symb" data-code="3352" code="0d18" title="malayalam letter gha">ഘ</li>
+    <li class="symb" data-code="3353" code="0d19" title="malayalam letter nga">ങ</li>
+    <li class="symb" data-code="3354" code="0d1a" title="malayalam letter ca">ച</li>
+    <li class="symb" data-code="3355" code="0d1b" title="malayalam letter cha">ഛ</li>
+    <li class="symb" data-code="3356" code="0d1c" title="malayalam letter ja">ജ</li>
+    <li class="symb" data-code="3357" code="0d1d" title="malayalam letter jha">ഝ</li>
+    <li class="symb" data-code="3358" code="0d1e" title="malayalam letter nya">ഞ</li>
+    <li class="symb" data-code="3359" code="0d1f" title="malayalam letter tta">ട</li>
+    <li class="h">0d20</li>
+    <li class="symb" data-code="3360" code="0d20" title="malayalam letter ttha">ഠ</li>
+    <li class="symb" data-code="3361" code="0d21" title="malayalam letter dda">ഡ</li>
+    <li class="symb" data-code="3362" code="0d22" title="malayalam letter ddha">ഢ</li>
+    <li class="symb" data-code="3363" code="0d23" title="malayalam letter nna">ണ</li>
+    <li class="symb" data-code="3364" code="0d24" title="malayalam letter ta">ത</li>
+    <li class="symb" data-code="3365" code="0d25" title="malayalam letter tha">ഥ</li>
+    <li class="symb" data-code="3366" code="0d26" title="malayalam letter da">ദ</li>
+    <li class="symb" data-code="3367" code="0d27" title="malayalam letter dha">ധ</li>
+    <li class="symb" data-code="3368" code="0d28" title="malayalam letter na">ന</li>
+    <li class="symb" data-code="3369" code="0d29" title="malayalam letter nnna">ഩ</li>
+    <li class="symb" data-code="3370" code="0d2a" title="malayalam letter pa">പ</li>
+    <li class="symb" data-code="3371" code="0d2b" title="malayalam letter pha">ഫ</li>
+    <li class="symb" data-code="3372" code="0d2c" title="malayalam letter ba">ബ</li>
+    <li class="symb" data-code="3373" code="0d2d" title="malayalam letter bha">ഭ</li>
+    <li class="symb" data-code="3374" code="0d2e" title="malayalam letter ma">മ</li>
+    <li class="symb" data-code="3375" code="0d2f" title="malayalam letter ya">യ</li>
+    <li class="h">0d30</li>
+    <li class="symb" data-code="3376" code="0d30" title="malayalam letter ra">ര</li>
+    <li class="symb" data-code="3377" code="0d31" title="malayalam letter rra">റ</li>
+    <li class="symb" data-code="3378" code="0d32" title="malayalam letter la">ല</li>
+    <li class="symb" data-code="3379" code="0d33" title="malayalam letter lla">ള</li>
+    <li class="symb" data-code="3380" code="0d34" title="malayalam letter llla">ഴ</li>
+    <li class="symb" data-code="3381" code="0d35" title="malayalam letter va">വ</li>
+    <li class="symb" data-code="3382" code="0d36" title="malayalam letter sha">ശ</li>
+    <li class="symb" data-code="3383" code="0d37" title="malayalam letter ssa">ഷ</li>
+    <li class="symb" data-code="3384" code="0d38" title="malayalam letter sa">സ</li>
+    <li class="symb" data-code="3385" code="0d39" title="malayalam letter ha">ഹ</li>
+    <li class="symb" data-code="3386" code="0d3a" title="malayalam letter ttta">ഺ</li>
+    <li class="symb" data-code="3387" code="0d3b" title="malayalam sign vertical bar virama">഻</li>
+    <li class="symb" data-code="3388" code="0d3c" title="malayalam sign circular virama">഼</li>
+    <li class="symb" data-code="3389" code="0d3d" title="malayalam sign avagraha">ഽ</li>
+    <li class="symb" data-code="3390" code="0d3e" title="malayalam vowel sign aa">ാ</li>
+    <li class="symb" data-code="3391" code="0d3f" title="malayalam vowel sign i">ി</li>
+    <li class="h">0d40</li>
+    <li class="symb" data-code="3392" code="0d40" title="malayalam vowel sign ii">ീ</li>
+    <li class="symb" data-code="3393" code="0d41" title="malayalam vowel sign u">ു</li>
+    <li class="symb" data-code="3394" code="0d42" title="malayalam vowel sign uu">ൂ</li>
+    <li class="symb" data-code="3395" code="0d43" title="malayalam vowel sign vocalic r">ൃ</li>
+    <li class="symb" data-code="3396" code="0d44" title="malayalam vowel sign vocalic rr">ൄ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3398" code="0d46" title="malayalam vowel sign e">െ</li>
+    <li class="symb" data-code="3399" code="0d47" title="malayalam vowel sign ee">േ</li>
+    <li class="symb" data-code="3400" code="0d48" title="malayalam vowel sign ai">ൈ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3402" code="0d4a" title="malayalam vowel sign o">ൊ</li>
+    <li class="symb" data-code="3403" code="0d4b" title="malayalam vowel sign oo">ോ</li>
+    <li class="symb" data-code="3404" code="0d4c" title="malayalam vowel sign au">ൌ</li>
+    <li class="symb" data-code="3405" code="0d4d" title="malayalam sign virama">്</li>
+    <li class="symb" data-code="3406" code="0d4e" title="malayalam letter dot reph">ൎ</li>
+    <li class="symb" data-code="3407" code="0d4f" title="malayalam sign para">൏</li>
+    <li class="h">0d50</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3412" code="0d54" title="malayalam letter chillu m">ൔ</li>
+    <li class="symb" data-code="3413" code="0d55" title="malayalam letter chillu y">ൕ</li>
+    <li class="symb" data-code="3414" code="0d56" title="malayalam letter chillu lll">ൖ</li>
+    <li class="symb" data-code="3415" code="0d57" title="malayalam au length mark">ൗ</li>
+    <li class="symb" data-code="3416" code="0d58" title="malayalam fraction one one-hundred-and-sixtieth">൘</li>
+    <li class="symb" data-code="3417" code="0d59" title="malayalam fraction one fortieth">൙</li>
+    <li class="symb" data-code="3418" code="0d5a" title="malayalam fraction three eightieths">൚</li>
+    <li class="symb" data-code="3419" code="0d5b" title="malayalam fraction one twentieth">൛</li>
+    <li class="symb" data-code="3420" code="0d5c" title="malayalam fraction one tenth">൜</li>
+    <li class="symb" data-code="3421" code="0d5d" title="malayalam fraction three twentieths">൝</li>
+    <li class="symb" data-code="3422" code="0d5e" title="malayalam fraction one fifth">൞</li>
+    <li class="symb" data-code="3423" code="0d5f" title="malayalam letter archaic ii">ൟ</li>
+    <li class="h">0d60</li>
+    <li class="symb" data-code="3424" code="0d60" title="malayalam letter vocalic rr">ൠ</li>
+    <li class="symb" data-code="3425" code="0d61" title="malayalam letter vocalic ll">ൡ</li>
+    <li class="symb" data-code="3426" code="0d62" title="malayalam vowel sign vocalic l">ൢ</li>
+    <li class="symb" data-code="3427" code="0d63" title="malayalam vowel sign vocalic ll">ൣ</li>
+    <li class="symb" data-code="3428" code="0d64" title="reserved">൤</li>
+    <li class="symb" data-code="3429" code="0d65" title="reserved">൥</li>
+    <li class="symb" data-code="3430" code="0d66" title="malayalam digit zero">൦</li>
+    <li class="symb" data-code="3431" code="0d67" title="malayalam digit one">൧</li>
+    <li class="symb" data-code="3432" code="0d68" title="malayalam digit two">൨</li>
+    <li class="symb" data-code="3433" code="0d69" title="malayalam digit three">൩</li>
+    <li class="symb" data-code="3434" code="0d6a" title="malayalam digit four">൪</li>
+    <li class="symb" data-code="3435" code="0d6b" title="malayalam digit five">൫</li>
+    <li class="symb" data-code="3436" code="0d6c" title="malayalam digit six">൬</li>
+    <li class="symb" data-code="3437" code="0d6d" title="malayalam digit seven">൭</li>
+    <li class="symb" data-code="3438" code="0d6e" title="malayalam digit eight">൮</li>
+    <li class="symb" data-code="3439" code="0d6f" title="malayalam digit nine">൯</li>
+    <li class="h">0d70</li>
+    <li class="symb" data-code="3440" code="0d70" title="malayalam number ten">൰</li>
+    <li class="symb" data-code="3441" code="0d71" title="malayalam number one hundred">൱</li>
+    <li class="symb" data-code="3442" code="0d72" title="malayalam number one thousand">൲</li>
+    <li class="symb" data-code="3443" code="0d73" title="malayalam fraction one quarter">൳</li>
+    <li class="symb" data-code="3444" code="0d74" title="malayalam fraction one half">൴</li>
+    <li class="symb" data-code="3445" code="0d75" title="malayalam fraction three quarters">൵</li>
+    <li class="symb" data-code="3446" code="0d76" title="malayalam fraction one sixteenth">൶</li>
+    <li class="symb" data-code="3447" code="0d77" title="malayalam fraction one eighth">൷</li>
+    <li class="symb" data-code="3448" code="0d78" title="malayalam fraction three sixteenths">൸</li>
+    <li class="symb" data-code="3449" code="0d79" title="malayalam date mark">൹</li>
+    <li class="symb" data-code="3450" code="0d7a" title="malayalam letter chillu nn">ൺ</li>
+    <li class="symb" data-code="3451" code="0d7b" title="malayalam letter chillu n">ൻ</li>
+    <li class="symb" data-code="3452" code="0d7c" title="malayalam letter chillu rr">ർ</li>
+    <li class="symb" data-code="3453" code="0d7d" title="malayalam letter chillu l">ൽ</li>
+    <li class="symb" data-code="3454" code="0d7e" title="malayalam letter chillu ll">ൾ</li>
+    <li class="symb" data-code="3455" code="0d7f" title="malayalam letter chillu k">ൿ</li>
+  </ul>
+</root>

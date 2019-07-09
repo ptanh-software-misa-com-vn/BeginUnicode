@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">aa00</li>
+    <li class="symb" data-code="43520" code="aa00" title="cham letter a">ꨀ</li>
+    <li class="symb" data-code="43521" code="aa01" title="cham letter i">ꨁ</li>
+    <li class="symb" data-code="43522" code="aa02" title="cham letter u">ꨂ</li>
+    <li class="symb" data-code="43523" code="aa03" title="cham letter e">ꨃ</li>
+    <li class="symb" data-code="43524" code="aa04" title="cham letter ai">ꨄ</li>
+    <li class="symb" data-code="43525" code="aa05" title="cham letter o">ꨅ</li>
+    <li class="symb" data-code="43526" code="aa06" title="cham letter ka">ꨆ</li>
+    <li class="symb" data-code="43527" code="aa07" title="cham letter kha">ꨇ</li>
+    <li class="symb" data-code="43528" code="aa08" title="cham letter ga">ꨈ</li>
+    <li class="symb" data-code="43529" code="aa09" title="cham letter gha">ꨉ</li>
+    <li class="symb" data-code="43530" code="aa0a" title="cham letter ngue">ꨊ</li>
+    <li class="symb" data-code="43531" code="aa0b" title="cham letter nga">ꨋ</li>
+    <li class="symb" data-code="43532" code="aa0c" title="cham letter cha">ꨌ</li>
+    <li class="symb" data-code="43533" code="aa0d" title="cham letter chha">ꨍ</li>
+    <li class="symb" data-code="43534" code="aa0e" title="cham letter ja">ꨎ</li>
+    <li class="symb" data-code="43535" code="aa0f" title="cham letter jha">ꨏ</li>
+    <li class="h">aa10</li>
+    <li class="symb" data-code="43536" code="aa10" title="cham letter nhue">ꨐ</li>
+    <li class="symb" data-code="43537" code="aa11" title="cham letter nha">ꨑ</li>
+    <li class="symb" data-code="43538" code="aa12" title="cham letter nhja">ꨒ</li>
+    <li class="symb" data-code="43539" code="aa13" title="cham letter ta">ꨓ</li>
+    <li class="symb" data-code="43540" code="aa14" title="cham letter tha">ꨔ</li>
+    <li class="symb" data-code="43541" code="aa15" title="cham letter da">ꨕ</li>
+    <li class="symb" data-code="43542" code="aa16" title="cham letter dha">ꨖ</li>
+    <li class="symb" data-code="43543" code="aa17" title="cham letter nue">ꨗ</li>
+    <li class="symb" data-code="43544" code="aa18" title="cham letter na">ꨘ</li>
+    <li class="symb" data-code="43545" code="aa19" title="cham letter dda">ꨙ</li>
+    <li class="symb" data-code="43546" code="aa1a" title="cham letter pa">ꨚ</li>
+    <li class="symb" data-code="43547" code="aa1b" title="cham letter ppa">ꨛ</li>
+    <li class="symb" data-code="43548" code="aa1c" title="cham letter pha">ꨜ</li>
+    <li class="symb" data-code="43549" code="aa1d" title="cham letter ba">ꨝ</li>
+    <li class="symb" data-code="43550" code="aa1e" title="cham letter bha">ꨞ</li>
+    <li class="symb" data-code="43551" code="aa1f" title="cham letter mue">ꨟ</li>
+    <li class="h">aa20</li>
+    <li class="symb" data-code="43552" code="aa20" title="cham letter ma">ꨠ</li>
+    <li class="symb" data-code="43553" code="aa21" title="cham letter bba">ꨡ</li>
+    <li class="symb" data-code="43554" code="aa22" title="cham letter ya">ꨢ</li>
+    <li class="symb" data-code="43555" code="aa23" title="cham letter ra">ꨣ</li>
+    <li class="symb" data-code="43556" code="aa24" title="cham letter la">ꨤ</li>
+    <li class="symb" data-code="43557" code="aa25" title="cham letter va">ꨥ</li>
+    <li class="symb" data-code="43558" code="aa26" title="cham letter ssa">ꨦ</li>
+    <li class="symb" data-code="43559" code="aa27" title="cham letter sa">ꨧ</li>
+    <li class="symb" data-code="43560" code="aa28" title="cham letter ha">ꨨ</li>
+    <li class="symb" data-code="43561" code="aa29" title="cham vowel sign aa">ꨩ</li>
+    <li class="symb" data-code="43562" code="aa2a" title="cham vowel sign i">ꨪ</li>
+    <li class="symb" data-code="43563" code="aa2b" title="cham vowel sign ii">ꨫ</li>
+    <li class="symb" data-code="43564" code="aa2c" title="cham vowel sign ei">ꨬ</li>
+    <li class="symb" data-code="43565" code="aa2d" title="cham vowel sign u">ꨭ</li>
+    <li class="symb" data-code="43566" code="aa2e" title="cham vowel sign oe">ꨮ</li>
+    <li class="symb" data-code="43567" code="aa2f" title="cham vowel sign o">ꨯ</li>
+    <li class="h">aa30</li>
+    <li class="symb" data-code="43568" code="aa30" title="cham vowel sign ai">ꨰ</li>
+    <li class="symb" data-code="43569" code="aa31" title="cham vowel sign au">ꨱ</li>
+    <li class="symb" data-code="43570" code="aa32" title="cham vowel sign ue">ꨲ</li>
+    <li class="symb" data-code="43571" code="aa33" title="cham consonant sign ya">ꨳ</li>
+    <li class="symb" data-code="43572" code="aa34" title="cham consonant sign ra">ꨴ</li>
+    <li class="symb" data-code="43573" code="aa35" title="cham consonant sign la">ꨵ</li>
+    <li class="symb" data-code="43574" code="aa36" title="cham consonant sign wa">ꨶ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">aa40</li>
+    <li class="symb" data-code="43584" code="aa40" title="cham letter final k">ꩀ</li>
+    <li class="symb" data-code="43585" code="aa41" title="cham letter final g">ꩁ</li>
+    <li class="symb" data-code="43586" code="aa42" title="cham letter final ng">ꩂ</li>
+    <li class="symb" data-code="43587" code="aa43" title="cham consonant sign final ng">ꩃ</li>
+    <li class="symb" data-code="43588" code="aa44" title="cham letter final ch">ꩄ</li>
+    <li class="symb" data-code="43589" code="aa45" title="cham letter final t">ꩅ</li>
+    <li class="symb" data-code="43590" code="aa46" title="cham letter final n">ꩆ</li>
+    <li class="symb" data-code="43591" code="aa47" title="cham letter final p">ꩇ</li>
+    <li class="symb" data-code="43592" code="aa48" title="cham letter final y">ꩈ</li>
+    <li class="symb" data-code="43593" code="aa49" title="cham letter final r">ꩉ</li>
+    <li class="symb" data-code="43594" code="aa4a" title="cham letter final l">ꩊ</li>
+    <li class="symb" data-code="43595" code="aa4b" title="cham letter final ss">ꩋ</li>
+    <li class="symb" data-code="43596" code="aa4c" title="cham consonant sign final m">ꩌ</li>
+    <li class="symb" data-code="43597" code="aa4d" title="cham consonant sign final h">ꩍ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">aa50</li>
+    <li class="symb" data-code="43600" code="aa50" title="cham digit zero">꩐</li>
+    <li class="symb" data-code="43601" code="aa51" title="cham digit one">꩑</li>
+    <li class="symb" data-code="43602" code="aa52" title="cham digit two">꩒</li>
+    <li class="symb" data-code="43603" code="aa53" title="cham digit three">꩓</li>
+    <li class="symb" data-code="43604" code="aa54" title="cham digit four">꩔</li>
+    <li class="symb" data-code="43605" code="aa55" title="cham digit five">꩕</li>
+    <li class="symb" data-code="43606" code="aa56" title="cham digit six">꩖</li>
+    <li class="symb" data-code="43607" code="aa57" title="cham digit seven">꩗</li>
+    <li class="symb" data-code="43608" code="aa58" title="cham digit eight">꩘</li>
+    <li class="symb" data-code="43609" code="aa59" title="cham digit nine">꩙</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="43612" code="aa5c" title="cham punctuation spiral">꩜</li>
+    <li class="symb" data-code="43613" code="aa5d" title="cham punctuation danda">꩝</li>
+    <li class="symb" data-code="43614" code="aa5e" title="cham punctuation double danda">꩞</li>
+    <li class="symb" data-code="43615" code="aa5f" title="cham punctuation triple danda">꩟</li>
+  </ul>
+</root>

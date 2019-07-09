@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1ee00</li>
+    <li class="symb" data-code="126464" code="1ee00" title="arabic mathematical alef">𞸀</li>
+    <li class="symb" data-code="126465" code="1ee01" title="arabic mathematical beh">𞸁</li>
+    <li class="symb" data-code="126466" code="1ee02" title="arabic mathematical jeem">𞸂</li>
+    <li class="symb" data-code="126467" code="1ee03" title="arabic mathematical dal">𞸃</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126469" code="1ee05" title="arabic mathematical waw">𞸅</li>
+    <li class="symb" data-code="126470" code="1ee06" title="arabic mathematical zain">𞸆</li>
+    <li class="symb" data-code="126471" code="1ee07" title="arabic mathematical hah">𞸇</li>
+    <li class="symb" data-code="126472" code="1ee08" title="arabic mathematical tah">𞸈</li>
+    <li class="symb" data-code="126473" code="1ee09" title="arabic mathematical yeh">𞸉</li>
+    <li class="symb" data-code="126474" code="1ee0a" title="arabic mathematical kaf">𞸊</li>
+    <li class="symb" data-code="126475" code="1ee0b" title="arabic mathematical lam">𞸋</li>
+    <li class="symb" data-code="126476" code="1ee0c" title="arabic mathematical meem">𞸌</li>
+    <li class="symb" data-code="126477" code="1ee0d" title="arabic mathematical noon">𞸍</li>
+    <li class="symb" data-code="126478" code="1ee0e" title="arabic mathematical seen">𞸎</li>
+    <li class="symb" data-code="126479" code="1ee0f" title="arabic mathematical ain">𞸏</li>
+    <li class="h">1ee10</li>
+    <li class="symb" data-code="126480" code="1ee10" title="arabic mathematical feh">𞸐</li>
+    <li class="symb" data-code="126481" code="1ee11" title="arabic mathematical sad">𞸑</li>
+    <li class="symb" data-code="126482" code="1ee12" title="arabic mathematical qaf">𞸒</li>
+    <li class="symb" data-code="126483" code="1ee13" title="arabic mathematical reh">𞸓</li>
+    <li class="symb" data-code="126484" code="1ee14" title="arabic mathematical sheen">𞸔</li>
+    <li class="symb" data-code="126485" code="1ee15" title="arabic mathematical teh">𞸕</li>
+    <li class="symb" data-code="126486" code="1ee16" title="arabic mathematical theh">𞸖</li>
+    <li class="symb" data-code="126487" code="1ee17" title="arabic mathematical khah">𞸗</li>
+    <li class="symb" data-code="126488" code="1ee18" title="arabic mathematical thal">𞸘</li>
+    <li class="symb" data-code="126489" code="1ee19" title="arabic mathematical dad">𞸙</li>
+    <li class="symb" data-code="126490" code="1ee1a" title="arabic mathematical zah">𞸚</li>
+    <li class="symb" data-code="126491" code="1ee1b" title="arabic mathematical ghain">𞸛</li>
+    <li class="symb" data-code="126492" code="1ee1c" title="arabic mathematical dotless beh">𞸜</li>
+    <li class="symb" data-code="126493" code="1ee1d" title="arabic mathematical dotless noon">𞸝</li>
+    <li class="symb" data-code="126494" code="1ee1e" title="arabic mathematical dotless feh">𞸞</li>
+    <li class="symb" data-code="126495" code="1ee1f" title="arabic mathematical dotless qaf">𞸟</li>
+    <li class="h">1ee20</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126497" code="1ee21" title="arabic mathematical initial beh">𞸡</li>
+    <li class="symb" data-code="126498" code="1ee22" title="arabic mathematical initial jeem">𞸢</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126500" code="1ee24" title="arabic mathematical initial heh">𞸤</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126503" code="1ee27" title="arabic mathematical initial hah">𞸧</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126505" code="1ee29" title="arabic mathematical initial yeh">𞸩</li>
+    <li class="symb" data-code="126506" code="1ee2a" title="arabic mathematical initial kaf">𞸪</li>
+    <li class="symb" data-code="126507" code="1ee2b" title="arabic mathematical initial lam">𞸫</li>
+    <li class="symb" data-code="126508" code="1ee2c" title="arabic mathematical initial meem">𞸬</li>
+    <li class="symb" data-code="126509" code="1ee2d" title="arabic mathematical initial noon">𞸭</li>
+    <li class="symb" data-code="126510" code="1ee2e" title="arabic mathematical initial seen">𞸮</li>
+    <li class="symb" data-code="126511" code="1ee2f" title="arabic mathematical initial ain">𞸯</li>
+    <li class="h">1ee30</li>
+    <li class="symb" data-code="126512" code="1ee30" title="arabic mathematical initial feh">𞸰</li>
+    <li class="symb" data-code="126513" code="1ee31" title="arabic mathematical initial sad">𞸱</li>
+    <li class="symb" data-code="126514" code="1ee32" title="arabic mathematical initial qaf">𞸲</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126516" code="1ee34" title="arabic mathematical initial sheen">𞸴</li>
+    <li class="symb" data-code="126517" code="1ee35" title="arabic mathematical initial teh">𞸵</li>
+    <li class="symb" data-code="126518" code="1ee36" title="arabic mathematical initial theh">𞸶</li>
+    <li class="symb" data-code="126519" code="1ee37" title="arabic mathematical initial khah">𞸷</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126521" code="1ee39" title="arabic mathematical initial dad">𞸹</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126523" code="1ee3b" title="arabic mathematical initial ghain">𞸻</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1ee40</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126530" code="1ee42" title="arabic mathematical tailed jeem">𞹂</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126535" code="1ee47" title="arabic mathematical tailed hah">𞹇</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126537" code="1ee49" title="arabic mathematical tailed yeh">𞹉</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126539" code="1ee4b" title="arabic mathematical tailed lam">𞹋</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126541" code="1ee4d" title="arabic mathematical tailed noon">𞹍</li>
+    <li class="symb" data-code="126542" code="1ee4e" title="arabic mathematical tailed seen">𞹎</li>
+    <li class="symb" data-code="126543" code="1ee4f" title="arabic mathematical tailed ain">𞹏</li>
+    <li class="h">1ee50</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126545" code="1ee51" title="arabic mathematical tailed sad">𞹑</li>
+    <li class="symb" data-code="126546" code="1ee52" title="arabic mathematical tailed qaf">𞹒</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126548" code="1ee54" title="arabic mathematical tailed sheen">𞹔</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126551" code="1ee57" title="arabic mathematical tailed khah">𞹗</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126553" code="1ee59" title="arabic mathematical tailed dad">𞹙</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126555" code="1ee5b" title="arabic mathematical tailed ghain">𞹛</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126557" code="1ee5d" title="arabic mathematical tailed dotless noon">𞹝</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126559" code="1ee5f" title="arabic mathematical tailed dotless qaf">𞹟</li>
+    <li class="h">1ee60</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126561" code="1ee61" title="arabic mathematical stretched beh">𞹡</li>
+    <li class="symb" data-code="126562" code="1ee62" title="arabic mathematical stretched jeem">𞹢</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126564" code="1ee64" title="arabic mathematical stretched heh">𞹤</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126567" code="1ee67" title="arabic mathematical stretched hah">𞹧</li>
+    <li class="symb" data-code="126568" code="1ee68" title="arabic mathematical stretched tah">𞹨</li>
+    <li class="symb" data-code="126569" code="1ee69" title="arabic mathematical stretched yeh">𞹩</li>
+    <li class="symb" data-code="126570" code="1ee6a" title="arabic mathematical stretched kaf">𞹪</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126572" code="1ee6c" title="arabic mathematical stretched meem">𞹬</li>
+    <li class="symb" data-code="126573" code="1ee6d" title="arabic mathematical stretched noon">𞹭</li>
+    <li class="symb" data-code="126574" code="1ee6e" title="arabic mathematical stretched seen">𞹮</li>
+    <li class="symb" data-code="126575" code="1ee6f" title="arabic mathematical stretched ain">𞹯</li>
+    <li class="h">1ee70</li>
+    <li class="symb" data-code="126576" code="1ee70" title="arabic mathematical stretched feh">𞹰</li>
+    <li class="symb" data-code="126577" code="1ee71" title="arabic mathematical stretched sad">𞹱</li>
+    <li class="symb" data-code="126578" code="1ee72" title="arabic mathematical stretched qaf">𞹲</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126580" code="1ee74" title="arabic mathematical stretched sheen">𞹴</li>
+    <li class="symb" data-code="126581" code="1ee75" title="arabic mathematical stretched teh">𞹵</li>
+    <li class="symb" data-code="126582" code="1ee76" title="arabic mathematical stretched theh">𞹶</li>
+    <li class="symb" data-code="126583" code="1ee77" title="arabic mathematical stretched khah">𞹷</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126585" code="1ee79" title="arabic mathematical stretched dad">𞹹</li>
+    <li class="symb" data-code="126586" code="1ee7a" title="arabic mathematical stretched zah">𞹺</li>
+    <li class="symb" data-code="126587" code="1ee7b" title="arabic mathematical stretched ghain">𞹻</li>
+    <li class="symb" data-code="126588" code="1ee7c" title="arabic mathematical stretched dotless beh">𞹼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126590" code="1ee7e" title="arabic mathematical stretched dotless feh">𞹾</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1ee80</li>
+    <li class="symb" data-code="126592" code="1ee80" title="arabic mathematical looped alef">𞺀</li>
+    <li class="symb" data-code="126593" code="1ee81" title="arabic mathematical looped beh">𞺁</li>
+    <li class="symb" data-code="126594" code="1ee82" title="arabic mathematical looped jeem">𞺂</li>
+    <li class="symb" data-code="126595" code="1ee83" title="arabic mathematical looped dal">𞺃</li>
+    <li class="symb" data-code="126596" code="1ee84" title="arabic mathematical looped heh">𞺄</li>
+    <li class="symb" data-code="126597" code="1ee85" title="arabic mathematical looped waw">𞺅</li>
+    <li class="symb" data-code="126598" code="1ee86" title="arabic mathematical looped zain">𞺆</li>
+    <li class="symb" data-code="126599" code="1ee87" title="arabic mathematical looped hah">𞺇</li>
+    <li class="symb" data-code="126600" code="1ee88" title="arabic mathematical looped tah">𞺈</li>
+    <li class="symb" data-code="126601" code="1ee89" title="arabic mathematical looped yeh">𞺉</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126603" code="1ee8b" title="arabic mathematical looped lam">𞺋</li>
+    <li class="symb" data-code="126604" code="1ee8c" title="arabic mathematical looped meem">𞺌</li>
+    <li class="symb" data-code="126605" code="1ee8d" title="arabic mathematical looped noon">𞺍</li>
+    <li class="symb" data-code="126606" code="1ee8e" title="arabic mathematical looped seen">𞺎</li>
+    <li class="symb" data-code="126607" code="1ee8f" title="arabic mathematical looped ain">𞺏</li>
+    <li class="h">1ee90</li>
+    <li class="symb" data-code="126608" code="1ee90" title="arabic mathematical looped feh">𞺐</li>
+    <li class="symb" data-code="126609" code="1ee91" title="arabic mathematical looped sad">𞺑</li>
+    <li class="symb" data-code="126610" code="1ee92" title="arabic mathematical looped qaf">𞺒</li>
+    <li class="symb" data-code="126611" code="1ee93" title="arabic mathematical looped reh">𞺓</li>
+    <li class="symb" data-code="126612" code="1ee94" title="arabic mathematical looped sheen">𞺔</li>
+    <li class="symb" data-code="126613" code="1ee95" title="arabic mathematical looped teh">𞺕</li>
+    <li class="symb" data-code="126614" code="1ee96" title="arabic mathematical looped theh">𞺖</li>
+    <li class="symb" data-code="126615" code="1ee97" title="arabic mathematical looped khah">𞺗</li>
+    <li class="symb" data-code="126616" code="1ee98" title="arabic mathematical looped thal">𞺘</li>
+    <li class="symb" data-code="126617" code="1ee99" title="arabic mathematical looped dad">𞺙</li>
+    <li class="symb" data-code="126618" code="1ee9a" title="arabic mathematical looped zah">𞺚</li>
+    <li class="symb" data-code="126619" code="1ee9b" title="arabic mathematical looped ghain">𞺛</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1eea0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126625" code="1eea1" title="arabic mathematical double-struck beh">𞺡</li>
+    <li class="symb" data-code="126626" code="1eea2" title="arabic mathematical double-struck jeem">𞺢</li>
+    <li class="symb" data-code="126627" code="1eea3" title="arabic mathematical double-struck dal">𞺣</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126629" code="1eea5" title="arabic mathematical double-struck waw">𞺥</li>
+    <li class="symb" data-code="126630" code="1eea6" title="arabic mathematical double-struck zain">𞺦</li>
+    <li class="symb" data-code="126631" code="1eea7" title="arabic mathematical double-struck hah">𞺧</li>
+    <li class="symb" data-code="126632" code="1eea8" title="arabic mathematical double-struck tah">𞺨</li>
+    <li class="symb" data-code="126633" code="1eea9" title="arabic mathematical double-struck yeh">𞺩</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="126635" code="1eeab" title="arabic mathematical double-struck lam">𞺫</li>
+    <li class="symb" data-code="126636" code="1eeac" title="arabic mathematical double-struck meem">𞺬</li>
+    <li class="symb" data-code="126637" code="1eead" title="arabic mathematical double-struck noon">𞺭</li>
+    <li class="symb" data-code="126638" code="1eeae" title="arabic mathematical double-struck seen">𞺮</li>
+    <li class="symb" data-code="126639" code="1eeaf" title="arabic mathematical double-struck ain">𞺯</li>
+    <li class="h">1eeb0</li>
+    <li class="symb" data-code="126640" code="1eeb0" title="arabic mathematical double-struck feh">𞺰</li>
+    <li class="symb" data-code="126641" code="1eeb1" title="arabic mathematical double-struck sad">𞺱</li>
+    <li class="symb" data-code="126642" code="1eeb2" title="arabic mathematical double-struck qaf">𞺲</li>
+    <li class="symb" data-code="126643" code="1eeb3" title="arabic mathematical double-struck reh">𞺳</li>
+    <li class="symb" data-code="126644" code="1eeb4" title="arabic mathematical double-struck sheen">𞺴</li>
+    <li class="symb" data-code="126645" code="1eeb5" title="arabic mathematical double-struck teh">𞺵</li>
+    <li class="symb" data-code="126646" code="1eeb6" title="arabic mathematical double-struck theh">𞺶</li>
+    <li class="symb" data-code="126647" code="1eeb7" title="arabic mathematical double-struck khah">𞺷</li>
+    <li class="symb" data-code="126648" code="1eeb8" title="arabic mathematical double-struck thal">𞺸</li>
+    <li class="symb" data-code="126649" code="1eeb9" title="arabic mathematical double-struck dad">𞺹</li>
+    <li class="symb" data-code="126650" code="1eeba" title="arabic mathematical double-struck zah">𞺺</li>
+    <li class="symb" data-code="126651" code="1eebb" title="arabic mathematical double-struck ghain">𞺻</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1eec0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1eed0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1eee0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1eef0</li>
+    <li class="symb" data-code="126704" code="1eef0" title="arabic mathematical operator meem with hah with tatweel">𞻰</li>
+    <li class="symb" data-code="126705" code="1eef1" title="arabic mathematical operator hah with dal">𞻱</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

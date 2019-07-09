@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">10100</li>
+    <li class="symb" data-code="65792" code="10100" title="aegean word separator line">𐄀</li>
+    <li class="symb" data-code="65793" code="10101" title="aegean word separator dot">𐄁</li>
+    <li class="symb" data-code="65794" code="10102" title="aegean check mark">𐄂</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65799" code="10107" title="aegean number one">𐄇</li>
+    <li class="symb" data-code="65800" code="10108" title="aegean number two">𐄈</li>
+    <li class="symb" data-code="65801" code="10109" title="aegean number three">𐄉</li>
+    <li class="symb" data-code="65802" code="1010a" title="aegean number four">𐄊</li>
+    <li class="symb" data-code="65803" code="1010b" title="aegean number five">𐄋</li>
+    <li class="symb" data-code="65804" code="1010c" title="aegean number six">𐄌</li>
+    <li class="symb" data-code="65805" code="1010d" title="aegean number seven">𐄍</li>
+    <li class="symb" data-code="65806" code="1010e" title="aegean number eight">𐄎</li>
+    <li class="symb" data-code="65807" code="1010f" title="aegean number nine">𐄏</li>
+    <li class="h">10110</li>
+    <li class="symb" data-code="65808" code="10110" title="aegean number ten">𐄐</li>
+    <li class="symb" data-code="65809" code="10111" title="aegean number twenty">𐄑</li>
+    <li class="symb" data-code="65810" code="10112" title="aegean number thirty">𐄒</li>
+    <li class="symb" data-code="65811" code="10113" title="aegean number forty">𐄓</li>
+    <li class="symb" data-code="65812" code="10114" title="aegean number fifty">𐄔</li>
+    <li class="symb" data-code="65813" code="10115" title="aegean number sixty">𐄕</li>
+    <li class="symb" data-code="65814" code="10116" title="aegean number seventy">𐄖</li>
+    <li class="symb" data-code="65815" code="10117" title="aegean number eighty">𐄗</li>
+    <li class="symb" data-code="65816" code="10118" title="aegean number ninety">𐄘</li>
+    <li class="symb" data-code="65817" code="10119" title="aegean number one hundred">𐄙</li>
+    <li class="symb" data-code="65818" code="1011a" title="aegean number two hundred">𐄚</li>
+    <li class="symb" data-code="65819" code="1011b" title="aegean number three hundred">𐄛</li>
+    <li class="symb" data-code="65820" code="1011c" title="aegean number four hundred">𐄜</li>
+    <li class="symb" data-code="65821" code="1011d" title="aegean number five hundred">𐄝</li>
+    <li class="symb" data-code="65822" code="1011e" title="aegean number six hundred">𐄞</li>
+    <li class="symb" data-code="65823" code="1011f" title="aegean number seven hundred">𐄟</li>
+    <li class="h">10120</li>
+    <li class="symb" data-code="65824" code="10120" title="aegean number eight hundred">𐄠</li>
+    <li class="symb" data-code="65825" code="10121" title="aegean number nine hundred">𐄡</li>
+    <li class="symb" data-code="65826" code="10122" title="aegean number one thousand">𐄢</li>
+    <li class="symb" data-code="65827" code="10123" title="aegean number two thousand">𐄣</li>
+    <li class="symb" data-code="65828" code="10124" title="aegean number three thousand">𐄤</li>
+    <li class="symb" data-code="65829" code="10125" title="aegean number four thousand">𐄥</li>
+    <li class="symb" data-code="65830" code="10126" title="aegean number five thousand">𐄦</li>
+    <li class="symb" data-code="65831" code="10127" title="aegean number six thousand">𐄧</li>
+    <li class="symb" data-code="65832" code="10128" title="aegean number seven thousand">𐄨</li>
+    <li class="symb" data-code="65833" code="10129" title="aegean number eight thousand">𐄩</li>
+    <li class="symb" data-code="65834" code="1012a" title="aegean number nine thousand">𐄪</li>
+    <li class="symb" data-code="65835" code="1012b" title="aegean number ten thousand">𐄫</li>
+    <li class="symb" data-code="65836" code="1012c" title="aegean number twenty thousand">𐄬</li>
+    <li class="symb" data-code="65837" code="1012d" title="aegean number thirty thousand">𐄭</li>
+    <li class="symb" data-code="65838" code="1012e" title="aegean number forty thousand">𐄮</li>
+    <li class="symb" data-code="65839" code="1012f" title="aegean number fifty thousand">𐄯</li>
+    <li class="h">10130</li>
+    <li class="symb" data-code="65840" code="10130" title="aegean number sixty thousand">𐄰</li>
+    <li class="symb" data-code="65841" code="10131" title="aegean number seventy thousand">𐄱</li>
+    <li class="symb" data-code="65842" code="10132" title="aegean number eighty thousand">𐄲</li>
+    <li class="symb" data-code="65843" code="10133" title="aegean number ninety thousand">𐄳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65847" code="10137" title="aegean weight base unit">𐄷</li>
+    <li class="symb" data-code="65848" code="10138" title="aegean weight first subunit">𐄸</li>
+    <li class="symb" data-code="65849" code="10139" title="aegean weight second subunit">𐄹</li>
+    <li class="symb" data-code="65850" code="1013a" title="aegean weight third subunit">𐄺</li>
+    <li class="symb" data-code="65851" code="1013b" title="aegean weight fourth subunit">𐄻</li>
+    <li class="symb" data-code="65852" code="1013c" title="aegean dry measure first subunit">𐄼</li>
+    <li class="symb" data-code="65853" code="1013d" title="aegean liquid measure first subunit">𐄽</li>
+    <li class="symb" data-code="65854" code="1013e" title="aegean measure second subunit">𐄾</li>
+    <li class="symb" data-code="65855" code="1013f" title="aegean measure third subunit">𐄿</li>
+  </ul>
+</root>

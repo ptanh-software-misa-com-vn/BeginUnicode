@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">a800</li>
+    <li class="symb" data-code="43008" code="a800" title="syloti nagri letter a">ꠀ</li>
+    <li class="symb" data-code="43009" code="a801" title="syloti nagri letter i">ꠁ</li>
+    <li class="symb" data-code="43010" code="a802" title="syloti nagri sign dvisvara">ꠂ</li>
+    <li class="symb" data-code="43011" code="a803" title="syloti nagri letter u">ꠃ</li>
+    <li class="symb" data-code="43012" code="a804" title="syloti nagri letter e">ꠄ</li>
+    <li class="symb" data-code="43013" code="a805" title="syloti nagri letter o">ꠅ</li>
+    <li class="symb" data-code="43014" code="a806" title="syloti nagri sign hasanta">꠆</li>
+    <li class="symb" data-code="43015" code="a807" title="syloti nagri letter ko">ꠇ</li>
+    <li class="symb" data-code="43016" code="a808" title="syloti nagri letter kho">ꠈ</li>
+    <li class="symb" data-code="43017" code="a809" title="syloti nagri letter go">ꠉ</li>
+    <li class="symb" data-code="43018" code="a80a" title="syloti nagri letter gho">ꠊ</li>
+    <li class="symb" data-code="43019" code="a80b" title="syloti nagri sign anusvara">ꠋ</li>
+    <li class="symb" data-code="43020" code="a80c" title="syloti nagri letter co">ꠌ</li>
+    <li class="symb" data-code="43021" code="a80d" title="syloti nagri letter cho">ꠍ</li>
+    <li class="symb" data-code="43022" code="a80e" title="syloti nagri letter jo">ꠎ</li>
+    <li class="symb" data-code="43023" code="a80f" title="syloti nagri letter jho">ꠏ</li>
+    <li class="h">a810</li>
+    <li class="symb" data-code="43024" code="a810" title="syloti nagri letter tto">ꠐ</li>
+    <li class="symb" data-code="43025" code="a811" title="syloti nagri letter ttho">ꠑ</li>
+    <li class="symb" data-code="43026" code="a812" title="syloti nagri letter ddo">ꠒ</li>
+    <li class="symb" data-code="43027" code="a813" title="syloti nagri letter ddho">ꠓ</li>
+    <li class="symb" data-code="43028" code="a814" title="syloti nagri letter to">ꠔ</li>
+    <li class="symb" data-code="43029" code="a815" title="syloti nagri letter tho">ꠕ</li>
+    <li class="symb" data-code="43030" code="a816" title="syloti nagri letter do">ꠖ</li>
+    <li class="symb" data-code="43031" code="a817" title="syloti nagri letter dho">ꠗ</li>
+    <li class="symb" data-code="43032" code="a818" title="syloti nagri letter no">ꠘ</li>
+    <li class="symb" data-code="43033" code="a819" title="syloti nagri letter po">ꠙ</li>
+    <li class="symb" data-code="43034" code="a81a" title="syloti nagri letter pho">ꠚ</li>
+    <li class="symb" data-code="43035" code="a81b" title="syloti nagri letter bo">ꠛ</li>
+    <li class="symb" data-code="43036" code="a81c" title="syloti nagri letter bho">ꠜ</li>
+    <li class="symb" data-code="43037" code="a81d" title="syloti nagri letter mo">ꠝ</li>
+    <li class="symb" data-code="43038" code="a81e" title="syloti nagri letter ro">ꠞ</li>
+    <li class="symb" data-code="43039" code="a81f" title="syloti nagri letter lo">ꠟ</li>
+    <li class="h">a820</li>
+    <li class="symb" data-code="43040" code="a820" title="syloti nagri letter rro">ꠠ</li>
+    <li class="symb" data-code="43041" code="a821" title="syloti nagri letter so">ꠡ</li>
+    <li class="symb" data-code="43042" code="a822" title="syloti nagri letter ho">ꠢ</li>
+    <li class="symb" data-code="43043" code="a823" title="syloti nagri vowel sign a">ꠣ</li>
+    <li class="symb" data-code="43044" code="a824" title="syloti nagri vowel sign i">ꠤ</li>
+    <li class="symb" data-code="43045" code="a825" title="syloti nagri vowel sign u">ꠥ</li>
+    <li class="symb" data-code="43046" code="a826" title="syloti nagri vowel sign e">ꠦ</li>
+    <li class="symb" data-code="43047" code="a827" title="syloti nagri vowel sign oo">ꠧ</li>
+    <li class="symb" data-code="43048" code="a828" title="syloti nagri poetry mark-1">꠨</li>
+    <li class="symb" data-code="43049" code="a829" title="syloti nagri poetry mark-2">꠩</li>
+    <li class="symb" data-code="43050" code="a82a" title="syloti nagri poetry mark-3">꠪</li>
+    <li class="symb" data-code="43051" code="a82b" title="syloti nagri poetry mark-4">꠫</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

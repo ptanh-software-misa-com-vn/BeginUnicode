@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0b80</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2946" code="0b82" title="tamil sign anusvara">ஂ</li>
+    <li class="symb" data-code="2947" code="0b83" title="tamil sign visarga">ஃ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2949" code="0b85" title="tamil letter a">அ</li>
+    <li class="symb" data-code="2950" code="0b86" title="tamil letter aa">ஆ</li>
+    <li class="symb" data-code="2951" code="0b87" title="tamil letter i">இ</li>
+    <li class="symb" data-code="2952" code="0b88" title="tamil letter ii">ஈ</li>
+    <li class="symb" data-code="2953" code="0b89" title="tamil letter u">உ</li>
+    <li class="symb" data-code="2954" code="0b8a" title="tamil letter uu">ஊ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2958" code="0b8e" title="tamil letter e">எ</li>
+    <li class="symb" data-code="2959" code="0b8f" title="tamil letter ee">ஏ</li>
+    <li class="h">0b90</li>
+    <li class="symb" data-code="2960" code="0b90" title="tamil letter ai">ஐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2962" code="0b92" title="tamil letter o">ஒ</li>
+    <li class="symb" data-code="2963" code="0b93" title="tamil letter oo">ஓ</li>
+    <li class="symb" data-code="2964" code="0b94" title="tamil letter au">ஔ</li>
+    <li class="symb" data-code="2965" code="0b95" title="tamil letter ka">க</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2969" code="0b99" title="tamil letter nga">ங</li>
+    <li class="symb" data-code="2970" code="0b9a" title="tamil letter ca">ச</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2972" code="0b9c" title="tamil letter ja">ஜ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2974" code="0b9e" title="tamil letter nya">ஞ</li>
+    <li class="symb" data-code="2975" code="0b9f" title="tamil letter tta">ட</li>
+    <li class="h">0ba0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2979" code="0ba3" title="tamil letter nna">ண</li>
+    <li class="symb" data-code="2980" code="0ba4" title="tamil letter ta">த</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2984" code="0ba8" title="tamil letter na">ந</li>
+    <li class="symb" data-code="2985" code="0ba9" title="tamil letter nnna">ன</li>
+    <li class="symb" data-code="2986" code="0baa" title="tamil letter pa">ப</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2990" code="0bae" title="tamil letter ma">ம</li>
+    <li class="symb" data-code="2991" code="0baf" title="tamil letter ya">ய</li>
+    <li class="h">0bb0</li>
+    <li class="symb" data-code="2992" code="0bb0" title="tamil letter ra">ர</li>
+    <li class="symb" data-code="2993" code="0bb1" title="tamil letter rra">ற</li>
+    <li class="symb" data-code="2994" code="0bb2" title="tamil letter la">ல</li>
+    <li class="symb" data-code="2995" code="0bb3" title="tamil letter lla">ள</li>
+    <li class="symb" data-code="2996" code="0bb4" title="tamil letter llla">ழ</li>
+    <li class="symb" data-code="2997" code="0bb5" title="tamil letter va">வ</li>
+    <li class="symb" data-code="2998" code="0bb6" title="tamil letter sha">ஶ</li>
+    <li class="symb" data-code="2999" code="0bb7" title="tamil letter ssa">ஷ</li>
+    <li class="symb" data-code="3000" code="0bb8" title="tamil letter sa">ஸ</li>
+    <li class="symb" data-code="3001" code="0bb9" title="tamil letter ha">ஹ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3006" code="0bbe" title="tamil vowel sign aa">ா</li>
+    <li class="symb" data-code="3007" code="0bbf" title="tamil vowel sign i">ி</li>
+    <li class="h">0bc0</li>
+    <li class="symb" data-code="3008" code="0bc0" title="tamil vowel sign ii">ீ</li>
+    <li class="symb" data-code="3009" code="0bc1" title="tamil vowel sign u">ு</li>
+    <li class="symb" data-code="3010" code="0bc2" title="tamil vowel sign uu">ூ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3014" code="0bc6" title="tamil vowel sign e">ெ</li>
+    <li class="symb" data-code="3015" code="0bc7" title="tamil vowel sign ee">ே</li>
+    <li class="symb" data-code="3016" code="0bc8" title="tamil vowel sign ai">ை</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3018" code="0bca" title="tamil vowel sign o">ொ</li>
+    <li class="symb" data-code="3019" code="0bcb" title="tamil vowel sign oo">ோ</li>
+    <li class="symb" data-code="3020" code="0bcc" title="tamil vowel sign au">ௌ</li>
+    <li class="symb" data-code="3021" code="0bcd" title="tamil sign virama">்</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0bd0</li>
+    <li class="symb" data-code="3024" code="0bd0" title="tamil om">ௐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3031" code="0bd7" title="tamil au length mark">ௗ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0be0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3044" code="0be4" title="reserved">௤</li>
+    <li class="symb" data-code="3045" code="0be5" title="reserved">௥</li>
+    <li class="symb" data-code="3046" code="0be6" title="tamil digit zero">௦</li>
+    <li class="symb" data-code="3047" code="0be7" title="tamil digit one">௧</li>
+    <li class="symb" data-code="3048" code="0be8" title="tamil digit two">௨</li>
+    <li class="symb" data-code="3049" code="0be9" title="tamil digit three">௩</li>
+    <li class="symb" data-code="3050" code="0bea" title="tamil digit four">௪</li>
+    <li class="symb" data-code="3051" code="0beb" title="tamil digit five">௫</li>
+    <li class="symb" data-code="3052" code="0bec" title="tamil digit six">௬</li>
+    <li class="symb" data-code="3053" code="0bed" title="tamil digit seven">௭</li>
+    <li class="symb" data-code="3054" code="0bee" title="tamil digit eight">௮</li>
+    <li class="symb" data-code="3055" code="0bef" title="tamil digit nine">௯</li>
+    <li class="h">0bf0</li>
+    <li class="symb" data-code="3056" code="0bf0" title="tamil number ten">௰</li>
+    <li class="symb" data-code="3057" code="0bf1" title="tamil number one hundred">௱</li>
+    <li class="symb" data-code="3058" code="0bf2" title="tamil number one thousand">௲</li>
+    <li class="symb" data-code="3059" code="0bf3" title="tamil day sign">௳</li>
+    <li class="symb" data-code="3060" code="0bf4" title="tamil month sign">௴</li>
+    <li class="symb" data-code="3061" code="0bf5" title="tamil year sign">௵</li>
+    <li class="symb" data-code="3062" code="0bf6" title="tamil debit sign">௶</li>
+    <li class="symb" data-code="3063" code="0bf7" title="tamil credit sign">௷</li>
+    <li class="symb" data-code="3064" code="0bf8" title="tamil as above sign">௸</li>
+    <li class="symb" data-code="3065" code="0bf9" title="tamil rupee sign">௹</li>
+    <li class="symb" data-code="3066" code="0bfa" title="tamil number sign">௺</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

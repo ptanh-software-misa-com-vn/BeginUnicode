@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1800</li>
+    <li class="symb" data-code="6144" code="1800" title="mongolian birga">᠀</li>
+    <li class="symb" data-code="6145" code="1801" title="mongolian ellipsis">᠁</li>
+    <li class="symb" data-code="6146" code="1802" title="mongolian comma">᠂</li>
+    <li class="symb" data-code="6147" code="1803" title="mongolian full stop">᠃</li>
+    <li class="symb" data-code="6148" code="1804" title="mongolian colon">᠄</li>
+    <li class="symb" data-code="6149" code="1805" title="mongolian four dots">᠅</li>
+    <li class="symb" data-code="6150" code="1806" title="mongolian todo soft hyphen">᠆</li>
+    <li class="symb" data-code="6151" code="1807" title="mongolian sibe syllable boundary marker">᠇</li>
+    <li class="symb" data-code="6152" code="1808" title="mongolian manchu comma">᠈</li>
+    <li class="symb" data-code="6153" code="1809" title="mongolian manchu full stop">᠉</li>
+    <li class="symb" data-code="6154" code="180a" title="mongolian nirugu">᠊</li>
+    <li class="symb" data-code="6155" code="180b" title="mongolian free variation selector one">᠋</li>
+    <li class="symb" data-code="6156" code="180c" title="mongolian free variation selector two">᠌</li>
+    <li class="symb" data-code="6157" code="180d" title="mongolian free variation selector three">᠍</li>
+    <li class="symb" data-code="6158" code="180e" title="mongolian vowel separator">᠎</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1810</li>
+    <li class="symb" data-code="6160" code="1810" title="mongolian digit zero">᠐</li>
+    <li class="symb" data-code="6161" code="1811" title="mongolian digit one">᠑</li>
+    <li class="symb" data-code="6162" code="1812" title="mongolian digit two">᠒</li>
+    <li class="symb" data-code="6163" code="1813" title="mongolian digit three">᠓</li>
+    <li class="symb" data-code="6164" code="1814" title="mongolian digit four">᠔</li>
+    <li class="symb" data-code="6165" code="1815" title="mongolian digit five">᠕</li>
+    <li class="symb" data-code="6166" code="1816" title="mongolian digit six">᠖</li>
+    <li class="symb" data-code="6167" code="1817" title="mongolian digit seven">᠗</li>
+    <li class="symb" data-code="6168" code="1818" title="mongolian digit eight">᠘</li>
+    <li class="symb" data-code="6169" code="1819" title="mongolian digit nine">᠙</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1820</li>
+    <li class="symb" data-code="6176" code="1820" title="mongolian letter a">ᠠ</li>
+    <li class="symb" data-code="6177" code="1821" title="mongolian letter e">ᠡ</li>
+    <li class="symb" data-code="6178" code="1822" title="mongolian letter i">ᠢ</li>
+    <li class="symb" data-code="6179" code="1823" title="mongolian letter o">ᠣ</li>
+    <li class="symb" data-code="6180" code="1824" title="mongolian letter u">ᠤ</li>
+    <li class="symb" data-code="6181" code="1825" title="mongolian letter oe">ᠥ</li>
+    <li class="symb" data-code="6182" code="1826" title="mongolian letter ue">ᠦ</li>
+    <li class="symb" data-code="6183" code="1827" title="mongolian letter ee">ᠧ</li>
+    <li class="symb" data-code="6184" code="1828" title="mongolian letter na">ᠨ</li>
+    <li class="symb" data-code="6185" code="1829" title="mongolian letter ang">ᠩ</li>
+    <li class="symb" data-code="6186" code="182a" title="mongolian letter ba">ᠪ</li>
+    <li class="symb" data-code="6187" code="182b" title="mongolian letter pa">ᠫ</li>
+    <li class="symb" data-code="6188" code="182c" title="mongolian letter qa">ᠬ</li>
+    <li class="symb" data-code="6189" code="182d" title="mongolian letter ga">ᠭ</li>
+    <li class="symb" data-code="6190" code="182e" title="mongolian letter ma">ᠮ</li>
+    <li class="symb" data-code="6191" code="182f" title="mongolian letter la">ᠯ</li>
+    <li class="h">1830</li>
+    <li class="symb" data-code="6192" code="1830" title="mongolian letter sa">ᠰ</li>
+    <li class="symb" data-code="6193" code="1831" title="mongolian letter sha">ᠱ</li>
+    <li class="symb" data-code="6194" code="1832" title="mongolian letter ta">ᠲ</li>
+    <li class="symb" data-code="6195" code="1833" title="mongolian letter da">ᠳ</li>
+    <li class="symb" data-code="6196" code="1834" title="mongolian letter cha">ᠴ</li>
+    <li class="symb" data-code="6197" code="1835" title="mongolian letter ja">ᠵ</li>
+    <li class="symb" data-code="6198" code="1836" title="mongolian letter ya">ᠶ</li>
+    <li class="symb" data-code="6199" code="1837" title="mongolian letter ra">ᠷ</li>
+    <li class="symb" data-code="6200" code="1838" title="mongolian letter wa">ᠸ</li>
+    <li class="symb" data-code="6201" code="1839" title="mongolian letter fa">ᠹ</li>
+    <li class="symb" data-code="6202" code="183a" title="mongolian letter ka">ᠺ</li>
+    <li class="symb" data-code="6203" code="183b" title="mongolian letter kha">ᠻ</li>
+    <li class="symb" data-code="6204" code="183c" title="mongolian letter tsa">ᠼ</li>
+    <li class="symb" data-code="6205" code="183d" title="mongolian letter za">ᠽ</li>
+    <li class="symb" data-code="6206" code="183e" title="mongolian letter haa">ᠾ</li>
+    <li class="symb" data-code="6207" code="183f" title="mongolian letter zra">ᠿ</li>
+    <li class="h">1840</li>
+    <li class="symb" data-code="6208" code="1840" title="mongolian letter lha">ᡀ</li>
+    <li class="symb" data-code="6209" code="1841" title="mongolian letter zhi">ᡁ</li>
+    <li class="symb" data-code="6210" code="1842" title="mongolian letter chi">ᡂ</li>
+    <li class="symb" data-code="6211" code="1843" title="mongolian letter todo long vowel sign">ᡃ</li>
+    <li class="symb" data-code="6212" code="1844" title="mongolian letter todo e">ᡄ</li>
+    <li class="symb" data-code="6213" code="1845" title="mongolian letter todo i">ᡅ</li>
+    <li class="symb" data-code="6214" code="1846" title="mongolian letter todo o">ᡆ</li>
+    <li class="symb" data-code="6215" code="1847" title="mongolian letter todo u">ᡇ</li>
+    <li class="symb" data-code="6216" code="1848" title="mongolian letter todo oe">ᡈ</li>
+    <li class="symb" data-code="6217" code="1849" title="mongolian letter todo ue">ᡉ</li>
+    <li class="symb" data-code="6218" code="184a" title="mongolian letter todo ang">ᡊ</li>
+    <li class="symb" data-code="6219" code="184b" title="mongolian letter todo ba">ᡋ</li>
+    <li class="symb" data-code="6220" code="184c" title="mongolian letter todo pa">ᡌ</li>
+    <li class="symb" data-code="6221" code="184d" title="mongolian letter todo qa">ᡍ</li>
+    <li class="symb" data-code="6222" code="184e" title="mongolian letter todo ga">ᡎ</li>
+    <li class="symb" data-code="6223" code="184f" title="mongolian letter todo ma">ᡏ</li>
+    <li class="h">1850</li>
+    <li class="symb" data-code="6224" code="1850" title="mongolian letter todo ta">ᡐ</li>
+    <li class="symb" data-code="6225" code="1851" title="mongolian letter todo da">ᡑ</li>
+    <li class="symb" data-code="6226" code="1852" title="mongolian letter todo cha">ᡒ</li>
+    <li class="symb" data-code="6227" code="1853" title="mongolian letter todo ja">ᡓ</li>
+    <li class="symb" data-code="6228" code="1854" title="mongolian letter todo tsa">ᡔ</li>
+    <li class="symb" data-code="6229" code="1855" title="mongolian letter todo ya">ᡕ</li>
+    <li class="symb" data-code="6230" code="1856" title="mongolian letter todo wa">ᡖ</li>
+    <li class="symb" data-code="6231" code="1857" title="mongolian letter todo ka">ᡗ</li>
+    <li class="symb" data-code="6232" code="1858" title="mongolian letter todo gaa">ᡘ</li>
+    <li class="symb" data-code="6233" code="1859" title="mongolian letter todo haa">ᡙ</li>
+    <li class="symb" data-code="6234" code="185a" title="mongolian letter todo jia">ᡚ</li>
+    <li class="symb" data-code="6235" code="185b" title="mongolian letter todo nia">ᡛ</li>
+    <li class="symb" data-code="6236" code="185c" title="mongolian letter todo dza">ᡜ</li>
+    <li class="symb" data-code="6237" code="185d" title="mongolian letter sibe e">ᡝ</li>
+    <li class="symb" data-code="6238" code="185e" title="mongolian letter sibe i">ᡞ</li>
+    <li class="symb" data-code="6239" code="185f" title="mongolian letter sibe iy">ᡟ</li>
+    <li class="h">1860</li>
+    <li class="symb" data-code="6240" code="1860" title="mongolian letter sibe ue">ᡠ</li>
+    <li class="symb" data-code="6241" code="1861" title="mongolian letter sibe u">ᡡ</li>
+    <li class="symb" data-code="6242" code="1862" title="mongolian letter sibe ang">ᡢ</li>
+    <li class="symb" data-code="6243" code="1863" title="mongolian letter sibe ka">ᡣ</li>
+    <li class="symb" data-code="6244" code="1864" title="mongolian letter sibe ga">ᡤ</li>
+    <li class="symb" data-code="6245" code="1865" title="mongolian letter sibe ha">ᡥ</li>
+    <li class="symb" data-code="6246" code="1866" title="mongolian letter sibe pa">ᡦ</li>
+    <li class="symb" data-code="6247" code="1867" title="mongolian letter sibe sha">ᡧ</li>
+    <li class="symb" data-code="6248" code="1868" title="mongolian letter sibe ta">ᡨ</li>
+    <li class="symb" data-code="6249" code="1869" title="mongolian letter sibe da">ᡩ</li>
+    <li class="symb" data-code="6250" code="186a" title="mongolian letter sibe ja">ᡪ</li>
+    <li class="symb" data-code="6251" code="186b" title="mongolian letter sibe fa">ᡫ</li>
+    <li class="symb" data-code="6252" code="186c" title="mongolian letter sibe gaa">ᡬ</li>
+    <li class="symb" data-code="6253" code="186d" title="mongolian letter sibe haa">ᡭ</li>
+    <li class="symb" data-code="6254" code="186e" title="mongolian letter sibe tsa">ᡮ</li>
+    <li class="symb" data-code="6255" code="186f" title="mongolian letter sibe za">ᡯ</li>
+    <li class="h">1870</li>
+    <li class="symb" data-code="6256" code="1870" title="mongolian letter sibe raa">ᡰ</li>
+    <li class="symb" data-code="6257" code="1871" title="mongolian letter sibe cha">ᡱ</li>
+    <li class="symb" data-code="6258" code="1872" title="mongolian letter sibe zha">ᡲ</li>
+    <li class="symb" data-code="6259" code="1873" title="mongolian letter manchu i">ᡳ</li>
+    <li class="symb" data-code="6260" code="1874" title="mongolian letter manchu ka">ᡴ</li>
+    <li class="symb" data-code="6261" code="1875" title="mongolian letter manchu ra">ᡵ</li>
+    <li class="symb" data-code="6262" code="1876" title="mongolian letter manchu fa">ᡶ</li>
+    <li class="symb" data-code="6263" code="1877" title="mongolian letter manchu zha">ᡷ</li>
+    <li class="symb" data-code="6264" code="1878" title="mongolian letter cha with two dots">ᡸ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1880</li>
+    <li class="symb" data-code="6272" code="1880" title="mongolian letter ali gali anusvara one">ᢀ</li>
+    <li class="symb" data-code="6273" code="1881" title="mongolian letter ali gali visarga one">ᢁ</li>
+    <li class="symb" data-code="6274" code="1882" title="mongolian letter ali gali damaru">ᢂ</li>
+    <li class="symb" data-code="6275" code="1883" title="mongolian letter ali gali ubadama">ᢃ</li>
+    <li class="symb" data-code="6276" code="1884" title="mongolian letter ali gali inverted ubadama">ᢄ</li>
+    <li class="symb" data-code="6277" code="1885" title="mongolian letter ali gali baluda">ᢅ</li>
+    <li class="symb" data-code="6278" code="1886" title="mongolian letter ali gali three baluda">ᢆ</li>
+    <li class="symb" data-code="6279" code="1887" title="mongolian letter ali gali a">ᢇ</li>
+    <li class="symb" data-code="6280" code="1888" title="mongolian letter ali gali i">ᢈ</li>
+    <li class="symb" data-code="6281" code="1889" title="mongolian letter ali gali ka">ᢉ</li>
+    <li class="symb" data-code="6282" code="188a" title="mongolian letter ali gali nga">ᢊ</li>
+    <li class="symb" data-code="6283" code="188b" title="mongolian letter ali gali ca">ᢋ</li>
+    <li class="symb" data-code="6284" code="188c" title="mongolian letter ali gali tta">ᢌ</li>
+    <li class="symb" data-code="6285" code="188d" title="mongolian letter ali gali ttha">ᢍ</li>
+    <li class="symb" data-code="6286" code="188e" title="mongolian letter ali gali dda">ᢎ</li>
+    <li class="symb" data-code="6287" code="188f" title="mongolian letter ali gali nna">ᢏ</li>
+    <li class="h">1890</li>
+    <li class="symb" data-code="6288" code="1890" title="mongolian letter ali gali ta">ᢐ</li>
+    <li class="symb" data-code="6289" code="1891" title="mongolian letter ali gali da">ᢑ</li>
+    <li class="symb" data-code="6290" code="1892" title="mongolian letter ali gali pa">ᢒ</li>
+    <li class="symb" data-code="6291" code="1893" title="mongolian letter ali gali pha">ᢓ</li>
+    <li class="symb" data-code="6292" code="1894" title="mongolian letter ali gali ssa">ᢔ</li>
+    <li class="symb" data-code="6293" code="1895" title="mongolian letter ali gali zha">ᢕ</li>
+    <li class="symb" data-code="6294" code="1896" title="mongolian letter ali gali za">ᢖ</li>
+    <li class="symb" data-code="6295" code="1897" title="mongolian letter ali gali ah">ᢗ</li>
+    <li class="symb" data-code="6296" code="1898" title="mongolian letter todo ali gali ta">ᢘ</li>
+    <li class="symb" data-code="6297" code="1899" title="mongolian letter todo ali gali zha">ᢙ</li>
+    <li class="symb" data-code="6298" code="189a" title="mongolian letter manchu ali gali gha">ᢚ</li>
+    <li class="symb" data-code="6299" code="189b" title="mongolian letter manchu ali gali nga">ᢛ</li>
+    <li class="symb" data-code="6300" code="189c" title="mongolian letter manchu ali gali ca">ᢜ</li>
+    <li class="symb" data-code="6301" code="189d" title="mongolian letter manchu ali gali jha">ᢝ</li>
+    <li class="symb" data-code="6302" code="189e" title="mongolian letter manchu ali gali tta">ᢞ</li>
+    <li class="symb" data-code="6303" code="189f" title="mongolian letter manchu ali gali ddha">ᢟ</li>
+    <li class="h">18a0</li>
+    <li class="symb" data-code="6304" code="18a0" title="mongolian letter manchu ali gali ta">ᢠ</li>
+    <li class="symb" data-code="6305" code="18a1" title="mongolian letter manchu ali gali dha">ᢡ</li>
+    <li class="symb" data-code="6306" code="18a2" title="mongolian letter manchu ali gali ssa">ᢢ</li>
+    <li class="symb" data-code="6307" code="18a3" title="mongolian letter manchu ali gali cya">ᢣ</li>
+    <li class="symb" data-code="6308" code="18a4" title="mongolian letter manchu ali gali zha">ᢤ</li>
+    <li class="symb" data-code="6309" code="18a5" title="mongolian letter manchu ali gali za">ᢥ</li>
+    <li class="symb" data-code="6310" code="18a6" title="mongolian letter ali gali half u">ᢦ</li>
+    <li class="symb" data-code="6311" code="18a7" title="mongolian letter ali gali half ya">ᢧ</li>
+    <li class="symb" data-code="6312" code="18a8" title="mongolian letter manchu ali gali bha">ᢨ</li>
+    <li class="symb" data-code="6313" code="18a9" title="mongolian letter ali gali dagalga">ᢩ</li>
+    <li class="symb" data-code="6314" code="18aa" title="mongolian letter manchu ali gali lha">ᢪ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

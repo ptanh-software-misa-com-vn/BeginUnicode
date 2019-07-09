@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1000</li>
+    <li class="symb" data-code="4096" code="1000" title="myanmar letter ka">က</li>
+    <li class="symb" data-code="4097" code="1001" title="myanmar letter kha">ခ</li>
+    <li class="symb" data-code="4098" code="1002" title="myanmar letter ga">ဂ</li>
+    <li class="symb" data-code="4099" code="1003" title="myanmar letter gha">ဃ</li>
+    <li class="symb" data-code="4100" code="1004" title="myanmar letter nga">င</li>
+    <li class="symb" data-code="4101" code="1005" title="myanmar letter ca">စ</li>
+    <li class="symb" data-code="4102" code="1006" title="myanmar letter cha">ဆ</li>
+    <li class="symb" data-code="4103" code="1007" title="myanmar letter ja">ဇ</li>
+    <li class="symb" data-code="4104" code="1008" title="myanmar letter jha">ဈ</li>
+    <li class="symb" data-code="4105" code="1009" title="myanmar letter nya">ဉ</li>
+    <li class="symb" data-code="4106" code="100a" title="myanmar letter nnya">ည</li>
+    <li class="symb" data-code="4107" code="100b" title="myanmar letter tta">ဋ</li>
+    <li class="symb" data-code="4108" code="100c" title="myanmar letter ttha">ဌ</li>
+    <li class="symb" data-code="4109" code="100d" title="myanmar letter dda">ဍ</li>
+    <li class="symb" data-code="4110" code="100e" title="myanmar letter ddha">ဎ</li>
+    <li class="symb" data-code="4111" code="100f" title="myanmar letter nna">ဏ</li>
+    <li class="h">1010</li>
+    <li class="symb" data-code="4112" code="1010" title="myanmar letter ta">တ</li>
+    <li class="symb" data-code="4113" code="1011" title="myanmar letter tha">ထ</li>
+    <li class="symb" data-code="4114" code="1012" title="myanmar letter da">ဒ</li>
+    <li class="symb" data-code="4115" code="1013" title="myanmar letter dha">ဓ</li>
+    <li class="symb" data-code="4116" code="1014" title="myanmar letter na">န</li>
+    <li class="symb" data-code="4117" code="1015" title="myanmar letter pa">ပ</li>
+    <li class="symb" data-code="4118" code="1016" title="myanmar letter pha">ဖ</li>
+    <li class="symb" data-code="4119" code="1017" title="myanmar letter ba">ဗ</li>
+    <li class="symb" data-code="4120" code="1018" title="myanmar letter bha">ဘ</li>
+    <li class="symb" data-code="4121" code="1019" title="myanmar letter ma">မ</li>
+    <li class="symb" data-code="4122" code="101a" title="myanmar letter ya">ယ</li>
+    <li class="symb" data-code="4123" code="101b" title="myanmar letter ra">ရ</li>
+    <li class="symb" data-code="4124" code="101c" title="myanmar letter la">လ</li>
+    <li class="symb" data-code="4125" code="101d" title="myanmar letter wa">ဝ</li>
+    <li class="symb" data-code="4126" code="101e" title="myanmar letter sa">သ</li>
+    <li class="symb" data-code="4127" code="101f" title="myanmar letter ha">ဟ</li>
+    <li class="h">1020</li>
+    <li class="symb" data-code="4128" code="1020" title="myanmar letter lla">ဠ</li>
+    <li class="symb" data-code="4129" code="1021" title="myanmar letter a">အ</li>
+    <li class="symb" data-code="4130" code="1022" title="myanmar letter shan a">ဢ</li>
+    <li class="symb" data-code="4131" code="1023" title="myanmar letter i">ဣ</li>
+    <li class="symb" data-code="4132" code="1024" title="myanmar letter ii">ဤ</li>
+    <li class="symb" data-code="4133" code="1025" title="myanmar letter u">ဥ</li>
+    <li class="symb" data-code="4134" code="1026" title="myanmar letter uu">ဦ</li>
+    <li class="symb" data-code="4135" code="1027" title="myanmar letter e">ဧ</li>
+    <li class="symb" data-code="4136" code="1028" title="myanmar letter mon e">ဨ</li>
+    <li class="symb" data-code="4137" code="1029" title="myanmar letter o">ဩ</li>
+    <li class="symb" data-code="4138" code="102a" title="myanmar letter au">ဪ</li>
+    <li class="symb" data-code="4139" code="102b" title="myanmar vowel sign tall aa">ါ</li>
+    <li class="symb" data-code="4140" code="102c" title="myanmar vowel sign aa">ာ</li>
+    <li class="symb" data-code="4141" code="102d" title="myanmar vowel sign i">ိ</li>
+    <li class="symb" data-code="4142" code="102e" title="myanmar vowel sign ii">ီ</li>
+    <li class="symb" data-code="4143" code="102f" title="myanmar vowel sign u">ု</li>
+    <li class="h">1030</li>
+    <li class="symb" data-code="4144" code="1030" title="myanmar vowel sign uu">ူ</li>
+    <li class="symb" data-code="4145" code="1031" title="myanmar vowel sign e">ေ</li>
+    <li class="symb" data-code="4146" code="1032" title="myanmar vowel sign ai">ဲ</li>
+    <li class="symb" data-code="4147" code="1033" title="myanmar vowel sign mon ii">ဳ</li>
+    <li class="symb" data-code="4148" code="1034" title="myanmar vowel sign mon o">ဴ</li>
+    <li class="symb" data-code="4149" code="1035" title="myanmar vowel sign e above">ဵ</li>
+    <li class="symb" data-code="4150" code="1036" title="myanmar sign anusvara">ံ</li>
+    <li class="symb" data-code="4151" code="1037" title="myanmar sign dot below">့</li>
+    <li class="symb" data-code="4152" code="1038" title="myanmar sign visarga">း</li>
+    <li class="symb" data-code="4153" code="1039" title="myanmar sign virama">္</li>
+    <li class="symb" data-code="4154" code="103a" title="myanmar sign asat">်</li>
+    <li class="symb" data-code="4155" code="103b" title="myanmar consonant sign medial ya">ျ</li>
+    <li class="symb" data-code="4156" code="103c" title="myanmar consonant sign medial ra">ြ</li>
+    <li class="symb" data-code="4157" code="103d" title="myanmar consonant sign medial wa">ွ</li>
+    <li class="symb" data-code="4158" code="103e" title="myanmar consonant sign medial ha">ှ</li>
+    <li class="symb" data-code="4159" code="103f" title="myanmar letter great sa">ဿ</li>
+    <li class="h">1040</li>
+    <li class="symb" data-code="4160" code="1040" title="myanmar digit zero">၀</li>
+    <li class="symb" data-code="4161" code="1041" title="myanmar digit one">၁</li>
+    <li class="symb" data-code="4162" code="1042" title="myanmar digit two">၂</li>
+    <li class="symb" data-code="4163" code="1043" title="myanmar digit three">၃</li>
+    <li class="symb" data-code="4164" code="1044" title="myanmar digit four">၄</li>
+    <li class="symb" data-code="4165" code="1045" title="myanmar digit five">၅</li>
+    <li class="symb" data-code="4166" code="1046" title="myanmar digit six">၆</li>
+    <li class="symb" data-code="4167" code="1047" title="myanmar digit seven">၇</li>
+    <li class="symb" data-code="4168" code="1048" title="myanmar digit eight">၈</li>
+    <li class="symb" data-code="4169" code="1049" title="myanmar digit nine">၉</li>
+    <li class="symb" data-code="4170" code="104a" title="myanmar sign little section">၊</li>
+    <li class="symb" data-code="4171" code="104b" title="myanmar sign section">။</li>
+    <li class="symb" data-code="4172" code="104c" title="myanmar symbol locative">၌</li>
+    <li class="symb" data-code="4173" code="104d" title="myanmar symbol completed">၍</li>
+    <li class="symb" data-code="4174" code="104e" title="myanmar symbol aforementioned">၎</li>
+    <li class="symb" data-code="4175" code="104f" title="myanmar symbol genitive">၏</li>
+    <li class="h">1050</li>
+    <li class="symb" data-code="4176" code="1050" title="myanmar letter sha">ၐ</li>
+    <li class="symb" data-code="4177" code="1051" title="myanmar letter ssa">ၑ</li>
+    <li class="symb" data-code="4178" code="1052" title="myanmar letter vocalic r">ၒ</li>
+    <li class="symb" data-code="4179" code="1053" title="myanmar letter vocalic rr">ၓ</li>
+    <li class="symb" data-code="4180" code="1054" title="myanmar letter vocalic l">ၔ</li>
+    <li class="symb" data-code="4181" code="1055" title="myanmar letter vocalic ll">ၕ</li>
+    <li class="symb" data-code="4182" code="1056" title="myanmar vowel sign vocalic r">ၖ</li>
+    <li class="symb" data-code="4183" code="1057" title="myanmar vowel sign vocalic rr">ၗ</li>
+    <li class="symb" data-code="4184" code="1058" title="myanmar vowel sign vocalic l">ၘ</li>
+    <li class="symb" data-code="4185" code="1059" title="myanmar vowel sign vocalic ll">ၙ</li>
+    <li class="symb" data-code="4186" code="105a" title="myanmar letter mon nga">ၚ</li>
+    <li class="symb" data-code="4187" code="105b" title="myanmar letter mon jha">ၛ</li>
+    <li class="symb" data-code="4188" code="105c" title="myanmar letter mon bba">ၜ</li>
+    <li class="symb" data-code="4189" code="105d" title="myanmar letter mon bbe">ၝ</li>
+    <li class="symb" data-code="4190" code="105e" title="myanmar consonant sign mon medial na">ၞ</li>
+    <li class="symb" data-code="4191" code="105f" title="myanmar consonant sign mon medial ma">ၟ</li>
+    <li class="h">1060</li>
+    <li class="symb" data-code="4192" code="1060" title="myanmar consonant sign mon medial la">ၠ</li>
+    <li class="symb" data-code="4193" code="1061" title="myanmar letter sgaw karen sha">ၡ</li>
+    <li class="symb" data-code="4194" code="1062" title="myanmar vowel sign sgaw karen eu">ၢ</li>
+    <li class="symb" data-code="4195" code="1063" title="myanmar tone mark sgaw karen hathi">ၣ</li>
+    <li class="symb" data-code="4196" code="1064" title="myanmar tone mark sgaw karen ke pho">ၤ</li>
+    <li class="symb" data-code="4197" code="1065" title="myanmar letter western pwo karen tha">ၥ</li>
+    <li class="symb" data-code="4198" code="1066" title="myanmar letter western pwo karen pwa">ၦ</li>
+    <li class="symb" data-code="4199" code="1067" title="myanmar vowel sign western pwo karen eu">ၧ</li>
+    <li class="symb" data-code="4200" code="1068" title="myanmar vowel sign western pwo karen ue">ၨ</li>
+    <li class="symb" data-code="4201" code="1069" title="myanmar sign western pwo karen tone-1">ၩ</li>
+    <li class="symb" data-code="4202" code="106a" title="myanmar sign western pwo karen tone-2">ၪ</li>
+    <li class="symb" data-code="4203" code="106b" title="myanmar sign western pwo karen tone-3">ၫ</li>
+    <li class="symb" data-code="4204" code="106c" title="myanmar sign western pwo karen tone-4">ၬ</li>
+    <li class="symb" data-code="4205" code="106d" title="myanmar sign western pwo karen tone-5">ၭ</li>
+    <li class="symb" data-code="4206" code="106e" title="myanmar letter eastern pwo karen nna">ၮ</li>
+    <li class="symb" data-code="4207" code="106f" title="myanmar letter eastern pwo karen ywa">ၯ</li>
+    <li class="h">1070</li>
+    <li class="symb" data-code="4208" code="1070" title="myanmar letter eastern pwo karen ghwa">ၰ</li>
+    <li class="symb" data-code="4209" code="1071" title="myanmar vowel sign geba karen i">ၱ</li>
+    <li class="symb" data-code="4210" code="1072" title="myanmar vowel sign kayah oe">ၲ</li>
+    <li class="symb" data-code="4211" code="1073" title="myanmar vowel sign kayah u">ၳ</li>
+    <li class="symb" data-code="4212" code="1074" title="myanmar vowel sign kayah ee">ၴ</li>
+    <li class="symb" data-code="4213" code="1075" title="myanmar letter shan ka">ၵ</li>
+    <li class="symb" data-code="4214" code="1076" title="myanmar letter shan kha">ၶ</li>
+    <li class="symb" data-code="4215" code="1077" title="myanmar letter shan ga">ၷ</li>
+    <li class="symb" data-code="4216" code="1078" title="myanmar letter shan ca">ၸ</li>
+    <li class="symb" data-code="4217" code="1079" title="myanmar letter shan za">ၹ</li>
+    <li class="symb" data-code="4218" code="107a" title="myanmar letter shan nya">ၺ</li>
+    <li class="symb" data-code="4219" code="107b" title="myanmar letter shan da">ၻ</li>
+    <li class="symb" data-code="4220" code="107c" title="myanmar letter shan na">ၼ</li>
+    <li class="symb" data-code="4221" code="107d" title="myanmar letter shan pha">ၽ</li>
+    <li class="symb" data-code="4222" code="107e" title="myanmar letter shan fa">ၾ</li>
+    <li class="symb" data-code="4223" code="107f" title="myanmar letter shan ba">ၿ</li>
+    <li class="h">1080</li>
+    <li class="symb" data-code="4224" code="1080" title="myanmar letter shan tha">ႀ</li>
+    <li class="symb" data-code="4225" code="1081" title="myanmar letter shan ha">ႁ</li>
+    <li class="symb" data-code="4226" code="1082" title="myanmar consonant sign shan medial wa">ႂ</li>
+    <li class="symb" data-code="4227" code="1083" title="myanmar vowel sign shan aa">ႃ</li>
+    <li class="symb" data-code="4228" code="1084" title="myanmar vowel sign shan e">ႄ</li>
+    <li class="symb" data-code="4229" code="1085" title="myanmar vowel sign shan e above">ႅ</li>
+    <li class="symb" data-code="4230" code="1086" title="myanmar vowel sign shan final y">ႆ</li>
+    <li class="symb" data-code="4231" code="1087" title="myanmar sign shan tone-2">ႇ</li>
+    <li class="symb" data-code="4232" code="1088" title="myanmar sign shan tone-3">ႈ</li>
+    <li class="symb" data-code="4233" code="1089" title="myanmar sign shan tone-5">ႉ</li>
+    <li class="symb" data-code="4234" code="108a" title="myanmar sign shan tone-6">ႊ</li>
+    <li class="symb" data-code="4235" code="108b" title="myanmar sign shan council tone-2">ႋ</li>
+    <li class="symb" data-code="4236" code="108c" title="myanmar sign shan council tone-3">ႌ</li>
+    <li class="symb" data-code="4237" code="108d" title="myanmar sign shan council emphatic tone">ႍ</li>
+    <li class="symb" data-code="4238" code="108e" title="myanmar letter rumai palaung fa">ႎ</li>
+    <li class="symb" data-code="4239" code="108f" title="myanmar sign rumai palaung tone-5">ႏ</li>
+    <li class="h">1090</li>
+    <li class="symb" data-code="4240" code="1090" title="myanmar shan digit zero">႐</li>
+    <li class="symb" data-code="4241" code="1091" title="myanmar shan digit one">႑</li>
+    <li class="symb" data-code="4242" code="1092" title="myanmar shan digit two">႒</li>
+    <li class="symb" data-code="4243" code="1093" title="myanmar shan digit three">႓</li>
+    <li class="symb" data-code="4244" code="1094" title="myanmar shan digit four">႔</li>
+    <li class="symb" data-code="4245" code="1095" title="myanmar shan digit five">႕</li>
+    <li class="symb" data-code="4246" code="1096" title="myanmar shan digit six">႖</li>
+    <li class="symb" data-code="4247" code="1097" title="myanmar shan digit seven">႗</li>
+    <li class="symb" data-code="4248" code="1098" title="myanmar shan digit eight">႘</li>
+    <li class="symb" data-code="4249" code="1099" title="myanmar shan digit nine">႙</li>
+    <li class="symb" data-code="4250" code="109a" title="myanmar sign khamti tone-1">ႚ</li>
+    <li class="symb" data-code="4251" code="109b" title="myanmar sign khamti tone-3">ႛ</li>
+    <li class="symb" data-code="4252" code="109c" title="myanmar vowel sign aiton a">ႜ</li>
+    <li class="symb" data-code="4253" code="109d" title="myanmar vowel sign aiton ai">ႝ</li>
+    <li class="symb" data-code="4254" code="109e" title="myanmar symbol shan one">႞</li>
+    <li class="symb" data-code="4255" code="109f" title="myanmar symbol shan exclamation">႟</li>
+  </ul>
+</root>

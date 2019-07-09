@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">fe70</li>
+    <li class="symb" data-code="65136" code="fe70" title="arabic fathatan isolated form">ﹰ</li>
+    <li class="symb" data-code="65137" code="fe71" title="arabic tatweel with fathatan above">ﹱ</li>
+    <li class="symb" data-code="65138" code="fe72" title="arabic dammatan isolated form">ﹲ</li>
+    <li class="symb" data-code="65139" code="fe73" title="arabic tail fragment">ﹳ</li>
+    <li class="symb" data-code="65140" code="fe74" title="arabic kasratan isolated form">ﹴ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65142" code="fe76" title="arabic fatha isolated form">ﹶ</li>
+    <li class="symb" data-code="65143" code="fe77" title="arabic fatha medial form">ﹷ</li>
+    <li class="symb" data-code="65144" code="fe78" title="arabic damma isolated form">ﹸ</li>
+    <li class="symb" data-code="65145" code="fe79" title="arabic damma medial form">ﹹ</li>
+    <li class="symb" data-code="65146" code="fe7a" title="arabic kasra isolated form">ﹺ</li>
+    <li class="symb" data-code="65147" code="fe7b" title="arabic kasra medial form">ﹻ</li>
+    <li class="symb" data-code="65148" code="fe7c" title="arabic shadda isolated form">ﹼ</li>
+    <li class="symb" data-code="65149" code="fe7d" title="arabic shadda medial form">ﹽ</li>
+    <li class="symb" data-code="65150" code="fe7e" title="arabic sukun isolated form">ﹾ</li>
+    <li class="symb" data-code="65151" code="fe7f" title="arabic sukun medial form">ﹿ</li>
+    <li class="h">fe80</li>
+    <li class="symb" data-code="65152" code="fe80" title="arabic letter hamza isolated form">ﺀ</li>
+    <li class="symb" data-code="65153" code="fe81" title="arabic letter alef with madda above isolated form">ﺁ</li>
+    <li class="symb" data-code="65154" code="fe82" title="arabic letter alef with madda above final form">ﺂ</li>
+    <li class="symb" data-code="65155" code="fe83" title="arabic letter alef with hamza above isolated form">ﺃ</li>
+    <li class="symb" data-code="65156" code="fe84" title="arabic letter alef with hamza above final form">ﺄ</li>
+    <li class="symb" data-code="65157" code="fe85" title="arabic letter waw with hamza above isolated form">ﺅ</li>
+    <li class="symb" data-code="65158" code="fe86" title="arabic letter waw with hamza above final form">ﺆ</li>
+    <li class="symb" data-code="65159" code="fe87" title="arabic letter alef with hamza below isolated form">ﺇ</li>
+    <li class="symb" data-code="65160" code="fe88" title="arabic letter alef with hamza below final form">ﺈ</li>
+    <li class="symb" data-code="65161" code="fe89" title="arabic letter yeh with hamza above isolated form">ﺉ</li>
+    <li class="symb" data-code="65162" code="fe8a" title="arabic letter yeh with hamza above final form">ﺊ</li>
+    <li class="symb" data-code="65163" code="fe8b" title="arabic letter yeh with hamza above initial form">ﺋ</li>
+    <li class="symb" data-code="65164" code="fe8c" title="arabic letter yeh with hamza above medial form">ﺌ</li>
+    <li class="symb" data-code="65165" code="fe8d" title="arabic letter alef isolated form">ﺍ</li>
+    <li class="symb" data-code="65166" code="fe8e" title="arabic letter alef final form">ﺎ</li>
+    <li class="symb" data-code="65167" code="fe8f" title="arabic letter beh isolated form">ﺏ</li>
+    <li class="h">fe90</li>
+    <li class="symb" data-code="65168" code="fe90" title="arabic letter beh final form">ﺐ</li>
+    <li class="symb" data-code="65169" code="fe91" title="arabic letter beh initial form">ﺑ</li>
+    <li class="symb" data-code="65170" code="fe92" title="arabic letter beh medial form">ﺒ</li>
+    <li class="symb" data-code="65171" code="fe93" title="arabic letter teh marbuta isolated form">ﺓ</li>
+    <li class="symb" data-code="65172" code="fe94" title="arabic letter teh marbuta final form">ﺔ</li>
+    <li class="symb" data-code="65173" code="fe95" title="arabic letter teh isolated form">ﺕ</li>
+    <li class="symb" data-code="65174" code="fe96" title="arabic letter teh final form">ﺖ</li>
+    <li class="symb" data-code="65175" code="fe97" title="arabic letter teh initial form">ﺗ</li>
+    <li class="symb" data-code="65176" code="fe98" title="arabic letter teh medial form">ﺘ</li>
+    <li class="symb" data-code="65177" code="fe99" title="arabic letter theh isolated form">ﺙ</li>
+    <li class="symb" data-code="65178" code="fe9a" title="arabic letter theh final form">ﺚ</li>
+    <li class="symb" data-code="65179" code="fe9b" title="arabic letter theh initial form">ﺛ</li>
+    <li class="symb" data-code="65180" code="fe9c" title="arabic letter theh medial form">ﺜ</li>
+    <li class="symb" data-code="65181" code="fe9d" title="arabic letter jeem isolated form">ﺝ</li>
+    <li class="symb" data-code="65182" code="fe9e" title="arabic letter jeem final form">ﺞ</li>
+    <li class="symb" data-code="65183" code="fe9f" title="arabic letter jeem initial form">ﺟ</li>
+    <li class="h">fea0</li>
+    <li class="symb" data-code="65184" code="fea0" title="arabic letter jeem medial form">ﺠ</li>
+    <li class="symb" data-code="65185" code="fea1" title="arabic letter hah isolated form">ﺡ</li>
+    <li class="symb" data-code="65186" code="fea2" title="arabic letter hah final form">ﺢ</li>
+    <li class="symb" data-code="65187" code="fea3" title="arabic letter hah initial form">ﺣ</li>
+    <li class="symb" data-code="65188" code="fea4" title="arabic letter hah medial form">ﺤ</li>
+    <li class="symb" data-code="65189" code="fea5" title="arabic letter khah isolated form">ﺥ</li>
+    <li class="symb" data-code="65190" code="fea6" title="arabic letter khah final form">ﺦ</li>
+    <li class="symb" data-code="65191" code="fea7" title="arabic letter khah initial form">ﺧ</li>
+    <li class="symb" data-code="65192" code="fea8" title="arabic letter khah medial form">ﺨ</li>
+    <li class="symb" data-code="65193" code="fea9" title="arabic letter dal isolated form">ﺩ</li>
+    <li class="symb" data-code="65194" code="feaa" title="arabic letter dal final form">ﺪ</li>
+    <li class="symb" data-code="65195" code="feab" title="arabic letter thal isolated form">ﺫ</li>
+    <li class="symb" data-code="65196" code="feac" title="arabic letter thal final form">ﺬ</li>
+    <li class="symb" data-code="65197" code="fead" title="arabic letter reh isolated form">ﺭ</li>
+    <li class="symb" data-code="65198" code="feae" title="arabic letter reh final form">ﺮ</li>
+    <li class="symb" data-code="65199" code="feaf" title="arabic letter zain isolated form">ﺯ</li>
+    <li class="h">feb0</li>
+    <li class="symb" data-code="65200" code="feb0" title="arabic letter zain final form">ﺰ</li>
+    <li class="symb" data-code="65201" code="feb1" title="arabic letter seen isolated form">ﺱ</li>
+    <li class="symb" data-code="65202" code="feb2" title="arabic letter seen final form">ﺲ</li>
+    <li class="symb" data-code="65203" code="feb3" title="arabic letter seen initial form">ﺳ</li>
+    <li class="symb" data-code="65204" code="feb4" title="arabic letter seen medial form">ﺴ</li>
+    <li class="symb" data-code="65205" code="feb5" title="arabic letter sheen isolated form">ﺵ</li>
+    <li class="symb" data-code="65206" code="feb6" title="arabic letter sheen final form">ﺶ</li>
+    <li class="symb" data-code="65207" code="feb7" title="arabic letter sheen initial form">ﺷ</li>
+    <li class="symb" data-code="65208" code="feb8" title="arabic letter sheen medial form">ﺸ</li>
+    <li class="symb" data-code="65209" code="feb9" title="arabic letter sad isolated form">ﺹ</li>
+    <li class="symb" data-code="65210" code="feba" title="arabic letter sad final form">ﺺ</li>
+    <li class="symb" data-code="65211" code="febb" title="arabic letter sad initial form">ﺻ</li>
+    <li class="symb" data-code="65212" code="febc" title="arabic letter sad medial form">ﺼ</li>
+    <li class="symb" data-code="65213" code="febd" title="arabic letter dad isolated form">ﺽ</li>
+    <li class="symb" data-code="65214" code="febe" title="arabic letter dad final form">ﺾ</li>
+    <li class="symb" data-code="65215" code="febf" title="arabic letter dad initial form">ﺿ</li>
+    <li class="h">fec0</li>
+    <li class="symb" data-code="65216" code="fec0" title="arabic letter dad medial form">ﻀ</li>
+    <li class="symb" data-code="65217" code="fec1" title="arabic letter tah isolated form">ﻁ</li>
+    <li class="symb" data-code="65218" code="fec2" title="arabic letter tah final form">ﻂ</li>
+    <li class="symb" data-code="65219" code="fec3" title="arabic letter tah initial form">ﻃ</li>
+    <li class="symb" data-code="65220" code="fec4" title="arabic letter tah medial form">ﻄ</li>
+    <li class="symb" data-code="65221" code="fec5" title="arabic letter zah isolated form">ﻅ</li>
+    <li class="symb" data-code="65222" code="fec6" title="arabic letter zah final form">ﻆ</li>
+    <li class="symb" data-code="65223" code="fec7" title="arabic letter zah initial form">ﻇ</li>
+    <li class="symb" data-code="65224" code="fec8" title="arabic letter zah medial form">ﻈ</li>
+    <li class="symb" data-code="65225" code="fec9" title="arabic letter ain isolated form">ﻉ</li>
+    <li class="symb" data-code="65226" code="feca" title="arabic letter ain final form">ﻊ</li>
+    <li class="symb" data-code="65227" code="fecb" title="arabic letter ain initial form">ﻋ</li>
+    <li class="symb" data-code="65228" code="fecc" title="arabic letter ain medial form">ﻌ</li>
+    <li class="symb" data-code="65229" code="fecd" title="arabic letter ghain isolated form">ﻍ</li>
+    <li class="symb" data-code="65230" code="fece" title="arabic letter ghain final form">ﻎ</li>
+    <li class="symb" data-code="65231" code="fecf" title="arabic letter ghain initial form">ﻏ</li>
+    <li class="h">fed0</li>
+    <li class="symb" data-code="65232" code="fed0" title="arabic letter ghain medial form">ﻐ</li>
+    <li class="symb" data-code="65233" code="fed1" title="arabic letter feh isolated form">ﻑ</li>
+    <li class="symb" data-code="65234" code="fed2" title="arabic letter feh final form">ﻒ</li>
+    <li class="symb" data-code="65235" code="fed3" title="arabic letter feh initial form">ﻓ</li>
+    <li class="symb" data-code="65236" code="fed4" title="arabic letter feh medial form">ﻔ</li>
+    <li class="symb" data-code="65237" code="fed5" title="arabic letter qaf isolated form">ﻕ</li>
+    <li class="symb" data-code="65238" code="fed6" title="arabic letter qaf final form">ﻖ</li>
+    <li class="symb" data-code="65239" code="fed7" title="arabic letter qaf initial form">ﻗ</li>
+    <li class="symb" data-code="65240" code="fed8" title="arabic letter qaf medial form">ﻘ</li>
+    <li class="symb" data-code="65241" code="fed9" title="arabic letter kaf isolated form">ﻙ</li>
+    <li class="symb" data-code="65242" code="feda" title="arabic letter kaf final form">ﻚ</li>
+    <li class="symb" data-code="65243" code="fedb" title="arabic letter kaf initial form">ﻛ</li>
+    <li class="symb" data-code="65244" code="fedc" title="arabic letter kaf medial form">ﻜ</li>
+    <li class="symb" data-code="65245" code="fedd" title="arabic letter lam isolated form">ﻝ</li>
+    <li class="symb" data-code="65246" code="fede" title="arabic letter lam final form">ﻞ</li>
+    <li class="symb" data-code="65247" code="fedf" title="arabic letter lam initial form">ﻟ</li>
+    <li class="h">fee0</li>
+    <li class="symb" data-code="65248" code="fee0" title="arabic letter lam medial form">ﻠ</li>
+    <li class="symb" data-code="65249" code="fee1" title="arabic letter meem isolated form">ﻡ</li>
+    <li class="symb" data-code="65250" code="fee2" title="arabic letter meem final form">ﻢ</li>
+    <li class="symb" data-code="65251" code="fee3" title="arabic letter meem initial form">ﻣ</li>
+    <li class="symb" data-code="65252" code="fee4" title="arabic letter meem medial form">ﻤ</li>
+    <li class="symb" data-code="65253" code="fee5" title="arabic letter noon isolated form">ﻥ</li>
+    <li class="symb" data-code="65254" code="fee6" title="arabic letter noon final form">ﻦ</li>
+    <li class="symb" data-code="65255" code="fee7" title="arabic letter noon initial form">ﻧ</li>
+    <li class="symb" data-code="65256" code="fee8" title="arabic letter noon medial form">ﻨ</li>
+    <li class="symb" data-code="65257" code="fee9" title="arabic letter heh isolated form">ﻩ</li>
+    <li class="symb" data-code="65258" code="feea" title="arabic letter heh final form">ﻪ</li>
+    <li class="symb" data-code="65259" code="feeb" title="arabic letter heh initial form">ﻫ</li>
+    <li class="symb" data-code="65260" code="feec" title="arabic letter heh medial form">ﻬ</li>
+    <li class="symb" data-code="65261" code="feed" title="arabic letter waw isolated form">ﻭ</li>
+    <li class="symb" data-code="65262" code="feee" title="arabic letter waw final form">ﻮ</li>
+    <li class="symb" data-code="65263" code="feef" title="arabic letter alef maksura isolated form">ﻯ</li>
+    <li class="h">fef0</li>
+    <li class="symb" data-code="65264" code="fef0" title="arabic letter alef maksura final form">ﻰ</li>
+    <li class="symb" data-code="65265" code="fef1" title="arabic letter yeh isolated form">ﻱ</li>
+    <li class="symb" data-code="65266" code="fef2" title="arabic letter yeh final form">ﻲ</li>
+    <li class="symb" data-code="65267" code="fef3" title="arabic letter yeh initial form">ﻳ</li>
+    <li class="symb" data-code="65268" code="fef4" title="arabic letter yeh medial form">ﻴ</li>
+    <li class="symb" data-code="65269" code="fef5" title="arabic ligature lam with alef with madda above isolated form">ﻵ</li>
+    <li class="symb" data-code="65270" code="fef6" title="arabic ligature lam with alef with madda above final form">ﻶ</li>
+    <li class="symb" data-code="65271" code="fef7" title="arabic ligature lam with alef with hamza above isolated form">ﻷ</li>
+    <li class="symb" data-code="65272" code="fef8" title="arabic ligature lam with alef with hamza above final form">ﻸ</li>
+    <li class="symb" data-code="65273" code="fef9" title="arabic ligature lam with alef with hamza below isolated form">ﻹ</li>
+    <li class="symb" data-code="65274" code="fefa" title="arabic ligature lam with alef with hamza below final form">ﻺ</li>
+    <li class="symb" data-code="65275" code="fefb" title="arabic ligature lam with alef isolated form">ﻻ</li>
+    <li class="symb" data-code="65276" code="fefc" title="arabic ligature lam with alef final form">ﻼ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65279" code="feff" title="zero width no-break space">﻿</li>
+  </ul>
+</root>

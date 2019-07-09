@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1f200</li>
+    <li class="symb" data-code="127488" code="1f200" title="square hiragana hoka">🈀</li>
+    <li class="symb" data-code="127489" code="1f201" title="squared katakana koko">🈁</li>
+    <li class="symb" data-code="127490" code="1f202" title="squared katakana sa">🈂</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f210</li>
+    <li class="symb" data-code="127504" code="1f210" title="squared cjk unified ideograph-624b">🈐</li>
+    <li class="symb" data-code="127505" code="1f211" title="squared cjk unified ideograph-5b57">🈑</li>
+    <li class="symb" data-code="127506" code="1f212" title="squared cjk unified ideograph-53cc">🈒</li>
+    <li class="symb" data-code="127507" code="1f213" title="squared katakana de">🈓</li>
+    <li class="symb" data-code="127508" code="1f214" title="squared cjk unified ideograph-4e8c">🈔</li>
+    <li class="symb" data-code="127509" code="1f215" title="squared cjk unified ideograph-591a">🈕</li>
+    <li class="symb" data-code="127510" code="1f216" title="squared cjk unified ideograph-89e3">🈖</li>
+    <li class="symb" data-code="127511" code="1f217" title="squared cjk unified ideograph-5929">🈗</li>
+    <li class="symb" data-code="127512" code="1f218" title="squared cjk unified ideograph-4ea4">🈘</li>
+    <li class="symb" data-code="127513" code="1f219" title="squared cjk unified ideograph-6620">🈙</li>
+    <li class="symb" data-code="127514" code="1f21a" title="squared cjk unified ideograph-7121">🈚</li>
+    <li class="symb" data-code="127515" code="1f21b" title="squared cjk unified ideograph-6599">🈛</li>
+    <li class="symb" data-code="127516" code="1f21c" title="squared cjk unified ideograph-524d">🈜</li>
+    <li class="symb" data-code="127517" code="1f21d" title="squared cjk unified ideograph-5f8c">🈝</li>
+    <li class="symb" data-code="127518" code="1f21e" title="squared cjk unified ideograph-518d">🈞</li>
+    <li class="symb" data-code="127519" code="1f21f" title="squared cjk unified ideograph-65b0">🈟</li>
+    <li class="h">1f220</li>
+    <li class="symb" data-code="127520" code="1f220" title="squared cjk unified ideograph-521d">🈠</li>
+    <li class="symb" data-code="127521" code="1f221" title="squared cjk unified ideograph-7d42">🈡</li>
+    <li class="symb" data-code="127522" code="1f222" title="squared cjk unified ideograph-751f">🈢</li>
+    <li class="symb" data-code="127523" code="1f223" title="squared cjk unified ideograph-8ca9">🈣</li>
+    <li class="symb" data-code="127524" code="1f224" title="squared cjk unified ideograph-58f0">🈤</li>
+    <li class="symb" data-code="127525" code="1f225" title="squared cjk unified ideograph-5439">🈥</li>
+    <li class="symb" data-code="127526" code="1f226" title="squared cjk unified ideograph-6f14">🈦</li>
+    <li class="symb" data-code="127527" code="1f227" title="squared cjk unified ideograph-6295">🈧</li>
+    <li class="symb" data-code="127528" code="1f228" title="squared cjk unified ideograph-6355">🈨</li>
+    <li class="symb" data-code="127529" code="1f229" title="squared cjk unified ideograph-4e00">🈩</li>
+    <li class="symb" data-code="127530" code="1f22a" title="squared cjk unified ideograph-4e09">🈪</li>
+    <li class="symb" data-code="127531" code="1f22b" title="squared cjk unified ideograph-904a">🈫</li>
+    <li class="symb" data-code="127532" code="1f22c" title="squared cjk unified ideograph-5de6">🈬</li>
+    <li class="symb" data-code="127533" code="1f22d" title="squared cjk unified ideograph-4e2d">🈭</li>
+    <li class="symb" data-code="127534" code="1f22e" title="squared cjk unified ideograph-53f3">🈮</li>
+    <li class="symb" data-code="127535" code="1f22f" title="squared cjk unified ideograph-6307">🈯</li>
+    <li class="h">1f230</li>
+    <li class="symb" data-code="127536" code="1f230" title="squared cjk unified ideograph-8d70">🈰</li>
+    <li class="symb" data-code="127537" code="1f231" title="squared cjk unified ideograph-6253">🈱</li>
+    <li class="symb" data-code="127538" code="1f232" title="squared cjk unified ideograph-7981">🈲</li>
+    <li class="symb" data-code="127539" code="1f233" title="squared cjk unified ideograph-7a7a">🈳</li>
+    <li class="symb" data-code="127540" code="1f234" title="squared cjk unified ideograph-5408">🈴</li>
+    <li class="symb" data-code="127541" code="1f235" title="squared cjk unified ideograph-6e80">🈵</li>
+    <li class="symb" data-code="127542" code="1f236" title="squared cjk unified ideograph-6709">🈶</li>
+    <li class="symb" data-code="127543" code="1f237" title="squared cjk unified ideograph-6708">🈷</li>
+    <li class="symb" data-code="127544" code="1f238" title="squared cjk unified ideograph-7533">🈸</li>
+    <li class="symb" data-code="127545" code="1f239" title="squared cjk unified ideograph-5272">🈹</li>
+    <li class="symb" data-code="127546" code="1f23a" title="squared cjk unified ideograph-55b6">🈺</li>
+    <li class="symb" data-code="127547" code="1f23b" title="squared cjk unified ideograph-914d">🈻</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f240</li>
+    <li class="symb" data-code="127552" code="1f240" title="tortoise shell bracketed cjk unified ideograph-672c">🉀</li>
+    <li class="symb" data-code="127553" code="1f241" title="tortoise shell bracketed cjk unified ideograph-4e09">🉁</li>
+    <li class="symb" data-code="127554" code="1f242" title="tortoise shell bracketed cjk unified ideograph-4e8c">🉂</li>
+    <li class="symb" data-code="127555" code="1f243" title="tortoise shell bracketed cjk unified ideograph-5b89">🉃</li>
+    <li class="symb" data-code="127556" code="1f244" title="tortoise shell bracketed cjk unified ideograph-70b9">🉄</li>
+    <li class="symb" data-code="127557" code="1f245" title="tortoise shell bracketed cjk unified ideograph-6253">🉅</li>
+    <li class="symb" data-code="127558" code="1f246" title="tortoise shell bracketed cjk unified ideograph-76d7">🉆</li>
+    <li class="symb" data-code="127559" code="1f247" title="tortoise shell bracketed cjk unified ideograph-52dd">🉇</li>
+    <li class="symb" data-code="127560" code="1f248" title="tortoise shell bracketed cjk unified ideograph-6557">🉈</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f250</li>
+    <li class="symb" data-code="127568" code="1f250" title="circled ideograph advantage">🉐</li>
+    <li class="symb" data-code="127569" code="1f251" title="circled ideograph accept">🉑</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f260</li>
+    <li class="symb" data-code="127584" code="1f260" title="rounded symbol for fu">🉠</li>
+    <li class="symb" data-code="127585" code="1f261" title="rounded symbol for lu">🉡</li>
+    <li class="symb" data-code="127586" code="1f262" title="rounded symbol for shou">🉢</li>
+    <li class="symb" data-code="127587" code="1f263" title="rounded symbol for xi">🉣</li>
+    <li class="symb" data-code="127588" code="1f264" title="rounded symbol for shuangxi">🉤</li>
+    <li class="symb" data-code="127589" code="1f265" title="rounded symbol for cai">🉥</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f270</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f280</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f290</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f2a0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f2b0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f2c0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f2d0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f2e0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f2f0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

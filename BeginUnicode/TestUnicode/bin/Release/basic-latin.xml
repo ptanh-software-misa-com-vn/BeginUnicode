@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0020</li>
+    <li class="symb" data-code="32" code="0020" title="space"></li>
+    <li class="symb" data-code="33" code="0021" title="exclamation mark">!</li>
+    <li class="symb" data-code="34" code="0022" title="quotation mark">"</li>
+    <li class="symb" data-code="35" code="0023" title="number sign">#</li>
+    <li class="symb" data-code="36" code="0024" title="dollar sign">$</li>
+    <li class="symb" data-code="37" code="0025" title="percent sign">%</li>
+    <li class="symb" data-code="38" code="0026" title="ampersand">&amp;</li>
+    <li class="symb" data-code="39" code="0027" title="apostrophe">'</li>
+    <li class="symb" data-code="40" code="0028" title="left parenthesis">(</li>
+    <li class="symb" data-code="41" code="0029" title="right parenthesis">)</li>
+    <li class="symb" data-code="42" code="002a" title="asterisk">*</li>
+    <li class="symb" data-code="43" code="002b" title="plus sign">+</li>
+    <li class="symb" data-code="44" code="002c" title="comma">,</li>
+    <li class="symb" data-code="45" code="002d" title="hyphen-minus">-</li>
+    <li class="symb" data-code="46" code="002e" title="full stop">.</li>
+    <li class="symb" data-code="47" code="002f" title="solidus">/</li>
+    <li class="h">0030</li>
+    <li class="symb" data-code="48" code="0030" title="digit zero">0</li>
+    <li class="symb" data-code="49" code="0031" title="digit one">1</li>
+    <li class="symb" data-code="50" code="0032" title="digit two">2</li>
+    <li class="symb" data-code="51" code="0033" title="digit three">3</li>
+    <li class="symb" data-code="52" code="0034" title="digit four">4</li>
+    <li class="symb" data-code="53" code="0035" title="digit five">5</li>
+    <li class="symb" data-code="54" code="0036" title="digit six">6</li>
+    <li class="symb" data-code="55" code="0037" title="digit seven">7</li>
+    <li class="symb" data-code="56" code="0038" title="digit eight">8</li>
+    <li class="symb" data-code="57" code="0039" title="digit nine">9</li>
+    <li class="symb" data-code="58" code="003a" title="colon">:</li>
+    <li class="symb" data-code="59" code="003b" title="semicolon">;</li>
+    <li class="symb" data-code="60" code="003c" title="less-than sign">&lt;</li>
+    <li class="symb" data-code="61" code="003d" title="equals sign">=</li>
+    <li class="symb" data-code="62" code="003e" title="greater-than sign">&gt;</li>
+    <li class="symb" data-code="63" code="003f" title="question mark">?</li>
+    <li class="h">0040</li>
+    <li class="symb" data-code="64" code="0040" title="commercial at">@</li>
+    <li class="symb" data-code="65" code="0041" title="latin capital letter a">a</li>
+    <li class="symb" data-code="66" code="0042" title="latin capital letter b">b</li>
+    <li class="symb" data-code="67" code="0043" title="latin capital letter c">c</li>
+    <li class="symb" data-code="68" code="0044" title="latin capital letter d">d</li>
+    <li class="symb" data-code="69" code="0045" title="latin capital letter e">e</li>
+    <li class="symb" data-code="70" code="0046" title="latin capital letter f">f</li>
+    <li class="symb" data-code="71" code="0047" title="latin capital letter g">g</li>
+    <li class="symb" data-code="72" code="0048" title="latin capital letter h">h</li>
+    <li class="symb" data-code="73" code="0049" title="latin capital letter i">i</li>
+    <li class="symb" data-code="74" code="004a" title="latin capital letter j">j</li>
+    <li class="symb" data-code="75" code="004b" title="latin capital letter k">k</li>
+    <li class="symb" data-code="76" code="004c" title="latin capital letter l">l</li>
+    <li class="symb" data-code="77" code="004d" title="latin capital letter m">m</li>
+    <li class="symb" data-code="78" code="004e" title="latin capital letter n">n</li>
+    <li class="symb" data-code="79" code="004f" title="latin capital letter o">o</li>
+    <li class="h">0050</li>
+    <li class="symb" data-code="80" code="0050" title="latin capital letter p">p</li>
+    <li class="symb" data-code="81" code="0051" title="latin capital letter q">q</li>
+    <li class="symb" data-code="82" code="0052" title="latin capital letter r">r</li>
+    <li class="symb" data-code="83" code="0053" title="latin capital letter s">s</li>
+    <li class="symb" data-code="84" code="0054" title="latin capital letter t">t</li>
+    <li class="symb" data-code="85" code="0055" title="latin capital letter u">u</li>
+    <li class="symb" data-code="86" code="0056" title="latin capital letter v">v</li>
+    <li class="symb" data-code="87" code="0057" title="latin capital letter w">w</li>
+    <li class="symb" data-code="88" code="0058" title="latin capital letter x">x</li>
+    <li class="symb" data-code="89" code="0059" title="latin capital letter y">y</li>
+    <li class="symb" data-code="90" code="005a" title="latin capital letter z">z</li>
+    <li class="symb" data-code="91" code="005b" title="left square bracket">[</li>
+    <li class="symb" data-code="92" code="005c" title="reverse solidus">\</li>
+    <li class="symb" data-code="93" code="005d" title="right square bracket">]</li>
+    <li class="symb" data-code="94" code="005e" title="circumflex accent">^</li>
+    <li class="symb" data-code="95" code="005f" title="low line">_</li>
+    <li class="h">0060</li>
+    <li class="symb" data-code="96" code="0060" title="grave accent">`</li>
+    <li class="symb" data-code="97" code="0061" title="latin small letter a">a</li>
+    <li class="symb" data-code="98" code="0062" title="latin small letter b">b</li>
+    <li class="symb" data-code="99" code="0063" title="latin small letter c">c</li>
+    <li class="symb" data-code="100" code="0064" title="latin small letter d">d</li>
+    <li class="symb" data-code="101" code="0065" title="latin small letter e">e</li>
+    <li class="symb" data-code="102" code="0066" title="latin small letter f">f</li>
+    <li class="symb" data-code="103" code="0067" title="latin small letter g">g</li>
+    <li class="symb" data-code="104" code="0068" title="latin small letter h">h</li>
+    <li class="symb" data-code="105" code="0069" title="latin small letter i">i</li>
+    <li class="symb" data-code="106" code="006a" title="latin small letter j">j</li>
+    <li class="symb" data-code="107" code="006b" title="latin small letter k">k</li>
+    <li class="symb" data-code="108" code="006c" title="latin small letter l">l</li>
+    <li class="symb" data-code="109" code="006d" title="latin small letter m">m</li>
+    <li class="symb" data-code="110" code="006e" title="latin small letter n">n</li>
+    <li class="symb" data-code="111" code="006f" title="latin small letter o">o</li>
+    <li class="h">0070</li>
+    <li class="symb" data-code="112" code="0070" title="latin small letter p">p</li>
+    <li class="symb" data-code="113" code="0071" title="latin small letter q">q</li>
+    <li class="symb" data-code="114" code="0072" title="latin small letter r">r</li>
+    <li class="symb" data-code="115" code="0073" title="latin small letter s">s</li>
+    <li class="symb" data-code="116" code="0074" title="latin small letter t">t</li>
+    <li class="symb" data-code="117" code="0075" title="latin small letter u">u</li>
+    <li class="symb" data-code="118" code="0076" title="latin small letter v">v</li>
+    <li class="symb" data-code="119" code="0077" title="latin small letter w">w</li>
+    <li class="symb" data-code="120" code="0078" title="latin small letter x">x</li>
+    <li class="symb" data-code="121" code="0079" title="latin small letter y">y</li>
+    <li class="symb" data-code="122" code="007a" title="latin small letter z">z</li>
+    <li class="symb" data-code="123" code="007b" title="left curly bracket">{</li>
+    <li class="symb" data-code="124" code="007c" title="vertical line">|</li>
+    <li class="symb" data-code="125" code="007d" title="right curly bracket">}</li>
+    <li class="symb" data-code="126" code="007e" title="tilde">~</li>
+    <li class="symb" data-code="127" code="007f" title="delete">␡</li>
+  </ul>
+</root>

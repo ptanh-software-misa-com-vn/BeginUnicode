@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2ff0</li>
+    <li class="symb" data-code="12272" code="2ff0" title="ideographic description character left to right">⿰</li>
+    <li class="symb" data-code="12273" code="2ff1" title="ideographic description character above to below">⿱</li>
+    <li class="symb" data-code="12274" code="2ff2" title="ideographic description character left to middle and right">⿲</li>
+    <li class="symb" data-code="12275" code="2ff3" title="ideographic description character above to middle and below">⿳</li>
+    <li class="symb" data-code="12276" code="2ff4" title="ideographic description character full surround">⿴</li>
+    <li class="symb" data-code="12277" code="2ff5" title="ideographic description character surround from above">⿵</li>
+    <li class="symb" data-code="12278" code="2ff6" title="ideographic description character surround from below">⿶</li>
+    <li class="symb" data-code="12279" code="2ff7" title="ideographic description character surround from left">⿷</li>
+    <li class="symb" data-code="12280" code="2ff8" title="ideographic description character surround from upper left">⿸</li>
+    <li class="symb" data-code="12281" code="2ff9" title="ideographic description character surround from upper right">⿹</li>
+    <li class="symb" data-code="12282" code="2ffa" title="ideographic description character surround from lower left">⿺</li>
+    <li class="symb" data-code="12283" code="2ffb" title="ideographic description character overlaid">⿻</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

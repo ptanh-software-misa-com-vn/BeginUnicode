@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">a960</li>
+    <li class="symb" data-code="43360" code="a960" title="hangul choseong tikeut-mieum">ꥠ</li>
+    <li class="symb" data-code="43361" code="a961" title="hangul choseong tikeut-pieup">ꥡ</li>
+    <li class="symb" data-code="43362" code="a962" title="hangul choseong tikeut-sios">ꥢ</li>
+    <li class="symb" data-code="43363" code="a963" title="hangul choseong tikeut-cieuc">ꥣ</li>
+    <li class="symb" data-code="43364" code="a964" title="hangul choseong rieul-kiyeok">ꥤ</li>
+    <li class="symb" data-code="43365" code="a965" title="hangul choseong rieul-ssangkiyeok">ꥥ</li>
+    <li class="symb" data-code="43366" code="a966" title="hangul choseong rieul-tikeut">ꥦ</li>
+    <li class="symb" data-code="43367" code="a967" title="hangul choseong rieul-ssangtikeut">ꥧ</li>
+    <li class="symb" data-code="43368" code="a968" title="hangul choseong rieul-mieum">ꥨ</li>
+    <li class="symb" data-code="43369" code="a969" title="hangul choseong rieul-pieup">ꥩ</li>
+    <li class="symb" data-code="43370" code="a96a" title="hangul choseong rieul-ssangpieup">ꥪ</li>
+    <li class="symb" data-code="43371" code="a96b" title="hangul choseong rieul-kapyeounpieup">ꥫ</li>
+    <li class="symb" data-code="43372" code="a96c" title="hangul choseong rieul-sios">ꥬ</li>
+    <li class="symb" data-code="43373" code="a96d" title="hangul choseong rieul-cieuc">ꥭ</li>
+    <li class="symb" data-code="43374" code="a96e" title="hangul choseong rieul-khieukh">ꥮ</li>
+    <li class="symb" data-code="43375" code="a96f" title="hangul choseong mieum-kiyeok">ꥯ</li>
+    <li class="h">a970</li>
+    <li class="symb" data-code="43376" code="a970" title="hangul choseong mieum-tikeut">ꥰ</li>
+    <li class="symb" data-code="43377" code="a971" title="hangul choseong mieum-sios">ꥱ</li>
+    <li class="symb" data-code="43378" code="a972" title="hangul choseong pieup-sios-thieuth">ꥲ</li>
+    <li class="symb" data-code="43379" code="a973" title="hangul choseong pieup-khieukh">ꥳ</li>
+    <li class="symb" data-code="43380" code="a974" title="hangul choseong pieup-hieuh">ꥴ</li>
+    <li class="symb" data-code="43381" code="a975" title="hangul choseong ssangsios-pieup">ꥵ</li>
+    <li class="symb" data-code="43382" code="a976" title="hangul choseong ieung-rieul">ꥶ</li>
+    <li class="symb" data-code="43383" code="a977" title="hangul choseong ieung-hieuh">ꥷ</li>
+    <li class="symb" data-code="43384" code="a978" title="hangul choseong ssangcieuc-hieuh">ꥸ</li>
+    <li class="symb" data-code="43385" code="a979" title="hangul choseong ssangthieuth">ꥹ</li>
+    <li class="symb" data-code="43386" code="a97a" title="hangul choseong phieuph-hieuh">ꥺ</li>
+    <li class="symb" data-code="43387" code="a97b" title="hangul choseong hieuh-sios">ꥻ</li>
+    <li class="symb" data-code="43388" code="a97c" title="hangul choseong ssangyeorinhieuh">ꥼ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">3300</li>
+    <li class="symb" data-code="13056" code="3300" title="square apaato">㌀</li>
+    <li class="symb" data-code="13057" code="3301" title="square aruhua">㌁</li>
+    <li class="symb" data-code="13058" code="3302" title="square anpea">㌂</li>
+    <li class="symb" data-code="13059" code="3303" title="square aaru">㌃</li>
+    <li class="symb" data-code="13060" code="3304" title="square iningu">㌄</li>
+    <li class="symb" data-code="13061" code="3305" title="square inti">㌅</li>
+    <li class="symb" data-code="13062" code="3306" title="square uon">㌆</li>
+    <li class="symb" data-code="13063" code="3307" title="square esukuudo">㌇</li>
+    <li class="symb" data-code="13064" code="3308" title="square eekaa">㌈</li>
+    <li class="symb" data-code="13065" code="3309" title="square onsu">㌉</li>
+    <li class="symb" data-code="13066" code="330a" title="square oomu">㌊</li>
+    <li class="symb" data-code="13067" code="330b" title="square kairi">㌋</li>
+    <li class="symb" data-code="13068" code="330c" title="square karatto">㌌</li>
+    <li class="symb" data-code="13069" code="330d" title="square karorii">㌍</li>
+    <li class="symb" data-code="13070" code="330e" title="square garon">㌎</li>
+    <li class="symb" data-code="13071" code="330f" title="square ganma">㌏</li>
+    <li class="h">3310</li>
+    <li class="symb" data-code="13072" code="3310" title="square giga">㌐</li>
+    <li class="symb" data-code="13073" code="3311" title="square ginii">㌑</li>
+    <li class="symb" data-code="13074" code="3312" title="square kyurii">㌒</li>
+    <li class="symb" data-code="13075" code="3313" title="square girudaa">㌓</li>
+    <li class="symb" data-code="13076" code="3314" title="square kiro">㌔</li>
+    <li class="symb" data-code="13077" code="3315" title="square kiroguramu">㌕</li>
+    <li class="symb" data-code="13078" code="3316" title="square kiromeetoru">㌖</li>
+    <li class="symb" data-code="13079" code="3317" title="square kirowatto">㌗</li>
+    <li class="symb" data-code="13080" code="3318" title="square guramu">㌘</li>
+    <li class="symb" data-code="13081" code="3319" title="square guramuton">㌙</li>
+    <li class="symb" data-code="13082" code="331a" title="square kuruzeiro">㌚</li>
+    <li class="symb" data-code="13083" code="331b" title="square kuroone">㌛</li>
+    <li class="symb" data-code="13084" code="331c" title="square keesu">㌜</li>
+    <li class="symb" data-code="13085" code="331d" title="square koruna">㌝</li>
+    <li class="symb" data-code="13086" code="331e" title="square koopo">㌞</li>
+    <li class="symb" data-code="13087" code="331f" title="square saikuru">㌟</li>
+    <li class="h">3320</li>
+    <li class="symb" data-code="13088" code="3320" title="square santiimu">㌠</li>
+    <li class="symb" data-code="13089" code="3321" title="square siringu">㌡</li>
+    <li class="symb" data-code="13090" code="3322" title="square senti">㌢</li>
+    <li class="symb" data-code="13091" code="3323" title="square sento">㌣</li>
+    <li class="symb" data-code="13092" code="3324" title="square daasu">㌤</li>
+    <li class="symb" data-code="13093" code="3325" title="square desi">㌥</li>
+    <li class="symb" data-code="13094" code="3326" title="square doru">㌦</li>
+    <li class="symb" data-code="13095" code="3327" title="square ton">㌧</li>
+    <li class="symb" data-code="13096" code="3328" title="square nano">㌨</li>
+    <li class="symb" data-code="13097" code="3329" title="square notto">㌩</li>
+    <li class="symb" data-code="13098" code="332a" title="square haitu">㌪</li>
+    <li class="symb" data-code="13099" code="332b" title="square paasento">㌫</li>
+    <li class="symb" data-code="13100" code="332c" title="square paatu">㌬</li>
+    <li class="symb" data-code="13101" code="332d" title="square baareru">㌭</li>
+    <li class="symb" data-code="13102" code="332e" title="square piasutoru">㌮</li>
+    <li class="symb" data-code="13103" code="332f" title="square pikuru">㌯</li>
+    <li class="h">3330</li>
+    <li class="symb" data-code="13104" code="3330" title="square piko">㌰</li>
+    <li class="symb" data-code="13105" code="3331" title="square biru">㌱</li>
+    <li class="symb" data-code="13106" code="3332" title="square huaraddo">㌲</li>
+    <li class="symb" data-code="13107" code="3333" title="square huiito">㌳</li>
+    <li class="symb" data-code="13108" code="3334" title="square bussyeru">㌴</li>
+    <li class="symb" data-code="13109" code="3335" title="square huran">㌵</li>
+    <li class="symb" data-code="13110" code="3336" title="square hekutaaru">㌶</li>
+    <li class="symb" data-code="13111" code="3337" title="square peso">㌷</li>
+    <li class="symb" data-code="13112" code="3338" title="square penihi">㌸</li>
+    <li class="symb" data-code="13113" code="3339" title="square herutu">㌹</li>
+    <li class="symb" data-code="13114" code="333a" title="square pensu">㌺</li>
+    <li class="symb" data-code="13115" code="333b" title="square peezi">㌻</li>
+    <li class="symb" data-code="13116" code="333c" title="square beeta">㌼</li>
+    <li class="symb" data-code="13117" code="333d" title="square pointo">㌽</li>
+    <li class="symb" data-code="13118" code="333e" title="square boruto">㌾</li>
+    <li class="symb" data-code="13119" code="333f" title="square hon">㌿</li>
+    <li class="h">3340</li>
+    <li class="symb" data-code="13120" code="3340" title="square pondo">㍀</li>
+    <li class="symb" data-code="13121" code="3341" title="square hooru">㍁</li>
+    <li class="symb" data-code="13122" code="3342" title="square hoon">㍂</li>
+    <li class="symb" data-code="13123" code="3343" title="square maikuro">㍃</li>
+    <li class="symb" data-code="13124" code="3344" title="square mairu">㍄</li>
+    <li class="symb" data-code="13125" code="3345" title="square mahha">㍅</li>
+    <li class="symb" data-code="13126" code="3346" title="square maruku">㍆</li>
+    <li class="symb" data-code="13127" code="3347" title="square mansyon">㍇</li>
+    <li class="symb" data-code="13128" code="3348" title="square mikuron">㍈</li>
+    <li class="symb" data-code="13129" code="3349" title="square miri">㍉</li>
+    <li class="symb" data-code="13130" code="334a" title="square miribaaru">㍊</li>
+    <li class="symb" data-code="13131" code="334b" title="square mega">㍋</li>
+    <li class="symb" data-code="13132" code="334c" title="square megaton">㍌</li>
+    <li class="symb" data-code="13133" code="334d" title="square meetoru">㍍</li>
+    <li class="symb" data-code="13134" code="334e" title="square yaado">㍎</li>
+    <li class="symb" data-code="13135" code="334f" title="square yaaru">㍏</li>
+    <li class="h">3350</li>
+    <li class="symb" data-code="13136" code="3350" title="square yuan">㍐</li>
+    <li class="symb" data-code="13137" code="3351" title="square rittoru">㍑</li>
+    <li class="symb" data-code="13138" code="3352" title="square rira">㍒</li>
+    <li class="symb" data-code="13139" code="3353" title="square rupii">㍓</li>
+    <li class="symb" data-code="13140" code="3354" title="square ruuburu">㍔</li>
+    <li class="symb" data-code="13141" code="3355" title="square remu">㍕</li>
+    <li class="symb" data-code="13142" code="3356" title="square rentogen">㍖</li>
+    <li class="symb" data-code="13143" code="3357" title="square watto">㍗</li>
+    <li class="symb" data-code="13144" code="3358" title="ideographic telegraph symbol for hour zero">㍘</li>
+    <li class="symb" data-code="13145" code="3359" title="ideographic telegraph symbol for hour one">㍙</li>
+    <li class="symb" data-code="13146" code="335a" title="ideographic telegraph symbol for hour two">㍚</li>
+    <li class="symb" data-code="13147" code="335b" title="ideographic telegraph symbol for hour three">㍛</li>
+    <li class="symb" data-code="13148" code="335c" title="ideographic telegraph symbol for hour four">㍜</li>
+    <li class="symb" data-code="13149" code="335d" title="ideographic telegraph symbol for hour five">㍝</li>
+    <li class="symb" data-code="13150" code="335e" title="ideographic telegraph symbol for hour six">㍞</li>
+    <li class="symb" data-code="13151" code="335f" title="ideographic telegraph symbol for hour seven">㍟</li>
+    <li class="h">3360</li>
+    <li class="symb" data-code="13152" code="3360" title="ideographic telegraph symbol for hour eight">㍠</li>
+    <li class="symb" data-code="13153" code="3361" title="ideographic telegraph symbol for hour nine">㍡</li>
+    <li class="symb" data-code="13154" code="3362" title="ideographic telegraph symbol for hour ten">㍢</li>
+    <li class="symb" data-code="13155" code="3363" title="ideographic telegraph symbol for hour eleven">㍣</li>
+    <li class="symb" data-code="13156" code="3364" title="ideographic telegraph symbol for hour twelve">㍤</li>
+    <li class="symb" data-code="13157" code="3365" title="ideographic telegraph symbol for hour thirteen">㍥</li>
+    <li class="symb" data-code="13158" code="3366" title="ideographic telegraph symbol for hour fourteen">㍦</li>
+    <li class="symb" data-code="13159" code="3367" title="ideographic telegraph symbol for hour fifteen">㍧</li>
+    <li class="symb" data-code="13160" code="3368" title="ideographic telegraph symbol for hour sixteen">㍨</li>
+    <li class="symb" data-code="13161" code="3369" title="ideographic telegraph symbol for hour seventeen">㍩</li>
+    <li class="symb" data-code="13162" code="336a" title="ideographic telegraph symbol for hour eighteen">㍪</li>
+    <li class="symb" data-code="13163" code="336b" title="ideographic telegraph symbol for hour nineteen">㍫</li>
+    <li class="symb" data-code="13164" code="336c" title="ideographic telegraph symbol for hour twenty">㍬</li>
+    <li class="symb" data-code="13165" code="336d" title="ideographic telegraph symbol for hour twenty-one">㍭</li>
+    <li class="symb" data-code="13166" code="336e" title="ideographic telegraph symbol for hour twenty-two">㍮</li>
+    <li class="symb" data-code="13167" code="336f" title="ideographic telegraph symbol for hour twenty-three">㍯</li>
+    <li class="h">3370</li>
+    <li class="symb" data-code="13168" code="3370" title="ideographic telegraph symbol for hour twenty-four">㍰</li>
+    <li class="symb" data-code="13169" code="3371" title="square hpa">㍱</li>
+    <li class="symb" data-code="13170" code="3372" title="square da">㍲</li>
+    <li class="symb" data-code="13171" code="3373" title="square au">㍳</li>
+    <li class="symb" data-code="13172" code="3374" title="square bar">㍴</li>
+    <li class="symb" data-code="13173" code="3375" title="square ov">㍵</li>
+    <li class="symb" data-code="13174" code="3376" title="square pc">㍶</li>
+    <li class="symb" data-code="13175" code="3377" title="square dm">㍷</li>
+    <li class="symb" data-code="13176" code="3378" title="square dm squared">㍸</li>
+    <li class="symb" data-code="13177" code="3379" title="square dm cubed">㍹</li>
+    <li class="symb" data-code="13178" code="337a" title="square iu">㍺</li>
+    <li class="symb" data-code="13179" code="337b" title="square era name heisei">㍻</li>
+    <li class="symb" data-code="13180" code="337c" title="square era name syouwa">㍼</li>
+    <li class="symb" data-code="13181" code="337d" title="square era name taisyou">㍽</li>
+    <li class="symb" data-code="13182" code="337e" title="square era name meizi">㍾</li>
+    <li class="symb" data-code="13183" code="337f" title="square corporation">㍿</li>
+    <li class="h">3380</li>
+    <li class="symb" data-code="13184" code="3380" title="square pa amps">㎀</li>
+    <li class="symb" data-code="13185" code="3381" title="square na">㎁</li>
+    <li class="symb" data-code="13186" code="3382" title="square mu a">㎂</li>
+    <li class="symb" data-code="13187" code="3383" title="square ma">㎃</li>
+    <li class="symb" data-code="13188" code="3384" title="square ka">㎄</li>
+    <li class="symb" data-code="13189" code="3385" title="square kb">㎅</li>
+    <li class="symb" data-code="13190" code="3386" title="square mb">㎆</li>
+    <li class="symb" data-code="13191" code="3387" title="square gb">㎇</li>
+    <li class="symb" data-code="13192" code="3388" title="square cal">㎈</li>
+    <li class="symb" data-code="13193" code="3389" title="square kcal">㎉</li>
+    <li class="symb" data-code="13194" code="338a" title="square pf">㎊</li>
+    <li class="symb" data-code="13195" code="338b" title="square nf">㎋</li>
+    <li class="symb" data-code="13196" code="338c" title="square mu f">㎌</li>
+    <li class="symb" data-code="13197" code="338d" title="square mu g">㎍</li>
+    <li class="symb" data-code="13198" code="338e" title="square mg">㎎</li>
+    <li class="symb" data-code="13199" code="338f" title="square kg">㎏</li>
+    <li class="h">3390</li>
+    <li class="symb" data-code="13200" code="3390" title="square hz">㎐</li>
+    <li class="symb" data-code="13201" code="3391" title="square khz">㎑</li>
+    <li class="symb" data-code="13202" code="3392" title="square mhz">㎒</li>
+    <li class="symb" data-code="13203" code="3393" title="square ghz">㎓</li>
+    <li class="symb" data-code="13204" code="3394" title="square thz">㎔</li>
+    <li class="symb" data-code="13205" code="3395" title="square mu l">㎕</li>
+    <li class="symb" data-code="13206" code="3396" title="square ml">㎖</li>
+    <li class="symb" data-code="13207" code="3397" title="square dl">㎗</li>
+    <li class="symb" data-code="13208" code="3398" title="square kl">㎘</li>
+    <li class="symb" data-code="13209" code="3399" title="square fm">㎙</li>
+    <li class="symb" data-code="13210" code="339a" title="square nm">㎚</li>
+    <li class="symb" data-code="13211" code="339b" title="square mu m">㎛</li>
+    <li class="symb" data-code="13212" code="339c" title="square mm">㎜</li>
+    <li class="symb" data-code="13213" code="339d" title="square cm">㎝</li>
+    <li class="symb" data-code="13214" code="339e" title="square km">㎞</li>
+    <li class="symb" data-code="13215" code="339f" title="square mm squared">㎟</li>
+    <li class="h">33a0</li>
+    <li class="symb" data-code="13216" code="33a0" title="square cm squared">㎠</li>
+    <li class="symb" data-code="13217" code="33a1" title="square m squared">㎡</li>
+    <li class="symb" data-code="13218" code="33a2" title="square km squared">㎢</li>
+    <li class="symb" data-code="13219" code="33a3" title="square mm cubed">㎣</li>
+    <li class="symb" data-code="13220" code="33a4" title="square cm cubed">㎤</li>
+    <li class="symb" data-code="13221" code="33a5" title="square m cubed">㎥</li>
+    <li class="symb" data-code="13222" code="33a6" title="square km cubed">㎦</li>
+    <li class="symb" data-code="13223" code="33a7" title="square m over s">㎧</li>
+    <li class="symb" data-code="13224" code="33a8" title="square m over s squared">㎨</li>
+    <li class="symb" data-code="13225" code="33a9" title="square pa">㎩</li>
+    <li class="symb" data-code="13226" code="33aa" title="square kpa">㎪</li>
+    <li class="symb" data-code="13227" code="33ab" title="square mpa">㎫</li>
+    <li class="symb" data-code="13228" code="33ac" title="square gpa">㎬</li>
+    <li class="symb" data-code="13229" code="33ad" title="square rad">㎭</li>
+    <li class="symb" data-code="13230" code="33ae" title="square rad over s">㎮</li>
+    <li class="symb" data-code="13231" code="33af" title="square rad over s squared">㎯</li>
+    <li class="h">33b0</li>
+    <li class="symb" data-code="13232" code="33b0" title="square ps">㎰</li>
+    <li class="symb" data-code="13233" code="33b1" title="square ns">㎱</li>
+    <li class="symb" data-code="13234" code="33b2" title="square mu s">㎲</li>
+    <li class="symb" data-code="13235" code="33b3" title="square ms">㎳</li>
+    <li class="symb" data-code="13236" code="33b4" title="square pv">㎴</li>
+    <li class="symb" data-code="13237" code="33b5" title="square nv">㎵</li>
+    <li class="symb" data-code="13238" code="33b6" title="square mu v">㎶</li>
+    <li class="symb" data-code="13239" code="33b7" title="square mv">㎷</li>
+    <li class="symb" data-code="13240" code="33b8" title="square kv">㎸</li>
+    <li class="symb" data-code="13241" code="33b9" title="square mv mega">㎹</li>
+    <li class="symb" data-code="13242" code="33ba" title="square pw">㎺</li>
+    <li class="symb" data-code="13243" code="33bb" title="square nw">㎻</li>
+    <li class="symb" data-code="13244" code="33bc" title="square mu w">㎼</li>
+    <li class="symb" data-code="13245" code="33bd" title="square mw">㎽</li>
+    <li class="symb" data-code="13246" code="33be" title="square kw">㎾</li>
+    <li class="symb" data-code="13247" code="33bf" title="square mw mega">㎿</li>
+    <li class="h">33c0</li>
+    <li class="symb" data-code="13248" code="33c0" title="square k ohm">㏀</li>
+    <li class="symb" data-code="13249" code="33c1" title="square m ohm">㏁</li>
+    <li class="symb" data-code="13250" code="33c2" title="square am">㏂</li>
+    <li class="symb" data-code="13251" code="33c3" title="square bq">㏃</li>
+    <li class="symb" data-code="13252" code="33c4" title="square cc">㏄</li>
+    <li class="symb" data-code="13253" code="33c5" title="square cd">㏅</li>
+    <li class="symb" data-code="13254" code="33c6" title="square c over kg">㏆</li>
+    <li class="symb" data-code="13255" code="33c7" title="square co">㏇</li>
+    <li class="symb" data-code="13256" code="33c8" title="square db">㏈</li>
+    <li class="symb" data-code="13257" code="33c9" title="square gy">㏉</li>
+    <li class="symb" data-code="13258" code="33ca" title="square ha">㏊</li>
+    <li class="symb" data-code="13259" code="33cb" title="square hp">㏋</li>
+    <li class="symb" data-code="13260" code="33cc" title="square in">㏌</li>
+    <li class="symb" data-code="13261" code="33cd" title="square kk">㏍</li>
+    <li class="symb" data-code="13262" code="33ce" title="square km capital">㏎</li>
+    <li class="symb" data-code="13263" code="33cf" title="square kt">㏏</li>
+    <li class="h">33d0</li>
+    <li class="symb" data-code="13264" code="33d0" title="square lm">㏐</li>
+    <li class="symb" data-code="13265" code="33d1" title="square ln">㏑</li>
+    <li class="symb" data-code="13266" code="33d2" title="square log">㏒</li>
+    <li class="symb" data-code="13267" code="33d3" title="square lx">㏓</li>
+    <li class="symb" data-code="13268" code="33d4" title="square mb small">㏔</li>
+    <li class="symb" data-code="13269" code="33d5" title="square mil">㏕</li>
+    <li class="symb" data-code="13270" code="33d6" title="square mol">㏖</li>
+    <li class="symb" data-code="13271" code="33d7" title="square ph">㏗</li>
+    <li class="symb" data-code="13272" code="33d8" title="square pm">㏘</li>
+    <li class="symb" data-code="13273" code="33d9" title="square ppm">㏙</li>
+    <li class="symb" data-code="13274" code="33da" title="square pr">㏚</li>
+    <li class="symb" data-code="13275" code="33db" title="square sr">㏛</li>
+    <li class="symb" data-code="13276" code="33dc" title="square sv">㏜</li>
+    <li class="symb" data-code="13277" code="33dd" title="square wb">㏝</li>
+    <li class="symb" data-code="13278" code="33de" title="square v over m">㏞</li>
+    <li class="symb" data-code="13279" code="33df" title="square a over m">㏟</li>
+    <li class="h">33e0</li>
+    <li class="symb" data-code="13280" code="33e0" title="ideographic telegraph symbol for day one">㏠</li>
+    <li class="symb" data-code="13281" code="33e1" title="ideographic telegraph symbol for day two">㏡</li>
+    <li class="symb" data-code="13282" code="33e2" title="ideographic telegraph symbol for day three">㏢</li>
+    <li class="symb" data-code="13283" code="33e3" title="ideographic telegraph symbol for day four">㏣</li>
+    <li class="symb" data-code="13284" code="33e4" title="ideographic telegraph symbol for day five">㏤</li>
+    <li class="symb" data-code="13285" code="33e5" title="ideographic telegraph symbol for day six">㏥</li>
+    <li class="symb" data-code="13286" code="33e6" title="ideographic telegraph symbol for day seven">㏦</li>
+    <li class="symb" data-code="13287" code="33e7" title="ideographic telegraph symbol for day eight">㏧</li>
+    <li class="symb" data-code="13288" code="33e8" title="ideographic telegraph symbol for day nine">㏨</li>
+    <li class="symb" data-code="13289" code="33e9" title="ideographic telegraph symbol for day ten">㏩</li>
+    <li class="symb" data-code="13290" code="33ea" title="ideographic telegraph symbol for day eleven">㏪</li>
+    <li class="symb" data-code="13291" code="33eb" title="ideographic telegraph symbol for day twelve">㏫</li>
+    <li class="symb" data-code="13292" code="33ec" title="ideographic telegraph symbol for day thirteen">㏬</li>
+    <li class="symb" data-code="13293" code="33ed" title="ideographic telegraph symbol for day fourteen">㏭</li>
+    <li class="symb" data-code="13294" code="33ee" title="ideographic telegraph symbol for day fifteen">㏮</li>
+    <li class="symb" data-code="13295" code="33ef" title="ideographic telegraph symbol for day sixteen">㏯</li>
+    <li class="h">33f0</li>
+    <li class="symb" data-code="13296" code="33f0" title="ideographic telegraph symbol for day seventeen">㏰</li>
+    <li class="symb" data-code="13297" code="33f1" title="ideographic telegraph symbol for day eighteen">㏱</li>
+    <li class="symb" data-code="13298" code="33f2" title="ideographic telegraph symbol for day nineteen">㏲</li>
+    <li class="symb" data-code="13299" code="33f3" title="ideographic telegraph symbol for day twenty">㏳</li>
+    <li class="symb" data-code="13300" code="33f4" title="ideographic telegraph symbol for day twenty-one">㏴</li>
+    <li class="symb" data-code="13301" code="33f5" title="ideographic telegraph symbol for day twenty-two">㏵</li>
+    <li class="symb" data-code="13302" code="33f6" title="ideographic telegraph symbol for day twenty-three">㏶</li>
+    <li class="symb" data-code="13303" code="33f7" title="ideographic telegraph symbol for day twenty-four">㏷</li>
+    <li class="symb" data-code="13304" code="33f8" title="ideographic telegraph symbol for day twenty-five">㏸</li>
+    <li class="symb" data-code="13305" code="33f9" title="ideographic telegraph symbol for day twenty-six">㏹</li>
+    <li class="symb" data-code="13306" code="33fa" title="ideographic telegraph symbol for day twenty-seven">㏺</li>
+    <li class="symb" data-code="13307" code="33fb" title="ideographic telegraph symbol for day twenty-eight">㏻</li>
+    <li class="symb" data-code="13308" code="33fc" title="ideographic telegraph symbol for day twenty-nine">㏼</li>
+    <li class="symb" data-code="13309" code="33fd" title="ideographic telegraph symbol for day thirty">㏽</li>
+    <li class="symb" data-code="13310" code="33fe" title="ideographic telegraph symbol for day thirty-one">㏾</li>
+    <li class="symb" data-code="13311" code="33ff" title="square gal">㏿</li>
+  </ul>
+</root>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">27f0</li>
+    <li class="symb" data-code="10224" code="27f0" title="upwards quadruple arrow">⟰</li>
+    <li class="symb" data-code="10225" code="27f1" title="downwards quadruple arrow">⟱</li>
+    <li class="symb" data-code="10226" code="27f2" title="anticlockwise gapped circle arrow">⟲</li>
+    <li class="symb" data-code="10227" code="27f3" title="clockwise gapped circle arrow">⟳</li>
+    <li class="symb" data-code="10228" code="27f4" title="right arrow with circled plus">⟴</li>
+    <li class="symb" data-code="10229" code="27f5" title="long leftwards arrow">⟵</li>
+    <li class="symb" data-code="10230" code="27f6" title="long rightwards arrow">⟶</li>
+    <li class="symb" data-code="10231" code="27f7" title="long left right arrow">⟷</li>
+    <li class="symb" data-code="10232" code="27f8" title="long leftwards double arrow">⟸</li>
+    <li class="symb" data-code="10233" code="27f9" title="long rightwards double arrow">⟹</li>
+    <li class="symb" data-code="10234" code="27fa" title="long left right double arrow">⟺</li>
+    <li class="symb" data-code="10235" code="27fb" title="long leftwards arrow from bar">⟻</li>
+    <li class="symb" data-code="10236" code="27fc" title="long rightwards arrow from bar">⟼</li>
+    <li class="symb" data-code="10237" code="27fd" title="long leftwards double arrow from bar">⟽</li>
+    <li class="symb" data-code="10238" code="27fe" title="long rightwards double arrow from bar">⟾</li>
+    <li class="symb" data-code="10239" code="27ff" title="long rightwards squiggle arrow">⟿</li>
+  </ul>
+</root>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">a900</li>
+    <li class="symb" data-code="43264" code="a900" title="kayah li digit zero">꤀</li>
+    <li class="symb" data-code="43265" code="a901" title="kayah li digit one">꤁</li>
+    <li class="symb" data-code="43266" code="a902" title="kayah li digit two">꤂</li>
+    <li class="symb" data-code="43267" code="a903" title="kayah li digit three">꤃</li>
+    <li class="symb" data-code="43268" code="a904" title="kayah li digit four">꤄</li>
+    <li class="symb" data-code="43269" code="a905" title="kayah li digit five">꤅</li>
+    <li class="symb" data-code="43270" code="a906" title="kayah li digit six">꤆</li>
+    <li class="symb" data-code="43271" code="a907" title="kayah li digit seven">꤇</li>
+    <li class="symb" data-code="43272" code="a908" title="kayah li digit eight">꤈</li>
+    <li class="symb" data-code="43273" code="a909" title="kayah li digit nine">꤉</li>
+    <li class="symb" data-code="43274" code="a90a" title="kayah li letter ka">ꤊ</li>
+    <li class="symb" data-code="43275" code="a90b" title="kayah li letter kha">ꤋ</li>
+    <li class="symb" data-code="43276" code="a90c" title="kayah li letter ga">ꤌ</li>
+    <li class="symb" data-code="43277" code="a90d" title="kayah li letter nga">ꤍ</li>
+    <li class="symb" data-code="43278" code="a90e" title="kayah li letter sa">ꤎ</li>
+    <li class="symb" data-code="43279" code="a90f" title="kayah li letter sha">ꤏ</li>
+    <li class="h">a910</li>
+    <li class="symb" data-code="43280" code="a910" title="kayah li letter za">ꤐ</li>
+    <li class="symb" data-code="43281" code="a911" title="kayah li letter nya">ꤑ</li>
+    <li class="symb" data-code="43282" code="a912" title="kayah li letter ta">ꤒ</li>
+    <li class="symb" data-code="43283" code="a913" title="kayah li letter hta">ꤓ</li>
+    <li class="symb" data-code="43284" code="a914" title="kayah li letter na">ꤔ</li>
+    <li class="symb" data-code="43285" code="a915" title="kayah li letter pa">ꤕ</li>
+    <li class="symb" data-code="43286" code="a916" title="kayah li letter pha">ꤖ</li>
+    <li class="symb" data-code="43287" code="a917" title="kayah li letter ma">ꤗ</li>
+    <li class="symb" data-code="43288" code="a918" title="kayah li letter da">ꤘ</li>
+    <li class="symb" data-code="43289" code="a919" title="kayah li letter ba">ꤙ</li>
+    <li class="symb" data-code="43290" code="a91a" title="kayah li letter ra">ꤚ</li>
+    <li class="symb" data-code="43291" code="a91b" title="kayah li letter ya">ꤛ</li>
+    <li class="symb" data-code="43292" code="a91c" title="kayah li letter la">ꤜ</li>
+    <li class="symb" data-code="43293" code="a91d" title="kayah li letter wa">ꤝ</li>
+    <li class="symb" data-code="43294" code="a91e" title="kayah li letter tha">ꤞ</li>
+    <li class="symb" data-code="43295" code="a91f" title="kayah li letter ha">ꤟ</li>
+    <li class="h">a920</li>
+    <li class="symb" data-code="43296" code="a920" title="kayah li letter va">ꤠ</li>
+    <li class="symb" data-code="43297" code="a921" title="kayah li letter ca">ꤡ</li>
+    <li class="symb" data-code="43298" code="a922" title="kayah li letter a">ꤢ</li>
+    <li class="symb" data-code="43299" code="a923" title="kayah li letter oe">ꤣ</li>
+    <li class="symb" data-code="43300" code="a924" title="kayah li letter i">ꤤ</li>
+    <li class="symb" data-code="43301" code="a925" title="kayah li letter oo">ꤥ</li>
+    <li class="symb" data-code="43302" code="a926" title="kayah li vowel ue">ꤦ</li>
+    <li class="symb" data-code="43303" code="a927" title="kayah li vowel e">ꤧ</li>
+    <li class="symb" data-code="43304" code="a928" title="kayah li vowel u">ꤨ</li>
+    <li class="symb" data-code="43305" code="a929" title="kayah li vowel ee">ꤩ</li>
+    <li class="symb" data-code="43306" code="a92a" title="kayah li vowel o">ꤪ</li>
+    <li class="symb" data-code="43307" code="a92b" title="kayah li tone plophu">꤫</li>
+    <li class="symb" data-code="43308" code="a92c" title="kayah li tone calya">꤬</li>
+    <li class="symb" data-code="43309" code="a92d" title="kayah li tone calya plophu">꤭</li>
+    <li class="symb" data-code="43310" code="a92e" title="kayah li sign cwi">꤮</li>
+    <li class="symb" data-code="43311" code="a92f" title="kayah li sign shya">꤯</li>
+  </ul>
+</root>

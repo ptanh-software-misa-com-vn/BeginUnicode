@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2a00</li>
+    <li class="symb" data-code="10752" code="2a00" title="n-ary circled dot operator">⨀</li>
+    <li class="symb" data-code="10753" code="2a01" title="n-ary circled plus operator">⨁</li>
+    <li class="symb" data-code="10754" code="2a02" title="n-ary circled times operator">⨂</li>
+    <li class="symb" data-code="10755" code="2a03" title="n-ary union operator with dot">⨃</li>
+    <li class="symb" data-code="10756" code="2a04" title="n-ary union operator with plus">⨄</li>
+    <li class="symb" data-code="10757" code="2a05" title="n-ary square intersection operator">⨅</li>
+    <li class="symb" data-code="10758" code="2a06" title="n-ary square union operator">⨆</li>
+    <li class="symb" data-code="10759" code="2a07" title="two logical and operator">⨇</li>
+    <li class="symb" data-code="10760" code="2a08" title="two logical or operator">⨈</li>
+    <li class="symb" data-code="10761" code="2a09" title="n-ary times operator">⨉</li>
+    <li class="symb" data-code="10762" code="2a0a" title="modulo two sum">⨊</li>
+    <li class="symb" data-code="10763" code="2a0b" title="summation with integral">⨋</li>
+    <li class="symb" data-code="10764" code="2a0c" title="quadruple integral operator">⨌</li>
+    <li class="symb" data-code="10765" code="2a0d" title="finite part integral">⨍</li>
+    <li class="symb" data-code="10766" code="2a0e" title="integral with double stroke">⨎</li>
+    <li class="symb" data-code="10767" code="2a0f" title="integral average with slash">⨏</li>
+    <li class="h">2a10</li>
+    <li class="symb" data-code="10768" code="2a10" title="circulation function">⨐</li>
+    <li class="symb" data-code="10769" code="2a11" title="anticlockwise integration">⨑</li>
+    <li class="symb" data-code="10770" code="2a12" title="line integration with rectangular path around pole">⨒</li>
+    <li class="symb" data-code="10771" code="2a13" title="line integration with semicircular path around pole">⨓</li>
+    <li class="symb" data-code="10772" code="2a14" title="line integration not including the pole">⨔</li>
+    <li class="symb" data-code="10773" code="2a15" title="integral around a point operator">⨕</li>
+    <li class="symb" data-code="10774" code="2a16" title="quaternion integral operator">⨖</li>
+    <li class="symb" data-code="10775" code="2a17" title="integral with leftwards arrow with hook">⨗</li>
+    <li class="symb" data-code="10776" code="2a18" title="integral with times sign">⨘</li>
+    <li class="symb" data-code="10777" code="2a19" title="integral with intersection">⨙</li>
+    <li class="symb" data-code="10778" code="2a1a" title="integral with union">⨚</li>
+    <li class="symb" data-code="10779" code="2a1b" title="integral with overbar">⨛</li>
+    <li class="symb" data-code="10780" code="2a1c" title="integral with underbar">⨜</li>
+    <li class="symb" data-code="10781" code="2a1d" title="join">⨝</li>
+    <li class="symb" data-code="10782" code="2a1e" title="large left triangle operator">⨞</li>
+    <li class="symb" data-code="10783" code="2a1f" title="z notation schema composition">⨟</li>
+    <li class="h">2a20</li>
+    <li class="symb" data-code="10784" code="2a20" title="z notation schema piping">⨠</li>
+    <li class="symb" data-code="10785" code="2a21" title="z notation schema projection">⨡</li>
+    <li class="symb" data-code="10786" code="2a22" title="plus sign with small circle above">⨢</li>
+    <li class="symb" data-code="10787" code="2a23" title="plus sign with circumflex accent above">⨣</li>
+    <li class="symb" data-code="10788" code="2a24" title="plus sign with tilde above">⨤</li>
+    <li class="symb" data-code="10789" code="2a25" title="plus sign with dot below">⨥</li>
+    <li class="symb" data-code="10790" code="2a26" title="plus sign with tilde below">⨦</li>
+    <li class="symb" data-code="10791" code="2a27" title="plus sign with subscript two">⨧</li>
+    <li class="symb" data-code="10792" code="2a28" title="plus sign with black triangle">⨨</li>
+    <li class="symb" data-code="10793" code="2a29" title="minus sign with comma above">⨩</li>
+    <li class="symb" data-code="10794" code="2a2a" title="minus sign with dot below">⨪</li>
+    <li class="symb" data-code="10795" code="2a2b" title="minus sign with falling dots">⨫</li>
+    <li class="symb" data-code="10796" code="2a2c" title="minus sign with rising dots">⨬</li>
+    <li class="symb" data-code="10797" code="2a2d" title="plus sign in left half circle">⨭</li>
+    <li class="symb" data-code="10798" code="2a2e" title="plus sign in right half circle">⨮</li>
+    <li class="symb" data-code="10799" code="2a2f" title="vector or cross product">⨯</li>
+    <li class="h">2a30</li>
+    <li class="symb" data-code="10800" code="2a30" title="multiplication sign with dot above">⨰</li>
+    <li class="symb" data-code="10801" code="2a31" title="multiplication sign with underbar">⨱</li>
+    <li class="symb" data-code="10802" code="2a32" title="semidirect product with bottom closed">⨲</li>
+    <li class="symb" data-code="10803" code="2a33" title="smash product">⨳</li>
+    <li class="symb" data-code="10804" code="2a34" title="multiplication sign in left half circle">⨴</li>
+    <li class="symb" data-code="10805" code="2a35" title="multiplication sign in right half circle">⨵</li>
+    <li class="symb" data-code="10806" code="2a36" title="circled multiplication sign with circumflex accent">⨶</li>
+    <li class="symb" data-code="10807" code="2a37" title="multiplication sign in double circle">⨷</li>
+    <li class="symb" data-code="10808" code="2a38" title="circled division sign">⨸</li>
+    <li class="symb" data-code="10809" code="2a39" title="plus sign in triangle">⨹</li>
+    <li class="symb" data-code="10810" code="2a3a" title="minus sign in triangle">⨺</li>
+    <li class="symb" data-code="10811" code="2a3b" title="multiplication sign in triangle">⨻</li>
+    <li class="symb" data-code="10812" code="2a3c" title="interior product">⨼</li>
+    <li class="symb" data-code="10813" code="2a3d" title="righthand interior product">⨽</li>
+    <li class="symb" data-code="10814" code="2a3e" title="z notation relational composition">⨾</li>
+    <li class="symb" data-code="10815" code="2a3f" title="amalgamation or coproduct">⨿</li>
+    <li class="h">2a40</li>
+    <li class="symb" data-code="10816" code="2a40" title="intersection with dot">⩀</li>
+    <li class="symb" data-code="10817" code="2a41" title="union with minus sign">⩁</li>
+    <li class="symb" data-code="10818" code="2a42" title="union with overbar">⩂</li>
+    <li class="symb" data-code="10819" code="2a43" title="intersection with overbar">⩃</li>
+    <li class="symb" data-code="10820" code="2a44" title="intersection with logical and">⩄</li>
+    <li class="symb" data-code="10821" code="2a45" title="union with logical or">⩅</li>
+    <li class="symb" data-code="10822" code="2a46" title="union above intersection">⩆</li>
+    <li class="symb" data-code="10823" code="2a47" title="intersection above union">⩇</li>
+    <li class="symb" data-code="10824" code="2a48" title="union above bar above intersection">⩈</li>
+    <li class="symb" data-code="10825" code="2a49" title="intersection above bar above union">⩉</li>
+    <li class="symb" data-code="10826" code="2a4a" title="union beside and joined with union">⩊</li>
+    <li class="symb" data-code="10827" code="2a4b" title="intersection beside and joined with intersection">⩋</li>
+    <li class="symb" data-code="10828" code="2a4c" title="closed union with serifs">⩌</li>
+    <li class="symb" data-code="10829" code="2a4d" title="closed intersection with serifs">⩍</li>
+    <li class="symb" data-code="10830" code="2a4e" title="double square intersection">⩎</li>
+    <li class="symb" data-code="10831" code="2a4f" title="double square union">⩏</li>
+    <li class="h">2a50</li>
+    <li class="symb" data-code="10832" code="2a50" title="closed union with serifs and smash product">⩐</li>
+    <li class="symb" data-code="10833" code="2a51" title="logical and with dot above">⩑</li>
+    <li class="symb" data-code="10834" code="2a52" title="logical or with dot above">⩒</li>
+    <li class="symb" data-code="10835" code="2a53" title="double logical and">⩓</li>
+    <li class="symb" data-code="10836" code="2a54" title="double logical or">⩔</li>
+    <li class="symb" data-code="10837" code="2a55" title="two intersecting logical and">⩕</li>
+    <li class="symb" data-code="10838" code="2a56" title="two intersecting logical or">⩖</li>
+    <li class="symb" data-code="10839" code="2a57" title="sloping large or">⩗</li>
+    <li class="symb" data-code="10840" code="2a58" title="sloping large and">⩘</li>
+    <li class="symb" data-code="10841" code="2a59" title="logical or overlapping logical and">⩙</li>
+    <li class="symb" data-code="10842" code="2a5a" title="logical and with middle stem">⩚</li>
+    <li class="symb" data-code="10843" code="2a5b" title="logical or with middle stem">⩛</li>
+    <li class="symb" data-code="10844" code="2a5c" title="logical and with horizontal dash">⩜</li>
+    <li class="symb" data-code="10845" code="2a5d" title="logical or with horizontal dash">⩝</li>
+    <li class="symb" data-code="10846" code="2a5e" title="logical and with double overbar">⩞</li>
+    <li class="symb" data-code="10847" code="2a5f" title="logical and with underbar">⩟</li>
+    <li class="h">2a60</li>
+    <li class="symb" data-code="10848" code="2a60" title="logical and with double underbar">⩠</li>
+    <li class="symb" data-code="10849" code="2a61" title="small vee with underbar">⩡</li>
+    <li class="symb" data-code="10850" code="2a62" title="logical or with double overbar">⩢</li>
+    <li class="symb" data-code="10851" code="2a63" title="logical or with double underbar">⩣</li>
+    <li class="symb" data-code="10852" code="2a64" title="z notation domain antirestriction">⩤</li>
+    <li class="symb" data-code="10853" code="2a65" title="z notation range antirestriction">⩥</li>
+    <li class="symb" data-code="10854" code="2a66" title="equals sign with dot below">⩦</li>
+    <li class="symb" data-code="10855" code="2a67" title="identical with dot above">⩧</li>
+    <li class="symb" data-code="10856" code="2a68" title="triple horizontal bar with double vertical stroke">⩨</li>
+    <li class="symb" data-code="10857" code="2a69" title="triple horizontal bar with triple vertical stroke">⩩</li>
+    <li class="symb" data-code="10858" code="2a6a" title="tilde operator with dot above">⩪</li>
+    <li class="symb" data-code="10859" code="2a6b" title="tilde operator with rising dots">⩫</li>
+    <li class="symb" data-code="10860" code="2a6c" title="similar minus similar">⩬</li>
+    <li class="symb" data-code="10861" code="2a6d" title="congruent with dot above">⩭</li>
+    <li class="symb" data-code="10862" code="2a6e" title="equals with asterisk">⩮</li>
+    <li class="symb" data-code="10863" code="2a6f" title="almost equal to with circumflex accent">⩯</li>
+    <li class="h">2a70</li>
+    <li class="symb" data-code="10864" code="2a70" title="approximately equal or equal to">⩰</li>
+    <li class="symb" data-code="10865" code="2a71" title="equals sign above plus sign">⩱</li>
+    <li class="symb" data-code="10866" code="2a72" title="plus sign above equals sign">⩲</li>
+    <li class="symb" data-code="10867" code="2a73" title="equals sign above tilde operator">⩳</li>
+    <li class="symb" data-code="10868" code="2a74" title="double colon equal">⩴</li>
+    <li class="symb" data-code="10869" code="2a75" title="two consecutive equals signs">⩵</li>
+    <li class="symb" data-code="10870" code="2a76" title="three consecutive equals signs">⩶</li>
+    <li class="symb" data-code="10871" code="2a77" title="equals sign with two dots above and two dots below">⩷</li>
+    <li class="symb" data-code="10872" code="2a78" title="equivalent with four dots above">⩸</li>
+    <li class="symb" data-code="10873" code="2a79" title="less-than with circle inside">⩹</li>
+    <li class="symb" data-code="10874" code="2a7a" title="greater-than with circle inside">⩺</li>
+    <li class="symb" data-code="10875" code="2a7b" title="less-than with question mark above">⩻</li>
+    <li class="symb" data-code="10876" code="2a7c" title="greater-than with question mark above">⩼</li>
+    <li class="symb" data-code="10877" code="2a7d" title="less-than or slanted equal to">⩽</li>
+    <li class="symb" data-code="10878" code="2a7e" title="greater-than or slanted equal to">⩾</li>
+    <li class="symb" data-code="10879" code="2a7f" title="less-than or slanted equal to with dot inside">⩿</li>
+    <li class="h">2a80</li>
+    <li class="symb" data-code="10880" code="2a80" title="greater-than or slanted equal to with dot inside">⪀</li>
+    <li class="symb" data-code="10881" code="2a81" title="less-than or slanted equal to with dot above">⪁</li>
+    <li class="symb" data-code="10882" code="2a82" title="greater-than or slanted equal to with dot above">⪂</li>
+    <li class="symb" data-code="10883" code="2a83" title="less-than or slanted equal to with dot above right">⪃</li>
+    <li class="symb" data-code="10884" code="2a84" title="greater-than or slanted equal to with dot above left">⪄</li>
+    <li class="symb" data-code="10885" code="2a85" title="less-than or approximate">⪅</li>
+    <li class="symb" data-code="10886" code="2a86" title="greater-than or approximate">⪆</li>
+    <li class="symb" data-code="10887" code="2a87" title="less-than and single-line not equal to">⪇</li>
+    <li class="symb" data-code="10888" code="2a88" title="greater-than and single-line not equal to">⪈</li>
+    <li class="symb" data-code="10889" code="2a89" title="less-than and not approximate">⪉</li>
+    <li class="symb" data-code="10890" code="2a8a" title="greater-than and not approximate">⪊</li>
+    <li class="symb" data-code="10891" code="2a8b" title="less-than above double-line equal above greater-than">⪋</li>
+    <li class="symb" data-code="10892" code="2a8c" title="greater-than above double-line equal above less-than">⪌</li>
+    <li class="symb" data-code="10893" code="2a8d" title="less-than above similar or equal">⪍</li>
+    <li class="symb" data-code="10894" code="2a8e" title="greater-than above similar or equal">⪎</li>
+    <li class="symb" data-code="10895" code="2a8f" title="less-than above similar above greater-than">⪏</li>
+    <li class="h">2a90</li>
+    <li class="symb" data-code="10896" code="2a90" title="greater-than above similar above less-than">⪐</li>
+    <li class="symb" data-code="10897" code="2a91" title="less-than above greater-than above double-line equal">⪑</li>
+    <li class="symb" data-code="10898" code="2a92" title="greater-than above less-than above double-line equal">⪒</li>
+    <li class="symb" data-code="10899" code="2a93" title="less-than above slanted equal above greater-than above slanted equal">⪓</li>
+    <li class="symb" data-code="10900" code="2a94" title="greater-than above slanted equal above less-than above slanted equal">⪔</li>
+    <li class="symb" data-code="10901" code="2a95" title="slanted equal to or less-than">⪕</li>
+    <li class="symb" data-code="10902" code="2a96" title="slanted equal to or greater-than">⪖</li>
+    <li class="symb" data-code="10903" code="2a97" title="slanted equal to or less-than with dot inside">⪗</li>
+    <li class="symb" data-code="10904" code="2a98" title="slanted equal to or greater-than with dot inside">⪘</li>
+    <li class="symb" data-code="10905" code="2a99" title="double-line equal to or less-than">⪙</li>
+    <li class="symb" data-code="10906" code="2a9a" title="double-line equal to or greater-than">⪚</li>
+    <li class="symb" data-code="10907" code="2a9b" title="double-line slanted equal to or less-than">⪛</li>
+    <li class="symb" data-code="10908" code="2a9c" title="double-line slanted equal to or greater-than">⪜</li>
+    <li class="symb" data-code="10909" code="2a9d" title="similar or less-than">⪝</li>
+    <li class="symb" data-code="10910" code="2a9e" title="similar or greater-than">⪞</li>
+    <li class="symb" data-code="10911" code="2a9f" title="similar above less-than above equals sign">⪟</li>
+    <li class="h">2aa0</li>
+    <li class="symb" data-code="10912" code="2aa0" title="similar above greater-than above equals sign">⪠</li>
+    <li class="symb" data-code="10913" code="2aa1" title="double nested less-than">⪡</li>
+    <li class="symb" data-code="10914" code="2aa2" title="double nested greater-than">⪢</li>
+    <li class="symb" data-code="10915" code="2aa3" title="double nested less-than with underbar">⪣</li>
+    <li class="symb" data-code="10916" code="2aa4" title="greater-than overlapping less-than">⪤</li>
+    <li class="symb" data-code="10917" code="2aa5" title="greater-than beside less-than">⪥</li>
+    <li class="symb" data-code="10918" code="2aa6" title="less-than closed by curve">⪦</li>
+    <li class="symb" data-code="10919" code="2aa7" title="greater-than closed by curve">⪧</li>
+    <li class="symb" data-code="10920" code="2aa8" title="less-than closed by curve above slanted equal">⪨</li>
+    <li class="symb" data-code="10921" code="2aa9" title="greater-than closed by curve above slanted equal">⪩</li>
+    <li class="symb" data-code="10922" code="2aaa" title="smaller than">⪪</li>
+    <li class="symb" data-code="10923" code="2aab" title="larger than">⪫</li>
+    <li class="symb" data-code="10924" code="2aac" title="smaller than or equal to">⪬</li>
+    <li class="symb" data-code="10925" code="2aad" title="larger than or equal to">⪭</li>
+    <li class="symb" data-code="10926" code="2aae" title="equals sign with bumpy above">⪮</li>
+    <li class="symb" data-code="10927" code="2aaf" title="precedes above single-line equals sign">⪯</li>
+    <li class="h">2ab0</li>
+    <li class="symb" data-code="10928" code="2ab0" title="succeeds above single-line equals sign">⪰</li>
+    <li class="symb" data-code="10929" code="2ab1" title="precedes above single-line not equal to">⪱</li>
+    <li class="symb" data-code="10930" code="2ab2" title="succeeds above single-line not equal to">⪲</li>
+    <li class="symb" data-code="10931" code="2ab3" title="precedes above equals sign">⪳</li>
+    <li class="symb" data-code="10932" code="2ab4" title="succeeds above equals sign">⪴</li>
+    <li class="symb" data-code="10933" code="2ab5" title="precedes above not equal to">⪵</li>
+    <li class="symb" data-code="10934" code="2ab6" title="succeeds above not equal to">⪶</li>
+    <li class="symb" data-code="10935" code="2ab7" title="precedes above almost equal to">⪷</li>
+    <li class="symb" data-code="10936" code="2ab8" title="succeeds above almost equal to">⪸</li>
+    <li class="symb" data-code="10937" code="2ab9" title="precedes above not almost equal to">⪹</li>
+    <li class="symb" data-code="10938" code="2aba" title="succeeds above not almost equal to">⪺</li>
+    <li class="symb" data-code="10939" code="2abb" title="double precedes">⪻</li>
+    <li class="symb" data-code="10940" code="2abc" title="double succeeds">⪼</li>
+    <li class="symb" data-code="10941" code="2abd" title="subset with dot">⪽</li>
+    <li class="symb" data-code="10942" code="2abe" title="superset with dot">⪾</li>
+    <li class="symb" data-code="10943" code="2abf" title="subset with plus sign below">⪿</li>
+    <li class="h">2ac0</li>
+    <li class="symb" data-code="10944" code="2ac0" title="superset with plus sign below">⫀</li>
+    <li class="symb" data-code="10945" code="2ac1" title="subset with multiplication sign below">⫁</li>
+    <li class="symb" data-code="10946" code="2ac2" title="superset with multiplication sign below">⫂</li>
+    <li class="symb" data-code="10947" code="2ac3" title="subset of or equal to with dot above">⫃</li>
+    <li class="symb" data-code="10948" code="2ac4" title="superset of or equal to with dot above">⫄</li>
+    <li class="symb" data-code="10949" code="2ac5" title="subset of above equals sign">⫅</li>
+    <li class="symb" data-code="10950" code="2ac6" title="superset of above equals sign">⫆</li>
+    <li class="symb" data-code="10951" code="2ac7" title="subset of above tilde operator">⫇</li>
+    <li class="symb" data-code="10952" code="2ac8" title="superset of above tilde operator">⫈</li>
+    <li class="symb" data-code="10953" code="2ac9" title="subset of above almost equal to">⫉</li>
+    <li class="symb" data-code="10954" code="2aca" title="superset of above almost equal to">⫊</li>
+    <li class="symb" data-code="10955" code="2acb" title="subset of above not equal to">⫋</li>
+    <li class="symb" data-code="10956" code="2acc" title="superset of above not equal to">⫌</li>
+    <li class="symb" data-code="10957" code="2acd" title="square left open box operator">⫍</li>
+    <li class="symb" data-code="10958" code="2ace" title="square right open box operator">⫎</li>
+    <li class="symb" data-code="10959" code="2acf" title="closed subset">⫏</li>
+    <li class="h">2ad0</li>
+    <li class="symb" data-code="10960" code="2ad0" title="closed superset">⫐</li>
+    <li class="symb" data-code="10961" code="2ad1" title="closed subset or equal to">⫑</li>
+    <li class="symb" data-code="10962" code="2ad2" title="closed superset or equal to">⫒</li>
+    <li class="symb" data-code="10963" code="2ad3" title="subset above superset">⫓</li>
+    <li class="symb" data-code="10964" code="2ad4" title="superset above subset">⫔</li>
+    <li class="symb" data-code="10965" code="2ad5" title="subset above subset">⫕</li>
+    <li class="symb" data-code="10966" code="2ad6" title="superset above superset">⫖</li>
+    <li class="symb" data-code="10967" code="2ad7" title="superset beside subset">⫗</li>
+    <li class="symb" data-code="10968" code="2ad8" title="superset beside and joined by dash with subset">⫘</li>
+    <li class="symb" data-code="10969" code="2ad9" title="element of opening downwards">⫙</li>
+    <li class="symb" data-code="10970" code="2ada" title="pitchfork with tee top">⫚</li>
+    <li class="symb" data-code="10971" code="2adb" title="transversal intersection">⫛</li>
+    <li class="symb" data-code="10972" code="2adc" title="forking">⫝̸</li>
+    <li class="symb" data-code="10973" code="2add" title="nonforking">⫝</li>
+    <li class="symb" data-code="10974" code="2ade" title="short left tack">⫞</li>
+    <li class="symb" data-code="10975" code="2adf" title="short down tack">⫟</li>
+    <li class="h">2ae0</li>
+    <li class="symb" data-code="10976" code="2ae0" title="short up tack">⫠</li>
+    <li class="symb" data-code="10977" code="2ae1" title="perpendicular with s">⫡</li>
+    <li class="symb" data-code="10978" code="2ae2" title="vertical bar triple right turnstile">⫢</li>
+    <li class="symb" data-code="10979" code="2ae3" title="double vertical bar left turnstile">⫣</li>
+    <li class="symb" data-code="10980" code="2ae4" title="vertical bar double left turnstile">⫤</li>
+    <li class="symb" data-code="10981" code="2ae5" title="double vertical bar double left turnstile">⫥</li>
+    <li class="symb" data-code="10982" code="2ae6" title="long dash from left member of double vertical">⫦</li>
+    <li class="symb" data-code="10983" code="2ae7" title="short down tack with overbar">⫧</li>
+    <li class="symb" data-code="10984" code="2ae8" title="short up tack with underbar">⫨</li>
+    <li class="symb" data-code="10985" code="2ae9" title="short up tack above short down tack">⫩</li>
+    <li class="symb" data-code="10986" code="2aea" title="double down tack">⫪</li>
+    <li class="symb" data-code="10987" code="2aeb" title="double up tack">⫫</li>
+    <li class="symb" data-code="10988" code="2aec" title="double stroke not sign">⫬</li>
+    <li class="symb" data-code="10989" code="2aed" title="reversed double stroke not sign">⫭</li>
+    <li class="symb" data-code="10990" code="2aee" title="does not divide with reversed negation slash">⫮</li>
+    <li class="symb" data-code="10991" code="2aef" title="vertical line with circle above">⫯</li>
+    <li class="h">2af0</li>
+    <li class="symb" data-code="10992" code="2af0" title="vertical line with circle below">⫰</li>
+    <li class="symb" data-code="10993" code="2af1" title="down tack with circle below">⫱</li>
+    <li class="symb" data-code="10994" code="2af2" title="parallel with horizontal stroke">⫲</li>
+    <li class="symb" data-code="10995" code="2af3" title="parallel with tilde operator">⫳</li>
+    <li class="symb" data-code="10996" code="2af4" title="triple vertical bar binary relation">⫴</li>
+    <li class="symb" data-code="10997" code="2af5" title="triple vertical bar with horizontal stroke">⫵</li>
+    <li class="symb" data-code="10998" code="2af6" title="triple colon operator">⫶</li>
+    <li class="symb" data-code="10999" code="2af7" title="triple nested less-than">⫷</li>
+    <li class="symb" data-code="11000" code="2af8" title="triple nested greater-than">⫸</li>
+    <li class="symb" data-code="11001" code="2af9" title="double-line slanted less-than or equal to">⫹</li>
+    <li class="symb" data-code="11002" code="2afa" title="double-line slanted greater-than or equal to">⫺</li>
+    <li class="symb" data-code="11003" code="2afb" title="triple solidus binary relation">⫻</li>
+    <li class="symb" data-code="11004" code="2afc" title="large triple vertical bar operator">⫼</li>
+    <li class="symb" data-code="11005" code="2afd" title="double solidus operator">⫽</li>
+    <li class="symb" data-code="11006" code="2afe" title="white vertical bar">⫾</li>
+    <li class="symb" data-code="11007" code="2aff" title="n-ary white vertical bar">⫿</li>
+  </ul>
+</root>

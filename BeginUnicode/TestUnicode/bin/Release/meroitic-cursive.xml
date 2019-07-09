@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">109a0</li>
+    <li class="symb" data-code="68000" code="109a0" title="meroitic cursive letter a">𐦠</li>
+    <li class="symb" data-code="68001" code="109a1" title="meroitic cursive letter e">𐦡</li>
+    <li class="symb" data-code="68002" code="109a2" title="meroitic cursive letter i">𐦢</li>
+    <li class="symb" data-code="68003" code="109a3" title="meroitic cursive letter o">𐦣</li>
+    <li class="symb" data-code="68004" code="109a4" title="meroitic cursive letter ya">𐦤</li>
+    <li class="symb" data-code="68005" code="109a5" title="meroitic cursive letter wa">𐦥</li>
+    <li class="symb" data-code="68006" code="109a6" title="meroitic cursive letter ba">𐦦</li>
+    <li class="symb" data-code="68007" code="109a7" title="meroitic cursive letter pa">𐦧</li>
+    <li class="symb" data-code="68008" code="109a8" title="meroitic cursive letter ma">𐦨</li>
+    <li class="symb" data-code="68009" code="109a9" title="meroitic cursive letter na">𐦩</li>
+    <li class="symb" data-code="68010" code="109aa" title="meroitic cursive letter ne">𐦪</li>
+    <li class="symb" data-code="68011" code="109ab" title="meroitic cursive letter ra">𐦫</li>
+    <li class="symb" data-code="68012" code="109ac" title="meroitic cursive letter la">𐦬</li>
+    <li class="symb" data-code="68013" code="109ad" title="meroitic cursive letter kha">𐦭</li>
+    <li class="symb" data-code="68014" code="109ae" title="meroitic cursive letter hha">𐦮</li>
+    <li class="symb" data-code="68015" code="109af" title="meroitic cursive letter sa">𐦯</li>
+    <li class="h">109b0</li>
+    <li class="symb" data-code="68016" code="109b0" title="meroitic cursive letter archaic sa">𐦰</li>
+    <li class="symb" data-code="68017" code="109b1" title="meroitic cursive letter se">𐦱</li>
+    <li class="symb" data-code="68018" code="109b2" title="meroitic cursive letter ka">𐦲</li>
+    <li class="symb" data-code="68019" code="109b3" title="meroitic cursive letter qa">𐦳</li>
+    <li class="symb" data-code="68020" code="109b4" title="meroitic cursive letter ta">𐦴</li>
+    <li class="symb" data-code="68021" code="109b5" title="meroitic cursive letter te">𐦵</li>
+    <li class="symb" data-code="68022" code="109b6" title="meroitic cursive letter to">𐦶</li>
+    <li class="symb" data-code="68023" code="109b7" title="meroitic cursive letter da">𐦷</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="68028" code="109bc" title="meroitic cursive fraction eleven twelfths">𐦼</li>
+    <li class="symb" data-code="68029" code="109bd" title="meroitic cursive fraction one half">𐦽</li>
+    <li class="symb" data-code="68030" code="109be" title="meroitic cursive logogram rmt">𐦾</li>
+    <li class="symb" data-code="68031" code="109bf" title="meroitic cursive logogram imn">𐦿</li>
+    <li class="h">109c0</li>
+    <li class="symb" data-code="68032" code="109c0" title="meroitic cursive number one">𐧀</li>
+    <li class="symb" data-code="68033" code="109c1" title="meroitic cursive number two">𐧁</li>
+    <li class="symb" data-code="68034" code="109c2" title="meroitic cursive number three">𐧂</li>
+    <li class="symb" data-code="68035" code="109c3" title="meroitic cursive number four">𐧃</li>
+    <li class="symb" data-code="68036" code="109c4" title="meroitic cursive number five">𐧄</li>
+    <li class="symb" data-code="68037" code="109c5" title="meroitic cursive number six">𐧅</li>
+    <li class="symb" data-code="68038" code="109c6" title="meroitic cursive number seven">𐧆</li>
+    <li class="symb" data-code="68039" code="109c7" title="meroitic cursive number eight">𐧇</li>
+    <li class="symb" data-code="68040" code="109c8" title="meroitic cursive number nine">𐧈</li>
+    <li class="symb" data-code="68041" code="109c9" title="meroitic cursive number ten">𐧉</li>
+    <li class="symb" data-code="68042" code="109ca" title="meroitic cursive number twenty">𐧊</li>
+    <li class="symb" data-code="68043" code="109cb" title="meroitic cursive number thirty">𐧋</li>
+    <li class="symb" data-code="68044" code="109cc" title="meroitic cursive number forty">𐧌</li>
+    <li class="symb" data-code="68045" code="109cd" title="meroitic cursive number fifty">𐧍</li>
+    <li class="symb" data-code="68046" code="109ce" title="meroitic cursive number sixty">𐧎</li>
+    <li class="symb" data-code="68047" code="109cf" title="meroitic cursive number seventy">𐧏</li>
+    <li class="h">109d0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="68050" code="109d2" title="meroitic cursive number one hundred">𐧒</li>
+    <li class="symb" data-code="68051" code="109d3" title="meroitic cursive number two hundred">𐧓</li>
+    <li class="symb" data-code="68052" code="109d4" title="meroitic cursive number three hundred">𐧔</li>
+    <li class="symb" data-code="68053" code="109d5" title="meroitic cursive number four hundred">𐧕</li>
+    <li class="symb" data-code="68054" code="109d6" title="meroitic cursive number five hundred">𐧖</li>
+    <li class="symb" data-code="68055" code="109d7" title="meroitic cursive number six hundred">𐧗</li>
+    <li class="symb" data-code="68056" code="109d8" title="meroitic cursive number seven hundred">𐧘</li>
+    <li class="symb" data-code="68057" code="109d9" title="meroitic cursive number eight hundred">𐧙</li>
+    <li class="symb" data-code="68058" code="109da" title="meroitic cursive number nine hundred">𐧚</li>
+    <li class="symb" data-code="68059" code="109db" title="meroitic cursive number one thousand">𐧛</li>
+    <li class="symb" data-code="68060" code="109dc" title="meroitic cursive number two thousand">𐧜</li>
+    <li class="symb" data-code="68061" code="109dd" title="meroitic cursive number three thousand">𐧝</li>
+    <li class="symb" data-code="68062" code="109de" title="meroitic cursive number four thousand">𐧞</li>
+    <li class="symb" data-code="68063" code="109df" title="meroitic cursive number five thousand">𐧟</li>
+    <li class="h">109e0</li>
+    <li class="symb" data-code="68064" code="109e0" title="meroitic cursive number six thousand">𐧠</li>
+    <li class="symb" data-code="68065" code="109e1" title="meroitic cursive number seven thousand">𐧡</li>
+    <li class="symb" data-code="68066" code="109e2" title="meroitic cursive number eight thousand">𐧢</li>
+    <li class="symb" data-code="68067" code="109e3" title="meroitic cursive number nine thousand">𐧣</li>
+    <li class="symb" data-code="68068" code="109e4" title="meroitic cursive number ten thousand">𐧤</li>
+    <li class="symb" data-code="68069" code="109e5" title="meroitic cursive number twenty thousand">𐧥</li>
+    <li class="symb" data-code="68070" code="109e6" title="meroitic cursive number thirty thousand">𐧦</li>
+    <li class="symb" data-code="68071" code="109e7" title="meroitic cursive number forty thousand">𐧧</li>
+    <li class="symb" data-code="68072" code="109e8" title="meroitic cursive number fifty thousand">𐧨</li>
+    <li class="symb" data-code="68073" code="109e9" title="meroitic cursive number sixty thousand">𐧩</li>
+    <li class="symb" data-code="68074" code="109ea" title="meroitic cursive number seventy thousand">𐧪</li>
+    <li class="symb" data-code="68075" code="109eb" title="meroitic cursive number eighty thousand">𐧫</li>
+    <li class="symb" data-code="68076" code="109ec" title="meroitic cursive number ninety thousand">𐧬</li>
+    <li class="symb" data-code="68077" code="109ed" title="meroitic cursive number one hundred thousand">𐧭</li>
+    <li class="symb" data-code="68078" code="109ee" title="meroitic cursive number two hundred thousand">𐧮</li>
+    <li class="symb" data-code="68079" code="109ef" title="meroitic cursive number three hundred thousand">𐧯</li>
+    <li class="h">109f0</li>
+    <li class="symb" data-code="68080" code="109f0" title="meroitic cursive number four hundred thousand">𐧰</li>
+    <li class="symb" data-code="68081" code="109f1" title="meroitic cursive number five hundred thousand">𐧱</li>
+    <li class="symb" data-code="68082" code="109f2" title="meroitic cursive number six hundred thousand">𐧲</li>
+    <li class="symb" data-code="68083" code="109f3" title="meroitic cursive number seven hundred thousand">𐧳</li>
+    <li class="symb" data-code="68084" code="109f4" title="meroitic cursive number eight hundred thousand">𐧴</li>
+    <li class="symb" data-code="68085" code="109f5" title="meroitic cursive number nine hundred thousand">𐧵</li>
+    <li class="symb" data-code="68086" code="109f6" title="meroitic cursive fraction one twelfth">𐧶</li>
+    <li class="symb" data-code="68087" code="109f7" title="meroitic cursive fraction two twelfths">𐧷</li>
+    <li class="symb" data-code="68088" code="109f8" title="meroitic cursive fraction three twelfths">𐧸</li>
+    <li class="symb" data-code="68089" code="109f9" title="meroitic cursive fraction four twelfths">𐧹</li>
+    <li class="symb" data-code="68090" code="109fa" title="meroitic cursive fraction five twelfths">𐧺</li>
+    <li class="symb" data-code="68091" code="109fb" title="meroitic cursive fraction six twelfths">𐧻</li>
+    <li class="symb" data-code="68092" code="109fc" title="meroitic cursive fraction seven twelfths">𐧼</li>
+    <li class="symb" data-code="68093" code="109fd" title="meroitic cursive fraction eight twelfths">𐧽</li>
+    <li class="symb" data-code="68094" code="109fe" title="meroitic cursive fraction nine twelfths">𐧾</li>
+    <li class="symb" data-code="68095" code="109ff" title="meroitic cursive fraction ten twelfths">𐧿</li>
+  </ul>
+</root>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">fe20</li>
+    <li class="symb" data-code="65056" code="fe20" title="combining ligature left half">︠</li>
+    <li class="symb" data-code="65057" code="fe21" title="combining ligature right half">︡</li>
+    <li class="symb" data-code="65058" code="fe22" title="combining double tilde left half">︢</li>
+    <li class="symb" data-code="65059" code="fe23" title="combining double tilde right half">︣</li>
+    <li class="symb" data-code="65060" code="fe24" title="combining macron left half">︤</li>
+    <li class="symb" data-code="65061" code="fe25" title="combining macron right half">︥</li>
+    <li class="symb" data-code="65062" code="fe26" title="combining conjoining macron">︦</li>
+    <li class="symb" data-code="65063" code="fe27" title="combining ligature left half below">︧</li>
+    <li class="symb" data-code="65064" code="fe28" title="combining ligature right half below">︨</li>
+    <li class="symb" data-code="65065" code="fe29" title="combining tilde left half below">︩</li>
+    <li class="symb" data-code="65066" code="fe2a" title="combining tilde right half below">︪</li>
+    <li class="symb" data-code="65067" code="fe2b" title="combining macron left half below">︫</li>
+    <li class="symb" data-code="65068" code="fe2c" title="combining macron right half below">︬</li>
+    <li class="symb" data-code="65069" code="fe2d" title="combining conjoining macron below">︭</li>
+    <li class="symb" data-code="65070" code="fe2e" title="combining cyrillic titlo left half">︮</li>
+    <li class="symb" data-code="65071" code="fe2f" title="combining cyrillic titlo right half">︯</li>
+  </ul>
+</root>

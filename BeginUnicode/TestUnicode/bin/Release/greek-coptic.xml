@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0370</li>
+    <li class="symb" data-code="880" code="0370" title="greek capital letter heta">ͱ</li>
+    <li class="symb" data-code="881" code="0371" title="greek small letter heta">ͱ</li>
+    <li class="symb" data-code="882" code="0372" title="greek capital letter archaic sampi">ͳ</li>
+    <li class="symb" data-code="883" code="0373" title="greek small letter archaic sampi">ͳ</li>
+    <li class="symb" data-code="884" code="0374" title="greek numeral sign">ʹ</li>
+    <li class="symb" data-code="885" code="0375" title="greek lower numeral sign">͵</li>
+    <li class="symb" data-code="886" code="0376" title="greek capital letter pamphylian digamma">ͷ</li>
+    <li class="symb" data-code="887" code="0377" title="greek small letter pamphylian digamma">ͷ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="890" code="037a" title="greek ypogegrammeni">ͺ</li>
+    <li class="symb" data-code="891" code="037b" title="greek small reversed lunate sigma symbol">ͻ</li>
+    <li class="symb" data-code="892" code="037c" title="greek small dotted lunate sigma symbol">ͼ</li>
+    <li class="symb" data-code="893" code="037d" title="greek small reversed dotted lunate sigma symbol">ͽ</li>
+    <li class="symb" data-code="894" code="037e" title="greek question mark">;</li>
+    <li class="symb" data-code="895" code="037f" title="greek capital letter yot">Ϳ</li>
+    <li class="h">0380</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="900" code="0384" title="greek tonos">΄</li>
+    <li class="symb" data-code="901" code="0385" title="greek dialytika tonos">΅</li>
+    <li class="symb" data-code="902" code="0386" title="greek capital letter alpha with tonos">ά</li>
+    <li class="symb" data-code="903" code="0387" title="greek ano teleia">·</li>
+    <li class="symb" data-code="904" code="0388" title="greek capital letter epsilon with tonos">έ</li>
+    <li class="symb" data-code="905" code="0389" title="greek capital letter eta with tonos">ή</li>
+    <li class="symb" data-code="906" code="038a" title="greek capital letter iota with tonos">ί</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="908" code="038c" title="greek capital letter omicron with tonos">ό</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="910" code="038e" title="greek capital letter upsilon with tonos">ύ</li>
+    <li class="symb" data-code="911" code="038f" title="greek capital letter omega with tonos">ώ</li>
+    <li class="h">0390</li>
+    <li class="symb" data-code="912" code="0390" title="greek small letter iota with dialytika and tonos">ΐ</li>
+    <li class="symb" data-code="913" code="0391" title="greek capital letter alpha">α</li>
+    <li class="symb" data-code="914" code="0392" title="greek capital letter beta">β</li>
+    <li class="symb" data-code="915" code="0393" title="greek capital letter gamma">γ</li>
+    <li class="symb" data-code="916" code="0394" title="greek capital letter delta">δ</li>
+    <li class="symb" data-code="917" code="0395" title="greek capital letter epsilon">ε</li>
+    <li class="symb" data-code="918" code="0396" title="greek capital letter zeta">ζ</li>
+    <li class="symb" data-code="919" code="0397" title="greek capital letter eta">η</li>
+    <li class="symb" data-code="920" code="0398" title="greek capital letter theta">θ</li>
+    <li class="symb" data-code="921" code="0399" title="greek capital letter iota">ι</li>
+    <li class="symb" data-code="922" code="039a" title="greek capital letter kappa">κ</li>
+    <li class="symb" data-code="923" code="039b" title="greek capital letter lamda">λ</li>
+    <li class="symb" data-code="924" code="039c" title="greek capital letter mu">μ</li>
+    <li class="symb" data-code="925" code="039d" title="greek capital letter nu">ν</li>
+    <li class="symb" data-code="926" code="039e" title="greek capital letter xi">ξ</li>
+    <li class="symb" data-code="927" code="039f" title="greek capital letter omicron">ο</li>
+    <li class="h">03a0</li>
+    <li class="symb" data-code="928" code="03a0" title="greek capital letter pi">π</li>
+    <li class="symb" data-code="929" code="03a1" title="greek capital letter rho">ρ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="931" code="03a3" title="greek capital letter sigma">σ</li>
+    <li class="symb" data-code="932" code="03a4" title="greek capital letter tau">τ</li>
+    <li class="symb" data-code="933" code="03a5" title="greek capital letter upsilon">υ</li>
+    <li class="symb" data-code="934" code="03a6" title="greek capital letter phi">φ</li>
+    <li class="symb" data-code="935" code="03a7" title="greek capital letter chi">χ</li>
+    <li class="symb" data-code="936" code="03a8" title="greek capital letter psi">ψ</li>
+    <li class="symb" data-code="937" code="03a9" title="greek capital letter omega">ω</li>
+    <li class="symb" data-code="938" code="03aa" title="greek capital letter iota with dialytika">ϊ</li>
+    <li class="symb" data-code="939" code="03ab" title="greek capital letter upsilon with dialytika">ϋ</li>
+    <li class="symb" data-code="940" code="03ac" title="greek small letter alpha with tonos">ά</li>
+    <li class="symb" data-code="941" code="03ad" title="greek small letter epsilon with tonos">έ</li>
+    <li class="symb" data-code="942" code="03ae" title="greek small letter eta with tonos">ή</li>
+    <li class="symb" data-code="943" code="03af" title="greek small letter iota with tonos">ί</li>
+    <li class="h">03b0</li>
+    <li class="symb" data-code="944" code="03b0" title="greek small letter upsilon with dialytika and tonos">ΰ</li>
+    <li class="symb" data-code="945" code="03b1" title="greek small letter alpha">α</li>
+    <li class="symb" data-code="946" code="03b2" title="greek small letter beta">β</li>
+    <li class="symb" data-code="947" code="03b3" title="greek small letter gamma">γ</li>
+    <li class="symb" data-code="948" code="03b4" title="greek small letter delta">δ</li>
+    <li class="symb" data-code="949" code="03b5" title="greek small letter epsilon">ε</li>
+    <li class="symb" data-code="950" code="03b6" title="greek small letter zeta">ζ</li>
+    <li class="symb" data-code="951" code="03b7" title="greek small letter eta">η</li>
+    <li class="symb" data-code="952" code="03b8" title="greek small letter theta">θ</li>
+    <li class="symb" data-code="953" code="03b9" title="greek small letter iota">ι</li>
+    <li class="symb" data-code="954" code="03ba" title="greek small letter kappa">κ</li>
+    <li class="symb" data-code="955" code="03bb" title="greek small letter lamda">λ</li>
+    <li class="symb" data-code="956" code="03bc" title="greek small letter mu">μ</li>
+    <li class="symb" data-code="957" code="03bd" title="greek small letter nu">ν</li>
+    <li class="symb" data-code="958" code="03be" title="greek small letter xi">ξ</li>
+    <li class="symb" data-code="959" code="03bf" title="greek small letter omicron">ο</li>
+    <li class="h">03c0</li>
+    <li class="symb" data-code="960" code="03c0" title="greek small letter pi">π</li>
+    <li class="symb" data-code="961" code="03c1" title="greek small letter rho">ρ</li>
+    <li class="symb" data-code="962" code="03c2" title="greek small letter final sigma">ς</li>
+    <li class="symb" data-code="963" code="03c3" title="greek small letter sigma">σ</li>
+    <li class="symb" data-code="964" code="03c4" title="greek small letter tau">τ</li>
+    <li class="symb" data-code="965" code="03c5" title="greek small letter upsilon">υ</li>
+    <li class="symb" data-code="966" code="03c6" title="greek small letter phi">φ</li>
+    <li class="symb" data-code="967" code="03c7" title="greek small letter chi">χ</li>
+    <li class="symb" data-code="968" code="03c8" title="greek small letter psi">ψ</li>
+    <li class="symb" data-code="969" code="03c9" title="greek small letter omega">ω</li>
+    <li class="symb" data-code="970" code="03ca" title="greek small letter iota with dialytika">ϊ</li>
+    <li class="symb" data-code="971" code="03cb" title="greek small letter upsilon with dialytika">ϋ</li>
+    <li class="symb" data-code="972" code="03cc" title="greek small letter omicron with tonos">ό</li>
+    <li class="symb" data-code="973" code="03cd" title="greek small letter upsilon with tonos">ύ</li>
+    <li class="symb" data-code="974" code="03ce" title="greek small letter omega with tonos">ώ</li>
+    <li class="symb" data-code="975" code="03cf" title="greek capital kai symbol">ϗ</li>
+    <li class="h">03d0</li>
+    <li class="symb" data-code="976" code="03d0" title="greek beta symbol">ϐ</li>
+    <li class="symb" data-code="977" code="03d1" title="greek theta symbol">ϑ</li>
+    <li class="symb" data-code="978" code="03d2" title="greek upsilon with hook symbol">υ</li>
+    <li class="symb" data-code="979" code="03d3" title="greek upsilon with acute and hook symbol">ύ</li>
+    <li class="symb" data-code="980" code="03d4" title="greek upsilon with diaeresis and hook symbol">ϋ</li>
+    <li class="symb" data-code="981" code="03d5" title="greek phi symbol">ϕ</li>
+    <li class="symb" data-code="982" code="03d6" title="greek pi symbol">ϖ</li>
+    <li class="symb" data-code="983" code="03d7" title="greek kai symbol">ϗ</li>
+    <li class="symb" data-code="984" code="03d8" title="greek letter archaic koppa">ϙ</li>
+    <li class="symb" data-code="985" code="03d9" title="greek small letter archaic koppa">ϙ</li>
+    <li class="symb" data-code="986" code="03da" title="greek letter stigma">ϛ</li>
+    <li class="symb" data-code="987" code="03db" title="greek small letter stigma">ϛ</li>
+    <li class="symb" data-code="988" code="03dc" title="greek letter digamma">ϝ</li>
+    <li class="symb" data-code="989" code="03dd" title="greek small letter digamma">ϝ</li>
+    <li class="symb" data-code="990" code="03de" title="greek letter koppa">ϟ</li>
+    <li class="symb" data-code="991" code="03df" title="greek small letter koppa">ϟ</li>
+    <li class="h">03e0</li>
+    <li class="symb" data-code="992" code="03e0" title="greek letter sampi">ϡ</li>
+    <li class="symb" data-code="993" code="03e1" title="greek small letter sampi">ϡ</li>
+    <li class="symb" data-code="994" code="03e2" title="coptic capital letter shei">ϣ</li>
+    <li class="symb" data-code="995" code="03e3" title="coptic small letter shei">ϣ</li>
+    <li class="symb" data-code="996" code="03e4" title="coptic capital letter fei">ϥ</li>
+    <li class="symb" data-code="997" code="03e5" title="coptic small letter fei">ϥ</li>
+    <li class="symb" data-code="998" code="03e6" title="coptic capital letter khei">ϧ</li>
+    <li class="symb" data-code="999" code="03e7" title="coptic small letter khei">ϧ</li>
+    <li class="symb" data-code="1000" code="03e8" title="coptic capital letter hori">ϩ</li>
+    <li class="symb" data-code="1001" code="03e9" title="coptic small letter hori">ϩ</li>
+    <li class="symb" data-code="1002" code="03ea" title="coptic capital letter gangia">ϫ</li>
+    <li class="symb" data-code="1003" code="03eb" title="coptic small letter gangia">ϫ</li>
+    <li class="symb" data-code="1004" code="03ec" title="coptic capital letter shima">ϭ</li>
+    <li class="symb" data-code="1005" code="03ed" title="coptic small letter shima">ϭ</li>
+    <li class="symb" data-code="1006" code="03ee" title="coptic capital letter dei">ϯ</li>
+    <li class="symb" data-code="1007" code="03ef" title="coptic small letter dei">ϯ</li>
+    <li class="h">03f0</li>
+    <li class="symb" data-code="1008" code="03f0" title="greek kappa symbol">ϰ</li>
+    <li class="symb" data-code="1009" code="03f1" title="greek rho symbol">ϱ</li>
+    <li class="symb" data-code="1010" code="03f2" title="greek lunate sigma symbol">ϲ</li>
+    <li class="symb" data-code="1011" code="03f3" title="greek letter yot">ϳ</li>
+    <li class="symb" data-code="1012" code="03f4" title="greek capital theta symbol">θ</li>
+    <li class="symb" data-code="1013" code="03f5" title="greek lunate epsilon symbol">ϵ</li>
+    <li class="symb" data-code="1014" code="03f6" title="greek reversed lunate epsilon symbol">϶</li>
+    <li class="symb" data-code="1015" code="03f7" title="greek capital letter sho">ϸ</li>
+    <li class="symb" data-code="1016" code="03f8" title="greek small letter sho">ϸ</li>
+    <li class="symb" data-code="1017" code="03f9" title="greek capital lunate sigma symbol">ϲ</li>
+    <li class="symb" data-code="1018" code="03fa" title="greek capital letter san">ϻ</li>
+    <li class="symb" data-code="1019" code="03fb" title="greek small letter san">ϻ</li>
+    <li class="symb" data-code="1020" code="03fc" title="greek rho with stroke symbol">ϼ</li>
+    <li class="symb" data-code="1021" code="03fd" title="greek capital reversed lunate sigma symbol">ͻ</li>
+    <li class="symb" data-code="1022" code="03fe" title="greek capital dotted lunate sigma symbol">ͼ</li>
+    <li class="symb" data-code="1023" code="03ff" title="greek capital reversed dotted lunate sigma symbol">ͽ</li>
+  </ul>
+</root>

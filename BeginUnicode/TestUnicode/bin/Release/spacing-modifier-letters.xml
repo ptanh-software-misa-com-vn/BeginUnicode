@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">02b0</li>
+    <li class="symb" data-code="688" code="02b0" title="modifier letter small h">ʰ</li>
+    <li class="symb" data-code="689" code="02b1" title="modifier letter small h with hook">ʱ</li>
+    <li class="symb" data-code="690" code="02b2" title="modifier letter small j">ʲ</li>
+    <li class="symb" data-code="691" code="02b3" title="modifier letter small r">ʳ</li>
+    <li class="symb" data-code="692" code="02b4" title="modifier letter small turned r">ʴ</li>
+    <li class="symb" data-code="693" code="02b5" title="modifier letter small turned r with hook">ʵ</li>
+    <li class="symb" data-code="694" code="02b6" title="modifier letter small capital inverted r">ʶ</li>
+    <li class="symb" data-code="695" code="02b7" title="modifier letter small w">ʷ</li>
+    <li class="symb" data-code="696" code="02b8" title="modifier letter small y">ʸ</li>
+    <li class="symb" data-code="697" code="02b9" title="modifier letter prime">ʹ</li>
+    <li class="symb" data-code="698" code="02ba" title="modifier letter double prime">ʺ</li>
+    <li class="symb" data-code="699" code="02bb" title="modifier letter turned comma">ʻ</li>
+    <li class="symb" data-code="700" code="02bc" title="modifier letter apostrophe">ʼ</li>
+    <li class="symb" data-code="701" code="02bd" title="modifier letter reversed comma">ʽ</li>
+    <li class="symb" data-code="702" code="02be" title="modifier letter right half ring">ʾ</li>
+    <li class="symb" data-code="703" code="02bf" title="modifier letter left half ring">ʿ</li>
+    <li class="h">02c0</li>
+    <li class="symb" data-code="704" code="02c0" title="modifier letter glottal stop">ˀ</li>
+    <li class="symb" data-code="705" code="02c1" title="modifier letter reversed glottal stop">ˁ</li>
+    <li class="symb" data-code="706" code="02c2" title="modifier letter left arrowhead">˂</li>
+    <li class="symb" data-code="707" code="02c3" title="modifier letter right arrowhead">˃</li>
+    <li class="symb" data-code="708" code="02c4" title="modifier letter up arrowhead">˄</li>
+    <li class="symb" data-code="709" code="02c5" title="modifier letter down arrowhead">˅</li>
+    <li class="symb" data-code="710" code="02c6" title="modifier letter circumflex accent">ˆ</li>
+    <li class="symb" data-code="711" code="02c7" title="caron">ˇ</li>
+    <li class="symb" data-code="712" code="02c8" title="modifier letter vertical line">ˈ</li>
+    <li class="symb" data-code="713" code="02c9" title="modifier letter macron">ˉ</li>
+    <li class="symb" data-code="714" code="02ca" title="modifier letter acute accent">ˊ</li>
+    <li class="symb" data-code="715" code="02cb" title="modifier letter grave accent">ˋ</li>
+    <li class="symb" data-code="716" code="02cc" title="modifier letter low vertical line">ˌ</li>
+    <li class="symb" data-code="717" code="02cd" title="modifier letter low macron">ˍ</li>
+    <li class="symb" data-code="718" code="02ce" title="modifier letter low grave accent">ˎ</li>
+    <li class="symb" data-code="719" code="02cf" title="modifier letter low acute accent">ˏ</li>
+    <li class="h">02d0</li>
+    <li class="symb" data-code="720" code="02d0" title="modifier letter triangular colon">ː</li>
+    <li class="symb" data-code="721" code="02d1" title="modifier letter half triangular colon">ˑ</li>
+    <li class="symb" data-code="722" code="02d2" title="modifier letter centred right half ring">˒</li>
+    <li class="symb" data-code="723" code="02d3" title="modifier letter centred left half ring">˓</li>
+    <li class="symb" data-code="724" code="02d4" title="modifier letter up tack">˔</li>
+    <li class="symb" data-code="725" code="02d5" title="modifier letter down tack">˕</li>
+    <li class="symb" data-code="726" code="02d6" title="modifier letter plus sign">˖</li>
+    <li class="symb" data-code="727" code="02d7" title="modifier letter minus sign">˗</li>
+    <li class="symb" data-code="728" code="02d8" title="breve">˘</li>
+    <li class="symb" data-code="729" code="02d9" title="dot above">˙</li>
+    <li class="symb" data-code="730" code="02da" title="ring above">˚</li>
+    <li class="symb" data-code="731" code="02db" title="ogonek">˛</li>
+    <li class="symb" data-code="732" code="02dc" title="small tilde">˜</li>
+    <li class="symb" data-code="733" code="02dd" title="double acute accent">˝</li>
+    <li class="symb" data-code="734" code="02de" title="modifier letter rhotic hook">˞</li>
+    <li class="symb" data-code="735" code="02df" title="modifier letter cross accent">˟</li>
+    <li class="h">02e0</li>
+    <li class="symb" data-code="736" code="02e0" title="modifier letter small gamma">ˠ</li>
+    <li class="symb" data-code="737" code="02e1" title="modifier letter small l">ˡ</li>
+    <li class="symb" data-code="738" code="02e2" title="modifier letter small s">ˢ</li>
+    <li class="symb" data-code="739" code="02e3" title="modifier letter small x">ˣ</li>
+    <li class="symb" data-code="740" code="02e4" title="modifier letter small reversed glottal stop">ˤ</li>
+    <li class="symb" data-code="741" code="02e5" title="modifier letter extra-high tone bar">˥</li>
+    <li class="symb" data-code="742" code="02e6" title="modifier letter high tone bar">˦</li>
+    <li class="symb" data-code="743" code="02e7" title="modifier letter mid tone bar">˧</li>
+    <li class="symb" data-code="744" code="02e8" title="modifier letter low tone bar">˨</li>
+    <li class="symb" data-code="745" code="02e9" title="modifier letter extra-low tone bar">˩</li>
+    <li class="symb" data-code="746" code="02ea" title="modifier letter yin departing tone mark">˪</li>
+    <li class="symb" data-code="747" code="02eb" title="modifier letter yang departing tone mark">˫</li>
+    <li class="symb" data-code="748" code="02ec" title="modifier letter voicing">ˬ</li>
+    <li class="symb" data-code="749" code="02ed" title="modifier letter unaspirated">˭</li>
+    <li class="symb" data-code="750" code="02ee" title="modifier letter double apostrophe">ˮ</li>
+    <li class="symb" data-code="751" code="02ef" title="modifier letter low down arrowhead">˯</li>
+    <li class="h">02f0</li>
+    <li class="symb" data-code="752" code="02f0" title="modifier letter low up arrowhead">˰</li>
+    <li class="symb" data-code="753" code="02f1" title="modifier letter low left arrowhead">˱</li>
+    <li class="symb" data-code="754" code="02f2" title="modifier letter low right arrowhead">˲</li>
+    <li class="symb" data-code="755" code="02f3" title="modifier letter low ring">˳</li>
+    <li class="symb" data-code="756" code="02f4" title="modifier letter middle grave accent">˴</li>
+    <li class="symb" data-code="757" code="02f5" title="modifier letter middle double grave accent">˵</li>
+    <li class="symb" data-code="758" code="02f6" title="modifier letter middle double acute accent">˶</li>
+    <li class="symb" data-code="759" code="02f7" title="modifier letter low tilde">˷</li>
+    <li class="symb" data-code="760" code="02f8" title="modifier letter raised colon">˸</li>
+    <li class="symb" data-code="761" code="02f9" title="modifier letter begin high tone">˹</li>
+    <li class="symb" data-code="762" code="02fa" title="modifier letter end high tone">˺</li>
+    <li class="symb" data-code="763" code="02fb" title="modifier letter begin low tone">˻</li>
+    <li class="symb" data-code="764" code="02fc" title="modifier letter end low tone">˼</li>
+    <li class="symb" data-code="765" code="02fd" title="modifier letter shelf">˽</li>
+    <li class="symb" data-code="766" code="02fe" title="modifier letter open shelf">˾</li>
+    <li class="symb" data-code="767" code="02ff" title="modifier letter low left arrow">˿</li>
+  </ul>
+</root>

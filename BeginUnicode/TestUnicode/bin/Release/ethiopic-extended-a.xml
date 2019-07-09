@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">ab00</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="43777" code="ab01" title="ethiopic syllable tthu">ꬁ</li>
+    <li class="symb" data-code="43778" code="ab02" title="ethiopic syllable tthi">ꬂ</li>
+    <li class="symb" data-code="43779" code="ab03" title="ethiopic syllable tthaa">ꬃ</li>
+    <li class="symb" data-code="43780" code="ab04" title="ethiopic syllable tthee">ꬄ</li>
+    <li class="symb" data-code="43781" code="ab05" title="ethiopic syllable tthe">ꬅ</li>
+    <li class="symb" data-code="43782" code="ab06" title="ethiopic syllable ttho">ꬆ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="43785" code="ab09" title="ethiopic syllable ddhu">ꬉ</li>
+    <li class="symb" data-code="43786" code="ab0a" title="ethiopic syllable ddhi">ꬊ</li>
+    <li class="symb" data-code="43787" code="ab0b" title="ethiopic syllable ddhaa">ꬋ</li>
+    <li class="symb" data-code="43788" code="ab0c" title="ethiopic syllable ddhee">ꬌ</li>
+    <li class="symb" data-code="43789" code="ab0d" title="ethiopic syllable ddhe">ꬍ</li>
+    <li class="symb" data-code="43790" code="ab0e" title="ethiopic syllable ddho">ꬎ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">ab10</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="43793" code="ab11" title="ethiopic syllable dzu">ꬑ</li>
+    <li class="symb" data-code="43794" code="ab12" title="ethiopic syllable dzi">ꬒ</li>
+    <li class="symb" data-code="43795" code="ab13" title="ethiopic syllable dzaa">ꬓ</li>
+    <li class="symb" data-code="43796" code="ab14" title="ethiopic syllable dzee">ꬔ</li>
+    <li class="symb" data-code="43797" code="ab15" title="ethiopic syllable dze">ꬕ</li>
+    <li class="symb" data-code="43798" code="ab16" title="ethiopic syllable dzo">ꬖ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">ab20</li>
+    <li class="symb" data-code="43808" code="ab20" title="ethiopic syllable cchha">ꬠ</li>
+    <li class="symb" data-code="43809" code="ab21" title="ethiopic syllable cchhu">ꬡ</li>
+    <li class="symb" data-code="43810" code="ab22" title="ethiopic syllable cchhi">ꬢ</li>
+    <li class="symb" data-code="43811" code="ab23" title="ethiopic syllable cchhaa">ꬣ</li>
+    <li class="symb" data-code="43812" code="ab24" title="ethiopic syllable cchhee">ꬤ</li>
+    <li class="symb" data-code="43813" code="ab25" title="ethiopic syllable cchhe">ꬥ</li>
+    <li class="symb" data-code="43814" code="ab26" title="ethiopic syllable cchho">ꬦ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="43816" code="ab28" title="ethiopic syllable bba">ꬨ</li>
+    <li class="symb" data-code="43817" code="ab29" title="ethiopic syllable bbu">ꬩ</li>
+    <li class="symb" data-code="43818" code="ab2a" title="ethiopic syllable bbi">ꬪ</li>
+    <li class="symb" data-code="43819" code="ab2b" title="ethiopic syllable bbaa">ꬫ</li>
+    <li class="symb" data-code="43820" code="ab2c" title="ethiopic syllable bbee">ꬬ</li>
+    <li class="symb" data-code="43821" code="ab2d" title="ethiopic syllable bbe">ꬭ</li>
+    <li class="symb" data-code="43822" code="ab2e" title="ethiopic syllable bbo">ꬮ</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

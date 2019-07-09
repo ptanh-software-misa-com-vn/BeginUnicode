@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">10800</li>
+    <li class="symb" data-code="67584" code="10800" title="cypriot syllable a">𐠀</li>
+    <li class="symb" data-code="67585" code="10801" title="cypriot syllable e">𐠁</li>
+    <li class="symb" data-code="67586" code="10802" title="cypriot syllable i">𐠂</li>
+    <li class="symb" data-code="67587" code="10803" title="cypriot syllable o">𐠃</li>
+    <li class="symb" data-code="67588" code="10804" title="cypriot syllable u">𐠄</li>
+    <li class="symb" data-code="67589" code="10805" title="cypriot syllable ja">𐠅</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="67592" code="10808" title="cypriot syllable jo">𐠈</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="67594" code="1080a" title="cypriot syllable ka">𐠊</li>
+    <li class="symb" data-code="67595" code="1080b" title="cypriot syllable ke">𐠋</li>
+    <li class="symb" data-code="67596" code="1080c" title="cypriot syllable ki">𐠌</li>
+    <li class="symb" data-code="67597" code="1080d" title="cypriot syllable ko">𐠍</li>
+    <li class="symb" data-code="67598" code="1080e" title="cypriot syllable ku">𐠎</li>
+    <li class="symb" data-code="67599" code="1080f" title="cypriot syllable la">𐠏</li>
+    <li class="h">10810</li>
+    <li class="symb" data-code="67600" code="10810" title="cypriot syllable le">𐠐</li>
+    <li class="symb" data-code="67601" code="10811" title="cypriot syllable li">𐠑</li>
+    <li class="symb" data-code="67602" code="10812" title="cypriot syllable lo">𐠒</li>
+    <li class="symb" data-code="67603" code="10813" title="cypriot syllable lu">𐠓</li>
+    <li class="symb" data-code="67604" code="10814" title="cypriot syllable ma">𐠔</li>
+    <li class="symb" data-code="67605" code="10815" title="cypriot syllable me">𐠕</li>
+    <li class="symb" data-code="67606" code="10816" title="cypriot syllable mi">𐠖</li>
+    <li class="symb" data-code="67607" code="10817" title="cypriot syllable mo">𐠗</li>
+    <li class="symb" data-code="67608" code="10818" title="cypriot syllable mu">𐠘</li>
+    <li class="symb" data-code="67609" code="10819" title="cypriot syllable na">𐠙</li>
+    <li class="symb" data-code="67610" code="1081a" title="cypriot syllable ne">𐠚</li>
+    <li class="symb" data-code="67611" code="1081b" title="cypriot syllable ni">𐠛</li>
+    <li class="symb" data-code="67612" code="1081c" title="cypriot syllable no">𐠜</li>
+    <li class="symb" data-code="67613" code="1081d" title="cypriot syllable nu">𐠝</li>
+    <li class="symb" data-code="67614" code="1081e" title="cypriot syllable pa">𐠞</li>
+    <li class="symb" data-code="67615" code="1081f" title="cypriot syllable pe">𐠟</li>
+    <li class="h">10820</li>
+    <li class="symb" data-code="67616" code="10820" title="cypriot syllable pi">𐠠</li>
+    <li class="symb" data-code="67617" code="10821" title="cypriot syllable po">𐠡</li>
+    <li class="symb" data-code="67618" code="10822" title="cypriot syllable pu">𐠢</li>
+    <li class="symb" data-code="67619" code="10823" title="cypriot syllable ra">𐠣</li>
+    <li class="symb" data-code="67620" code="10824" title="cypriot syllable re">𐠤</li>
+    <li class="symb" data-code="67621" code="10825" title="cypriot syllable ri">𐠥</li>
+    <li class="symb" data-code="67622" code="10826" title="cypriot syllable ro">𐠦</li>
+    <li class="symb" data-code="67623" code="10827" title="cypriot syllable ru">𐠧</li>
+    <li class="symb" data-code="67624" code="10828" title="cypriot syllable sa">𐠨</li>
+    <li class="symb" data-code="67625" code="10829" title="cypriot syllable se">𐠩</li>
+    <li class="symb" data-code="67626" code="1082a" title="cypriot syllable si">𐠪</li>
+    <li class="symb" data-code="67627" code="1082b" title="cypriot syllable so">𐠫</li>
+    <li class="symb" data-code="67628" code="1082c" title="cypriot syllable su">𐠬</li>
+    <li class="symb" data-code="67629" code="1082d" title="cypriot syllable ta">𐠭</li>
+    <li class="symb" data-code="67630" code="1082e" title="cypriot syllable te">𐠮</li>
+    <li class="symb" data-code="67631" code="1082f" title="cypriot syllable ti">𐠯</li>
+    <li class="h">10830</li>
+    <li class="symb" data-code="67632" code="10830" title="cypriot syllable to">𐠰</li>
+    <li class="symb" data-code="67633" code="10831" title="cypriot syllable tu">𐠱</li>
+    <li class="symb" data-code="67634" code="10832" title="cypriot syllable wa">𐠲</li>
+    <li class="symb" data-code="67635" code="10833" title="cypriot syllable we">𐠳</li>
+    <li class="symb" data-code="67636" code="10834" title="cypriot syllable wi">𐠴</li>
+    <li class="symb" data-code="67637" code="10835" title="cypriot syllable wo">𐠵</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="67639" code="10837" title="cypriot syllable xa">𐠷</li>
+    <li class="symb" data-code="67640" code="10838" title="cypriot syllable xe">𐠸</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="67644" code="1083c" title="cypriot syllable za">𐠼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="67647" code="1083f" title="cypriot syllable zo">𐠿</li>
+  </ul>
+</root>

@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">16800</li>
+    <li class="symb" data-code="92160" code="16800" title="bamum letter phase-a ngkue mfon">𖠀</li>
+    <li class="symb" data-code="92161" code="16801" title="bamum letter phase-a gbiee fon">𖠁</li>
+    <li class="symb" data-code="92162" code="16802" title="bamum letter phase-a pon mfon pipaemgbiee">𖠂</li>
+    <li class="symb" data-code="92163" code="16803" title="bamum letter phase-a pon mfon pipaemba">𖠃</li>
+    <li class="symb" data-code="92164" code="16804" title="bamum letter phase-a naa mfon">𖠄</li>
+    <li class="symb" data-code="92165" code="16805" title="bamum letter phase-a shuenshuet">𖠅</li>
+    <li class="symb" data-code="92166" code="16806" title="bamum letter phase-a tita mfon">𖠆</li>
+    <li class="symb" data-code="92167" code="16807" title="bamum letter phase-a nza mfon">𖠇</li>
+    <li class="symb" data-code="92168" code="16808" title="bamum letter phase-a shinda pa nji">𖠈</li>
+    <li class="symb" data-code="92169" code="16809" title="bamum letter phase-a pon pa nji pipaemgbiee">𖠉</li>
+    <li class="symb" data-code="92170" code="1680a" title="bamum letter phase-a pon pa nji pipaemba">𖠊</li>
+    <li class="symb" data-code="92171" code="1680b" title="bamum letter phase-a maembgbiee">𖠋</li>
+    <li class="symb" data-code="92172" code="1680c" title="bamum letter phase-a tu maemba">𖠌</li>
+    <li class="symb" data-code="92173" code="1680d" title="bamum letter phase-a ngangu">𖠍</li>
+    <li class="symb" data-code="92174" code="1680e" title="bamum letter phase-a maemveux">𖠎</li>
+    <li class="symb" data-code="92175" code="1680f" title="bamum letter phase-a mansuae">𖠏</li>
+    <li class="h">16810</li>
+    <li class="symb" data-code="92176" code="16810" title="bamum letter phase-a mveuaengam">𖠐</li>
+    <li class="symb" data-code="92177" code="16811" title="bamum letter phase-a seunyam">𖠑</li>
+    <li class="symb" data-code="92178" code="16812" title="bamum letter phase-a ntoqpen">𖠒</li>
+    <li class="symb" data-code="92179" code="16813" title="bamum letter phase-a keukeutnda">𖠓</li>
+    <li class="symb" data-code="92180" code="16814" title="bamum letter phase-a nkindi">𖠔</li>
+    <li class="symb" data-code="92181" code="16815" title="bamum letter phase-a suu">𖠕</li>
+    <li class="symb" data-code="92182" code="16816" title="bamum letter phase-a ngkuenzeum">𖠖</li>
+    <li class="symb" data-code="92183" code="16817" title="bamum letter phase-a lapaq">𖠗</li>
+    <li class="symb" data-code="92184" code="16818" title="bamum letter phase-a let kut">𖠘</li>
+    <li class="symb" data-code="92185" code="16819" title="bamum letter phase-a ntap mfaa">𖠙</li>
+    <li class="symb" data-code="92186" code="1681a" title="bamum letter phase-a maekeup">𖠚</li>
+    <li class="symb" data-code="92187" code="1681b" title="bamum letter phase-a pashae">𖠛</li>
+    <li class="symb" data-code="92188" code="1681c" title="bamum letter phase-a gheuaerae">𖠜</li>
+    <li class="symb" data-code="92189" code="1681d" title="bamum letter phase-a pamshae">𖠝</li>
+    <li class="symb" data-code="92190" code="1681e" title="bamum letter phase-a mon nggeuaet">𖠞</li>
+    <li class="symb" data-code="92191" code="1681f" title="bamum letter phase-a nzun meut">𖠟</li>
+    <li class="h">16820</li>
+    <li class="symb" data-code="92192" code="16820" title="bamum letter phase-a u yuq nae">𖠠</li>
+    <li class="symb" data-code="92193" code="16821" title="bamum letter phase-a gheuaegheuae">𖠡</li>
+    <li class="symb" data-code="92194" code="16822" title="bamum letter phase-a ntap ntaa">𖠢</li>
+    <li class="symb" data-code="92195" code="16823" title="bamum letter phase-a sisa">𖠣</li>
+    <li class="symb" data-code="92196" code="16824" title="bamum letter phase-a mgbasa">𖠤</li>
+    <li class="symb" data-code="92197" code="16825" title="bamum letter phase-a meunjomndeuq">𖠥</li>
+    <li class="symb" data-code="92198" code="16826" title="bamum letter phase-a moompuq">𖠦</li>
+    <li class="symb" data-code="92199" code="16827" title="bamum letter phase-a kafa">𖠧</li>
+    <li class="symb" data-code="92200" code="16828" title="bamum letter phase-a pa leeraewa">𖠨</li>
+    <li class="symb" data-code="92201" code="16829" title="bamum letter phase-a nda leeraewa">𖠩</li>
+    <li class="symb" data-code="92202" code="1682a" title="bamum letter phase-a pet">𖠪</li>
+    <li class="symb" data-code="92203" code="1682b" title="bamum letter phase-a maemkpen">𖠫</li>
+    <li class="symb" data-code="92204" code="1682c" title="bamum letter phase-a nika">𖠬</li>
+    <li class="symb" data-code="92205" code="1682d" title="bamum letter phase-a pup">𖠭</li>
+    <li class="symb" data-code="92206" code="1682e" title="bamum letter phase-a tuaep">𖠮</li>
+    <li class="symb" data-code="92207" code="1682f" title="bamum letter phase-a luaep">𖠯</li>
+    <li class="h">16830</li>
+    <li class="symb" data-code="92208" code="16830" title="bamum letter phase-a sonjam">𖠰</li>
+    <li class="symb" data-code="92209" code="16831" title="bamum letter phase-a teuteuwen">𖠱</li>
+    <li class="symb" data-code="92210" code="16832" title="bamum letter phase-a maenyi">𖠲</li>
+    <li class="symb" data-code="92211" code="16833" title="bamum letter phase-a ket">𖠳</li>
+    <li class="symb" data-code="92212" code="16834" title="bamum letter phase-a ndaanggeuaet">𖠴</li>
+    <li class="symb" data-code="92213" code="16835" title="bamum letter phase-a kuoq">𖠵</li>
+    <li class="symb" data-code="92214" code="16836" title="bamum letter phase-a moomeut">𖠶</li>
+    <li class="symb" data-code="92215" code="16837" title="bamum letter phase-a shum">𖠷</li>
+    <li class="symb" data-code="92216" code="16838" title="bamum letter phase-a lommae">𖠸</li>
+    <li class="symb" data-code="92217" code="16839" title="bamum letter phase-a firi">𖠹</li>
+    <li class="symb" data-code="92218" code="1683a" title="bamum letter phase-a rom">𖠺</li>
+    <li class="symb" data-code="92219" code="1683b" title="bamum letter phase-a kpoq">𖠻</li>
+    <li class="symb" data-code="92220" code="1683c" title="bamum letter phase-a soq">𖠼</li>
+    <li class="symb" data-code="92221" code="1683d" title="bamum letter phase-a map pieet">𖠽</li>
+    <li class="symb" data-code="92222" code="1683e" title="bamum letter phase-a shirae">𖠾</li>
+    <li class="symb" data-code="92223" code="1683f" title="bamum letter phase-a ntap">𖠿</li>
+    <li class="h">16840</li>
+    <li class="symb" data-code="92224" code="16840" title="bamum letter phase-a shoq nshut yum">𖡀</li>
+    <li class="symb" data-code="92225" code="16841" title="bamum letter phase-a nyit mongkeuaeq">𖡁</li>
+    <li class="symb" data-code="92226" code="16842" title="bamum letter phase-a paarae">𖡂</li>
+    <li class="symb" data-code="92227" code="16843" title="bamum letter phase-a nkaarae">𖡃</li>
+    <li class="symb" data-code="92228" code="16844" title="bamum letter phase-a unknown">𖡄</li>
+    <li class="symb" data-code="92229" code="16845" title="bamum letter phase-a nggen">𖡅</li>
+    <li class="symb" data-code="92230" code="16846" title="bamum letter phase-a maesi">𖡆</li>
+    <li class="symb" data-code="92231" code="16847" title="bamum letter phase-a njam">𖡇</li>
+    <li class="symb" data-code="92232" code="16848" title="bamum letter phase-a mbanyi">𖡈</li>
+    <li class="symb" data-code="92233" code="16849" title="bamum letter phase-a nyet">𖡉</li>
+    <li class="symb" data-code="92234" code="1684a" title="bamum letter phase-a teuaen">𖡊</li>
+    <li class="symb" data-code="92235" code="1684b" title="bamum letter phase-a sot">𖡋</li>
+    <li class="symb" data-code="92236" code="1684c" title="bamum letter phase-a paam">𖡌</li>
+    <li class="symb" data-code="92237" code="1684d" title="bamum letter phase-a nshiee">𖡍</li>
+    <li class="symb" data-code="92238" code="1684e" title="bamum letter phase-a maem">𖡎</li>
+    <li class="symb" data-code="92239" code="1684f" title="bamum letter phase-a nyi">𖡏</li>
+    <li class="h">16850</li>
+    <li class="symb" data-code="92240" code="16850" title="bamum letter phase-a kaq">𖡐</li>
+    <li class="symb" data-code="92241" code="16851" title="bamum letter phase-a nsha">𖡑</li>
+    <li class="symb" data-code="92242" code="16852" title="bamum letter phase-a vee">𖡒</li>
+    <li class="symb" data-code="92243" code="16853" title="bamum letter phase-a lu">𖡓</li>
+    <li class="symb" data-code="92244" code="16854" title="bamum letter phase-a nen">𖡔</li>
+    <li class="symb" data-code="92245" code="16855" title="bamum letter phase-a naq">𖡕</li>
+    <li class="symb" data-code="92246" code="16856" title="bamum letter phase-a mbaq">𖡖</li>
+    <li class="symb" data-code="92247" code="16857" title="bamum letter phase-b nshuet">𖡗</li>
+    <li class="symb" data-code="92248" code="16858" title="bamum letter phase-b tu maemgbiee">𖡘</li>
+    <li class="symb" data-code="92249" code="16859" title="bamum letter phase-b siee">𖡙</li>
+    <li class="symb" data-code="92250" code="1685a" title="bamum letter phase-b set tu">𖡚</li>
+    <li class="symb" data-code="92251" code="1685b" title="bamum letter phase-b lom nteum">𖡛</li>
+    <li class="symb" data-code="92252" code="1685c" title="bamum letter phase-b mba maelee">𖡜</li>
+    <li class="symb" data-code="92253" code="1685d" title="bamum letter phase-b kieem">𖡝</li>
+    <li class="symb" data-code="92254" code="1685e" title="bamum letter phase-b yeurae">𖡞</li>
+    <li class="symb" data-code="92255" code="1685f" title="bamum letter phase-b mbaarae">𖡟</li>
+    <li class="h">16860</li>
+    <li class="symb" data-code="92256" code="16860" title="bamum letter phase-b kam">𖡠</li>
+    <li class="symb" data-code="92257" code="16861" title="bamum letter phase-b peeshi">𖡡</li>
+    <li class="symb" data-code="92258" code="16862" title="bamum letter phase-b yafu leeraewa">𖡢</li>
+    <li class="symb" data-code="92259" code="16863" title="bamum letter phase-b lam nshut nyam">𖡣</li>
+    <li class="symb" data-code="92260" code="16864" title="bamum letter phase-b ntiee sheuoq">𖡤</li>
+    <li class="symb" data-code="92261" code="16865" title="bamum letter phase-b ndu njaa">𖡥</li>
+    <li class="symb" data-code="92262" code="16866" title="bamum letter phase-b gheugheuaem">𖡦</li>
+    <li class="symb" data-code="92263" code="16867" title="bamum letter phase-b pit">𖡧</li>
+    <li class="symb" data-code="92264" code="16868" title="bamum letter phase-b tu nsiee">𖡨</li>
+    <li class="symb" data-code="92265" code="16869" title="bamum letter phase-b shet njaq">𖡩</li>
+    <li class="symb" data-code="92266" code="1686a" title="bamum letter phase-b sheuaeqtu">𖡪</li>
+    <li class="symb" data-code="92267" code="1686b" title="bamum letter phase-b mfon teuaeq">𖡫</li>
+    <li class="symb" data-code="92268" code="1686c" title="bamum letter phase-b mbit mbaaket">𖡬</li>
+    <li class="symb" data-code="92269" code="1686d" title="bamum letter phase-b nyi nteum">𖡭</li>
+    <li class="symb" data-code="92270" code="1686e" title="bamum letter phase-b keupuq">𖡮</li>
+    <li class="symb" data-code="92271" code="1686f" title="bamum letter phase-b gheughen">𖡯</li>
+    <li class="h">16870</li>
+    <li class="symb" data-code="92272" code="16870" title="bamum letter phase-b keuyeux">𖡰</li>
+    <li class="symb" data-code="92273" code="16871" title="bamum letter phase-b laanae">𖡱</li>
+    <li class="symb" data-code="92274" code="16872" title="bamum letter phase-b parum">𖡲</li>
+    <li class="symb" data-code="92275" code="16873" title="bamum letter phase-b veum">𖡳</li>
+    <li class="symb" data-code="92276" code="16874" title="bamum letter phase-b ngkindi mvop">𖡴</li>
+    <li class="symb" data-code="92277" code="16875" title="bamum letter phase-b nggeu mbu">𖡵</li>
+    <li class="symb" data-code="92278" code="16876" title="bamum letter phase-b wuaet">𖡶</li>
+    <li class="symb" data-code="92279" code="16877" title="bamum letter phase-b sakeuae">𖡷</li>
+    <li class="symb" data-code="92280" code="16878" title="bamum letter phase-b taam">𖡸</li>
+    <li class="symb" data-code="92281" code="16879" title="bamum letter phase-b meuq">𖡹</li>
+    <li class="symb" data-code="92282" code="1687a" title="bamum letter phase-b ngguoq">𖡺</li>
+    <li class="symb" data-code="92283" code="1687b" title="bamum letter phase-b ngguoq large">𖡻</li>
+    <li class="symb" data-code="92284" code="1687c" title="bamum letter phase-b mfiyaq">𖡼</li>
+    <li class="symb" data-code="92285" code="1687d" title="bamum letter phase-b sue">𖡽</li>
+    <li class="symb" data-code="92286" code="1687e" title="bamum letter phase-b mbeuri">𖡾</li>
+    <li class="symb" data-code="92287" code="1687f" title="bamum letter phase-b montieen">𖡿</li>
+    <li class="h">16880</li>
+    <li class="symb" data-code="92288" code="16880" title="bamum letter phase-b nyaemae">𖢀</li>
+    <li class="symb" data-code="92289" code="16881" title="bamum letter phase-b pungaam">𖢁</li>
+    <li class="symb" data-code="92290" code="16882" title="bamum letter phase-b meut nggeet">𖢂</li>
+    <li class="symb" data-code="92291" code="16883" title="bamum letter phase-b feux">𖢃</li>
+    <li class="symb" data-code="92292" code="16884" title="bamum letter phase-b mbuoq">𖢄</li>
+    <li class="symb" data-code="92293" code="16885" title="bamum letter phase-b fee">𖢅</li>
+    <li class="symb" data-code="92294" code="16886" title="bamum letter phase-b keuaem">𖢆</li>
+    <li class="symb" data-code="92295" code="16887" title="bamum letter phase-b ma njeuaena">𖢇</li>
+    <li class="symb" data-code="92296" code="16888" title="bamum letter phase-b ma njuqa">𖢈</li>
+    <li class="symb" data-code="92297" code="16889" title="bamum letter phase-b let">𖢉</li>
+    <li class="symb" data-code="92298" code="1688a" title="bamum letter phase-b nggaam">𖢊</li>
+    <li class="symb" data-code="92299" code="1688b" title="bamum letter phase-b nsen">𖢋</li>
+    <li class="symb" data-code="92300" code="1688c" title="bamum letter phase-b ma">𖢌</li>
+    <li class="symb" data-code="92301" code="1688d" title="bamum letter phase-b kiq">𖢍</li>
+    <li class="symb" data-code="92302" code="1688e" title="bamum letter phase-b ngom">𖢎</li>
+    <li class="symb" data-code="92303" code="1688f" title="bamum letter phase-c ngkue maemba">𖢏</li>
+    <li class="h">16890</li>
+    <li class="symb" data-code="92304" code="16890" title="bamum letter phase-c nza">𖢐</li>
+    <li class="symb" data-code="92305" code="16891" title="bamum letter phase-c yum">𖢑</li>
+    <li class="symb" data-code="92306" code="16892" title="bamum letter phase-c wangkuoq">𖢒</li>
+    <li class="symb" data-code="92307" code="16893" title="bamum letter phase-c nggen">𖢓</li>
+    <li class="symb" data-code="92308" code="16894" title="bamum letter phase-c ndeuaeree">𖢔</li>
+    <li class="symb" data-code="92309" code="16895" title="bamum letter phase-c ngkaq">𖢕</li>
+    <li class="symb" data-code="92310" code="16896" title="bamum letter phase-c gharae">𖢖</li>
+    <li class="symb" data-code="92311" code="16897" title="bamum letter phase-c mbeekeet">𖢗</li>
+    <li class="symb" data-code="92312" code="16898" title="bamum letter phase-c gbayi">𖢘</li>
+    <li class="symb" data-code="92313" code="16899" title="bamum letter phase-c nyir mkparaq meun">𖢙</li>
+    <li class="symb" data-code="92314" code="1689a" title="bamum letter phase-c ntu mbit">𖢚</li>
+    <li class="symb" data-code="92315" code="1689b" title="bamum letter phase-c mbeum">𖢛</li>
+    <li class="symb" data-code="92316" code="1689c" title="bamum letter phase-c pirieen">𖢜</li>
+    <li class="symb" data-code="92317" code="1689d" title="bamum letter phase-c ndombu">𖢝</li>
+    <li class="symb" data-code="92318" code="1689e" title="bamum letter phase-c mbaa cabbage-tree">𖢞</li>
+    <li class="symb" data-code="92319" code="1689f" title="bamum letter phase-c keusheuaep">𖢟</li>
+    <li class="h">168a0</li>
+    <li class="symb" data-code="92320" code="168a0" title="bamum letter phase-c ghap">𖢠</li>
+    <li class="symb" data-code="92321" code="168a1" title="bamum letter phase-c keukaq">𖢡</li>
+    <li class="symb" data-code="92322" code="168a2" title="bamum letter phase-c yu muomae">𖢢</li>
+    <li class="symb" data-code="92323" code="168a3" title="bamum letter phase-c nzeum">𖢣</li>
+    <li class="symb" data-code="92324" code="168a4" title="bamum letter phase-c mbue">𖢤</li>
+    <li class="symb" data-code="92325" code="168a5" title="bamum letter phase-c nseuaen">𖢥</li>
+    <li class="symb" data-code="92326" code="168a6" title="bamum letter phase-c mbit">𖢦</li>
+    <li class="symb" data-code="92327" code="168a7" title="bamum letter phase-c yeuq">𖢧</li>
+    <li class="symb" data-code="92328" code="168a8" title="bamum letter phase-c kparaq">𖢨</li>
+    <li class="symb" data-code="92329" code="168a9" title="bamum letter phase-c kaa">𖢩</li>
+    <li class="symb" data-code="92330" code="168aa" title="bamum letter phase-c seux">𖢪</li>
+    <li class="symb" data-code="92331" code="168ab" title="bamum letter phase-c ndida">𖢫</li>
+    <li class="symb" data-code="92332" code="168ac" title="bamum letter phase-c taashae">𖢬</li>
+    <li class="symb" data-code="92333" code="168ad" title="bamum letter phase-c njueq">𖢭</li>
+    <li class="symb" data-code="92334" code="168ae" title="bamum letter phase-c tita yue">𖢮</li>
+    <li class="symb" data-code="92335" code="168af" title="bamum letter phase-c suaet">𖢯</li>
+    <li class="h">168b0</li>
+    <li class="symb" data-code="92336" code="168b0" title="bamum letter phase-c ngguaen nyam">𖢰</li>
+    <li class="symb" data-code="92337" code="168b1" title="bamum letter phase-c veux">𖢱</li>
+    <li class="symb" data-code="92338" code="168b2" title="bamum letter phase-c nansanaq">𖢲</li>
+    <li class="symb" data-code="92339" code="168b3" title="bamum letter phase-c ma keuaeri">𖢳</li>
+    <li class="symb" data-code="92340" code="168b4" title="bamum letter phase-c ntaa">𖢴</li>
+    <li class="symb" data-code="92341" code="168b5" title="bamum letter phase-c ngguon">𖢵</li>
+    <li class="symb" data-code="92342" code="168b6" title="bamum letter phase-c lap">𖢶</li>
+    <li class="symb" data-code="92343" code="168b7" title="bamum letter phase-c mbirieen">𖢷</li>
+    <li class="symb" data-code="92344" code="168b8" title="bamum letter phase-c mgbasaq">𖢸</li>
+    <li class="symb" data-code="92345" code="168b9" title="bamum letter phase-c nteungba">𖢹</li>
+    <li class="symb" data-code="92346" code="168ba" title="bamum letter phase-c teuteux">𖢺</li>
+    <li class="symb" data-code="92347" code="168bb" title="bamum letter phase-c nggum">𖢻</li>
+    <li class="symb" data-code="92348" code="168bc" title="bamum letter phase-c fue">𖢼</li>
+    <li class="symb" data-code="92349" code="168bd" title="bamum letter phase-c ndeut">𖢽</li>
+    <li class="symb" data-code="92350" code="168be" title="bamum letter phase-c nsa">𖢾</li>
+    <li class="symb" data-code="92351" code="168bf" title="bamum letter phase-c nshaq">𖢿</li>
+    <li class="h">168c0</li>
+    <li class="symb" data-code="92352" code="168c0" title="bamum letter phase-c bung">𖣀</li>
+    <li class="symb" data-code="92353" code="168c1" title="bamum letter phase-c veuaepen">𖣁</li>
+    <li class="symb" data-code="92354" code="168c2" title="bamum letter phase-c mberae">𖣂</li>
+    <li class="symb" data-code="92355" code="168c3" title="bamum letter phase-c ru">𖣃</li>
+    <li class="symb" data-code="92356" code="168c4" title="bamum letter phase-c njaem">𖣄</li>
+    <li class="symb" data-code="92357" code="168c5" title="bamum letter phase-c lam">𖣅</li>
+    <li class="symb" data-code="92358" code="168c6" title="bamum letter phase-c tituaep">𖣆</li>
+    <li class="symb" data-code="92359" code="168c7" title="bamum letter phase-c nsuot ngom">𖣇</li>
+    <li class="symb" data-code="92360" code="168c8" title="bamum letter phase-c njeeee">𖣈</li>
+    <li class="symb" data-code="92361" code="168c9" title="bamum letter phase-c ket">𖣉</li>
+    <li class="symb" data-code="92362" code="168ca" title="bamum letter phase-c nggu">𖣊</li>
+    <li class="symb" data-code="92363" code="168cb" title="bamum letter phase-c maesi">𖣋</li>
+    <li class="symb" data-code="92364" code="168cc" title="bamum letter phase-c mbuaem">𖣌</li>
+    <li class="symb" data-code="92365" code="168cd" title="bamum letter phase-c lu">𖣍</li>
+    <li class="symb" data-code="92366" code="168ce" title="bamum letter phase-c kut">𖣎</li>
+    <li class="symb" data-code="92367" code="168cf" title="bamum letter phase-c njam">𖣏</li>
+    <li class="h">168d0</li>
+    <li class="symb" data-code="92368" code="168d0" title="bamum letter phase-c ngom">𖣐</li>
+    <li class="symb" data-code="92369" code="168d1" title="bamum letter phase-c wup">𖣑</li>
+    <li class="symb" data-code="92370" code="168d2" title="bamum letter phase-c nggueet">𖣒</li>
+    <li class="symb" data-code="92371" code="168d3" title="bamum letter phase-c nsom">𖣓</li>
+    <li class="symb" data-code="92372" code="168d4" title="bamum letter phase-c nten">𖣔</li>
+    <li class="symb" data-code="92373" code="168d5" title="bamum letter phase-c kuop nkaarae">𖣕</li>
+    <li class="symb" data-code="92374" code="168d6" title="bamum letter phase-c nsun">𖣖</li>
+    <li class="symb" data-code="92375" code="168d7" title="bamum letter phase-c ndam">𖣗</li>
+    <li class="symb" data-code="92376" code="168d8" title="bamum letter phase-c ma nsiee">𖣘</li>
+    <li class="symb" data-code="92377" code="168d9" title="bamum letter phase-c yaa">𖣙</li>
+    <li class="symb" data-code="92378" code="168da" title="bamum letter phase-c ndap">𖣚</li>
+    <li class="symb" data-code="92379" code="168db" title="bamum letter phase-c shueq">𖣛</li>
+    <li class="symb" data-code="92380" code="168dc" title="bamum letter phase-c setfon">𖣜</li>
+    <li class="symb" data-code="92381" code="168dd" title="bamum letter phase-c mbi">𖣝</li>
+    <li class="symb" data-code="92382" code="168de" title="bamum letter phase-c maemba">𖣞</li>
+    <li class="symb" data-code="92383" code="168df" title="bamum letter phase-c mbanyi">𖣟</li>
+    <li class="h">168e0</li>
+    <li class="symb" data-code="92384" code="168e0" title="bamum letter phase-c keuseux">𖣠</li>
+    <li class="symb" data-code="92385" code="168e1" title="bamum letter phase-c mbeux">𖣡</li>
+    <li class="symb" data-code="92386" code="168e2" title="bamum letter phase-c keum">𖣢</li>
+    <li class="symb" data-code="92387" code="168e3" title="bamum letter phase-c mbaa picket">𖣣</li>
+    <li class="symb" data-code="92388" code="168e4" title="bamum letter phase-c yuwoq">𖣤</li>
+    <li class="symb" data-code="92389" code="168e5" title="bamum letter phase-c njeux">𖣥</li>
+    <li class="symb" data-code="92390" code="168e6" title="bamum letter phase-c miee">𖣦</li>
+    <li class="symb" data-code="92391" code="168e7" title="bamum letter phase-c muae">𖣧</li>
+    <li class="symb" data-code="92392" code="168e8" title="bamum letter phase-c shiq">𖣨</li>
+    <li class="symb" data-code="92393" code="168e9" title="bamum letter phase-c ken law">𖣩</li>
+    <li class="symb" data-code="92394" code="168ea" title="bamum letter phase-c ken fatigue">𖣪</li>
+    <li class="symb" data-code="92395" code="168eb" title="bamum letter phase-c ngaq">𖣫</li>
+    <li class="symb" data-code="92396" code="168ec" title="bamum letter phase-c naq">𖣬</li>
+    <li class="symb" data-code="92397" code="168ed" title="bamum letter phase-c liq">𖣭</li>
+    <li class="symb" data-code="92398" code="168ee" title="bamum letter phase-c pin">𖣮</li>
+    <li class="symb" data-code="92399" code="168ef" title="bamum letter phase-c pen">𖣯</li>
+    <li class="h">168f0</li>
+    <li class="symb" data-code="92400" code="168f0" title="bamum letter phase-c tet">𖣰</li>
+    <li class="symb" data-code="92401" code="168f1" title="bamum letter phase-d mbuo">𖣱</li>
+    <li class="symb" data-code="92402" code="168f2" title="bamum letter phase-d wap">𖣲</li>
+    <li class="symb" data-code="92403" code="168f3" title="bamum letter phase-d nji">𖣳</li>
+    <li class="symb" data-code="92404" code="168f4" title="bamum letter phase-d mfon">𖣴</li>
+    <li class="symb" data-code="92405" code="168f5" title="bamum letter phase-d njiee">𖣵</li>
+    <li class="symb" data-code="92406" code="168f6" title="bamum letter phase-d liee">𖣶</li>
+    <li class="symb" data-code="92407" code="168f7" title="bamum letter phase-d njeut">𖣷</li>
+    <li class="symb" data-code="92408" code="168f8" title="bamum letter phase-d nshee">𖣸</li>
+    <li class="symb" data-code="92409" code="168f9" title="bamum letter phase-d nggaamae">𖣹</li>
+    <li class="symb" data-code="92410" code="168fa" title="bamum letter phase-d nyam">𖣺</li>
+    <li class="symb" data-code="92411" code="168fb" title="bamum letter phase-d wuaen">𖣻</li>
+    <li class="symb" data-code="92412" code="168fc" title="bamum letter phase-d ngkun">𖣼</li>
+    <li class="symb" data-code="92413" code="168fd" title="bamum letter phase-d shee">𖣽</li>
+    <li class="symb" data-code="92414" code="168fe" title="bamum letter phase-d ngkap">𖣾</li>
+    <li class="symb" data-code="92415" code="168ff" title="bamum letter phase-d keuaetmeun">𖣿</li>
+    <li class="h">16900</li>
+    <li class="symb" data-code="92416" code="16900" title="bamum letter phase-d teut">𖤀</li>
+    <li class="symb" data-code="92417" code="16901" title="bamum letter phase-d sheuae">𖤁</li>
+    <li class="symb" data-code="92418" code="16902" title="bamum letter phase-d njap">𖤂</li>
+    <li class="symb" data-code="92419" code="16903" title="bamum letter phase-d sue">𖤃</li>
+    <li class="symb" data-code="92420" code="16904" title="bamum letter phase-d ket">𖤄</li>
+    <li class="symb" data-code="92421" code="16905" title="bamum letter phase-d yaemmae">𖤅</li>
+    <li class="symb" data-code="92422" code="16906" title="bamum letter phase-d kuom">𖤆</li>
+    <li class="symb" data-code="92423" code="16907" title="bamum letter phase-d sap">𖤇</li>
+    <li class="symb" data-code="92424" code="16908" title="bamum letter phase-d mfeut">𖤈</li>
+    <li class="symb" data-code="92425" code="16909" title="bamum letter phase-d ndeux">𖤉</li>
+    <li class="symb" data-code="92426" code="1690a" title="bamum letter phase-d maleeri">𖤊</li>
+    <li class="symb" data-code="92427" code="1690b" title="bamum letter phase-d meut">𖤋</li>
+    <li class="symb" data-code="92428" code="1690c" title="bamum letter phase-d seuaeq">𖤌</li>
+    <li class="symb" data-code="92429" code="1690d" title="bamum letter phase-d yen">𖤍</li>
+    <li class="symb" data-code="92430" code="1690e" title="bamum letter phase-d njeuaem">𖤎</li>
+    <li class="symb" data-code="92431" code="1690f" title="bamum letter phase-d keuot mbuae">𖤏</li>
+    <li class="h">16910</li>
+    <li class="symb" data-code="92432" code="16910" title="bamum letter phase-d ngkeuri">𖤐</li>
+    <li class="symb" data-code="92433" code="16911" title="bamum letter phase-d tu">𖤑</li>
+    <li class="symb" data-code="92434" code="16912" title="bamum letter phase-d ghaa">𖤒</li>
+    <li class="symb" data-code="92435" code="16913" title="bamum letter phase-d ngkyee">𖤓</li>
+    <li class="symb" data-code="92436" code="16914" title="bamum letter phase-d feufeuaet">𖤔</li>
+    <li class="symb" data-code="92437" code="16915" title="bamum letter phase-d ndee">𖤕</li>
+    <li class="symb" data-code="92438" code="16916" title="bamum letter phase-d mgbofum">𖤖</li>
+    <li class="symb" data-code="92439" code="16917" title="bamum letter phase-d leuaep">𖤗</li>
+    <li class="symb" data-code="92440" code="16918" title="bamum letter phase-d ndon">𖤘</li>
+    <li class="symb" data-code="92441" code="16919" title="bamum letter phase-d moni">𖤙</li>
+    <li class="symb" data-code="92442" code="1691a" title="bamum letter phase-d mgbeun">𖤚</li>
+    <li class="symb" data-code="92443" code="1691b" title="bamum letter phase-d puut">𖤛</li>
+    <li class="symb" data-code="92444" code="1691c" title="bamum letter phase-d mgbiee">𖤜</li>
+    <li class="symb" data-code="92445" code="1691d" title="bamum letter phase-d mfo">𖤝</li>
+    <li class="symb" data-code="92446" code="1691e" title="bamum letter phase-d lum">𖤞</li>
+    <li class="symb" data-code="92447" code="1691f" title="bamum letter phase-d nsieep">𖤟</li>
+    <li class="h">16920</li>
+    <li class="symb" data-code="92448" code="16920" title="bamum letter phase-d mbaa">𖤠</li>
+    <li class="symb" data-code="92449" code="16921" title="bamum letter phase-d kwaet">𖤡</li>
+    <li class="symb" data-code="92450" code="16922" title="bamum letter phase-d nyet">𖤢</li>
+    <li class="symb" data-code="92451" code="16923" title="bamum letter phase-d teuaen">𖤣</li>
+    <li class="symb" data-code="92452" code="16924" title="bamum letter phase-d sot">𖤤</li>
+    <li class="symb" data-code="92453" code="16925" title="bamum letter phase-d yuwoq">𖤥</li>
+    <li class="symb" data-code="92454" code="16926" title="bamum letter phase-d keum">𖤦</li>
+    <li class="symb" data-code="92455" code="16927" title="bamum letter phase-d raem">𖤧</li>
+    <li class="symb" data-code="92456" code="16928" title="bamum letter phase-d teeee">𖤨</li>
+    <li class="symb" data-code="92457" code="16929" title="bamum letter phase-d ngkeuaeq">𖤩</li>
+    <li class="symb" data-code="92458" code="1692a" title="bamum letter phase-d mfeuae">𖤪</li>
+    <li class="symb" data-code="92459" code="1692b" title="bamum letter phase-d nsieet">𖤫</li>
+    <li class="symb" data-code="92460" code="1692c" title="bamum letter phase-d keup">𖤬</li>
+    <li class="symb" data-code="92461" code="1692d" title="bamum letter phase-d pip">𖤭</li>
+    <li class="symb" data-code="92462" code="1692e" title="bamum letter phase-d peutae">𖤮</li>
+    <li class="symb" data-code="92463" code="1692f" title="bamum letter phase-d nyue">𖤯</li>
+    <li class="h">16930</li>
+    <li class="symb" data-code="92464" code="16930" title="bamum letter phase-d let">𖤰</li>
+    <li class="symb" data-code="92465" code="16931" title="bamum letter phase-d nggaam">𖤱</li>
+    <li class="symb" data-code="92466" code="16932" title="bamum letter phase-d mfiee">𖤲</li>
+    <li class="symb" data-code="92467" code="16933" title="bamum letter phase-d nggwaen">𖤳</li>
+    <li class="symb" data-code="92468" code="16934" title="bamum letter phase-d yuom">𖤴</li>
+    <li class="symb" data-code="92469" code="16935" title="bamum letter phase-d pap">𖤵</li>
+    <li class="symb" data-code="92470" code="16936" title="bamum letter phase-d yuop">𖤶</li>
+    <li class="symb" data-code="92471" code="16937" title="bamum letter phase-d ndam">𖤷</li>
+    <li class="symb" data-code="92472" code="16938" title="bamum letter phase-d nteum">𖤸</li>
+    <li class="symb" data-code="92473" code="16939" title="bamum letter phase-d suae">𖤹</li>
+    <li class="symb" data-code="92474" code="1693a" title="bamum letter phase-d kun">𖤺</li>
+    <li class="symb" data-code="92475" code="1693b" title="bamum letter phase-d nggeux">𖤻</li>
+    <li class="symb" data-code="92476" code="1693c" title="bamum letter phase-d ngkiee">𖤼</li>
+    <li class="symb" data-code="92477" code="1693d" title="bamum letter phase-d tuot">𖤽</li>
+    <li class="symb" data-code="92478" code="1693e" title="bamum letter phase-d meun">𖤾</li>
+    <li class="symb" data-code="92479" code="1693f" title="bamum letter phase-d kuq">𖤿</li>
+    <li class="h">16940</li>
+    <li class="symb" data-code="92480" code="16940" title="bamum letter phase-d nsum">𖥀</li>
+    <li class="symb" data-code="92481" code="16941" title="bamum letter phase-d teun">𖥁</li>
+    <li class="symb" data-code="92482" code="16942" title="bamum letter phase-d maenjet">𖥂</li>
+    <li class="symb" data-code="92483" code="16943" title="bamum letter phase-d nggap">𖥃</li>
+    <li class="symb" data-code="92484" code="16944" title="bamum letter phase-d leum">𖥄</li>
+    <li class="symb" data-code="92485" code="16945" title="bamum letter phase-d ngguom">𖥅</li>
+    <li class="symb" data-code="92486" code="16946" title="bamum letter phase-d nshut">𖥆</li>
+    <li class="symb" data-code="92487" code="16947" title="bamum letter phase-d njueq">𖥇</li>
+    <li class="symb" data-code="92488" code="16948" title="bamum letter phase-d gheuae">𖥈</li>
+    <li class="symb" data-code="92489" code="16949" title="bamum letter phase-d ku">𖥉</li>
+    <li class="symb" data-code="92490" code="1694a" title="bamum letter phase-d ren old">𖥊</li>
+    <li class="symb" data-code="92491" code="1694b" title="bamum letter phase-d tae">𖥋</li>
+    <li class="symb" data-code="92492" code="1694c" title="bamum letter phase-d toq">𖥌</li>
+    <li class="symb" data-code="92493" code="1694d" title="bamum letter phase-d nyi">𖥍</li>
+    <li class="symb" data-code="92494" code="1694e" title="bamum letter phase-d rii">𖥎</li>
+    <li class="symb" data-code="92495" code="1694f" title="bamum letter phase-d leeee">𖥏</li>
+    <li class="h">16950</li>
+    <li class="symb" data-code="92496" code="16950" title="bamum letter phase-d meeee">𖥐</li>
+    <li class="symb" data-code="92497" code="16951" title="bamum letter phase-d m">𖥑</li>
+    <li class="symb" data-code="92498" code="16952" title="bamum letter phase-d suu">𖥒</li>
+    <li class="symb" data-code="92499" code="16953" title="bamum letter phase-d mu">𖥓</li>
+    <li class="symb" data-code="92500" code="16954" title="bamum letter phase-d shii">𖥔</li>
+    <li class="symb" data-code="92501" code="16955" title="bamum letter phase-d sheux">𖥕</li>
+    <li class="symb" data-code="92502" code="16956" title="bamum letter phase-d kyee">𖥖</li>
+    <li class="symb" data-code="92503" code="16957" title="bamum letter phase-d nu">𖥗</li>
+    <li class="symb" data-code="92504" code="16958" title="bamum letter phase-d shu">𖥘</li>
+    <li class="symb" data-code="92505" code="16959" title="bamum letter phase-d ntee">𖥙</li>
+    <li class="symb" data-code="92506" code="1695a" title="bamum letter phase-d pee">𖥚</li>
+    <li class="symb" data-code="92507" code="1695b" title="bamum letter phase-d ni">𖥛</li>
+    <li class="symb" data-code="92508" code="1695c" title="bamum letter phase-d shoq">𖥜</li>
+    <li class="symb" data-code="92509" code="1695d" title="bamum letter phase-d puq">𖥝</li>
+    <li class="symb" data-code="92510" code="1695e" title="bamum letter phase-d mvop">𖥞</li>
+    <li class="symb" data-code="92511" code="1695f" title="bamum letter phase-d loq">𖥟</li>
+    <li class="h">16960</li>
+    <li class="symb" data-code="92512" code="16960" title="bamum letter phase-d ren much">𖥠</li>
+    <li class="symb" data-code="92513" code="16961" title="bamum letter phase-d ti">𖥡</li>
+    <li class="symb" data-code="92514" code="16962" title="bamum letter phase-d ntuu">𖥢</li>
+    <li class="symb" data-code="92515" code="16963" title="bamum letter phase-d mbaa seven">𖥣</li>
+    <li class="symb" data-code="92516" code="16964" title="bamum letter phase-d saq">𖥤</li>
+    <li class="symb" data-code="92517" code="16965" title="bamum letter phase-d faa">𖥥</li>
+    <li class="symb" data-code="92518" code="16966" title="bamum letter phase-e ndap">𖥦</li>
+    <li class="symb" data-code="92519" code="16967" title="bamum letter phase-e toon">𖥧</li>
+    <li class="symb" data-code="92520" code="16968" title="bamum letter phase-e mbeum">𖥨</li>
+    <li class="symb" data-code="92521" code="16969" title="bamum letter phase-e lap">𖥩</li>
+    <li class="symb" data-code="92522" code="1696a" title="bamum letter phase-e vom">𖥪</li>
+    <li class="symb" data-code="92523" code="1696b" title="bamum letter phase-e loon">𖥫</li>
+    <li class="symb" data-code="92524" code="1696c" title="bamum letter phase-e paa">𖥬</li>
+    <li class="symb" data-code="92525" code="1696d" title="bamum letter phase-e som">𖥭</li>
+    <li class="symb" data-code="92526" code="1696e" title="bamum letter phase-e raq">𖥮</li>
+    <li class="symb" data-code="92527" code="1696f" title="bamum letter phase-e nshuop">𖥯</li>
+    <li class="h">16970</li>
+    <li class="symb" data-code="92528" code="16970" title="bamum letter phase-e ndun">𖥰</li>
+    <li class="symb" data-code="92529" code="16971" title="bamum letter phase-e puae">𖥱</li>
+    <li class="symb" data-code="92530" code="16972" title="bamum letter phase-e tam">𖥲</li>
+    <li class="symb" data-code="92531" code="16973" title="bamum letter phase-e ngka">𖥳</li>
+    <li class="symb" data-code="92532" code="16974" title="bamum letter phase-e kpeux">𖥴</li>
+    <li class="symb" data-code="92533" code="16975" title="bamum letter phase-e wuo">𖥵</li>
+    <li class="symb" data-code="92534" code="16976" title="bamum letter phase-e see">𖥶</li>
+    <li class="symb" data-code="92535" code="16977" title="bamum letter phase-e nggeuaet">𖥷</li>
+    <li class="symb" data-code="92536" code="16978" title="bamum letter phase-e paam">𖥸</li>
+    <li class="symb" data-code="92537" code="16979" title="bamum letter phase-e too">𖥹</li>
+    <li class="symb" data-code="92538" code="1697a" title="bamum letter phase-e kuop">𖥺</li>
+    <li class="symb" data-code="92539" code="1697b" title="bamum letter phase-e lom">𖥻</li>
+    <li class="symb" data-code="92540" code="1697c" title="bamum letter phase-e nshiee">𖥼</li>
+    <li class="symb" data-code="92541" code="1697d" title="bamum letter phase-e ngop">𖥽</li>
+    <li class="symb" data-code="92542" code="1697e" title="bamum letter phase-e maem">𖥾</li>
+    <li class="symb" data-code="92543" code="1697f" title="bamum letter phase-e ngkeux">𖥿</li>
+    <li class="h">16980</li>
+    <li class="symb" data-code="92544" code="16980" title="bamum letter phase-e ngoq">𖦀</li>
+    <li class="symb" data-code="92545" code="16981" title="bamum letter phase-e nshue">𖦁</li>
+    <li class="symb" data-code="92546" code="16982" title="bamum letter phase-e rimgba">𖦂</li>
+    <li class="symb" data-code="92547" code="16983" title="bamum letter phase-e njeux">𖦃</li>
+    <li class="symb" data-code="92548" code="16984" title="bamum letter phase-e peem">𖦄</li>
+    <li class="symb" data-code="92549" code="16985" title="bamum letter phase-e saa">𖦅</li>
+    <li class="symb" data-code="92550" code="16986" title="bamum letter phase-e nggurae">𖦆</li>
+    <li class="symb" data-code="92551" code="16987" title="bamum letter phase-e mgba">𖦇</li>
+    <li class="symb" data-code="92552" code="16988" title="bamum letter phase-e gheux">𖦈</li>
+    <li class="symb" data-code="92553" code="16989" title="bamum letter phase-e ngkeuaem">𖦉</li>
+    <li class="symb" data-code="92554" code="1698a" title="bamum letter phase-e njaemli">𖦊</li>
+    <li class="symb" data-code="92555" code="1698b" title="bamum letter phase-e map">𖦋</li>
+    <li class="symb" data-code="92556" code="1698c" title="bamum letter phase-e loot">𖦌</li>
+    <li class="symb" data-code="92557" code="1698d" title="bamum letter phase-e nggeeee">𖦍</li>
+    <li class="symb" data-code="92558" code="1698e" title="bamum letter phase-e ndiq">𖦎</li>
+    <li class="symb" data-code="92559" code="1698f" title="bamum letter phase-e taen nteum">𖦏</li>
+    <li class="h">16990</li>
+    <li class="symb" data-code="92560" code="16990" title="bamum letter phase-e set">𖦐</li>
+    <li class="symb" data-code="92561" code="16991" title="bamum letter phase-e pum">𖦑</li>
+    <li class="symb" data-code="92562" code="16992" title="bamum letter phase-e ndaa softness">𖦒</li>
+    <li class="symb" data-code="92563" code="16993" title="bamum letter phase-e ngguaeshae nyam">𖦓</li>
+    <li class="symb" data-code="92564" code="16994" title="bamum letter phase-e yiee">𖦔</li>
+    <li class="symb" data-code="92565" code="16995" title="bamum letter phase-e gheun">𖦕</li>
+    <li class="symb" data-code="92566" code="16996" title="bamum letter phase-e tuae">𖦖</li>
+    <li class="symb" data-code="92567" code="16997" title="bamum letter phase-e yeuae">𖦗</li>
+    <li class="symb" data-code="92568" code="16998" title="bamum letter phase-e po">𖦘</li>
+    <li class="symb" data-code="92569" code="16999" title="bamum letter phase-e tumae">𖦙</li>
+    <li class="symb" data-code="92570" code="1699a" title="bamum letter phase-e keuae">𖦚</li>
+    <li class="symb" data-code="92571" code="1699b" title="bamum letter phase-e suaen">𖦛</li>
+    <li class="symb" data-code="92572" code="1699c" title="bamum letter phase-e teuaeq">𖦜</li>
+    <li class="symb" data-code="92573" code="1699d" title="bamum letter phase-e veuae">𖦝</li>
+    <li class="symb" data-code="92574" code="1699e" title="bamum letter phase-e weux">𖦞</li>
+    <li class="symb" data-code="92575" code="1699f" title="bamum letter phase-e laam">𖦟</li>
+    <li class="h">169a0</li>
+    <li class="symb" data-code="92576" code="169a0" title="bamum letter phase-e pu">𖦠</li>
+    <li class="symb" data-code="92577" code="169a1" title="bamum letter phase-e taaq">𖦡</li>
+    <li class="symb" data-code="92578" code="169a2" title="bamum letter phase-e ghaamae">𖦢</li>
+    <li class="symb" data-code="92579" code="169a3" title="bamum letter phase-e ngeureut">𖦣</li>
+    <li class="symb" data-code="92580" code="169a4" title="bamum letter phase-e sheuaeq">𖦤</li>
+    <li class="symb" data-code="92581" code="169a5" title="bamum letter phase-e mgben">𖦥</li>
+    <li class="symb" data-code="92582" code="169a6" title="bamum letter phase-e mbee">𖦦</li>
+    <li class="symb" data-code="92583" code="169a7" title="bamum letter phase-e nzaq">𖦧</li>
+    <li class="symb" data-code="92584" code="169a8" title="bamum letter phase-e nkom">𖦨</li>
+    <li class="symb" data-code="92585" code="169a9" title="bamum letter phase-e gbet">𖦩</li>
+    <li class="symb" data-code="92586" code="169aa" title="bamum letter phase-e tum">𖦪</li>
+    <li class="symb" data-code="92587" code="169ab" title="bamum letter phase-e kuet">𖦫</li>
+    <li class="symb" data-code="92588" code="169ac" title="bamum letter phase-e yap">𖦬</li>
+    <li class="symb" data-code="92589" code="169ad" title="bamum letter phase-e nyi cleaver">𖦭</li>
+    <li class="symb" data-code="92590" code="169ae" title="bamum letter phase-e yit">𖦮</li>
+    <li class="symb" data-code="92591" code="169af" title="bamum letter phase-e mfeuq">𖦯</li>
+    <li class="h">169b0</li>
+    <li class="symb" data-code="92592" code="169b0" title="bamum letter phase-e ndiaq">𖦰</li>
+    <li class="symb" data-code="92593" code="169b1" title="bamum letter phase-e pieeq">𖦱</li>
+    <li class="symb" data-code="92594" code="169b2" title="bamum letter phase-e yueq">𖦲</li>
+    <li class="symb" data-code="92595" code="169b3" title="bamum letter phase-e leuaem">𖦳</li>
+    <li class="symb" data-code="92596" code="169b4" title="bamum letter phase-e fue">𖦴</li>
+    <li class="symb" data-code="92597" code="169b5" title="bamum letter phase-e gbeux">𖦵</li>
+    <li class="symb" data-code="92598" code="169b6" title="bamum letter phase-e ngkup">𖦶</li>
+    <li class="symb" data-code="92599" code="169b7" title="bamum letter phase-e ket">𖦷</li>
+    <li class="symb" data-code="92600" code="169b8" title="bamum letter phase-e mae">𖦸</li>
+    <li class="symb" data-code="92601" code="169b9" title="bamum letter phase-e ngkaami">𖦹</li>
+    <li class="symb" data-code="92602" code="169ba" title="bamum letter phase-e ghet">𖦺</li>
+    <li class="symb" data-code="92603" code="169bb" title="bamum letter phase-e fa">𖦻</li>
+    <li class="symb" data-code="92604" code="169bc" title="bamum letter phase-e ntum">𖦼</li>
+    <li class="symb" data-code="92605" code="169bd" title="bamum letter phase-e peut">𖦽</li>
+    <li class="symb" data-code="92606" code="169be" title="bamum letter phase-e yeum">𖦾</li>
+    <li class="symb" data-code="92607" code="169bf" title="bamum letter phase-e nggeuae">𖦿</li>
+    <li class="h">169c0</li>
+    <li class="symb" data-code="92608" code="169c0" title="bamum letter phase-e nyi between">𖧀</li>
+    <li class="symb" data-code="92609" code="169c1" title="bamum letter phase-e nzuq">𖧁</li>
+    <li class="symb" data-code="92610" code="169c2" title="bamum letter phase-e poon">𖧂</li>
+    <li class="symb" data-code="92611" code="169c3" title="bamum letter phase-e miee">𖧃</li>
+    <li class="symb" data-code="92612" code="169c4" title="bamum letter phase-e fuet">𖧄</li>
+    <li class="symb" data-code="92613" code="169c5" title="bamum letter phase-e nae">𖧅</li>
+    <li class="symb" data-code="92614" code="169c6" title="bamum letter phase-e muae">𖧆</li>
+    <li class="symb" data-code="92615" code="169c7" title="bamum letter phase-e gheuae">𖧇</li>
+    <li class="symb" data-code="92616" code="169c8" title="bamum letter phase-e fu i">𖧈</li>
+    <li class="symb" data-code="92617" code="169c9" title="bamum letter phase-e mvi">𖧉</li>
+    <li class="symb" data-code="92618" code="169ca" title="bamum letter phase-e puaq">𖧊</li>
+    <li class="symb" data-code="92619" code="169cb" title="bamum letter phase-e ngkum">𖧋</li>
+    <li class="symb" data-code="92620" code="169cc" title="bamum letter phase-e kut">𖧌</li>
+    <li class="symb" data-code="92621" code="169cd" title="bamum letter phase-e piet">𖧍</li>
+    <li class="symb" data-code="92622" code="169ce" title="bamum letter phase-e ntap">𖧎</li>
+    <li class="symb" data-code="92623" code="169cf" title="bamum letter phase-e yeuaet">𖧏</li>
+    <li class="h">169d0</li>
+    <li class="symb" data-code="92624" code="169d0" title="bamum letter phase-e nggup">𖧐</li>
+    <li class="symb" data-code="92625" code="169d1" title="bamum letter phase-e pa people">𖧑</li>
+    <li class="symb" data-code="92626" code="169d2" title="bamum letter phase-e fu call">𖧒</li>
+    <li class="symb" data-code="92627" code="169d3" title="bamum letter phase-e fom">𖧓</li>
+    <li class="symb" data-code="92628" code="169d4" title="bamum letter phase-e njee">𖧔</li>
+    <li class="symb" data-code="92629" code="169d5" title="bamum letter phase-e a">𖧕</li>
+    <li class="symb" data-code="92630" code="169d6" title="bamum letter phase-e toq">𖧖</li>
+    <li class="symb" data-code="92631" code="169d7" title="bamum letter phase-e o">𖧗</li>
+    <li class="symb" data-code="92632" code="169d8" title="bamum letter phase-e i">𖧘</li>
+    <li class="symb" data-code="92633" code="169d9" title="bamum letter phase-e laq">𖧙</li>
+    <li class="symb" data-code="92634" code="169da" title="bamum letter phase-e pa plural">𖧚</li>
+    <li class="symb" data-code="92635" code="169db" title="bamum letter phase-e taa">𖧛</li>
+    <li class="symb" data-code="92636" code="169dc" title="bamum letter phase-e taq">𖧜</li>
+    <li class="symb" data-code="92637" code="169dd" title="bamum letter phase-e ndaa my house">𖧝</li>
+    <li class="symb" data-code="92638" code="169de" title="bamum letter phase-e shiq">𖧞</li>
+    <li class="symb" data-code="92639" code="169df" title="bamum letter phase-e yeux">𖧟</li>
+    <li class="h">169e0</li>
+    <li class="symb" data-code="92640" code="169e0" title="bamum letter phase-e nguae">𖧠</li>
+    <li class="symb" data-code="92641" code="169e1" title="bamum letter phase-e yuaen">𖧡</li>
+    <li class="symb" data-code="92642" code="169e2" title="bamum letter phase-e yoq swimming">𖧢</li>
+    <li class="symb" data-code="92643" code="169e3" title="bamum letter phase-e yoq cover">𖧣</li>
+    <li class="symb" data-code="92644" code="169e4" title="bamum letter phase-e yuq">𖧤</li>
+    <li class="symb" data-code="92645" code="169e5" title="bamum letter phase-e yun">𖧥</li>
+    <li class="symb" data-code="92646" code="169e6" title="bamum letter phase-e keux">𖧦</li>
+    <li class="symb" data-code="92647" code="169e7" title="bamum letter phase-e peux">𖧧</li>
+    <li class="symb" data-code="92648" code="169e8" title="bamum letter phase-e njee epoch">𖧨</li>
+    <li class="symb" data-code="92649" code="169e9" title="bamum letter phase-e pue">𖧩</li>
+    <li class="symb" data-code="92650" code="169ea" title="bamum letter phase-e wue">𖧪</li>
+    <li class="symb" data-code="92651" code="169eb" title="bamum letter phase-e fee">𖧫</li>
+    <li class="symb" data-code="92652" code="169ec" title="bamum letter phase-e vee">𖧬</li>
+    <li class="symb" data-code="92653" code="169ed" title="bamum letter phase-e lu">𖧭</li>
+    <li class="symb" data-code="92654" code="169ee" title="bamum letter phase-e mi">𖧮</li>
+    <li class="symb" data-code="92655" code="169ef" title="bamum letter phase-e reux">𖧯</li>
+    <li class="h">169f0</li>
+    <li class="symb" data-code="92656" code="169f0" title="bamum letter phase-e rae">𖧰</li>
+    <li class="symb" data-code="92657" code="169f1" title="bamum letter phase-e nguaet">𖧱</li>
+    <li class="symb" data-code="92658" code="169f2" title="bamum letter phase-e nga">𖧲</li>
+    <li class="symb" data-code="92659" code="169f3" title="bamum letter phase-e sho">𖧳</li>
+    <li class="symb" data-code="92660" code="169f4" title="bamum letter phase-e shoq">𖧴</li>
+    <li class="symb" data-code="92661" code="169f5" title="bamum letter phase-e fu remedy">𖧵</li>
+    <li class="symb" data-code="92662" code="169f6" title="bamum letter phase-e na">𖧶</li>
+    <li class="symb" data-code="92663" code="169f7" title="bamum letter phase-e pi">𖧷</li>
+    <li class="symb" data-code="92664" code="169f8" title="bamum letter phase-e loq">𖧸</li>
+    <li class="symb" data-code="92665" code="169f9" title="bamum letter phase-e ko">𖧹</li>
+    <li class="symb" data-code="92666" code="169fa" title="bamum letter phase-e men">𖧺</li>
+    <li class="symb" data-code="92667" code="169fb" title="bamum letter phase-e ma">𖧻</li>
+    <li class="symb" data-code="92668" code="169fc" title="bamum letter phase-e maq">𖧼</li>
+    <li class="symb" data-code="92669" code="169fd" title="bamum letter phase-e teu">𖧽</li>
+    <li class="symb" data-code="92670" code="169fe" title="bamum letter phase-e ki">𖧾</li>
+    <li class="symb" data-code="92671" code="169ff" title="bamum letter phase-e mon">𖧿</li>
+  </ul>
+</root>

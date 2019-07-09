@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">a8e0</li>
+    <li class="symb" data-code="43232" code="a8e0" title="combining devanagari digit zero">꣠</li>
+    <li class="symb" data-code="43233" code="a8e1" title="combining devanagari digit one">꣡</li>
+    <li class="symb" data-code="43234" code="a8e2" title="combining devanagari digit two">꣢</li>
+    <li class="symb" data-code="43235" code="a8e3" title="combining devanagari digit three">꣣</li>
+    <li class="symb" data-code="43236" code="a8e4" title="combining devanagari digit four">꣤</li>
+    <li class="symb" data-code="43237" code="a8e5" title="combining devanagari digit five">꣥</li>
+    <li class="symb" data-code="43238" code="a8e6" title="combining devanagari digit six">꣦</li>
+    <li class="symb" data-code="43239" code="a8e7" title="combining devanagari digit seven">꣧</li>
+    <li class="symb" data-code="43240" code="a8e8" title="combining devanagari digit eight">꣨</li>
+    <li class="symb" data-code="43241" code="a8e9" title="combining devanagari digit nine">꣩</li>
+    <li class="symb" data-code="43242" code="a8ea" title="combining devanagari letter a">꣪</li>
+    <li class="symb" data-code="43243" code="a8eb" title="combining devanagari letter u">꣫</li>
+    <li class="symb" data-code="43244" code="a8ec" title="combining devanagari letter ka">꣬</li>
+    <li class="symb" data-code="43245" code="a8ed" title="combining devanagari letter na">꣭</li>
+    <li class="symb" data-code="43246" code="a8ee" title="combining devanagari letter pa">꣮</li>
+    <li class="symb" data-code="43247" code="a8ef" title="combining devanagari letter ra">꣯</li>
+    <li class="h">a8f0</li>
+    <li class="symb" data-code="43248" code="a8f0" title="combining devanagari letter vi">꣰</li>
+    <li class="symb" data-code="43249" code="a8f1" title="combining devanagari sign avagraha">꣱</li>
+    <li class="symb" data-code="43250" code="a8f2" title="devanagari sign spacing candrabindu">ꣲ</li>
+    <li class="symb" data-code="43251" code="a8f3" title="devanagari sign candrabindu virama">ꣳ</li>
+    <li class="symb" data-code="43252" code="a8f4" title="devanagari sign double candrabindu virama">ꣴ</li>
+    <li class="symb" data-code="43253" code="a8f5" title="devanagari sign candrabindu two">ꣵ</li>
+    <li class="symb" data-code="43254" code="a8f6" title="devanagari sign candrabindu three">ꣶ</li>
+    <li class="symb" data-code="43255" code="a8f7" title="devanagari sign candrabindu avagraha">ꣷ</li>
+    <li class="symb" data-code="43256" code="a8f8" title="devanagari sign pushpika">꣸</li>
+    <li class="symb" data-code="43257" code="a8f9" title="devanagari gap filler">꣹</li>
+    <li class="symb" data-code="43258" code="a8fa" title="devanagari caret">꣺</li>
+    <li class="symb" data-code="43259" code="a8fb" title="devanagari headstroke">ꣻ</li>
+    <li class="symb" data-code="43260" code="a8fc" title="devanagari sign siddham">꣼</li>
+    <li class="symb" data-code="43261" code="a8fd" title="devanagari jain om">ꣽ</li>
+    <li class="symb" data-code="43262" code="a8fe" title="devanagari letter ay">ꣾ</li>
+    <li class="symb" data-code="43263" code="a8ff" title="devanagari vowel sign ay">ꣿ</li>
+  </ul>
+</root>

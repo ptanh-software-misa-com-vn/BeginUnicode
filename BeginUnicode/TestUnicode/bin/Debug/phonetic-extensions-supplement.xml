@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1d80</li>
+    <li class="symb" data-code="7552" code="1d80" title="latin small letter b with palatal hook">ᶀ</li>
+    <li class="symb" data-code="7553" code="1d81" title="latin small letter d with palatal hook">ᶁ</li>
+    <li class="symb" data-code="7554" code="1d82" title="latin small letter f with palatal hook">ᶂ</li>
+    <li class="symb" data-code="7555" code="1d83" title="latin small letter g with palatal hook">ᶃ</li>
+    <li class="symb" data-code="7556" code="1d84" title="latin small letter k with palatal hook">ᶄ</li>
+    <li class="symb" data-code="7557" code="1d85" title="latin small letter l with palatal hook">ᶅ</li>
+    <li class="symb" data-code="7558" code="1d86" title="latin small letter m with palatal hook">ᶆ</li>
+    <li class="symb" data-code="7559" code="1d87" title="latin small letter n with palatal hook">ᶇ</li>
+    <li class="symb" data-code="7560" code="1d88" title="latin small letter p with palatal hook">ᶈ</li>
+    <li class="symb" data-code="7561" code="1d89" title="latin small letter r with palatal hook">ᶉ</li>
+    <li class="symb" data-code="7562" code="1d8a" title="latin small letter s with palatal hook">ᶊ</li>
+    <li class="symb" data-code="7563" code="1d8b" title="latin small letter esh with palatal hook">ᶋ</li>
+    <li class="symb" data-code="7564" code="1d8c" title="latin small letter v with palatal hook">ᶌ</li>
+    <li class="symb" data-code="7565" code="1d8d" title="latin small letter x with palatal hook">ᶍ</li>
+    <li class="symb" data-code="7566" code="1d8e" title="latin small letter z with palatal hook">ᶎ</li>
+    <li class="symb" data-code="7567" code="1d8f" title="latin small letter a with retroflex hook">ᶏ</li>
+    <li class="h">1d90</li>
+    <li class="symb" data-code="7568" code="1d90" title="latin small letter alpha with retroflex hook">ᶐ</li>
+    <li class="symb" data-code="7569" code="1d91" title="latin small letter d with hook and tail">ᶑ</li>
+    <li class="symb" data-code="7570" code="1d92" title="latin small letter e with retroflex hook">ᶒ</li>
+    <li class="symb" data-code="7571" code="1d93" title="latin small letter open e with retroflex hook">ᶓ</li>
+    <li class="symb" data-code="7572" code="1d94" title="latin small letter reversed open e with retroflex hook">ᶔ</li>
+    <li class="symb" data-code="7573" code="1d95" title="latin small letter schwa with retroflex hook">ᶕ</li>
+    <li class="symb" data-code="7574" code="1d96" title="latin small letter i with retroflex hook">ᶖ</li>
+    <li class="symb" data-code="7575" code="1d97" title="latin small letter open o with retroflex hook">ᶗ</li>
+    <li class="symb" data-code="7576" code="1d98" title="latin small letter esh with retroflex hook">ᶘ</li>
+    <li class="symb" data-code="7577" code="1d99" title="latin small letter u with retroflex hook">ᶙ</li>
+    <li class="symb" data-code="7578" code="1d9a" title="latin small letter ezh with retroflex hook">ᶚ</li>
+    <li class="symb" data-code="7579" code="1d9b" title="modifier letter small turned alpha">ᶛ</li>
+    <li class="symb" data-code="7580" code="1d9c" title="modifier letter small c">ᶜ</li>
+    <li class="symb" data-code="7581" code="1d9d" title="modifier letter small c with curl">ᶝ</li>
+    <li class="symb" data-code="7582" code="1d9e" title="modifier letter small eth">ᶞ</li>
+    <li class="symb" data-code="7583" code="1d9f" title="modifier letter small reversed open e">ᶟ</li>
+    <li class="h">1da0</li>
+    <li class="symb" data-code="7584" code="1da0" title="modifier letter small f">ᶠ</li>
+    <li class="symb" data-code="7585" code="1da1" title="modifier letter small dotless j with stroke">ᶡ</li>
+    <li class="symb" data-code="7586" code="1da2" title="modifier letter small script g">ᶢ</li>
+    <li class="symb" data-code="7587" code="1da3" title="modifier letter small turned h">ᶣ</li>
+    <li class="symb" data-code="7588" code="1da4" title="modifier letter small i with stroke">ᶤ</li>
+    <li class="symb" data-code="7589" code="1da5" title="modifier letter small iota">ᶥ</li>
+    <li class="symb" data-code="7590" code="1da6" title="modifier letter small capital i">ᶦ</li>
+    <li class="symb" data-code="7591" code="1da7" title="modifier letter small capital i with stroke">ᶧ</li>
+    <li class="symb" data-code="7592" code="1da8" title="modifier letter small j with crossed-tail">ᶨ</li>
+    <li class="symb" data-code="7593" code="1da9" title="modifier letter small l with retroflex hook">ᶩ</li>
+    <li class="symb" data-code="7594" code="1daa" title="modifier letter small l with palatal hook">ᶪ</li>
+    <li class="symb" data-code="7595" code="1dab" title="modifier letter small capital l">ᶫ</li>
+    <li class="symb" data-code="7596" code="1dac" title="modifier letter small m with hook">ᶬ</li>
+    <li class="symb" data-code="7597" code="1dad" title="modifier letter small turned m with long leg">ᶭ</li>
+    <li class="symb" data-code="7598" code="1dae" title="modifier letter small n with left hook">ᶮ</li>
+    <li class="symb" data-code="7599" code="1daf" title="modifier letter small n with retroflex hook">ᶯ</li>
+    <li class="h">1db0</li>
+    <li class="symb" data-code="7600" code="1db0" title="modifier letter small capital n">ᶰ</li>
+    <li class="symb" data-code="7601" code="1db1" title="modifier letter small barred o">ᶱ</li>
+    <li class="symb" data-code="7602" code="1db2" title="modifier letter small phi">ᶲ</li>
+    <li class="symb" data-code="7603" code="1db3" title="modifier letter small s with hook">ᶳ</li>
+    <li class="symb" data-code="7604" code="1db4" title="modifier letter small esh">ᶴ</li>
+    <li class="symb" data-code="7605" code="1db5" title="modifier letter small t with palatal hook">ᶵ</li>
+    <li class="symb" data-code="7606" code="1db6" title="modifier letter small u bar">ᶶ</li>
+    <li class="symb" data-code="7607" code="1db7" title="modifier letter small upsilon">ᶷ</li>
+    <li class="symb" data-code="7608" code="1db8" title="modifier letter small capital u">ᶸ</li>
+    <li class="symb" data-code="7609" code="1db9" title="modifier letter small v with hook">ᶹ</li>
+    <li class="symb" data-code="7610" code="1dba" title="modifier letter small turned v">ᶺ</li>
+    <li class="symb" data-code="7611" code="1dbb" title="modifier letter small z">ᶻ</li>
+    <li class="symb" data-code="7612" code="1dbc" title="modifier letter small z with retroflex hook">ᶼ</li>
+    <li class="symb" data-code="7613" code="1dbd" title="modifier letter small z with curl">ᶽ</li>
+    <li class="symb" data-code="7614" code="1dbe" title="modifier letter small ezh">ᶾ</li>
+    <li class="symb" data-code="7615" code="1dbf" title="modifier letter small theta">ᶿ</li>
+  </ul>
+</root>

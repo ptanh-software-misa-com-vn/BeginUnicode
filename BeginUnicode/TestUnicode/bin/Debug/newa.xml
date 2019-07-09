@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">11400</li>
+    <li class="symb" data-code="70656" code="11400" title="newa letter a">𑐀</li>
+    <li class="symb" data-code="70657" code="11401" title="newa letter aa">𑐁</li>
+    <li class="symb" data-code="70658" code="11402" title="newa letter i">𑐂</li>
+    <li class="symb" data-code="70659" code="11403" title="newa letter ii">𑐃</li>
+    <li class="symb" data-code="70660" code="11404" title="newa letter u">𑐄</li>
+    <li class="symb" data-code="70661" code="11405" title="newa letter uu">𑐅</li>
+    <li class="symb" data-code="70662" code="11406" title="newa letter vocalic r">𑐆</li>
+    <li class="symb" data-code="70663" code="11407" title="newa letter vocalic rr">𑐇</li>
+    <li class="symb" data-code="70664" code="11408" title="newa letter vocalic l">𑐈</li>
+    <li class="symb" data-code="70665" code="11409" title="newa letter vocalic ll">𑐉</li>
+    <li class="symb" data-code="70666" code="1140a" title="newa letter e">𑐊</li>
+    <li class="symb" data-code="70667" code="1140b" title="newa letter ai">𑐋</li>
+    <li class="symb" data-code="70668" code="1140c" title="newa letter o">𑐌</li>
+    <li class="symb" data-code="70669" code="1140d" title="newa letter au">𑐍</li>
+    <li class="symb" data-code="70670" code="1140e" title="newa letter ka">𑐎</li>
+    <li class="symb" data-code="70671" code="1140f" title="newa letter kha">𑐏</li>
+    <li class="h">11410</li>
+    <li class="symb" data-code="70672" code="11410" title="newa letter ga">𑐐</li>
+    <li class="symb" data-code="70673" code="11411" title="newa letter gha">𑐑</li>
+    <li class="symb" data-code="70674" code="11412" title="newa letter nga">𑐒</li>
+    <li class="symb" data-code="70675" code="11413" title="newa letter ngha">𑐓</li>
+    <li class="symb" data-code="70676" code="11414" title="newa letter ca">𑐔</li>
+    <li class="symb" data-code="70677" code="11415" title="newa letter cha">𑐕</li>
+    <li class="symb" data-code="70678" code="11416" title="newa letter ja">𑐖</li>
+    <li class="symb" data-code="70679" code="11417" title="newa letter jha">𑐗</li>
+    <li class="symb" data-code="70680" code="11418" title="newa letter nya">𑐘</li>
+    <li class="symb" data-code="70681" code="11419" title="newa letter nyha">𑐙</li>
+    <li class="symb" data-code="70682" code="1141a" title="newa letter tta">𑐚</li>
+    <li class="symb" data-code="70683" code="1141b" title="newa letter ttha">𑐛</li>
+    <li class="symb" data-code="70684" code="1141c" title="newa letter dda">𑐜</li>
+    <li class="symb" data-code="70685" code="1141d" title="newa letter ddha">𑐝</li>
+    <li class="symb" data-code="70686" code="1141e" title="newa letter nna">𑐞</li>
+    <li class="symb" data-code="70687" code="1141f" title="newa letter ta">𑐟</li>
+    <li class="h">11420</li>
+    <li class="symb" data-code="70688" code="11420" title="newa letter tha">𑐠</li>
+    <li class="symb" data-code="70689" code="11421" title="newa letter da">𑐡</li>
+    <li class="symb" data-code="70690" code="11422" title="newa letter dha">𑐢</li>
+    <li class="symb" data-code="70691" code="11423" title="newa letter na">𑐣</li>
+    <li class="symb" data-code="70692" code="11424" title="newa letter nha">𑐤</li>
+    <li class="symb" data-code="70693" code="11425" title="newa letter pa">𑐥</li>
+    <li class="symb" data-code="70694" code="11426" title="newa letter pha">𑐦</li>
+    <li class="symb" data-code="70695" code="11427" title="newa letter ba">𑐧</li>
+    <li class="symb" data-code="70696" code="11428" title="newa letter bha">𑐨</li>
+    <li class="symb" data-code="70697" code="11429" title="newa letter ma">𑐩</li>
+    <li class="symb" data-code="70698" code="1142a" title="newa letter mha">𑐪</li>
+    <li class="symb" data-code="70699" code="1142b" title="newa letter ya">𑐫</li>
+    <li class="symb" data-code="70700" code="1142c" title="newa letter ra">𑐬</li>
+    <li class="symb" data-code="70701" code="1142d" title="newa letter rha">𑐭</li>
+    <li class="symb" data-code="70702" code="1142e" title="newa letter la">𑐮</li>
+    <li class="symb" data-code="70703" code="1142f" title="newa letter lha">𑐯</li>
+    <li class="h">11430</li>
+    <li class="symb" data-code="70704" code="11430" title="newa letter wa">𑐰</li>
+    <li class="symb" data-code="70705" code="11431" title="newa letter sha">𑐱</li>
+    <li class="symb" data-code="70706" code="11432" title="newa letter ssa">𑐲</li>
+    <li class="symb" data-code="70707" code="11433" title="newa letter sa">𑐳</li>
+    <li class="symb" data-code="70708" code="11434" title="newa letter ha">𑐴</li>
+    <li class="symb" data-code="70709" code="11435" title="newa vowel sign aa">𑐵</li>
+    <li class="symb" data-code="70710" code="11436" title="newa vowel sign i">𑐶</li>
+    <li class="symb" data-code="70711" code="11437" title="newa vowel sign ii">𑐷</li>
+    <li class="symb" data-code="70712" code="11438" title="newa vowel sign u">𑐸</li>
+    <li class="symb" data-code="70713" code="11439" title="newa vowel sign uu">𑐹</li>
+    <li class="symb" data-code="70714" code="1143a" title="newa vowel sign vocalic r">𑐺</li>
+    <li class="symb" data-code="70715" code="1143b" title="newa vowel sign vocalic rr">𑐻</li>
+    <li class="symb" data-code="70716" code="1143c" title="newa vowel sign vocalic l">𑐼</li>
+    <li class="symb" data-code="70717" code="1143d" title="newa vowel sign vocalic ll">𑐽</li>
+    <li class="symb" data-code="70718" code="1143e" title="newa vowel sign e">𑐾</li>
+    <li class="symb" data-code="70719" code="1143f" title="newa vowel sign ai">𑐿</li>
+    <li class="h">11440</li>
+    <li class="symb" data-code="70720" code="11440" title="newa vowel sign o">𑑀</li>
+    <li class="symb" data-code="70721" code="11441" title="newa vowel sign au">𑑁</li>
+    <li class="symb" data-code="70722" code="11442" title="newa sign virama">𑑂</li>
+    <li class="symb" data-code="70723" code="11443" title="newa sign candrabindu">𑑃</li>
+    <li class="symb" data-code="70724" code="11444" title="newa sign anusvara">𑑄</li>
+    <li class="symb" data-code="70725" code="11445" title="newa sign visarga">𑑅</li>
+    <li class="symb" data-code="70726" code="11446" title="newa sign nukta">𑑆</li>
+    <li class="symb" data-code="70727" code="11447" title="newa sign avagraha">𑑇</li>
+    <li class="symb" data-code="70728" code="11448" title="newa sign final anusvara">𑑈</li>
+    <li class="symb" data-code="70729" code="11449" title="newa om">𑑉</li>
+    <li class="symb" data-code="70730" code="1144a" title="newa siddhi">𑑊</li>
+    <li class="symb" data-code="70731" code="1144b" title="newa danda">𑑋</li>
+    <li class="symb" data-code="70732" code="1144c" title="newa double danda">𑑌</li>
+    <li class="symb" data-code="70733" code="1144d" title="newa comma">𑑍</li>
+    <li class="symb" data-code="70734" code="1144e" title="newa gap filler">𑑎</li>
+    <li class="symb" data-code="70735" code="1144f" title="newa abbreviation sign">𑑏</li>
+    <li class="h">11450</li>
+    <li class="symb" data-code="70736" code="11450" title="newa digit zero">𑑐</li>
+    <li class="symb" data-code="70737" code="11451" title="newa digit one">𑑑</li>
+    <li class="symb" data-code="70738" code="11452" title="newa digit two">𑑒</li>
+    <li class="symb" data-code="70739" code="11453" title="newa digit three">𑑓</li>
+    <li class="symb" data-code="70740" code="11454" title="newa digit four">𑑔</li>
+    <li class="symb" data-code="70741" code="11455" title="newa digit five">𑑕</li>
+    <li class="symb" data-code="70742" code="11456" title="newa digit six">𑑖</li>
+    <li class="symb" data-code="70743" code="11457" title="newa digit seven">𑑗</li>
+    <li class="symb" data-code="70744" code="11458" title="newa digit eight">𑑘</li>
+    <li class="symb" data-code="70745" code="11459" title="newa digit nine">𑑙</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70747" code="1145b" title="newa placeholder mark">𑑛</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="70749" code="1145d" title="newa insertion sign">𑑝</li>
+    <li class="symb" data-code="70750" code="1145e" title="newa sandhi mark">𑑞</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">11460</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">11470</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

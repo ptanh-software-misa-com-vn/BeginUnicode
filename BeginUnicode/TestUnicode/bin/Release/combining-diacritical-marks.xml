@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0300</li>
+    <li class="symb" data-code="768" code="0300" title="combining grave accent">̀</li>
+    <li class="symb" data-code="769" code="0301" title="combining acute accent">́</li>
+    <li class="symb" data-code="770" code="0302" title="combining circumflex accent">̂</li>
+    <li class="symb" data-code="771" code="0303" title="combining tilde">̃</li>
+    <li class="symb" data-code="772" code="0304" title="combining macron">̄</li>
+    <li class="symb" data-code="773" code="0305" title="combining overline">̅</li>
+    <li class="symb" data-code="774" code="0306" title="combining breve">̆</li>
+    <li class="symb" data-code="775" code="0307" title="combining dot above">̇</li>
+    <li class="symb" data-code="776" code="0308" title="combining diaeresis">̈</li>
+    <li class="symb" data-code="777" code="0309" title="combining hook above">̉</li>
+    <li class="symb" data-code="778" code="030a" title="combining ring above">̊</li>
+    <li class="symb" data-code="779" code="030b" title="combining double acute accent">̋</li>
+    <li class="symb" data-code="780" code="030c" title="combining caron">̌</li>
+    <li class="symb" data-code="781" code="030d" title="combining vertical line above">̍</li>
+    <li class="symb" data-code="782" code="030e" title="combining double vertical line above">̎</li>
+    <li class="symb" data-code="783" code="030f" title="combining double grave accent">̏</li>
+    <li class="h">0310</li>
+    <li class="symb" data-code="784" code="0310" title="combining candrabindu">̐</li>
+    <li class="symb" data-code="785" code="0311" title="combining inverted breve">̑</li>
+    <li class="symb" data-code="786" code="0312" title="combining turned comma above">̒</li>
+    <li class="symb" data-code="787" code="0313" title="combining comma above">̓</li>
+    <li class="symb" data-code="788" code="0314" title="combining reversed comma above">̔</li>
+    <li class="symb" data-code="789" code="0315" title="combining comma above right">̕</li>
+    <li class="symb" data-code="790" code="0316" title="combining grave accent below">̖</li>
+    <li class="symb" data-code="791" code="0317" title="combining acute accent below">̗</li>
+    <li class="symb" data-code="792" code="0318" title="combining left tack below">̘</li>
+    <li class="symb" data-code="793" code="0319" title="combining right tack below">̙</li>
+    <li class="symb" data-code="794" code="031a" title="combining left angle above">̚</li>
+    <li class="symb" data-code="795" code="031b" title="combining horn">̛</li>
+    <li class="symb" data-code="796" code="031c" title="combining left half ring below">̜</li>
+    <li class="symb" data-code="797" code="031d" title="combining up tack below">̝</li>
+    <li class="symb" data-code="798" code="031e" title="combining down tack below">̞</li>
+    <li class="symb" data-code="799" code="031f" title="combining plus sign below">̟</li>
+    <li class="h">0320</li>
+    <li class="symb" data-code="800" code="0320" title="combining minus sign below">̠</li>
+    <li class="symb" data-code="801" code="0321" title="combining palatalized hook below">̡</li>
+    <li class="symb" data-code="802" code="0322" title="combining retroflex hook below">̢</li>
+    <li class="symb" data-code="803" code="0323" title="combining dot below">̣</li>
+    <li class="symb" data-code="804" code="0324" title="combining diaeresis below">̤</li>
+    <li class="symb" data-code="805" code="0325" title="combining ring below">̥</li>
+    <li class="symb" data-code="806" code="0326" title="combining comma below">̦</li>
+    <li class="symb" data-code="807" code="0327" title="combining cedilla">̧</li>
+    <li class="symb" data-code="808" code="0328" title="combining ogonek">̨</li>
+    <li class="symb" data-code="809" code="0329" title="combining vertical line below">̩</li>
+    <li class="symb" data-code="810" code="032a" title="combining bridge below">̪</li>
+    <li class="symb" data-code="811" code="032b" title="combining inverted double arch below">̫</li>
+    <li class="symb" data-code="812" code="032c" title="combining caron below">̬</li>
+    <li class="symb" data-code="813" code="032d" title="combining circumflex accent below">̭</li>
+    <li class="symb" data-code="814" code="032e" title="combining breve below">̮</li>
+    <li class="symb" data-code="815" code="032f" title="combining inverted breve below">̯</li>
+    <li class="h">0330</li>
+    <li class="symb" data-code="816" code="0330" title="combining tilde below">̰</li>
+    <li class="symb" data-code="817" code="0331" title="combining macron below">̱</li>
+    <li class="symb" data-code="818" code="0332" title="combining low line">̲</li>
+    <li class="symb" data-code="819" code="0333" title="combining double low line">̳</li>
+    <li class="symb" data-code="820" code="0334" title="combining tilde overlay">̴</li>
+    <li class="symb" data-code="821" code="0335" title="combining short stroke overlay">̵</li>
+    <li class="symb" data-code="822" code="0336" title="combining long stroke overlay">̶</li>
+    <li class="symb" data-code="823" code="0337" title="combining short solidus overlay">̷</li>
+    <li class="symb" data-code="824" code="0338" title="combining long solidus overlay"≯</li>
+    <li class="symb" data-code="825" code="0339" title="combining right half ring below">̹</li>
+    <li class="symb" data-code="826" code="033a" title="combining inverted bridge below">̺</li>
+    <li class="symb" data-code="827" code="033b" title="combining square below">̻</li>
+    <li class="symb" data-code="828" code="033c" title="combining seagull below">̼</li>
+    <li class="symb" data-code="829" code="033d" title="combining x above">̽</li>
+    <li class="symb" data-code="830" code="033e" title="combining vertical tilde">̾</li>
+    <li class="symb" data-code="831" code="033f" title="combining double overline">̿</li>
+    <li class="h">0340</li>
+    <li class="symb" data-code="832" code="0340" title="combining grave tone mark">̀</li>
+    <li class="symb" data-code="833" code="0341" title="combining acute tone mark">́</li>
+    <li class="symb" data-code="834" code="0342" title="combining greek perispomeni">͂</li>
+    <li class="symb" data-code="835" code="0343" title="combining greek koronis">̓</li>
+    <li class="symb" data-code="836" code="0344" title="combining greek dialytika tonos">̈́</li>
+    <li class="symb" data-code="837" code="0345" title="combining greek ypogegrammeni">ͅ</li>
+    <li class="symb" data-code="838" code="0346" title="combining bridge above">͆</li>
+    <li class="symb" data-code="839" code="0347" title="combining equals sign below">͇</li>
+    <li class="symb" data-code="840" code="0348" title="combining double vertical line below">͈</li>
+    <li class="symb" data-code="841" code="0349" title="combining left angle below">͉</li>
+    <li class="symb" data-code="842" code="034a" title="combining not tilde above">͊</li>
+    <li class="symb" data-code="843" code="034b" title="combining homothetic above">͋</li>
+    <li class="symb" data-code="844" code="034c" title="combining almost equal to above">͌</li>
+    <li class="symb" data-code="845" code="034d" title="combining left right arrow below">͍</li>
+    <li class="symb" data-code="846" code="034e" title="combining upwards arrow below">͎</li>
+    <li class="symb" data-code="847" code="034f" title="combining grapheme joiner">͏</li>
+    <li class="h">0350</li>
+    <li class="symb" data-code="848" code="0350" title="combining right arrowhead above">͐</li>
+    <li class="symb" data-code="849" code="0351" title="combining left half ring above">͑</li>
+    <li class="symb" data-code="850" code="0352" title="combining fermata">͒</li>
+    <li class="symb" data-code="851" code="0353" title="combining x below">͓</li>
+    <li class="symb" data-code="852" code="0354" title="combining left arrowhead below">͔</li>
+    <li class="symb" data-code="853" code="0355" title="combining right arrowhead below">͕</li>
+    <li class="symb" data-code="854" code="0356" title="combining right arrowhead and up arrowhead below">͖</li>
+    <li class="symb" data-code="855" code="0357" title="combining right half ring above">͗</li>
+    <li class="symb" data-code="856" code="0358" title="combining dot above right">͘</li>
+    <li class="symb" data-code="857" code="0359" title="combining asterisk below">͙</li>
+    <li class="symb" data-code="858" code="035a" title="combining double ring below">͚</li>
+    <li class="symb" data-code="859" code="035b" title="combining zigzag above">͛</li>
+    <li class="symb" data-code="860" code="035c" title="combining double breve below">͜</li>
+    <li class="symb" data-code="861" code="035d" title="combining double breve">͝</li>
+    <li class="symb" data-code="862" code="035e" title="combining double macron">͞</li>
+    <li class="symb" data-code="863" code="035f" title="combining double macron below">͟</li>
+    <li class="h">0360</li>
+    <li class="symb" data-code="864" code="0360" title="combining double tilde">͠</li>
+    <li class="symb" data-code="865" code="0361" title="combining double inverted breve">͡</li>
+    <li class="symb" data-code="866" code="0362" title="combining double rightwards arrow below">͢</li>
+    <li class="symb" data-code="867" code="0363" title="combining latin small letter a">ͣ</li>
+    <li class="symb" data-code="868" code="0364" title="combining latin small letter e">ͤ</li>
+    <li class="symb" data-code="869" code="0365" title="combining latin small letter i">ͥ</li>
+    <li class="symb" data-code="870" code="0366" title="combining latin small letter o">ͦ</li>
+    <li class="symb" data-code="871" code="0367" title="combining latin small letter u">ͧ</li>
+    <li class="symb" data-code="872" code="0368" title="combining latin small letter c">ͨ</li>
+    <li class="symb" data-code="873" code="0369" title="combining latin small letter d">ͩ</li>
+    <li class="symb" data-code="874" code="036a" title="combining latin small letter h">ͪ</li>
+    <li class="symb" data-code="875" code="036b" title="combining latin small letter m">ͫ</li>
+    <li class="symb" data-code="876" code="036c" title="combining latin small letter r">ͬ</li>
+    <li class="symb" data-code="877" code="036d" title="combining latin small letter t">ͭ</li>
+    <li class="symb" data-code="878" code="036e" title="combining latin small letter v">ͮ</li>
+    <li class="symb" data-code="879" code="036f" title="combining latin small letter x">ͯ</li>
+  </ul>
+</root>

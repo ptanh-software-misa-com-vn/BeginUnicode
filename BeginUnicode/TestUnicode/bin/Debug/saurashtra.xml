@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">a880</li>
+    <li class="symb" data-code="43136" code="a880" title="saurashtra sign anusvara">ꢀ</li>
+    <li class="symb" data-code="43137" code="a881" title="saurashtra sign visarga">ꢁ</li>
+    <li class="symb" data-code="43138" code="a882" title="saurashtra letter a">ꢂ</li>
+    <li class="symb" data-code="43139" code="a883" title="saurashtra letter aa">ꢃ</li>
+    <li class="symb" data-code="43140" code="a884" title="saurashtra letter i">ꢄ</li>
+    <li class="symb" data-code="43141" code="a885" title="saurashtra letter ii">ꢅ</li>
+    <li class="symb" data-code="43142" code="a886" title="saurashtra letter u">ꢆ</li>
+    <li class="symb" data-code="43143" code="a887" title="saurashtra letter uu">ꢇ</li>
+    <li class="symb" data-code="43144" code="a888" title="saurashtra letter vocalic r">ꢈ</li>
+    <li class="symb" data-code="43145" code="a889" title="saurashtra letter vocalic rr">ꢉ</li>
+    <li class="symb" data-code="43146" code="a88a" title="saurashtra letter vocalic l">ꢊ</li>
+    <li class="symb" data-code="43147" code="a88b" title="saurashtra letter vocalic ll">ꢋ</li>
+    <li class="symb" data-code="43148" code="a88c" title="saurashtra letter e">ꢌ</li>
+    <li class="symb" data-code="43149" code="a88d" title="saurashtra letter ee">ꢍ</li>
+    <li class="symb" data-code="43150" code="a88e" title="saurashtra letter ai">ꢎ</li>
+    <li class="symb" data-code="43151" code="a88f" title="saurashtra letter o">ꢏ</li>
+    <li class="h">a890</li>
+    <li class="symb" data-code="43152" code="a890" title="saurashtra letter oo">ꢐ</li>
+    <li class="symb" data-code="43153" code="a891" title="saurashtra letter au">ꢑ</li>
+    <li class="symb" data-code="43154" code="a892" title="saurashtra letter ka">ꢒ</li>
+    <li class="symb" data-code="43155" code="a893" title="saurashtra letter kha">ꢓ</li>
+    <li class="symb" data-code="43156" code="a894" title="saurashtra letter ga">ꢔ</li>
+    <li class="symb" data-code="43157" code="a895" title="saurashtra letter gha">ꢕ</li>
+    <li class="symb" data-code="43158" code="a896" title="saurashtra letter nga">ꢖ</li>
+    <li class="symb" data-code="43159" code="a897" title="saurashtra letter ca">ꢗ</li>
+    <li class="symb" data-code="43160" code="a898" title="saurashtra letter cha">ꢘ</li>
+    <li class="symb" data-code="43161" code="a899" title="saurashtra letter ja">ꢙ</li>
+    <li class="symb" data-code="43162" code="a89a" title="saurashtra letter jha">ꢚ</li>
+    <li class="symb" data-code="43163" code="a89b" title="saurashtra letter nya">ꢛ</li>
+    <li class="symb" data-code="43164" code="a89c" title="saurashtra letter tta">ꢜ</li>
+    <li class="symb" data-code="43165" code="a89d" title="saurashtra letter ttha">ꢝ</li>
+    <li class="symb" data-code="43166" code="a89e" title="saurashtra letter dda">ꢞ</li>
+    <li class="symb" data-code="43167" code="a89f" title="saurashtra letter ddha">ꢟ</li>
+    <li class="h">a8a0</li>
+    <li class="symb" data-code="43168" code="a8a0" title="saurashtra letter nna">ꢠ</li>
+    <li class="symb" data-code="43169" code="a8a1" title="saurashtra letter ta">ꢡ</li>
+    <li class="symb" data-code="43170" code="a8a2" title="saurashtra letter tha">ꢢ</li>
+    <li class="symb" data-code="43171" code="a8a3" title="saurashtra letter da">ꢣ</li>
+    <li class="symb" data-code="43172" code="a8a4" title="saurashtra letter dha">ꢤ</li>
+    <li class="symb" data-code="43173" code="a8a5" title="saurashtra letter na">ꢥ</li>
+    <li class="symb" data-code="43174" code="a8a6" title="saurashtra letter pa">ꢦ</li>
+    <li class="symb" data-code="43175" code="a8a7" title="saurashtra letter pha">ꢧ</li>
+    <li class="symb" data-code="43176" code="a8a8" title="saurashtra letter ba">ꢨ</li>
+    <li class="symb" data-code="43177" code="a8a9" title="saurashtra letter bha">ꢩ</li>
+    <li class="symb" data-code="43178" code="a8aa" title="saurashtra letter ma">ꢪ</li>
+    <li class="symb" data-code="43179" code="a8ab" title="saurashtra letter ya">ꢫ</li>
+    <li class="symb" data-code="43180" code="a8ac" title="saurashtra letter ra">ꢬ</li>
+    <li class="symb" data-code="43181" code="a8ad" title="saurashtra letter la">ꢭ</li>
+    <li class="symb" data-code="43182" code="a8ae" title="saurashtra letter va">ꢮ</li>
+    <li class="symb" data-code="43183" code="a8af" title="saurashtra letter sha">ꢯ</li>
+    <li class="h">a8b0</li>
+    <li class="symb" data-code="43184" code="a8b0" title="saurashtra letter ssa">ꢰ</li>
+    <li class="symb" data-code="43185" code="a8b1" title="saurashtra letter sa">ꢱ</li>
+    <li class="symb" data-code="43186" code="a8b2" title="saurashtra letter ha">ꢲ</li>
+    <li class="symb" data-code="43187" code="a8b3" title="saurashtra letter lla">ꢳ</li>
+    <li class="symb" data-code="43188" code="a8b4" title="saurashtra consonant sign haaru">ꢴ</li>
+    <li class="symb" data-code="43189" code="a8b5" title="saurashtra vowel sign aa">ꢵ</li>
+    <li class="symb" data-code="43190" code="a8b6" title="saurashtra vowel sign i">ꢶ</li>
+    <li class="symb" data-code="43191" code="a8b7" title="saurashtra vowel sign ii">ꢷ</li>
+    <li class="symb" data-code="43192" code="a8b8" title="saurashtra vowel sign u">ꢸ</li>
+    <li class="symb" data-code="43193" code="a8b9" title="saurashtra vowel sign uu">ꢹ</li>
+    <li class="symb" data-code="43194" code="a8ba" title="saurashtra vowel sign vocalic r">ꢺ</li>
+    <li class="symb" data-code="43195" code="a8bb" title="saurashtra vowel sign vocalic rr">ꢻ</li>
+    <li class="symb" data-code="43196" code="a8bc" title="saurashtra vowel sign vocalic l">ꢼ</li>
+    <li class="symb" data-code="43197" code="a8bd" title="saurashtra vowel sign vocalic ll">ꢽ</li>
+    <li class="symb" data-code="43198" code="a8be" title="saurashtra vowel sign e">ꢾ</li>
+    <li class="symb" data-code="43199" code="a8bf" title="saurashtra vowel sign ee">ꢿ</li>
+    <li class="h">a8c0</li>
+    <li class="symb" data-code="43200" code="a8c0" title="saurashtra vowel sign ai">ꣀ</li>
+    <li class="symb" data-code="43201" code="a8c1" title="saurashtra vowel sign o">ꣁ</li>
+    <li class="symb" data-code="43202" code="a8c2" title="saurashtra vowel sign oo">ꣂ</li>
+    <li class="symb" data-code="43203" code="a8c3" title="saurashtra vowel sign au">ꣃ</li>
+    <li class="symb" data-code="43204" code="a8c4" title="saurashtra sign virama">꣄</li>
+    <li class="symb" data-code="43205" code="a8c5" title="saurashtra sign candrabindu">ꣅ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="43214" code="a8ce" title="saurashtra danda">꣎</li>
+    <li class="symb" data-code="43215" code="a8cf" title="saurashtra double danda">꣏</li>
+    <li class="h">a8d0</li>
+    <li class="symb" data-code="43216" code="a8d0" title="saurashtra digit zero">꣐</li>
+    <li class="symb" data-code="43217" code="a8d1" title="saurashtra digit one">꣑</li>
+    <li class="symb" data-code="43218" code="a8d2" title="saurashtra digit two">꣒</li>
+    <li class="symb" data-code="43219" code="a8d3" title="saurashtra digit three">꣓</li>
+    <li class="symb" data-code="43220" code="a8d4" title="saurashtra digit four">꣔</li>
+    <li class="symb" data-code="43221" code="a8d5" title="saurashtra digit five">꣕</li>
+    <li class="symb" data-code="43222" code="a8d6" title="saurashtra digit six">꣖</li>
+    <li class="symb" data-code="43223" code="a8d7" title="saurashtra digit seven">꣗</li>
+    <li class="symb" data-code="43224" code="a8d8" title="saurashtra digit eight">꣘</li>
+    <li class="symb" data-code="43225" code="a8d9" title="saurashtra digit nine">꣙</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

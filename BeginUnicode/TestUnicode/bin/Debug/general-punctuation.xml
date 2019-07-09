@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2000</li>
+    <li class="symb" data-code="8192" code="2000" title="en quad"> </li>
+    <li class="symb" data-code="8193" code="2001" title="em quad"> </li>
+    <li class="symb" data-code="8194" code="2002" title="en space"> </li>
+    <li class="symb" data-code="8195" code="2003" title="em space"> </li>
+    <li class="symb" data-code="8196" code="2004" title="three-per-em space"> </li>
+    <li class="symb" data-code="8197" code="2005" title="four-per-em space"> </li>
+    <li class="symb" data-code="8198" code="2006" title="six-per-em space"> </li>
+    <li class="symb" data-code="8199" code="2007" title="figure space"> </li>
+    <li class="symb" data-code="8200" code="2008" title="punctuation space"> </li>
+    <li class="symb" data-code="8201" code="2009" title="thin space"> </li>
+    <li class="symb" data-code="8202" code="200a" title="hair space"> </li>
+    <li class="symb" data-code="8203" code="200b" title="zero width space">​</li>
+    <li class="symb" data-code="8204" code="200c" title="zero width non-joiner">‌</li>
+    <li class="symb" data-code="8205" code="200d" title="zero width joiner">‍</li>
+    <li class="symb" data-code="8206" code="200e" title="left-to-right mark">‎</li>
+    <li class="symb" data-code="8207" code="200f" title="right-to-left mark">‏</li>
+    <li class="h">2010</li>
+    <li class="symb" data-code="8208" code="2010" title="hyphen">‐</li>
+    <li class="symb" data-code="8209" code="2011" title="non-breaking hyphen">‑</li>
+    <li class="symb" data-code="8210" code="2012" title="figure dash">‒</li>
+    <li class="symb" data-code="8211" code="2013" title="en dash">–</li>
+    <li class="symb" data-code="8212" code="2014" title="em dash">—</li>
+    <li class="symb" data-code="8213" code="2015" title="horizontal bar">―</li>
+    <li class="symb" data-code="8214" code="2016" title="double vertical line">‖</li>
+    <li class="symb" data-code="8215" code="2017" title="double low line">‗</li>
+    <li class="symb" data-code="8216" code="2018" title="left single quotation mark">‘</li>
+    <li class="symb" data-code="8217" code="2019" title="right single quotation mark">’</li>
+    <li class="symb" data-code="8218" code="201a" title="single low-9 quotation mark">‚</li>
+    <li class="symb" data-code="8219" code="201b" title="single high-reversed-9 quotation mark">‛</li>
+    <li class="symb" data-code="8220" code="201c" title="left double quotation mark">“</li>
+    <li class="symb" data-code="8221" code="201d" title="right double quotation mark">”</li>
+    <li class="symb" data-code="8222" code="201e" title="double low-9 quotation mark">„</li>
+    <li class="symb" data-code="8223" code="201f" title="double high-reversed-9 quotation mark">‟</li>
+    <li class="h">2020</li>
+    <li class="symb" data-code="8224" code="2020" title="dagger">†</li>
+    <li class="symb" data-code="8225" code="2021" title="double dagger">‡</li>
+    <li class="symb" data-code="8226" code="2022" title="bullet">•</li>
+    <li class="symb" data-code="8227" code="2023" title="triangular bullet">‣</li>
+    <li class="symb" data-code="8228" code="2024" title="one dot leader">․</li>
+    <li class="symb" data-code="8229" code="2025" title="two dot leader">‥</li>
+    <li class="symb" data-code="8230" code="2026" title="horizontal ellipsis">…</li>
+    <li class="symb" data-code="8231" code="2027" title="hyphenation point">‧</li>
+    <li class="symb" data-code="8232" code="2028" title="line separator"> </li>
+    <li class="symb" data-code="8233" code="2029" title="paragraph separator"> </li>
+    <li class="symb" data-code="8234" code="202a" title="left-to-right embedding">‪</li>
+    <li class="symb" data-code="8235" code="202b" title="right-to-left embedding">‫</li>
+    <li class="symb" data-code="8236" code="202c" title="pop directional formatting">‬</li>
+    <li class="symb" data-code="8237" code="202d" title="left-to-right override">‭</li>
+    <li class="symb" data-code="8238" code="202e" title="right-to-left override">‮</li>
+    <li class="symb" data-code="8239" code="202f" title="narrow no-break space"> </li>
+    <li class="h">2030</li>
+    <li class="symb" data-code="8240" code="2030" title="per mille sign">‰</li>
+    <li class="symb" data-code="8241" code="2031" title="per ten thousand sign">‱</li>
+    <li class="symb" data-code="8242" code="2032" title="prime">′</li>
+    <li class="symb" data-code="8243" code="2033" title="double prime">″</li>
+    <li class="symb" data-code="8244" code="2034" title="triple prime">‴</li>
+    <li class="symb" data-code="8245" code="2035" title="reversed prime">‵</li>
+    <li class="symb" data-code="8246" code="2036" title="reversed double prime">‶</li>
+    <li class="symb" data-code="8247" code="2037" title="reversed triple prime">‷</li>
+    <li class="symb" data-code="8248" code="2038" title="caret">‸</li>
+    <li class="symb" data-code="8249" code="2039" title="single left-pointing angle quotation mark">‹</li>
+    <li class="symb" data-code="8250" code="203a" title="single right-pointing angle quotation mark">›</li>
+    <li class="symb" data-code="8251" code="203b" title="reference mark">※</li>
+    <li class="symb" data-code="8252" code="203c" title="double exclamation mark">‼</li>
+    <li class="symb" data-code="8253" code="203d" title="interrobang">‽</li>
+    <li class="symb" data-code="8254" code="203e" title="overline">‾</li>
+    <li class="symb" data-code="8255" code="203f" title="undertie">‿</li>
+    <li class="h">2040</li>
+    <li class="symb" data-code="8256" code="2040" title="character tie">⁀</li>
+    <li class="symb" data-code="8257" code="2041" title="caret insertion point">⁁</li>
+    <li class="symb" data-code="8258" code="2042" title="asterism">⁂</li>
+    <li class="symb" data-code="8259" code="2043" title="hyphen bullet">⁃</li>
+    <li class="symb" data-code="8260" code="2044" title="fraction slash">⁄</li>
+    <li class="symb" data-code="8261" code="2045" title="left square bracket with quill">⁅</li>
+    <li class="symb" data-code="8262" code="2046" title="right square bracket with quill">⁆</li>
+    <li class="symb" data-code="8263" code="2047" title="double question mark">⁇</li>
+    <li class="symb" data-code="8264" code="2048" title="question exclamation mark">⁈</li>
+    <li class="symb" data-code="8265" code="2049" title="exclamation question mark">⁉</li>
+    <li class="symb" data-code="8266" code="204a" title="tironian sign et">⁊</li>
+    <li class="symb" data-code="8267" code="204b" title="reversed pilcrow sign">⁋</li>
+    <li class="symb" data-code="8268" code="204c" title="black leftwards bullet">⁌</li>
+    <li class="symb" data-code="8269" code="204d" title="black rightwards bullet">⁍</li>
+    <li class="symb" data-code="8270" code="204e" title="low asterisk">⁎</li>
+    <li class="symb" data-code="8271" code="204f" title="reversed semicolon">⁏</li>
+    <li class="h">2050</li>
+    <li class="symb" data-code="8272" code="2050" title="close up">⁐</li>
+    <li class="symb" data-code="8273" code="2051" title="two asterisks aligned vertically">⁑</li>
+    <li class="symb" data-code="8274" code="2052" title="commercial minus sign">⁒</li>
+    <li class="symb" data-code="8275" code="2053" title="swung dash">⁓</li>
+    <li class="symb" data-code="8276" code="2054" title="inverted undertie">⁔</li>
+    <li class="symb" data-code="8277" code="2055" title="flower punctuation mark">⁕</li>
+    <li class="symb" data-code="8278" code="2056" title="three dot punctuation">⁖</li>
+    <li class="symb" data-code="8279" code="2057" title="quadruple prime">⁗</li>
+    <li class="symb" data-code="8280" code="2058" title="four dot punctuation">⁘</li>
+    <li class="symb" data-code="8281" code="2059" title="five dot punctuation">⁙</li>
+    <li class="symb" data-code="8282" code="205a" title="two dot punctuation">⁚</li>
+    <li class="symb" data-code="8283" code="205b" title="four dot mark">⁛</li>
+    <li class="symb" data-code="8284" code="205c" title="dotted cross">⁜</li>
+    <li class="symb" data-code="8285" code="205d" title="tricolon">⁝</li>
+    <li class="symb" data-code="8286" code="205e" title="vertical four dots">⁞</li>
+    <li class="symb" data-code="8287" code="205f" title="medium mathematical space"> </li>
+    <li class="h">2060</li>
+    <li class="symb" data-code="8288" code="2060" title="word joiner">⁠</li>
+    <li class="symb" data-code="8289" code="2061" title="function application">⁡</li>
+    <li class="symb" data-code="8290" code="2062" title="invisible times">⁢</li>
+    <li class="symb" data-code="8291" code="2063" title="invisible separator">⁣</li>
+    <li class="symb" data-code="8292" code="2064" title="invisible plus">⁤</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8294" code="2066" title="left-to-right isolate">⁦</li>
+    <li class="symb" data-code="8295" code="2067" title="right-to-left isolate">⁧</li>
+    <li class="symb" data-code="8296" code="2068" title="first strong isolate">⁨</li>
+    <li class="symb" data-code="8297" code="2069" title="pop directional isolate">⁩</li>
+    <li class="symb" data-code="8298" code="206a" title="inhibit symmetric swapping">⁪</li>
+    <li class="symb" data-code="8299" code="206b" title="activate symmetric swapping">⁫</li>
+    <li class="symb" data-code="8300" code="206c" title="inhibit arabic form shaping">⁬</li>
+    <li class="symb" data-code="8301" code="206d" title="activate arabic form shaping">⁭</li>
+    <li class="symb" data-code="8302" code="206e" title="national digit shapes">⁮</li>
+    <li class="symb" data-code="8303" code="206f" title="nominal digit shapes">⁯</li>
+  </ul>
+</root>

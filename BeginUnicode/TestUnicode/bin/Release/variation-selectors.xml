@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">fe00</li>
+    <li class="symb" data-code="65024" code="fe00" title="variation selector-1">︀</li>
+    <li class="symb" data-code="65025" code="fe01" title="variation selector-2">︁</li>
+    <li class="symb" data-code="65026" code="fe02" title="variation selector-3">︂</li>
+    <li class="symb" data-code="65027" code="fe03" title="variation selector-4">︃</li>
+    <li class="symb" data-code="65028" code="fe04" title="variation selector-5">︄</li>
+    <li class="symb" data-code="65029" code="fe05" title="variation selector-6">︅</li>
+    <li class="symb" data-code="65030" code="fe06" title="variation selector-7">︆</li>
+    <li class="symb" data-code="65031" code="fe07" title="variation selector-8">︇</li>
+    <li class="symb" data-code="65032" code="fe08" title="variation selector-9">︈</li>
+    <li class="symb" data-code="65033" code="fe09" title="variation selector-10">︉</li>
+    <li class="symb" data-code="65034" code="fe0a" title="variation selector-11">︊</li>
+    <li class="symb" data-code="65035" code="fe0b" title="variation selector-12">︋</li>
+    <li class="symb" data-code="65036" code="fe0c" title="variation selector-13">︌</li>
+    <li class="symb" data-code="65037" code="fe0d" title="variation selector-14">︍</li>
+    <li class="symb" data-code="65038" code="fe0e" title="variation selector-15">︎</li>
+    <li class="symb" data-code="65039" code="fe0f" title="variation selector-16">️</li>
+  </ul>
+</root>

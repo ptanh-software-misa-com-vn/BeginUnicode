@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2190</li>
+    <li class="symb" data-code="8592" code="2190" title="leftwards arrow">←</li>
+    <li class="symb" data-code="8593" code="2191" title="upwards arrow">↑</li>
+    <li class="symb" data-code="8594" code="2192" title="rightwards arrow">→</li>
+    <li class="symb" data-code="8595" code="2193" title="downwards arrow">↓</li>
+    <li class="symb" data-code="8596" code="2194" title="left right arrow">↔</li>
+    <li class="symb" data-code="8597" code="2195" title="up down arrow">↕</li>
+    <li class="symb" data-code="8598" code="2196" title="north west arrow">↖</li>
+    <li class="symb" data-code="8599" code="2197" title="north east arrow">↗</li>
+    <li class="symb" data-code="8600" code="2198" title="south east arrow">↘</li>
+    <li class="symb" data-code="8601" code="2199" title="south west arrow">↙</li>
+    <li class="symb" data-code="8602" code="219a" title="leftwards arrow with stroke">↚</li>
+    <li class="symb" data-code="8603" code="219b" title="rightwards arrow with stroke">↛</li>
+    <li class="symb" data-code="8604" code="219c" title="leftwards wave arrow">↜</li>
+    <li class="symb" data-code="8605" code="219d" title="rightwards wave arrow">↝</li>
+    <li class="symb" data-code="8606" code="219e" title="leftwards two headed arrow">↞</li>
+    <li class="symb" data-code="8607" code="219f" title="upwards two headed arrow">↟</li>
+    <li class="h">21a0</li>
+    <li class="symb" data-code="8608" code="21a0" title="rightwards two headed arrow">↠</li>
+    <li class="symb" data-code="8609" code="21a1" title="downwards two headed arrow">↡</li>
+    <li class="symb" data-code="8610" code="21a2" title="leftwards arrow with tail">↢</li>
+    <li class="symb" data-code="8611" code="21a3" title="rightwards arrow with tail">↣</li>
+    <li class="symb" data-code="8612" code="21a4" title="leftwards arrow from bar">↤</li>
+    <li class="symb" data-code="8613" code="21a5" title="upwards arrow from bar">↥</li>
+    <li class="symb" data-code="8614" code="21a6" title="rightwards arrow from bar">↦</li>
+    <li class="symb" data-code="8615" code="21a7" title="downwards arrow from bar">↧</li>
+    <li class="symb" data-code="8616" code="21a8" title="up down arrow with base">↨</li>
+    <li class="symb" data-code="8617" code="21a9" title="leftwards arrow with hook">↩</li>
+    <li class="symb" data-code="8618" code="21aa" title="rightwards arrow with hook">↪</li>
+    <li class="symb" data-code="8619" code="21ab" title="leftwards arrow with loop">↫</li>
+    <li class="symb" data-code="8620" code="21ac" title="rightwards arrow with loop">↬</li>
+    <li class="symb" data-code="8621" code="21ad" title="left right wave arrow">↭</li>
+    <li class="symb" data-code="8622" code="21ae" title="left right arrow with stroke">↮</li>
+    <li class="symb" data-code="8623" code="21af" title="downwards zigzag arrow">↯</li>
+    <li class="h">21b0</li>
+    <li class="symb" data-code="8624" code="21b0" title="upwards arrow with tip leftwards">↰</li>
+    <li class="symb" data-code="8625" code="21b1" title="upwards arrow with tip rightwards">↱</li>
+    <li class="symb" data-code="8626" code="21b2" title="downwards arrow with tip leftwards">↲</li>
+    <li class="symb" data-code="8627" code="21b3" title="downwards arrow with tip rightwards">↳</li>
+    <li class="symb" data-code="8628" code="21b4" title="rightwards arrow with corner downwards">↴</li>
+    <li class="symb" data-code="8629" code="21b5" title="downwards arrow with corner leftwards">↵</li>
+    <li class="symb" data-code="8630" code="21b6" title="anticlockwise top semicircle arrow">↶</li>
+    <li class="symb" data-code="8631" code="21b7" title="clockwise top semicircle arrow">↷</li>
+    <li class="symb" data-code="8632" code="21b8" title="north west arrow to long bar">↸</li>
+    <li class="symb" data-code="8633" code="21b9" title="leftwards arrow to bar over rightwards arrow to bar">↹</li>
+    <li class="symb" data-code="8634" code="21ba" title="anticlockwise open circle arrow">↺</li>
+    <li class="symb" data-code="8635" code="21bb" title="clockwise open circle arrow">↻</li>
+    <li class="symb" data-code="8636" code="21bc" title="leftwards harpoon with barb upwards">↼</li>
+    <li class="symb" data-code="8637" code="21bd" title="leftwards harpoon with barb downwards">↽</li>
+    <li class="symb" data-code="8638" code="21be" title="upwards harpoon with barb rightwards">↾</li>
+    <li class="symb" data-code="8639" code="21bf" title="upwards harpoon with barb leftwards">↿</li>
+    <li class="h">21c0</li>
+    <li class="symb" data-code="8640" code="21c0" title="rightwards harpoon with barb upwards">⇀</li>
+    <li class="symb" data-code="8641" code="21c1" title="rightwards harpoon with barb downwards">⇁</li>
+    <li class="symb" data-code="8642" code="21c2" title="downwards harpoon with barb rightwards">⇂</li>
+    <li class="symb" data-code="8643" code="21c3" title="downwards harpoon with barb leftwards">⇃</li>
+    <li class="symb" data-code="8644" code="21c4" title="rightwards arrow over leftwards arrow">⇄</li>
+    <li class="symb" data-code="8645" code="21c5" title="upwards arrow leftwards of downwards arrow">⇅</li>
+    <li class="symb" data-code="8646" code="21c6" title="leftwards arrow over rightwards arrow">⇆</li>
+    <li class="symb" data-code="8647" code="21c7" title="leftwards paired arrows">⇇</li>
+    <li class="symb" data-code="8648" code="21c8" title="upwards paired arrows">⇈</li>
+    <li class="symb" data-code="8649" code="21c9" title="rightwards paired arrows">⇉</li>
+    <li class="symb" data-code="8650" code="21ca" title="downwards paired arrows">⇊</li>
+    <li class="symb" data-code="8651" code="21cb" title="leftwards harpoon over rightwards harpoon">⇋</li>
+    <li class="symb" data-code="8652" code="21cc" title="rightwards harpoon over leftwards harpoon">⇌</li>
+    <li class="symb" data-code="8653" code="21cd" title="leftwards double arrow with stroke">⇍</li>
+    <li class="symb" data-code="8654" code="21ce" title="left right double arrow with stroke">⇎</li>
+    <li class="symb" data-code="8655" code="21cf" title="rightwards double arrow with stroke">⇏</li>
+    <li class="h">21d0</li>
+    <li class="symb" data-code="8656" code="21d0" title="leftwards double arrow">⇐</li>
+    <li class="symb" data-code="8657" code="21d1" title="upwards double arrow">⇑</li>
+    <li class="symb" data-code="8658" code="21d2" title="rightwards double arrow">⇒</li>
+    <li class="symb" data-code="8659" code="21d3" title="downwards double arrow">⇓</li>
+    <li class="symb" data-code="8660" code="21d4" title="left right double arrow">⇔</li>
+    <li class="symb" data-code="8661" code="21d5" title="up down double arrow">⇕</li>
+    <li class="symb" data-code="8662" code="21d6" title="north west double arrow">⇖</li>
+    <li class="symb" data-code="8663" code="21d7" title="north east double arrow">⇗</li>
+    <li class="symb" data-code="8664" code="21d8" title="south east double arrow">⇘</li>
+    <li class="symb" data-code="8665" code="21d9" title="south west double arrow">⇙</li>
+    <li class="symb" data-code="8666" code="21da" title="leftwards triple arrow">⇚</li>
+    <li class="symb" data-code="8667" code="21db" title="rightwards triple arrow">⇛</li>
+    <li class="symb" data-code="8668" code="21dc" title="leftwards squiggle arrow">⇜</li>
+    <li class="symb" data-code="8669" code="21dd" title="rightwards squiggle arrow">⇝</li>
+    <li class="symb" data-code="8670" code="21de" title="upwards arrow with double stroke">⇞</li>
+    <li class="symb" data-code="8671" code="21df" title="downwards arrow with double stroke">⇟</li>
+    <li class="h">21e0</li>
+    <li class="symb" data-code="8672" code="21e0" title="leftwards dashed arrow">⇠</li>
+    <li class="symb" data-code="8673" code="21e1" title="upwards dashed arrow">⇡</li>
+    <li class="symb" data-code="8674" code="21e2" title="rightwards dashed arrow">⇢</li>
+    <li class="symb" data-code="8675" code="21e3" title="downwards dashed arrow">⇣</li>
+    <li class="symb" data-code="8676" code="21e4" title="leftwards arrow to bar">⇤</li>
+    <li class="symb" data-code="8677" code="21e5" title="rightwards arrow to bar">⇥</li>
+    <li class="symb" data-code="8678" code="21e6" title="leftwards white arrow">⇦</li>
+    <li class="symb" data-code="8679" code="21e7" title="upwards white arrow">⇧</li>
+    <li class="symb" data-code="8680" code="21e8" title="rightwards white arrow">⇨</li>
+    <li class="symb" data-code="8681" code="21e9" title="downwards white arrow">⇩</li>
+    <li class="symb" data-code="8682" code="21ea" title="upwards white arrow from bar">⇪</li>
+    <li class="symb" data-code="8683" code="21eb" title="upwards white arrow on pedestal">⇫</li>
+    <li class="symb" data-code="8684" code="21ec" title="upwards white arrow on pedestal with horizontal bar">⇬</li>
+    <li class="symb" data-code="8685" code="21ed" title="upwards white arrow on pedestal with vertical bar">⇭</li>
+    <li class="symb" data-code="8686" code="21ee" title="upwards white double arrow">⇮</li>
+    <li class="symb" data-code="8687" code="21ef" title="upwards white double arrow on pedestal">⇯</li>
+    <li class="h">21f0</li>
+    <li class="symb" data-code="8688" code="21f0" title="rightwards white arrow from wall">⇰</li>
+    <li class="symb" data-code="8689" code="21f1" title="north west arrow to corner">⇱</li>
+    <li class="symb" data-code="8690" code="21f2" title="south east arrow to corner">⇲</li>
+    <li class="symb" data-code="8691" code="21f3" title="up down white arrow">⇳</li>
+    <li class="symb" data-code="8692" code="21f4" title="right arrow with small circle">⇴</li>
+    <li class="symb" data-code="8693" code="21f5" title="downwards arrow leftwards of upwards arrow">⇵</li>
+    <li class="symb" data-code="8694" code="21f6" title="three rightwards arrows">⇶</li>
+    <li class="symb" data-code="8695" code="21f7" title="leftwards arrow with vertical stroke">⇷</li>
+    <li class="symb" data-code="8696" code="21f8" title="rightwards arrow with vertical stroke">⇸</li>
+    <li class="symb" data-code="8697" code="21f9" title="left right arrow with vertical stroke">⇹</li>
+    <li class="symb" data-code="8698" code="21fa" title="leftwards arrow with double vertical stroke">⇺</li>
+    <li class="symb" data-code="8699" code="21fb" title="rightwards arrow with double vertical stroke">⇻</li>
+    <li class="symb" data-code="8700" code="21fc" title="left right arrow with double vertical stroke">⇼</li>
+    <li class="symb" data-code="8701" code="21fd" title="leftwards open-headed arrow">⇽</li>
+    <li class="symb" data-code="8702" code="21fe" title="rightwards open-headed arrow">⇾</li>
+    <li class="symb" data-code="8703" code="21ff" title="left right open-headed arrow">⇿</li>
+  </ul>
+</root>

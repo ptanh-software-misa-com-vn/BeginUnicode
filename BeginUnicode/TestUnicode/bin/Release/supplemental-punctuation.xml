@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2e00</li>
+    <li class="symb" data-code="11776" code="2e00" title="right angle substitution marker">⸀</li>
+    <li class="symb" data-code="11777" code="2e01" title="right angle dotted substitution marker">⸁</li>
+    <li class="symb" data-code="11778" code="2e02" title="left substitution bracket">⸂</li>
+    <li class="symb" data-code="11779" code="2e03" title="right substitution bracket">⸃</li>
+    <li class="symb" data-code="11780" code="2e04" title="left dotted substitution bracket">⸄</li>
+    <li class="symb" data-code="11781" code="2e05" title="right dotted substitution bracket">⸅</li>
+    <li class="symb" data-code="11782" code="2e06" title="raised interpolation marker">⸆</li>
+    <li class="symb" data-code="11783" code="2e07" title="raised dotted interpolation marker">⸇</li>
+    <li class="symb" data-code="11784" code="2e08" title="dotted transposition marker">⸈</li>
+    <li class="symb" data-code="11785" code="2e09" title="left transposition bracket">⸉</li>
+    <li class="symb" data-code="11786" code="2e0a" title="right transposition bracket">⸊</li>
+    <li class="symb" data-code="11787" code="2e0b" title="raised square">⸋</li>
+    <li class="symb" data-code="11788" code="2e0c" title="left raised omission bracket">⸌</li>
+    <li class="symb" data-code="11789" code="2e0d" title="right raised omission bracket">⸍</li>
+    <li class="symb" data-code="11790" code="2e0e" title="editorial coronis">⸎</li>
+    <li class="symb" data-code="11791" code="2e0f" title="paragraphos">⸏</li>
+    <li class="h">2e10</li>
+    <li class="symb" data-code="11792" code="2e10" title="forked paragraphos">⸐</li>
+    <li class="symb" data-code="11793" code="2e11" title="reversed forked paragraphos">⸑</li>
+    <li class="symb" data-code="11794" code="2e12" title="hypodiastole">⸒</li>
+    <li class="symb" data-code="11795" code="2e13" title="dotted obelos">⸓</li>
+    <li class="symb" data-code="11796" code="2e14" title="downwards ancora">⸔</li>
+    <li class="symb" data-code="11797" code="2e15" title="upwards ancora">⸕</li>
+    <li class="symb" data-code="11798" code="2e16" title="dotted right-pointing angle">⸖</li>
+    <li class="symb" data-code="11799" code="2e17" title="double oblique hyphen">⸗</li>
+    <li class="symb" data-code="11800" code="2e18" title="inverted interrobang">⸘</li>
+    <li class="symb" data-code="11801" code="2e19" title="palm branch">⸙</li>
+    <li class="symb" data-code="11802" code="2e1a" title="hyphen with diaeresis">⸚</li>
+    <li class="symb" data-code="11803" code="2e1b" title="tilde with ring above">⸛</li>
+    <li class="symb" data-code="11804" code="2e1c" title="left low paraphrase bracket">⸜</li>
+    <li class="symb" data-code="11805" code="2e1d" title="right low paraphrase bracket">⸝</li>
+    <li class="symb" data-code="11806" code="2e1e" title="tilde with dot above">⸞</li>
+    <li class="symb" data-code="11807" code="2e1f" title="tilde with dot below">⸟</li>
+    <li class="h">2e20</li>
+    <li class="symb" data-code="11808" code="2e20" title="left vertical bar with quill">⸠</li>
+    <li class="symb" data-code="11809" code="2e21" title="right vertical bar with quill">⸡</li>
+    <li class="symb" data-code="11810" code="2e22" title="top left half bracket">⸢</li>
+    <li class="symb" data-code="11811" code="2e23" title="top right half bracket">⸣</li>
+    <li class="symb" data-code="11812" code="2e24" title="bottom left half bracket">⸤</li>
+    <li class="symb" data-code="11813" code="2e25" title="bottom right half bracket">⸥</li>
+    <li class="symb" data-code="11814" code="2e26" title="left sideways u bracket">⸦</li>
+    <li class="symb" data-code="11815" code="2e27" title="right sideways u bracket">⸧</li>
+    <li class="symb" data-code="11816" code="2e28" title="left double parenthesis">⸨</li>
+    <li class="symb" data-code="11817" code="2e29" title="right double parenthesis">⸩</li>
+    <li class="symb" data-code="11818" code="2e2a" title="two dots over one dot punctuation">⸪</li>
+    <li class="symb" data-code="11819" code="2e2b" title="one dot over two dots punctuation">⸫</li>
+    <li class="symb" data-code="11820" code="2e2c" title="squared four dot punctuation">⸬</li>
+    <li class="symb" data-code="11821" code="2e2d" title="five dot mark">⸭</li>
+    <li class="symb" data-code="11822" code="2e2e" title="reversed question mark">⸮</li>
+    <li class="symb" data-code="11823" code="2e2f" title="vertical tilde">ⸯ</li>
+    <li class="h">2e30</li>
+    <li class="symb" data-code="11824" code="2e30" title="ring point">⸰</li>
+    <li class="symb" data-code="11825" code="2e31" title="word separator middle dot">⸱</li>
+    <li class="symb" data-code="11826" code="2e32" title="turned comma">⸲</li>
+    <li class="symb" data-code="11827" code="2e33" title="raised dot">⸳</li>
+    <li class="symb" data-code="11828" code="2e34" title="raised comma">⸴</li>
+    <li class="symb" data-code="11829" code="2e35" title="turned semicolon">⸵</li>
+    <li class="symb" data-code="11830" code="2e36" title="dagger with left guard">⸶</li>
+    <li class="symb" data-code="11831" code="2e37" title="dagger with right guard">⸷</li>
+    <li class="symb" data-code="11832" code="2e38" title="turned dagger">⸸</li>
+    <li class="symb" data-code="11833" code="2e39" title="top half section sign">⸹</li>
+    <li class="symb" data-code="11834" code="2e3a" title="two-em dash">⸺</li>
+    <li class="symb" data-code="11835" code="2e3b" title="three-em dash">⸻</li>
+    <li class="symb" data-code="11836" code="2e3c" title="stenographic full stop">⸼</li>
+    <li class="symb" data-code="11837" code="2e3d" title="vertical six dots">⸽</li>
+    <li class="symb" data-code="11838" code="2e3e" title="wiggly vertical line">⸾</li>
+    <li class="symb" data-code="11839" code="2e3f" title="capitulum">⸿</li>
+    <li class="h">2e40</li>
+    <li class="symb" data-code="11840" code="2e40" title="double hyphen">⹀</li>
+    <li class="symb" data-code="11841" code="2e41" title="reversed comma">⹁</li>
+    <li class="symb" data-code="11842" code="2e42" title="double low-reversed-9 quotation mark">⹂</li>
+    <li class="symb" data-code="11843" code="2e43" title="dash with left upturn">⹃</li>
+    <li class="symb" data-code="11844" code="2e44" title="double suspension mark">⹄</li>
+    <li class="symb" data-code="11845" code="2e45" title="inverted low kavyka">⹅</li>
+    <li class="symb" data-code="11846" code="2e46" title="inverted low kavyka with kavyka above">⹆</li>
+    <li class="symb" data-code="11847" code="2e47" title="low kavyka">⹇</li>
+    <li class="symb" data-code="11848" code="2e48" title="low kavyka with dot">⹈</li>
+    <li class="symb" data-code="11849" code="2e49" title="double stacked comma">⹉</li>
+    <li class="symb" data-code="11850" code="2e4a" title="dotted solidus">⹊</li>
+    <li class="symb" data-code="11851" code="2e4b" title="triple dagger">⹋</li>
+    <li class="symb" data-code="11852" code="2e4c" title="medieval comma">⹌</li>
+    <li class="symb" data-code="11853" code="2e4d" title="paragraphus mark">⹍</li>
+    <li class="symb" data-code="11854" code="2e4e" title="punctus elevatus mark">⹎</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">2e50</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">2e60</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">2e70</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

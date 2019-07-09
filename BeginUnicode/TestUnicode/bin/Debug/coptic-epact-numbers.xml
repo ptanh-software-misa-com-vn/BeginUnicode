@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">102e0</li>
+    <li class="symb" data-code="66272" code="102e0" title="coptic epact thousands mark">𐋠</li>
+    <li class="symb" data-code="66273" code="102e1" title="coptic epact digit one">𐋡</li>
+    <li class="symb" data-code="66274" code="102e2" title="coptic epact digit two">𐋢</li>
+    <li class="symb" data-code="66275" code="102e3" title="coptic epact digit three">𐋣</li>
+    <li class="symb" data-code="66276" code="102e4" title="coptic epact digit four">𐋤</li>
+    <li class="symb" data-code="66277" code="102e5" title="coptic epact digit five">𐋥</li>
+    <li class="symb" data-code="66278" code="102e6" title="coptic epact digit six">𐋦</li>
+    <li class="symb" data-code="66279" code="102e7" title="coptic epact digit seven">𐋧</li>
+    <li class="symb" data-code="66280" code="102e8" title="coptic epact digit eight">𐋨</li>
+    <li class="symb" data-code="66281" code="102e9" title="coptic epact digit nine">𐋩</li>
+    <li class="symb" data-code="66282" code="102ea" title="coptic epact number ten">𐋪</li>
+    <li class="symb" data-code="66283" code="102eb" title="coptic epact number twenty">𐋫</li>
+    <li class="symb" data-code="66284" code="102ec" title="coptic epact number thirty">𐋬</li>
+    <li class="symb" data-code="66285" code="102ed" title="coptic epact number forty">𐋭</li>
+    <li class="symb" data-code="66286" code="102ee" title="coptic epact number fifty">𐋮</li>
+    <li class="symb" data-code="66287" code="102ef" title="coptic epact number sixty">𐋯</li>
+    <li class="h">102f0</li>
+    <li class="symb" data-code="66288" code="102f0" title="coptic epact number seventy">𐋰</li>
+    <li class="symb" data-code="66289" code="102f1" title="coptic epact number eighty">𐋱</li>
+    <li class="symb" data-code="66290" code="102f2" title="coptic epact number ninety">𐋲</li>
+    <li class="symb" data-code="66291" code="102f3" title="coptic epact number one hundred">𐋳</li>
+    <li class="symb" data-code="66292" code="102f4" title="coptic epact number two hundred">𐋴</li>
+    <li class="symb" data-code="66293" code="102f5" title="coptic epact number three hundred">𐋵</li>
+    <li class="symb" data-code="66294" code="102f6" title="coptic epact number four hundred">𐋶</li>
+    <li class="symb" data-code="66295" code="102f7" title="coptic epact number five hundred">𐋷</li>
+    <li class="symb" data-code="66296" code="102f8" title="coptic epact number six hundred">𐋸</li>
+    <li class="symb" data-code="66297" code="102f9" title="coptic epact number seven hundred">𐋹</li>
+    <li class="symb" data-code="66298" code="102fa" title="coptic epact number eight hundred">𐋺</li>
+    <li class="symb" data-code="66299" code="102fb" title="coptic epact number nine hundred">𐋻</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

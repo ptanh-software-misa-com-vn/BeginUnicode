@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">a700</li>
+    <li class="symb" data-code="42752" code="a700" title="modifier letter chinese tone yin ping">꜀</li>
+    <li class="symb" data-code="42753" code="a701" title="modifier letter chinese tone yang ping">꜁</li>
+    <li class="symb" data-code="42754" code="a702" title="modifier letter chinese tone yin shang">꜂</li>
+    <li class="symb" data-code="42755" code="a703" title="modifier letter chinese tone yang shang">꜃</li>
+    <li class="symb" data-code="42756" code="a704" title="modifier letter chinese tone yin qu">꜄</li>
+    <li class="symb" data-code="42757" code="a705" title="modifier letter chinese tone yang qu">꜅</li>
+    <li class="symb" data-code="42758" code="a706" title="modifier letter chinese tone yin ru">꜆</li>
+    <li class="symb" data-code="42759" code="a707" title="modifier letter chinese tone yang ru">꜇</li>
+    <li class="symb" data-code="42760" code="a708" title="modifier letter extra-high dotted tone bar">꜈</li>
+    <li class="symb" data-code="42761" code="a709" title="modifier letter high dotted tone bar">꜉</li>
+    <li class="symb" data-code="42762" code="a70a" title="modifier letter mid dotted tone bar">꜊</li>
+    <li class="symb" data-code="42763" code="a70b" title="modifier letter low dotted tone bar">꜋</li>
+    <li class="symb" data-code="42764" code="a70c" title="modifier letter extra-low dotted tone bar">꜌</li>
+    <li class="symb" data-code="42765" code="a70d" title="modifier letter extra-high dotted left-stem tone bar">꜍</li>
+    <li class="symb" data-code="42766" code="a70e" title="modifier letter high dotted left-stem tone bar">꜎</li>
+    <li class="symb" data-code="42767" code="a70f" title="modifier letter mid dotted left-stem tone bar">꜏</li>
+    <li class="h">a710</li>
+    <li class="symb" data-code="42768" code="a710" title="modifier letter low dotted left-stem tone bar">꜐</li>
+    <li class="symb" data-code="42769" code="a711" title="modifier letter extra-low dotted left-stem tone bar">꜑</li>
+    <li class="symb" data-code="42770" code="a712" title="modifier letter extra-high left-stem tone bar">꜒</li>
+    <li class="symb" data-code="42771" code="a713" title="modifier letter high left-stem tone bar">꜓</li>
+    <li class="symb" data-code="42772" code="a714" title="modifier letter mid left-stem tone bar">꜔</li>
+    <li class="symb" data-code="42773" code="a715" title="modifier letter low left-stem tone bar">꜕</li>
+    <li class="symb" data-code="42774" code="a716" title="modifier letter extra-low left-stem tone bar">꜖</li>
+    <li class="symb" data-code="42775" code="a717" title="modifier letter dot vertical bar">ꜗ</li>
+    <li class="symb" data-code="42776" code="a718" title="modifier letter dot slash">ꜘ</li>
+    <li class="symb" data-code="42777" code="a719" title="modifier letter dot horizontal bar">ꜙ</li>
+    <li class="symb" data-code="42778" code="a71a" title="modifier letter lower right corner angle">ꜚ</li>
+    <li class="symb" data-code="42779" code="a71b" title="modifier letter raised up arrow">ꜛ</li>
+    <li class="symb" data-code="42780" code="a71c" title="modifier letter raised down arrow">ꜜ</li>
+    <li class="symb" data-code="42781" code="a71d" title="modifier letter raised exclamation mark">ꜝ</li>
+    <li class="symb" data-code="42782" code="a71e" title="modifier letter raised inverted exclamation mark">ꜞ</li>
+    <li class="symb" data-code="42783" code="a71f" title="modifier letter low inverted exclamation mark">ꜟ</li>
+  </ul>
+</root>

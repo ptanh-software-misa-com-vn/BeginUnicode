@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">a830</li>
+    <li class="symb" data-code="43056" code="a830" title="north indic fraction one quarter">꠰</li>
+    <li class="symb" data-code="43057" code="a831" title="north indic fraction one half">꠱</li>
+    <li class="symb" data-code="43058" code="a832" title="north indic fraction three quarters">꠲</li>
+    <li class="symb" data-code="43059" code="a833" title="north indic fraction one sixteenth">꠳</li>
+    <li class="symb" data-code="43060" code="a834" title="north indic fraction one eighth">꠴</li>
+    <li class="symb" data-code="43061" code="a835" title="north indic fraction three sixteenths">꠵</li>
+    <li class="symb" data-code="43062" code="a836" title="north indic quarter mark">꠶</li>
+    <li class="symb" data-code="43063" code="a837" title="north indic placeholder mark">꠷</li>
+    <li class="symb" data-code="43064" code="a838" title="north indic rupee mark">꠸</li>
+    <li class="symb" data-code="43065" code="a839" title="north indic quantity mark">꠹</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

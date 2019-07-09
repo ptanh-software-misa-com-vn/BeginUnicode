@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2580</li>
+    <li class="symb" data-code="9600" code="2580" title="upper half block">▀</li>
+    <li class="symb" data-code="9601" code="2581" title="lower one eighth block">▁</li>
+    <li class="symb" data-code="9602" code="2582" title="lower one quarter block">▂</li>
+    <li class="symb" data-code="9603" code="2583" title="lower three eighths block">▃</li>
+    <li class="symb" data-code="9604" code="2584" title="lower half block">▄</li>
+    <li class="symb" data-code="9605" code="2585" title="lower five eighths block">▅</li>
+    <li class="symb" data-code="9606" code="2586" title="lower three quarters block">▆</li>
+    <li class="symb" data-code="9607" code="2587" title="lower seven eighths block">▇</li>
+    <li class="symb" data-code="9608" code="2588" title="full block">█</li>
+    <li class="symb" data-code="9609" code="2589" title="left seven eighths block">▉</li>
+    <li class="symb" data-code="9610" code="258a" title="left three quarters block">▊</li>
+    <li class="symb" data-code="9611" code="258b" title="left five eighths block">▋</li>
+    <li class="symb" data-code="9612" code="258c" title="left half block">▌</li>
+    <li class="symb" data-code="9613" code="258d" title="left three eighths block">▍</li>
+    <li class="symb" data-code="9614" code="258e" title="left one quarter block">▎</li>
+    <li class="symb" data-code="9615" code="258f" title="left one eighth block">▏</li>
+    <li class="h">2590</li>
+    <li class="symb" data-code="9616" code="2590" title="right half block">▐</li>
+    <li class="symb" data-code="9617" code="2591" title="light shade">░</li>
+    <li class="symb" data-code="9618" code="2592" title="medium shade">▒</li>
+    <li class="symb" data-code="9619" code="2593" title="dark shade">▓</li>
+    <li class="symb" data-code="9620" code="2594" title="upper one eighth block">▔</li>
+    <li class="symb" data-code="9621" code="2595" title="right one eighth block">▕</li>
+    <li class="symb" data-code="9622" code="2596" title="quadrant lower left">▖</li>
+    <li class="symb" data-code="9623" code="2597" title="quadrant lower right">▗</li>
+    <li class="symb" data-code="9624" code="2598" title="quadrant upper left">▘</li>
+    <li class="symb" data-code="9625" code="2599" title="quadrant upper left and lower left and lower right">▙</li>
+    <li class="symb" data-code="9626" code="259a" title="quadrant upper left and lower right">▚</li>
+    <li class="symb" data-code="9627" code="259b" title="quadrant upper left and upper right and lower left">▛</li>
+    <li class="symb" data-code="9628" code="259c" title="quadrant upper left and upper right and lower right">▜</li>
+    <li class="symb" data-code="9629" code="259d" title="quadrant upper right">▝</li>
+    <li class="symb" data-code="9630" code="259e" title="quadrant upper right and lower left">▞</li>
+    <li class="symb" data-code="9631" code="259f" title="quadrant upper right and lower left and lower right">▟</li>
+  </ul>
+</root>

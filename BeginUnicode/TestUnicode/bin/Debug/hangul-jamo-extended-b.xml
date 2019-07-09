@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">d7b0</li>
+    <li class="symb" data-code="55216" code="d7b0" title="hangul jungseong o-yeo">ힰ</li>
+    <li class="symb" data-code="55217" code="d7b1" title="hangul jungseong o-o-i">ힱ</li>
+    <li class="symb" data-code="55218" code="d7b2" title="hangul jungseong yo-a">ힲ</li>
+    <li class="symb" data-code="55219" code="d7b3" title="hangul jungseong yo-ae">ힳ</li>
+    <li class="symb" data-code="55220" code="d7b4" title="hangul jungseong yo-eo">ힴ</li>
+    <li class="symb" data-code="55221" code="d7b5" title="hangul jungseong u-yeo">ힵ</li>
+    <li class="symb" data-code="55222" code="d7b6" title="hangul jungseong u-i-i">ힶ</li>
+    <li class="symb" data-code="55223" code="d7b7" title="hangul jungseong yu-ae">ힷ</li>
+    <li class="symb" data-code="55224" code="d7b8" title="hangul jungseong yu-o">ힸ</li>
+    <li class="symb" data-code="55225" code="d7b9" title="hangul jungseong eu-a">ힹ</li>
+    <li class="symb" data-code="55226" code="d7ba" title="hangul jungseong eu-eo">ힺ</li>
+    <li class="symb" data-code="55227" code="d7bb" title="hangul jungseong eu-e">ힻ</li>
+    <li class="symb" data-code="55228" code="d7bc" title="hangul jungseong eu-o">ힼ</li>
+    <li class="symb" data-code="55229" code="d7bd" title="hangul jungseong i-ya-o">ힽ</li>
+    <li class="symb" data-code="55230" code="d7be" title="hangul jungseong i-yae">ힾ</li>
+    <li class="symb" data-code="55231" code="d7bf" title="hangul jungseong i-yeo">ힿ</li>
+    <li class="h">d7c0</li>
+    <li class="symb" data-code="55232" code="d7c0" title="hangul jungseong i-ye">ퟀ</li>
+    <li class="symb" data-code="55233" code="d7c1" title="hangul jungseong i-o-i">ퟁ</li>
+    <li class="symb" data-code="55234" code="d7c2" title="hangul jungseong i-yo">ퟂ</li>
+    <li class="symb" data-code="55235" code="d7c3" title="hangul jungseong i-yu">ퟃ</li>
+    <li class="symb" data-code="55236" code="d7c4" title="hangul jungseong i-i">ퟄ</li>
+    <li class="symb" data-code="55237" code="d7c5" title="hangul jungseong araea-a">ퟅ</li>
+    <li class="symb" data-code="55238" code="d7c6" title="hangul jungseong araea-e">ퟆ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="55243" code="d7cb" title="hangul jongseong nieun-rieul">ퟋ</li>
+    <li class="symb" data-code="55244" code="d7cc" title="hangul jongseong nieun-chieuch">ퟌ</li>
+    <li class="symb" data-code="55245" code="d7cd" title="hangul jongseong ssangtikeut">ퟍ</li>
+    <li class="symb" data-code="55246" code="d7ce" title="hangul jongseong ssangtikeut-pieup">ퟎ</li>
+    <li class="symb" data-code="55247" code="d7cf" title="hangul jongseong tikeut-pieup">ퟏ</li>
+    <li class="h">d7d0</li>
+    <li class="symb" data-code="55248" code="d7d0" title="hangul jongseong tikeut-sios">ퟐ</li>
+    <li class="symb" data-code="55249" code="d7d1" title="hangul jongseong tikeut-sios-kiyeok">ퟑ</li>
+    <li class="symb" data-code="55250" code="d7d2" title="hangul jongseong tikeut-cieuc">ퟒ</li>
+    <li class="symb" data-code="55251" code="d7d3" title="hangul jongseong tikeut-chieuch">ퟓ</li>
+    <li class="symb" data-code="55252" code="d7d4" title="hangul jongseong tikeut-thieuth">ퟔ</li>
+    <li class="symb" data-code="55253" code="d7d5" title="hangul jongseong rieul-ssangkiyeok">ퟕ</li>
+    <li class="symb" data-code="55254" code="d7d6" title="hangul jongseong rieul-kiyeok-hieuh">ퟖ</li>
+    <li class="symb" data-code="55255" code="d7d7" title="hangul jongseong ssangrieul-khieukh">ퟗ</li>
+    <li class="symb" data-code="55256" code="d7d8" title="hangul jongseong rieul-mieum-hieuh">ퟘ</li>
+    <li class="symb" data-code="55257" code="d7d9" title="hangul jongseong rieul-pieup-tikeut">ퟙ</li>
+    <li class="symb" data-code="55258" code="d7da" title="hangul jongseong rieul-pieup-phieuph">ퟚ</li>
+    <li class="symb" data-code="55259" code="d7db" title="hangul jongseong rieul-yesieung">ퟛ</li>
+    <li class="symb" data-code="55260" code="d7dc" title="hangul jongseong rieul-yeorinhieuh-hieuh">ퟜ</li>
+    <li class="symb" data-code="55261" code="d7dd" title="hangul jongseong kapyeounrieul">ퟝ</li>
+    <li class="symb" data-code="55262" code="d7de" title="hangul jongseong mieum-nieun">ퟞ</li>
+    <li class="symb" data-code="55263" code="d7df" title="hangul jongseong mieum-ssangnieun">ퟟ</li>
+    <li class="h">d7e0</li>
+    <li class="symb" data-code="55264" code="d7e0" title="hangul jongseong ssangmieum">ퟠ</li>
+    <li class="symb" data-code="55265" code="d7e1" title="hangul jongseong mieum-pieup-sios">ퟡ</li>
+    <li class="symb" data-code="55266" code="d7e2" title="hangul jongseong mieum-cieuc">ퟢ</li>
+    <li class="symb" data-code="55267" code="d7e3" title="hangul jongseong pieup-tikeut">ퟣ</li>
+    <li class="symb" data-code="55268" code="d7e4" title="hangul jongseong pieup-rieul-phieuph">ퟤ</li>
+    <li class="symb" data-code="55269" code="d7e5" title="hangul jongseong pieup-mieum">ퟥ</li>
+    <li class="symb" data-code="55270" code="d7e6" title="hangul jongseong ssangpieup">ퟦ</li>
+    <li class="symb" data-code="55271" code="d7e7" title="hangul jongseong pieup-sios-tikeut">ퟧ</li>
+    <li class="symb" data-code="55272" code="d7e8" title="hangul jongseong pieup-cieuc">ퟨ</li>
+    <li class="symb" data-code="55273" code="d7e9" title="hangul jongseong pieup-chieuch">ퟩ</li>
+    <li class="symb" data-code="55274" code="d7ea" title="hangul jongseong sios-mieum">ퟪ</li>
+    <li class="symb" data-code="55275" code="d7eb" title="hangul jongseong sios-kapyeounpieup">ퟫ</li>
+    <li class="symb" data-code="55276" code="d7ec" title="hangul jongseong ssangsios-kiyeok">ퟬ</li>
+    <li class="symb" data-code="55277" code="d7ed" title="hangul jongseong ssangsios-tikeut">ퟭ</li>
+    <li class="symb" data-code="55278" code="d7ee" title="hangul jongseong sios-pansios">ퟮ</li>
+    <li class="symb" data-code="55279" code="d7ef" title="hangul jongseong sios-cieuc">ퟯ</li>
+    <li class="h">d7f0</li>
+    <li class="symb" data-code="55280" code="d7f0" title="hangul jongseong sios-chieuch">ퟰ</li>
+    <li class="symb" data-code="55281" code="d7f1" title="hangul jongseong sios-thieuth">ퟱ</li>
+    <li class="symb" data-code="55282" code="d7f2" title="hangul jongseong sios-hieuh">ퟲ</li>
+    <li class="symb" data-code="55283" code="d7f3" title="hangul jongseong pansios-pieup">ퟳ</li>
+    <li class="symb" data-code="55284" code="d7f4" title="hangul jongseong pansios-kapyeounpieup">ퟴ</li>
+    <li class="symb" data-code="55285" code="d7f5" title="hangul jongseong yesieung-mieum">ퟵ</li>
+    <li class="symb" data-code="55286" code="d7f6" title="hangul jongseong yesieung-hieuh">ퟶ</li>
+    <li class="symb" data-code="55287" code="d7f7" title="hangul jongseong cieuc-pieup">ퟷ</li>
+    <li class="symb" data-code="55288" code="d7f8" title="hangul jongseong cieuc-ssangpieup">ퟸ</li>
+    <li class="symb" data-code="55289" code="d7f9" title="hangul jongseong ssangcieuc">ퟹ</li>
+    <li class="symb" data-code="55290" code="d7fa" title="hangul jongseong phieuph-sios">ퟺ</li>
+    <li class="symb" data-code="55291" code="d7fb" title="hangul jongseong phieuph-thieuth">ퟻ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

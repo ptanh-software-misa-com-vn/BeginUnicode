@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2300</li>
+    <li class="symb" data-code="8960" code="2300" title="diameter sign">⌀</li>
+    <li class="symb" data-code="8961" code="2301" title="electric arrow">⌁</li>
+    <li class="symb" data-code="8962" code="2302" title="house">⌂</li>
+    <li class="symb" data-code="8963" code="2303" title="up arrowhead">⌃</li>
+    <li class="symb" data-code="8964" code="2304" title="down arrowhead">⌄</li>
+    <li class="symb" data-code="8965" code="2305" title="projective">⌅</li>
+    <li class="symb" data-code="8966" code="2306" title="perspective">⌆</li>
+    <li class="symb" data-code="8967" code="2307" title="wavy line">⌇</li>
+    <li class="symb" data-code="8968" code="2308" title="left ceiling">⌈</li>
+    <li class="symb" data-code="8969" code="2309" title="right ceiling">⌉</li>
+    <li class="symb" data-code="8970" code="230a" title="left floor">⌊</li>
+    <li class="symb" data-code="8971" code="230b" title="right floor">⌋</li>
+    <li class="symb" data-code="8972" code="230c" title="bottom right crop">⌌</li>
+    <li class="symb" data-code="8973" code="230d" title="bottom left crop">⌍</li>
+    <li class="symb" data-code="8974" code="230e" title="top right crop">⌎</li>
+    <li class="symb" data-code="8975" code="230f" title="top left crop">⌏</li>
+    <li class="h">2310</li>
+    <li class="symb" data-code="8976" code="2310" title="reversed not sign">⌐</li>
+    <li class="symb" data-code="8977" code="2311" title="square lozenge">⌑</li>
+    <li class="symb" data-code="8978" code="2312" title="arc">⌒</li>
+    <li class="symb" data-code="8979" code="2313" title="segment">⌓</li>
+    <li class="symb" data-code="8980" code="2314" title="sector">⌔</li>
+    <li class="symb" data-code="8981" code="2315" title="telephone recorder">⌕</li>
+    <li class="symb" data-code="8982" code="2316" title="position indicator">⌖</li>
+    <li class="symb" data-code="8983" code="2317" title="viewdata square">⌗</li>
+    <li class="symb" data-code="8984" code="2318" title="place of interest sign">⌘</li>
+    <li class="symb" data-code="8985" code="2319" title="turned not sign">⌙</li>
+    <li class="symb" data-code="8986" code="231a" title="watch">⌚</li>
+    <li class="symb" data-code="8987" code="231b" title="hourglass">⌛</li>
+    <li class="symb" data-code="8988" code="231c" title="top left corner">⌜</li>
+    <li class="symb" data-code="8989" code="231d" title="top right corner">⌝</li>
+    <li class="symb" data-code="8990" code="231e" title="bottom left corner">⌞</li>
+    <li class="symb" data-code="8991" code="231f" title="bottom right corner">⌟</li>
+    <li class="h">2320</li>
+    <li class="symb" data-code="8992" code="2320" title="top half integral">⌠</li>
+    <li class="symb" data-code="8993" code="2321" title="bottom half integral">⌡</li>
+    <li class="symb" data-code="8994" code="2322" title="frown">⌢</li>
+    <li class="symb" data-code="8995" code="2323" title="smile">⌣</li>
+    <li class="symb" data-code="8996" code="2324" title="up arrowhead between two horizontal bars">⌤</li>
+    <li class="symb" data-code="8997" code="2325" title="option key">⌥</li>
+    <li class="symb" data-code="8998" code="2326" title="erase to the right">⌦</li>
+    <li class="symb" data-code="8999" code="2327" title="x in a rectangle box">⌧</li>
+    <li class="symb" data-code="9000" code="2328" title="keyboard">⌨</li>
+    <li class="symb" data-code="9001" code="2329" title="left-pointing angle bracket">〈</li>
+    <li class="symb" data-code="9002" code="232a" title="right-pointing angle bracket">〉</li>
+    <li class="symb" data-code="9003" code="232b" title="erase to the left">⌫</li>
+    <li class="symb" data-code="9004" code="232c" title="benzene ring">⌬</li>
+    <li class="symb" data-code="9005" code="232d" title="cylindricity">⌭</li>
+    <li class="symb" data-code="9006" code="232e" title="all around-profile">⌮</li>
+    <li class="symb" data-code="9007" code="232f" title="symmetry">⌯</li>
+    <li class="h">2330</li>
+    <li class="symb" data-code="9008" code="2330" title="total runout">⌰</li>
+    <li class="symb" data-code="9009" code="2331" title="dimension origin">⌱</li>
+    <li class="symb" data-code="9010" code="2332" title="conical taper">⌲</li>
+    <li class="symb" data-code="9011" code="2333" title="slope">⌳</li>
+    <li class="symb" data-code="9012" code="2334" title="counterbore">⌴</li>
+    <li class="symb" data-code="9013" code="2335" title="countersink">⌵</li>
+    <li class="symb" data-code="9014" code="2336" title="apl functional symbol i-beam">⌶</li>
+    <li class="symb" data-code="9015" code="2337" title="apl functional symbol squish quad">⌷</li>
+    <li class="symb" data-code="9016" code="2338" title="apl functional symbol quad equal">⌸</li>
+    <li class="symb" data-code="9017" code="2339" title="apl functional symbol quad divide">⌹</li>
+    <li class="symb" data-code="9018" code="233a" title="apl functional symbol quad diamond">⌺</li>
+    <li class="symb" data-code="9019" code="233b" title="apl functional symbol quad jot">⌻</li>
+    <li class="symb" data-code="9020" code="233c" title="apl functional symbol quad circle">⌼</li>
+    <li class="symb" data-code="9021" code="233d" title="apl functional symbol circle stile">⌽</li>
+    <li class="symb" data-code="9022" code="233e" title="apl functional symbol circle jot">⌾</li>
+    <li class="symb" data-code="9023" code="233f" title="apl functional symbol slash bar">⌿</li>
+    <li class="h">2340</li>
+    <li class="symb" data-code="9024" code="2340" title="apl functional symbol backslash bar">⍀</li>
+    <li class="symb" data-code="9025" code="2341" title="apl functional symbol quad slash">⍁</li>
+    <li class="symb" data-code="9026" code="2342" title="apl functional symbol quad backslash">⍂</li>
+    <li class="symb" data-code="9027" code="2343" title="apl functional symbol quad less-than">⍃</li>
+    <li class="symb" data-code="9028" code="2344" title="apl functional symbol quad greater-than">⍄</li>
+    <li class="symb" data-code="9029" code="2345" title="apl functional symbol leftwards vane">⍅</li>
+    <li class="symb" data-code="9030" code="2346" title="apl functional symbol rightwards vane">⍆</li>
+    <li class="symb" data-code="9031" code="2347" title="apl functional symbol quad leftwards arrow">⍇</li>
+    <li class="symb" data-code="9032" code="2348" title="apl functional symbol quad rightwards arrow">⍈</li>
+    <li class="symb" data-code="9033" code="2349" title="apl functional symbol circle backslash">⍉</li>
+    <li class="symb" data-code="9034" code="234a" title="apl functional symbol down tack underbar">⍊</li>
+    <li class="symb" data-code="9035" code="234b" title="apl functional symbol delta stile">⍋</li>
+    <li class="symb" data-code="9036" code="234c" title="apl functional symbol quad down caret">⍌</li>
+    <li class="symb" data-code="9037" code="234d" title="apl functional symbol quad delta">⍍</li>
+    <li class="symb" data-code="9038" code="234e" title="apl functional symbol down tack jot">⍎</li>
+    <li class="symb" data-code="9039" code="234f" title="apl functional symbol upwards vane">⍏</li>
+    <li class="h">2350</li>
+    <li class="symb" data-code="9040" code="2350" title="apl functional symbol quad upwards arrow">⍐</li>
+    <li class="symb" data-code="9041" code="2351" title="apl functional symbol up tack overbar">⍑</li>
+    <li class="symb" data-code="9042" code="2352" title="apl functional symbol del stile">⍒</li>
+    <li class="symb" data-code="9043" code="2353" title="apl functional symbol quad up caret">⍓</li>
+    <li class="symb" data-code="9044" code="2354" title="apl functional symbol quad del">⍔</li>
+    <li class="symb" data-code="9045" code="2355" title="apl functional symbol up tack jot">⍕</li>
+    <li class="symb" data-code="9046" code="2356" title="apl functional symbol downwards vane">⍖</li>
+    <li class="symb" data-code="9047" code="2357" title="apl functional symbol quad downwards arrow">⍗</li>
+    <li class="symb" data-code="9048" code="2358" title="apl functional symbol quote underbar">⍘</li>
+    <li class="symb" data-code="9049" code="2359" title="apl functional symbol delta underbar">⍙</li>
+    <li class="symb" data-code="9050" code="235a" title="apl functional symbol diamond underbar">⍚</li>
+    <li class="symb" data-code="9051" code="235b" title="apl functional symbol jot underbar">⍛</li>
+    <li class="symb" data-code="9052" code="235c" title="apl functional symbol circle underbar">⍜</li>
+    <li class="symb" data-code="9053" code="235d" title="apl functional symbol up shoe jot">⍝</li>
+    <li class="symb" data-code="9054" code="235e" title="apl functional symbol quote quad">⍞</li>
+    <li class="symb" data-code="9055" code="235f" title="apl functional symbol circle star">⍟</li>
+    <li class="h">2360</li>
+    <li class="symb" data-code="9056" code="2360" title="apl functional symbol quad colon">⍠</li>
+    <li class="symb" data-code="9057" code="2361" title="apl functional symbol up tack diaeresis">⍡</li>
+    <li class="symb" data-code="9058" code="2362" title="apl functional symbol del diaeresis">⍢</li>
+    <li class="symb" data-code="9059" code="2363" title="apl functional symbol star diaeresis">⍣</li>
+    <li class="symb" data-code="9060" code="2364" title="apl functional symbol jot diaeresis">⍤</li>
+    <li class="symb" data-code="9061" code="2365" title="apl functional symbol circle diaeresis">⍥</li>
+    <li class="symb" data-code="9062" code="2366" title="apl functional symbol down shoe stile">⍦</li>
+    <li class="symb" data-code="9063" code="2367" title="apl functional symbol left shoe stile">⍧</li>
+    <li class="symb" data-code="9064" code="2368" title="apl functional symbol tilde diaeresis">⍨</li>
+    <li class="symb" data-code="9065" code="2369" title="apl functional symbol greater-than diaeresis">⍩</li>
+    <li class="symb" data-code="9066" code="236a" title="apl functional symbol comma bar">⍪</li>
+    <li class="symb" data-code="9067" code="236b" title="apl functional symbol del tilde">⍫</li>
+    <li class="symb" data-code="9068" code="236c" title="apl functional symbol zilde">⍬</li>
+    <li class="symb" data-code="9069" code="236d" title="apl functional symbol stile tilde">⍭</li>
+    <li class="symb" data-code="9070" code="236e" title="apl functional symbol semicolon underbar">⍮</li>
+    <li class="symb" data-code="9071" code="236f" title="apl functional symbol quad not equal">⍯</li>
+    <li class="h">2370</li>
+    <li class="symb" data-code="9072" code="2370" title="apl functional symbol quad question">⍰</li>
+    <li class="symb" data-code="9073" code="2371" title="apl functional symbol down caret tilde">⍱</li>
+    <li class="symb" data-code="9074" code="2372" title="apl functional symbol up caret tilde">⍲</li>
+    <li class="symb" data-code="9075" code="2373" title="apl functional symbol iota">⍳</li>
+    <li class="symb" data-code="9076" code="2374" title="apl functional symbol rho">⍴</li>
+    <li class="symb" data-code="9077" code="2375" title="apl functional symbol omega">⍵</li>
+    <li class="symb" data-code="9078" code="2376" title="apl functional symbol alpha underbar">⍶</li>
+    <li class="symb" data-code="9079" code="2377" title="apl functional symbol epsilon underbar">⍷</li>
+    <li class="symb" data-code="9080" code="2378" title="apl functional symbol iota underbar">⍸</li>
+    <li class="symb" data-code="9081" code="2379" title="apl functional symbol omega underbar">⍹</li>
+    <li class="symb" data-code="9082" code="237a" title="apl functional symbol alpha">⍺</li>
+    <li class="symb" data-code="9083" code="237b" title="not check mark">⍻</li>
+    <li class="symb" data-code="9084" code="237c" title="right angle with downwards zigzag arrow">⍼</li>
+    <li class="symb" data-code="9085" code="237d" title="shouldered open box">⍽</li>
+    <li class="symb" data-code="9086" code="237e" title="bell symbol">⍾</li>
+    <li class="symb" data-code="9087" code="237f" title="vertical line with middle dot">⍿</li>
+    <li class="h">2380</li>
+    <li class="symb" data-code="9088" code="2380" title="insertion symbol">⎀</li>
+    <li class="symb" data-code="9089" code="2381" title="continuous underline symbol">⎁</li>
+    <li class="symb" data-code="9090" code="2382" title="discontinuous underline symbol">⎂</li>
+    <li class="symb" data-code="9091" code="2383" title="emphasis symbol">⎃</li>
+    <li class="symb" data-code="9092" code="2384" title="composition symbol">⎄</li>
+    <li class="symb" data-code="9093" code="2385" title="white square with centre vertical line">⎅</li>
+    <li class="symb" data-code="9094" code="2386" title="enter symbol">⎆</li>
+    <li class="symb" data-code="9095" code="2387" title="alternative key symbol">⎇</li>
+    <li class="symb" data-code="9096" code="2388" title="helm symbol">⎈</li>
+    <li class="symb" data-code="9097" code="2389" title="circled horizontal bar with notch">⎉</li>
+    <li class="symb" data-code="9098" code="238a" title="circled triangle down">⎊</li>
+    <li class="symb" data-code="9099" code="238b" title="broken circle with northwest arrow">⎋</li>
+    <li class="symb" data-code="9100" code="238c" title="undo symbol">⎌</li>
+    <li class="symb" data-code="9101" code="238d" title="monostable symbol">⎍</li>
+    <li class="symb" data-code="9102" code="238e" title="hysteresis symbol">⎎</li>
+    <li class="symb" data-code="9103" code="238f" title="open-circuit-output h-type symbol">⎏</li>
+    <li class="h">2390</li>
+    <li class="symb" data-code="9104" code="2390" title="open-circuit-output l-type symbol">⎐</li>
+    <li class="symb" data-code="9105" code="2391" title="passive-pull-down-output symbol">⎑</li>
+    <li class="symb" data-code="9106" code="2392" title="passive-pull-up-output symbol">⎒</li>
+    <li class="symb" data-code="9107" code="2393" title="direct current symbol form two">⎓</li>
+    <li class="symb" data-code="9108" code="2394" title="software-function symbol">⎔</li>
+    <li class="symb" data-code="9109" code="2395" title="apl functional symbol quad">⎕</li>
+    <li class="symb" data-code="9110" code="2396" title="decimal separator key symbol">⎖</li>
+    <li class="symb" data-code="9111" code="2397" title="previous page">⎗</li>
+    <li class="symb" data-code="9112" code="2398" title="next page">⎘</li>
+    <li class="symb" data-code="9113" code="2399" title="print screen symbol">⎙</li>
+    <li class="symb" data-code="9114" code="239a" title="clear screen symbol">⎚</li>
+    <li class="symb" data-code="9115" code="239b" title="left parenthesis upper hook">⎛</li>
+    <li class="symb" data-code="9116" code="239c" title="left parenthesis extension">⎜</li>
+    <li class="symb" data-code="9117" code="239d" title="left parenthesis lower hook">⎝</li>
+    <li class="symb" data-code="9118" code="239e" title="right parenthesis upper hook">⎞</li>
+    <li class="symb" data-code="9119" code="239f" title="right parenthesis extension">⎟</li>
+    <li class="h">23a0</li>
+    <li class="symb" data-code="9120" code="23a0" title="right parenthesis lower hook">⎠</li>
+    <li class="symb" data-code="9121" code="23a1" title="left square bracket upper corner">⎡</li>
+    <li class="symb" data-code="9122" code="23a2" title="left square bracket extension">⎢</li>
+    <li class="symb" data-code="9123" code="23a3" title="left square bracket lower corner">⎣</li>
+    <li class="symb" data-code="9124" code="23a4" title="right square bracket upper corner">⎤</li>
+    <li class="symb" data-code="9125" code="23a5" title="right square bracket extension">⎥</li>
+    <li class="symb" data-code="9126" code="23a6" title="right square bracket lower corner">⎦</li>
+    <li class="symb" data-code="9127" code="23a7" title="left curly bracket upper hook">⎧</li>
+    <li class="symb" data-code="9128" code="23a8" title="left curly bracket middle piece">⎨</li>
+    <li class="symb" data-code="9129" code="23a9" title="left curly bracket lower hook">⎩</li>
+    <li class="symb" data-code="9130" code="23aa" title="curly bracket extension">⎪</li>
+    <li class="symb" data-code="9131" code="23ab" title="right curly bracket upper hook">⎫</li>
+    <li class="symb" data-code="9132" code="23ac" title="right curly bracket middle piece">⎬</li>
+    <li class="symb" data-code="9133" code="23ad" title="right curly bracket lower hook">⎭</li>
+    <li class="symb" data-code="9134" code="23ae" title="integral extension">⎮</li>
+    <li class="symb" data-code="9135" code="23af" title="horizontal line extension">⎯</li>
+    <li class="h">23b0</li>
+    <li class="symb" data-code="9136" code="23b0" title="upper left or lower right curly bracket section">⎰</li>
+    <li class="symb" data-code="9137" code="23b1" title="upper right or lower left curly bracket section">⎱</li>
+    <li class="symb" data-code="9138" code="23b2" title="summation top">⎲</li>
+    <li class="symb" data-code="9139" code="23b3" title="summation bottom">⎳</li>
+    <li class="symb" data-code="9140" code="23b4" title="top square bracket">⎴</li>
+    <li class="symb" data-code="9141" code="23b5" title="bottom square bracket">⎵</li>
+    <li class="symb" data-code="9142" code="23b6" title="bottom square bracket over top square bracket">⎶</li>
+    <li class="symb" data-code="9143" code="23b7" title="radical symbol bottom">⎷</li>
+    <li class="symb" data-code="9144" code="23b8" title="left vertical box line">⎸</li>
+    <li class="symb" data-code="9145" code="23b9" title="right vertical box line">⎹</li>
+    <li class="symb" data-code="9146" code="23ba" title="horizontal scan line-1">⎺</li>
+    <li class="symb" data-code="9147" code="23bb" title="horizontal scan line-3">⎻</li>
+    <li class="symb" data-code="9148" code="23bc" title="horizontal scan line-7">⎼</li>
+    <li class="symb" data-code="9149" code="23bd" title="horizontal scan line-9">⎽</li>
+    <li class="symb" data-code="9150" code="23be" title="dentistry symbol light vertical and top right">⎾</li>
+    <li class="symb" data-code="9151" code="23bf" title="dentistry symbol light vertical and bottom right">⎿</li>
+    <li class="h">23c0</li>
+    <li class="symb" data-code="9152" code="23c0" title="dentistry symbol light vertical with circle">⏀</li>
+    <li class="symb" data-code="9153" code="23c1" title="dentistry symbol light down and horizontal with circle">⏁</li>
+    <li class="symb" data-code="9154" code="23c2" title="dentistry symbol light up and horizontal with circle">⏂</li>
+    <li class="symb" data-code="9155" code="23c3" title="dentistry symbol light vertical with triangle">⏃</li>
+    <li class="symb" data-code="9156" code="23c4" title="dentistry symbol light down and horizontal with triangle">⏄</li>
+    <li class="symb" data-code="9157" code="23c5" title="dentistry symbol light up and horizontal with triangle">⏅</li>
+    <li class="symb" data-code="9158" code="23c6" title="dentistry symbol light vertical and wave">⏆</li>
+    <li class="symb" data-code="9159" code="23c7" title="dentistry symbol light down and horizontal with wave">⏇</li>
+    <li class="symb" data-code="9160" code="23c8" title="dentistry symbol light up and horizontal with wave">⏈</li>
+    <li class="symb" data-code="9161" code="23c9" title="dentistry symbol light down and horizontal">⏉</li>
+    <li class="symb" data-code="9162" code="23ca" title="dentistry symbol light up and horizontal">⏊</li>
+    <li class="symb" data-code="9163" code="23cb" title="dentistry symbol light vertical and top left">⏋</li>
+    <li class="symb" data-code="9164" code="23cc" title="dentistry symbol light vertical and bottom left">⏌</li>
+    <li class="symb" data-code="9165" code="23cd" title="square foot">⏍</li>
+    <li class="symb" data-code="9166" code="23ce" title="return symbol">⏎</li>
+    <li class="symb" data-code="9167" code="23cf" title="eject symbol">⏏</li>
+    <li class="h">23d0</li>
+    <li class="symb" data-code="9168" code="23d0" title="vertical line extension">⏐</li>
+    <li class="symb" data-code="9169" code="23d1" title="metrical breve">⏑</li>
+    <li class="symb" data-code="9170" code="23d2" title="metrical long over short">⏒</li>
+    <li class="symb" data-code="9171" code="23d3" title="metrical short over long">⏓</li>
+    <li class="symb" data-code="9172" code="23d4" title="metrical long over two shorts">⏔</li>
+    <li class="symb" data-code="9173" code="23d5" title="metrical two shorts over long">⏕</li>
+    <li class="symb" data-code="9174" code="23d6" title="metrical two shorts joined">⏖</li>
+    <li class="symb" data-code="9175" code="23d7" title="metrical triseme">⏗</li>
+    <li class="symb" data-code="9176" code="23d8" title="metrical tetraseme">⏘</li>
+    <li class="symb" data-code="9177" code="23d9" title="metrical pentaseme">⏙</li>
+    <li class="symb" data-code="9178" code="23da" title="earth ground">⏚</li>
+    <li class="symb" data-code="9179" code="23db" title="fuse">⏛</li>
+    <li class="symb" data-code="9180" code="23dc" title="top parenthesis">⏜</li>
+    <li class="symb" data-code="9181" code="23dd" title="bottom parenthesis">⏝</li>
+    <li class="symb" data-code="9182" code="23de" title="top curly bracket">⏞</li>
+    <li class="symb" data-code="9183" code="23df" title="bottom curly bracket">⏟</li>
+    <li class="h">23e0</li>
+    <li class="symb" data-code="9184" code="23e0" title="top tortoise shell bracket">⏠</li>
+    <li class="symb" data-code="9185" code="23e1" title="bottom tortoise shell bracket">⏡</li>
+    <li class="symb" data-code="9186" code="23e2" title="white trapezium">⏢</li>
+    <li class="symb" data-code="9187" code="23e3" title="benzene ring with circle">⏣</li>
+    <li class="symb" data-code="9188" code="23e4" title="straightness">⏤</li>
+    <li class="symb" data-code="9189" code="23e5" title="flatness">⏥</li>
+    <li class="symb" data-code="9190" code="23e6" title="ac current">⏦</li>
+    <li class="symb" data-code="9191" code="23e7" title="electrical intersection">⏧</li>
+    <li class="symb" data-code="9192" code="23e8" title="decimal exponent symbol">⏨</li>
+    <li class="symb" data-code="9193" code="23e9" title="black right-pointing double triangle">⏩</li>
+    <li class="symb" data-code="9194" code="23ea" title="black left-pointing double triangle">⏪</li>
+    <li class="symb" data-code="9195" code="23eb" title="black up-pointing double triangle">⏫</li>
+    <li class="symb" data-code="9196" code="23ec" title="black down-pointing double triangle">⏬</li>
+    <li class="symb" data-code="9197" code="23ed" title="black right-pointing double triangle with vertical bar">⏭</li>
+    <li class="symb" data-code="9198" code="23ee" title="black left-pointing double triangle with vertical bar">⏮</li>
+    <li class="symb" data-code="9199" code="23ef" title="black right-pointing triangle with double vertical bar">⏯</li>
+    <li class="h">23f0</li>
+    <li class="symb" data-code="9200" code="23f0" title="alarm clock">⏰</li>
+    <li class="symb" data-code="9201" code="23f1" title="stopwatch">⏱</li>
+    <li class="symb" data-code="9202" code="23f2" title="timer clock">⏲</li>
+    <li class="symb" data-code="9203" code="23f3" title="hourglass with flowing sand">⏳</li>
+    <li class="symb" data-code="9204" code="23f4" title="black medium left-pointing triangle">⏴</li>
+    <li class="symb" data-code="9205" code="23f5" title="black medium right-pointing triangle">⏵</li>
+    <li class="symb" data-code="9206" code="23f6" title="black medium up-pointing triangle">⏶</li>
+    <li class="symb" data-code="9207" code="23f7" title="black medium down-pointing triangle">⏷</li>
+    <li class="symb" data-code="9208" code="23f8" title="double vertical bar">⏸</li>
+    <li class="symb" data-code="9209" code="23f9" title="black square for stop">⏹</li>
+    <li class="symb" data-code="9210" code="23fa" title="black circle for record">⏺</li>
+    <li class="symb" data-code="9211" code="23fb" title="power symbol">⏻</li>
+    <li class="symb" data-code="9212" code="23fc" title="power on-off symbol">⏼</li>
+    <li class="symb" data-code="9213" code="23fd" title="power on symbol">⏽</li>
+    <li class="symb" data-code="9214" code="23fe" title="power sleep symbol">⏾</li>
+    <li class="symb" data-code="9215" code="23ff" title="observer eye symbol">⏿</li>
+  </ul>
+</root>

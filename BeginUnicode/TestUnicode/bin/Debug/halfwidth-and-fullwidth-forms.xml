@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">ff00</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65281" code="ff01" title="fullwidth exclamation mark">！</li>
+    <li class="symb" data-code="65282" code="ff02" title="fullwidth quotation mark">＂</li>
+    <li class="symb" data-code="65283" code="ff03" title="fullwidth number sign">＃</li>
+    <li class="symb" data-code="65284" code="ff04" title="fullwidth dollar sign">＄</li>
+    <li class="symb" data-code="65285" code="ff05" title="fullwidth percent sign">％</li>
+    <li class="symb" data-code="65286" code="ff06" title="fullwidth ampersand">＆</li>
+    <li class="symb" data-code="65287" code="ff07" title="fullwidth apostrophe">＇</li>
+    <li class="symb" data-code="65288" code="ff08" title="fullwidth left parenthesis">（</li>
+    <li class="symb" data-code="65289" code="ff09" title="fullwidth right parenthesis">）</li>
+    <li class="symb" data-code="65290" code="ff0a" title="fullwidth asterisk">＊</li>
+    <li class="symb" data-code="65291" code="ff0b" title="fullwidth plus sign">＋</li>
+    <li class="symb" data-code="65292" code="ff0c" title="fullwidth comma">，</li>
+    <li class="symb" data-code="65293" code="ff0d" title="fullwidth hyphen-minus">－</li>
+    <li class="symb" data-code="65294" code="ff0e" title="fullwidth full stop">．</li>
+    <li class="symb" data-code="65295" code="ff0f" title="fullwidth solidus">／</li>
+    <li class="h">ff10</li>
+    <li class="symb" data-code="65296" code="ff10" title="fullwidth digit zero">０</li>
+    <li class="symb" data-code="65297" code="ff11" title="fullwidth digit one">１</li>
+    <li class="symb" data-code="65298" code="ff12" title="fullwidth digit two">２</li>
+    <li class="symb" data-code="65299" code="ff13" title="fullwidth digit three">３</li>
+    <li class="symb" data-code="65300" code="ff14" title="fullwidth digit four">４</li>
+    <li class="symb" data-code="65301" code="ff15" title="fullwidth digit five">５</li>
+    <li class="symb" data-code="65302" code="ff16" title="fullwidth digit six">６</li>
+    <li class="symb" data-code="65303" code="ff17" title="fullwidth digit seven">７</li>
+    <li class="symb" data-code="65304" code="ff18" title="fullwidth digit eight">８</li>
+    <li class="symb" data-code="65305" code="ff19" title="fullwidth digit nine">９</li>
+    <li class="symb" data-code="65306" code="ff1a" title="fullwidth colon">：</li>
+    <li class="symb" data-code="65307" code="ff1b" title="fullwidth semicolon">；</li>
+    <li class="symb" data-code="65308" code="ff1c" title="fullwidth less-than sign">＜</li>
+    <li class="symb" data-code="65309" code="ff1d" title="fullwidth equals sign">＝</li>
+    <li class="symb" data-code="65310" code="ff1e" title="fullwidth greater-than sign">＞</li>
+    <li class="symb" data-code="65311" code="ff1f" title="fullwidth question mark">？</li>
+    <li class="h">ff20</li>
+    <li class="symb" data-code="65312" code="ff20" title="fullwidth commercial at">＠</li>
+    <li class="symb" data-code="65313" code="ff21" title="fullwidth latin capital letter a">ａ</li>
+    <li class="symb" data-code="65314" code="ff22" title="fullwidth latin capital letter b">ｂ</li>
+    <li class="symb" data-code="65315" code="ff23" title="fullwidth latin capital letter c">ｃ</li>
+    <li class="symb" data-code="65316" code="ff24" title="fullwidth latin capital letter d">ｄ</li>
+    <li class="symb" data-code="65317" code="ff25" title="fullwidth latin capital letter e">ｅ</li>
+    <li class="symb" data-code="65318" code="ff26" title="fullwidth latin capital letter f">ｆ</li>
+    <li class="symb" data-code="65319" code="ff27" title="fullwidth latin capital letter g">ｇ</li>
+    <li class="symb" data-code="65320" code="ff28" title="fullwidth latin capital letter h">ｈ</li>
+    <li class="symb" data-code="65321" code="ff29" title="fullwidth latin capital letter i">ｉ</li>
+    <li class="symb" data-code="65322" code="ff2a" title="fullwidth latin capital letter j">ｊ</li>
+    <li class="symb" data-code="65323" code="ff2b" title="fullwidth latin capital letter k">ｋ</li>
+    <li class="symb" data-code="65324" code="ff2c" title="fullwidth latin capital letter l">ｌ</li>
+    <li class="symb" data-code="65325" code="ff2d" title="fullwidth latin capital letter m">ｍ</li>
+    <li class="symb" data-code="65326" code="ff2e" title="fullwidth latin capital letter n">ｎ</li>
+    <li class="symb" data-code="65327" code="ff2f" title="fullwidth latin capital letter o">ｏ</li>
+    <li class="h">ff30</li>
+    <li class="symb" data-code="65328" code="ff30" title="fullwidth latin capital letter p">ｐ</li>
+    <li class="symb" data-code="65329" code="ff31" title="fullwidth latin capital letter q">ｑ</li>
+    <li class="symb" data-code="65330" code="ff32" title="fullwidth latin capital letter r">ｒ</li>
+    <li class="symb" data-code="65331" code="ff33" title="fullwidth latin capital letter s">ｓ</li>
+    <li class="symb" data-code="65332" code="ff34" title="fullwidth latin capital letter t">ｔ</li>
+    <li class="symb" data-code="65333" code="ff35" title="fullwidth latin capital letter u">ｕ</li>
+    <li class="symb" data-code="65334" code="ff36" title="fullwidth latin capital letter v">ｖ</li>
+    <li class="symb" data-code="65335" code="ff37" title="fullwidth latin capital letter w">ｗ</li>
+    <li class="symb" data-code="65336" code="ff38" title="fullwidth latin capital letter x">ｘ</li>
+    <li class="symb" data-code="65337" code="ff39" title="fullwidth latin capital letter y">ｙ</li>
+    <li class="symb" data-code="65338" code="ff3a" title="fullwidth latin capital letter z">ｚ</li>
+    <li class="symb" data-code="65339" code="ff3b" title="fullwidth left square bracket">［</li>
+    <li class="symb" data-code="65340" code="ff3c" title="fullwidth reverse solidus">＼</li>
+    <li class="symb" data-code="65341" code="ff3d" title="fullwidth right square bracket">］</li>
+    <li class="symb" data-code="65342" code="ff3e" title="fullwidth circumflex accent">＾</li>
+    <li class="symb" data-code="65343" code="ff3f" title="fullwidth low line">＿</li>
+    <li class="h">ff40</li>
+    <li class="symb" data-code="65344" code="ff40" title="fullwidth grave accent">｀</li>
+    <li class="symb" data-code="65345" code="ff41" title="fullwidth latin small letter a">ａ</li>
+    <li class="symb" data-code="65346" code="ff42" title="fullwidth latin small letter b">ｂ</li>
+    <li class="symb" data-code="65347" code="ff43" title="fullwidth latin small letter c">ｃ</li>
+    <li class="symb" data-code="65348" code="ff44" title="fullwidth latin small letter d">ｄ</li>
+    <li class="symb" data-code="65349" code="ff45" title="fullwidth latin small letter e">ｅ</li>
+    <li class="symb" data-code="65350" code="ff46" title="fullwidth latin small letter f">ｆ</li>
+    <li class="symb" data-code="65351" code="ff47" title="fullwidth latin small letter g">ｇ</li>
+    <li class="symb" data-code="65352" code="ff48" title="fullwidth latin small letter h">ｈ</li>
+    <li class="symb" data-code="65353" code="ff49" title="fullwidth latin small letter i">ｉ</li>
+    <li class="symb" data-code="65354" code="ff4a" title="fullwidth latin small letter j">ｊ</li>
+    <li class="symb" data-code="65355" code="ff4b" title="fullwidth latin small letter k">ｋ</li>
+    <li class="symb" data-code="65356" code="ff4c" title="fullwidth latin small letter l">ｌ</li>
+    <li class="symb" data-code="65357" code="ff4d" title="fullwidth latin small letter m">ｍ</li>
+    <li class="symb" data-code="65358" code="ff4e" title="fullwidth latin small letter n">ｎ</li>
+    <li class="symb" data-code="65359" code="ff4f" title="fullwidth latin small letter o">ｏ</li>
+    <li class="h">ff50</li>
+    <li class="symb" data-code="65360" code="ff50" title="fullwidth latin small letter p">ｐ</li>
+    <li class="symb" data-code="65361" code="ff51" title="fullwidth latin small letter q">ｑ</li>
+    <li class="symb" data-code="65362" code="ff52" title="fullwidth latin small letter r">ｒ</li>
+    <li class="symb" data-code="65363" code="ff53" title="fullwidth latin small letter s">ｓ</li>
+    <li class="symb" data-code="65364" code="ff54" title="fullwidth latin small letter t">ｔ</li>
+    <li class="symb" data-code="65365" code="ff55" title="fullwidth latin small letter u">ｕ</li>
+    <li class="symb" data-code="65366" code="ff56" title="fullwidth latin small letter v">ｖ</li>
+    <li class="symb" data-code="65367" code="ff57" title="fullwidth latin small letter w">ｗ</li>
+    <li class="symb" data-code="65368" code="ff58" title="fullwidth latin small letter x">ｘ</li>
+    <li class="symb" data-code="65369" code="ff59" title="fullwidth latin small letter y">ｙ</li>
+    <li class="symb" data-code="65370" code="ff5a" title="fullwidth latin small letter z">ｚ</li>
+    <li class="symb" data-code="65371" code="ff5b" title="fullwidth left curly bracket">｛</li>
+    <li class="symb" data-code="65372" code="ff5c" title="fullwidth vertical line">｜</li>
+    <li class="symb" data-code="65373" code="ff5d" title="fullwidth right curly bracket">｝</li>
+    <li class="symb" data-code="65374" code="ff5e" title="fullwidth tilde">～</li>
+    <li class="symb" data-code="65375" code="ff5f" title="fullwidth left white parenthesis">｟</li>
+    <li class="h">ff60</li>
+    <li class="symb" data-code="65376" code="ff60" title="fullwidth right white parenthesis">｠</li>
+    <li class="symb" data-code="65377" code="ff61" title="halfwidth ideographic full stop">｡</li>
+    <li class="symb" data-code="65378" code="ff62" title="halfwidth left corner bracket">｢</li>
+    <li class="symb" data-code="65379" code="ff63" title="halfwidth right corner bracket">｣</li>
+    <li class="symb" data-code="65380" code="ff64" title="halfwidth ideographic comma">､</li>
+    <li class="symb" data-code="65381" code="ff65" title="halfwidth katakana middle dot">･</li>
+    <li class="symb" data-code="65382" code="ff66" title="halfwidth katakana letter wo">ｦ</li>
+    <li class="symb" data-code="65383" code="ff67" title="halfwidth katakana letter small a">ｧ</li>
+    <li class="symb" data-code="65384" code="ff68" title="halfwidth katakana letter small i">ｨ</li>
+    <li class="symb" data-code="65385" code="ff69" title="halfwidth katakana letter small u">ｩ</li>
+    <li class="symb" data-code="65386" code="ff6a" title="halfwidth katakana letter small e">ｪ</li>
+    <li class="symb" data-code="65387" code="ff6b" title="halfwidth katakana letter small o">ｫ</li>
+    <li class="symb" data-code="65388" code="ff6c" title="halfwidth katakana letter small ya">ｬ</li>
+    <li class="symb" data-code="65389" code="ff6d" title="halfwidth katakana letter small yu">ｭ</li>
+    <li class="symb" data-code="65390" code="ff6e" title="halfwidth katakana letter small yo">ｮ</li>
+    <li class="symb" data-code="65391" code="ff6f" title="halfwidth katakana letter small tu">ｯ</li>
+    <li class="h">ff70</li>
+    <li class="symb" data-code="65392" code="ff70" title="halfwidth katakana-hiragana prolonged sound mark">ｰ</li>
+    <li class="symb" data-code="65393" code="ff71" title="halfwidth katakana letter a">ｱ</li>
+    <li class="symb" data-code="65394" code="ff72" title="halfwidth katakana letter i">ｲ</li>
+    <li class="symb" data-code="65395" code="ff73" title="halfwidth katakana letter u">ｳ</li>
+    <li class="symb" data-code="65396" code="ff74" title="halfwidth katakana letter e">ｴ</li>
+    <li class="symb" data-code="65397" code="ff75" title="halfwidth katakana letter o">ｵ</li>
+    <li class="symb" data-code="65398" code="ff76" title="halfwidth katakana letter ka">ｶ</li>
+    <li class="symb" data-code="65399" code="ff77" title="halfwidth katakana letter ki">ｷ</li>
+    <li class="symb" data-code="65400" code="ff78" title="halfwidth katakana letter ku">ｸ</li>
+    <li class="symb" data-code="65401" code="ff79" title="halfwidth katakana letter ke">ｹ</li>
+    <li class="symb" data-code="65402" code="ff7a" title="halfwidth katakana letter ko">ｺ</li>
+    <li class="symb" data-code="65403" code="ff7b" title="halfwidth katakana letter sa">ｻ</li>
+    <li class="symb" data-code="65404" code="ff7c" title="halfwidth katakana letter si">ｼ</li>
+    <li class="symb" data-code="65405" code="ff7d" title="halfwidth katakana letter su">ｽ</li>
+    <li class="symb" data-code="65406" code="ff7e" title="halfwidth katakana letter se">ｾ</li>
+    <li class="symb" data-code="65407" code="ff7f" title="halfwidth katakana letter so">ｿ</li>
+    <li class="h">ff80</li>
+    <li class="symb" data-code="65408" code="ff80" title="halfwidth katakana letter ta">ﾀ</li>
+    <li class="symb" data-code="65409" code="ff81" title="halfwidth katakana letter ti">ﾁ</li>
+    <li class="symb" data-code="65410" code="ff82" title="halfwidth katakana letter tu">ﾂ</li>
+    <li class="symb" data-code="65411" code="ff83" title="halfwidth katakana letter te">ﾃ</li>
+    <li class="symb" data-code="65412" code="ff84" title="halfwidth katakana letter to">ﾄ</li>
+    <li class="symb" data-code="65413" code="ff85" title="halfwidth katakana letter na">ﾅ</li>
+    <li class="symb" data-code="65414" code="ff86" title="halfwidth katakana letter ni">ﾆ</li>
+    <li class="symb" data-code="65415" code="ff87" title="halfwidth katakana letter nu">ﾇ</li>
+    <li class="symb" data-code="65416" code="ff88" title="halfwidth katakana letter ne">ﾈ</li>
+    <li class="symb" data-code="65417" code="ff89" title="halfwidth katakana letter no">ﾉ</li>
+    <li class="symb" data-code="65418" code="ff8a" title="halfwidth katakana letter ha">ﾊ</li>
+    <li class="symb" data-code="65419" code="ff8b" title="halfwidth katakana letter hi">ﾋ</li>
+    <li class="symb" data-code="65420" code="ff8c" title="halfwidth katakana letter hu">ﾌ</li>
+    <li class="symb" data-code="65421" code="ff8d" title="halfwidth katakana letter he">ﾍ</li>
+    <li class="symb" data-code="65422" code="ff8e" title="halfwidth katakana letter ho">ﾎ</li>
+    <li class="symb" data-code="65423" code="ff8f" title="halfwidth katakana letter ma">ﾏ</li>
+    <li class="h">ff90</li>
+    <li class="symb" data-code="65424" code="ff90" title="halfwidth katakana letter mi">ﾐ</li>
+    <li class="symb" data-code="65425" code="ff91" title="halfwidth katakana letter mu">ﾑ</li>
+    <li class="symb" data-code="65426" code="ff92" title="halfwidth katakana letter me">ﾒ</li>
+    <li class="symb" data-code="65427" code="ff93" title="halfwidth katakana letter mo">ﾓ</li>
+    <li class="symb" data-code="65428" code="ff94" title="halfwidth katakana letter ya">ﾔ</li>
+    <li class="symb" data-code="65429" code="ff95" title="halfwidth katakana letter yu">ﾕ</li>
+    <li class="symb" data-code="65430" code="ff96" title="halfwidth katakana letter yo">ﾖ</li>
+    <li class="symb" data-code="65431" code="ff97" title="halfwidth katakana letter ra">ﾗ</li>
+    <li class="symb" data-code="65432" code="ff98" title="halfwidth katakana letter ri">ﾘ</li>
+    <li class="symb" data-code="65433" code="ff99" title="halfwidth katakana letter ru">ﾙ</li>
+    <li class="symb" data-code="65434" code="ff9a" title="halfwidth katakana letter re">ﾚ</li>
+    <li class="symb" data-code="65435" code="ff9b" title="halfwidth katakana letter ro">ﾛ</li>
+    <li class="symb" data-code="65436" code="ff9c" title="halfwidth katakana letter wa">ﾜ</li>
+    <li class="symb" data-code="65437" code="ff9d" title="halfwidth katakana letter n">ﾝ</li>
+    <li class="symb" data-code="65438" code="ff9e" title="halfwidth katakana voiced sound mark">ﾞ</li>
+    <li class="symb" data-code="65439" code="ff9f" title="halfwidth katakana semi-voiced sound mark">ﾟ</li>
+    <li class="h">ffa0</li>
+    <li class="symb" data-code="65440" code="ffa0" title="halfwidth hangul filler">ﾠ</li>
+    <li class="symb" data-code="65441" code="ffa1" title="halfwidth hangul letter kiyeok">ﾡ</li>
+    <li class="symb" data-code="65442" code="ffa2" title="halfwidth hangul letter ssangkiyeok">ﾢ</li>
+    <li class="symb" data-code="65443" code="ffa3" title="halfwidth hangul letter kiyeok-sios">ﾣ</li>
+    <li class="symb" data-code="65444" code="ffa4" title="halfwidth hangul letter nieun">ﾤ</li>
+    <li class="symb" data-code="65445" code="ffa5" title="halfwidth hangul letter nieun-cieuc">ﾥ</li>
+    <li class="symb" data-code="65446" code="ffa6" title="halfwidth hangul letter nieun-hieuh">ﾦ</li>
+    <li class="symb" data-code="65447" code="ffa7" title="halfwidth hangul letter tikeut">ﾧ</li>
+    <li class="symb" data-code="65448" code="ffa8" title="halfwidth hangul letter ssangtikeut">ﾨ</li>
+    <li class="symb" data-code="65449" code="ffa9" title="halfwidth hangul letter rieul">ﾩ</li>
+    <li class="symb" data-code="65450" code="ffaa" title="halfwidth hangul letter rieul-kiyeok">ﾪ</li>
+    <li class="symb" data-code="65451" code="ffab" title="halfwidth hangul letter rieul-mieum">ﾫ</li>
+    <li class="symb" data-code="65452" code="ffac" title="halfwidth hangul letter rieul-pieup">ﾬ</li>
+    <li class="symb" data-code="65453" code="ffad" title="halfwidth hangul letter rieul-sios">ﾭ</li>
+    <li class="symb" data-code="65454" code="ffae" title="halfwidth hangul letter rieul-thieuth">ﾮ</li>
+    <li class="symb" data-code="65455" code="ffaf" title="halfwidth hangul letter rieul-phieuph">ﾯ</li>
+    <li class="h">ffb0</li>
+    <li class="symb" data-code="65456" code="ffb0" title="halfwidth hangul letter rieul-hieuh">ﾰ</li>
+    <li class="symb" data-code="65457" code="ffb1" title="halfwidth hangul letter mieum">ﾱ</li>
+    <li class="symb" data-code="65458" code="ffb2" title="halfwidth hangul letter pieup">ﾲ</li>
+    <li class="symb" data-code="65459" code="ffb3" title="halfwidth hangul letter ssangpieup">ﾳ</li>
+    <li class="symb" data-code="65460" code="ffb4" title="halfwidth hangul letter pieup-sios">ﾴ</li>
+    <li class="symb" data-code="65461" code="ffb5" title="halfwidth hangul letter sios">ﾵ</li>
+    <li class="symb" data-code="65462" code="ffb6" title="halfwidth hangul letter ssangsios">ﾶ</li>
+    <li class="symb" data-code="65463" code="ffb7" title="halfwidth hangul letter ieung">ﾷ</li>
+    <li class="symb" data-code="65464" code="ffb8" title="halfwidth hangul letter cieuc">ﾸ</li>
+    <li class="symb" data-code="65465" code="ffb9" title="halfwidth hangul letter ssangcieuc">ﾹ</li>
+    <li class="symb" data-code="65466" code="ffba" title="halfwidth hangul letter chieuch">ﾺ</li>
+    <li class="symb" data-code="65467" code="ffbb" title="halfwidth hangul letter khieukh">ﾻ</li>
+    <li class="symb" data-code="65468" code="ffbc" title="halfwidth hangul letter thieuth">ﾼ</li>
+    <li class="symb" data-code="65469" code="ffbd" title="halfwidth hangul letter phieuph">ﾽ</li>
+    <li class="symb" data-code="65470" code="ffbe" title="halfwidth hangul letter hieuh">ﾾ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">ffc0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65474" code="ffc2" title="halfwidth hangul letter a">ￂ</li>
+    <li class="symb" data-code="65475" code="ffc3" title="halfwidth hangul letter ae">ￃ</li>
+    <li class="symb" data-code="65476" code="ffc4" title="halfwidth hangul letter ya">ￄ</li>
+    <li class="symb" data-code="65477" code="ffc5" title="halfwidth hangul letter yae">ￅ</li>
+    <li class="symb" data-code="65478" code="ffc6" title="halfwidth hangul letter eo">ￆ</li>
+    <li class="symb" data-code="65479" code="ffc7" title="halfwidth hangul letter e">ￇ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65482" code="ffca" title="halfwidth hangul letter yeo">ￊ</li>
+    <li class="symb" data-code="65483" code="ffcb" title="halfwidth hangul letter ye">ￋ</li>
+    <li class="symb" data-code="65484" code="ffcc" title="halfwidth hangul letter o">ￌ</li>
+    <li class="symb" data-code="65485" code="ffcd" title="halfwidth hangul letter wa">ￍ</li>
+    <li class="symb" data-code="65486" code="ffce" title="halfwidth hangul letter wae">ￎ</li>
+    <li class="symb" data-code="65487" code="ffcf" title="halfwidth hangul letter oe">ￏ</li>
+    <li class="h">ffd0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65490" code="ffd2" title="halfwidth hangul letter yo">ￒ</li>
+    <li class="symb" data-code="65491" code="ffd3" title="halfwidth hangul letter u">ￓ</li>
+    <li class="symb" data-code="65492" code="ffd4" title="halfwidth hangul letter weo">ￔ</li>
+    <li class="symb" data-code="65493" code="ffd5" title="halfwidth hangul letter we">ￕ</li>
+    <li class="symb" data-code="65494" code="ffd6" title="halfwidth hangul letter wi">ￖ</li>
+    <li class="symb" data-code="65495" code="ffd7" title="halfwidth hangul letter yu">ￗ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65498" code="ffda" title="halfwidth hangul letter eu">ￚ</li>
+    <li class="symb" data-code="65499" code="ffdb" title="halfwidth hangul letter yi">ￛ</li>
+    <li class="symb" data-code="65500" code="ffdc" title="halfwidth hangul letter i">ￜ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">ffe0</li>
+    <li class="symb" data-code="65504" code="ffe0" title="fullwidth cent sign">￠</li>
+    <li class="symb" data-code="65505" code="ffe1" title="fullwidth pound sign">￡</li>
+    <li class="symb" data-code="65506" code="ffe2" title="fullwidth not sign">￢</li>
+    <li class="symb" data-code="65507" code="ffe3" title="fullwidth macron">￣</li>
+    <li class="symb" data-code="65508" code="ffe4" title="fullwidth broken bar">￤</li>
+    <li class="symb" data-code="65509" code="ffe5" title="fullwidth yen sign">￥</li>
+    <li class="symb" data-code="65510" code="ffe6" title="fullwidth won sign">￦</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65512" code="ffe8" title="halfwidth forms light vertical">￨</li>
+    <li class="symb" data-code="65513" code="ffe9" title="halfwidth leftwards arrow">￩</li>
+    <li class="symb" data-code="65514" code="ffea" title="halfwidth upwards arrow">￪</li>
+    <li class="symb" data-code="65515" code="ffeb" title="halfwidth rightwards arrow">￫</li>
+    <li class="symb" data-code="65516" code="ffec" title="halfwidth downwards arrow">￬</li>
+    <li class="symb" data-code="65517" code="ffed" title="halfwidth black square">￭</li>
+    <li class="symb" data-code="65518" code="ffee" title="halfwidth white circle">￮</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

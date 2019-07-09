@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0000</li>
+    <li class="symb" data-code="0" code="0000" title="null"></li>
+    <li class="symb" data-code="1" code="0001" title="start of heading"></li>
+    <li class="symb" data-code="2" code="0002" title="start of text"></li>
+    <li class="symb" data-code="3" code="0003" title="end of text"></li>
+    <li class="symb" data-code="4" code="0004" title="end of transmission"></li>
+    <li class="symb" data-code="5" code="0005" title="enquiry"></li>
+    <li class="symb" data-code="6" code="0006" title="acknowledge"></li>
+    <li class="symb" data-code="7" code="0007" title="bell"></li>
+    <li class="symb" data-code="8" code="0008" title="backspace"></li>
+    <li class="symb" data-code="9" code="0009" title="horizontal tabulation"></li>
+    <li class="symb" data-code="10" code="000a" title="new line (nl)"></li>
+    <li class="symb" data-code="11" code="000b" title="vertical tabulation"></li>
+    <li class="symb" data-code="12" code="000c" title="form feed"></li>
+    <li class="symb" data-code="13" code="000d" title="carriage return"></li>
+    <li class="symb" data-code="14" code="000e" title="shift out"></li>
+    <li class="symb" data-code="15" code="000f" title="shift in"></li>
+    <li class="h">0010</li>
+    <li class="symb" data-code="16" code="0010" title="data link escape"></li>
+    <li class="symb" data-code="17" code="0011" title="device control one"></li>
+    <li class="symb" data-code="18" code="0012" title="device control two"></li>
+    <li class="symb" data-code="19" code="0013" title="device control three"></li>
+    <li class="symb" data-code="20" code="0014" title="device control four"></li>
+    <li class="symb" data-code="21" code="0015" title="negative acknowledge"></li>
+    <li class="symb" data-code="22" code="0016" title="synchronous idle"></li>
+    <li class="symb" data-code="23" code="0017" title="end of transmission block"></li>
+    <li class="symb" data-code="24" code="0018" title="cancel"></li>
+    <li class="symb" data-code="25" code="0019" title="end of medium"></li>
+    <li class="symb" data-code="26" code="001a" title="substitute"></li>
+    <li class="symb" data-code="27" code="001b" title="escape"></li>
+    <li class="symb" data-code="28" code="001c" title="file separator"></li>
+    <li class="symb" data-code="29" code="001d" title="group separator"></li>
+    <li class="symb" data-code="30" code="001e" title="record separator"></li>
+    <li class="symb" data-code="31" code="001f" title="unit separator"></li>
+  </ul>
+</root>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">3100</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="12549" code="3105" title="bopomofo letter b">ㄅ</li>
+    <li class="symb" data-code="12550" code="3106" title="bopomofo letter p">ㄆ</li>
+    <li class="symb" data-code="12551" code="3107" title="bopomofo letter m">ㄇ</li>
+    <li class="symb" data-code="12552" code="3108" title="bopomofo letter f">ㄈ</li>
+    <li class="symb" data-code="12553" code="3109" title="bopomofo letter d">ㄉ</li>
+    <li class="symb" data-code="12554" code="310a" title="bopomofo letter t">ㄊ</li>
+    <li class="symb" data-code="12555" code="310b" title="bopomofo letter n">ㄋ</li>
+    <li class="symb" data-code="12556" code="310c" title="bopomofo letter l">ㄌ</li>
+    <li class="symb" data-code="12557" code="310d" title="bopomofo letter g">ㄍ</li>
+    <li class="symb" data-code="12558" code="310e" title="bopomofo letter k">ㄎ</li>
+    <li class="symb" data-code="12559" code="310f" title="bopomofo letter h">ㄏ</li>
+    <li class="h">3110</li>
+    <li class="symb" data-code="12560" code="3110" title="bopomofo letter j">ㄐ</li>
+    <li class="symb" data-code="12561" code="3111" title="bopomofo letter q">ㄑ</li>
+    <li class="symb" data-code="12562" code="3112" title="bopomofo letter x">ㄒ</li>
+    <li class="symb" data-code="12563" code="3113" title="bopomofo letter zh">ㄓ</li>
+    <li class="symb" data-code="12564" code="3114" title="bopomofo letter ch">ㄔ</li>
+    <li class="symb" data-code="12565" code="3115" title="bopomofo letter sh">ㄕ</li>
+    <li class="symb" data-code="12566" code="3116" title="bopomofo letter r">ㄖ</li>
+    <li class="symb" data-code="12567" code="3117" title="bopomofo letter z">ㄗ</li>
+    <li class="symb" data-code="12568" code="3118" title="bopomofo letter c">ㄘ</li>
+    <li class="symb" data-code="12569" code="3119" title="bopomofo letter s">ㄙ</li>
+    <li class="symb" data-code="12570" code="311a" title="bopomofo letter a">ㄚ</li>
+    <li class="symb" data-code="12571" code="311b" title="bopomofo letter o">ㄛ</li>
+    <li class="symb" data-code="12572" code="311c" title="bopomofo letter e">ㄜ</li>
+    <li class="symb" data-code="12573" code="311d" title="bopomofo letter eh">ㄝ</li>
+    <li class="symb" data-code="12574" code="311e" title="bopomofo letter ai">ㄞ</li>
+    <li class="symb" data-code="12575" code="311f" title="bopomofo letter ei">ㄟ</li>
+    <li class="h">3120</li>
+    <li class="symb" data-code="12576" code="3120" title="bopomofo letter au">ㄠ</li>
+    <li class="symb" data-code="12577" code="3121" title="bopomofo letter ou">ㄡ</li>
+    <li class="symb" data-code="12578" code="3122" title="bopomofo letter an">ㄢ</li>
+    <li class="symb" data-code="12579" code="3123" title="bopomofo letter en">ㄣ</li>
+    <li class="symb" data-code="12580" code="3124" title="bopomofo letter ang">ㄤ</li>
+    <li class="symb" data-code="12581" code="3125" title="bopomofo letter eng">ㄥ</li>
+    <li class="symb" data-code="12582" code="3126" title="bopomofo letter er">ㄦ</li>
+    <li class="symb" data-code="12583" code="3127" title="bopomofo letter i">ㄧ</li>
+    <li class="symb" data-code="12584" code="3128" title="bopomofo letter u">ㄨ</li>
+    <li class="symb" data-code="12585" code="3129" title="bopomofo letter iu">ㄩ</li>
+    <li class="symb" data-code="12586" code="312a" title="bopomofo letter v">ㄪ</li>
+    <li class="symb" data-code="12587" code="312b" title="bopomofo letter ng">ㄫ</li>
+    <li class="symb" data-code="12588" code="312c" title="bopomofo letter gn">ㄬ</li>
+    <li class="symb" data-code="12589" code="312d" title="bopomofo letter ih">ㄭ</li>
+    <li class="symb" data-code="12590" code="312e" title="bopomofo letter o with dot above">ㄮ</li>
+    <li class="symb" data-code="12591" code="312f" title="bopomofo letter nn">ㄯ</li>
+  </ul>
+</root>

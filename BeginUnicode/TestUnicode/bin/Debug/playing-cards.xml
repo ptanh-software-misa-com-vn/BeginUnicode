@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1f0a0</li>
+    <li class="symb" data-code="127136" code="1f0a0" title="playing card back">🂠</li>
+    <li class="symb" data-code="127137" code="1f0a1" title="playing card ace of spades">🂡</li>
+    <li class="symb" data-code="127138" code="1f0a2" title="playing card two of spades">🂢</li>
+    <li class="symb" data-code="127139" code="1f0a3" title="playing card three of spades">🂣</li>
+    <li class="symb" data-code="127140" code="1f0a4" title="playing card four of spades">🂤</li>
+    <li class="symb" data-code="127141" code="1f0a5" title="playing card five of spades">🂥</li>
+    <li class="symb" data-code="127142" code="1f0a6" title="playing card six of spades">🂦</li>
+    <li class="symb" data-code="127143" code="1f0a7" title="playing card seven of spades">🂧</li>
+    <li class="symb" data-code="127144" code="1f0a8" title="playing card eight of spades">🂨</li>
+    <li class="symb" data-code="127145" code="1f0a9" title="playing card nine of spades">🂩</li>
+    <li class="symb" data-code="127146" code="1f0aa" title="playing card ten of spades">🂪</li>
+    <li class="symb" data-code="127147" code="1f0ab" title="playing card jack of spades">🂫</li>
+    <li class="symb" data-code="127148" code="1f0ac" title="playing card knight of spades">🂬</li>
+    <li class="symb" data-code="127149" code="1f0ad" title="playing card queen of spades">🂭</li>
+    <li class="symb" data-code="127150" code="1f0ae" title="playing card king of spades">🂮</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f0b0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="127153" code="1f0b1" title="playing card ace of hearts">🂱</li>
+    <li class="symb" data-code="127154" code="1f0b2" title="playing card two of hearts">🂲</li>
+    <li class="symb" data-code="127155" code="1f0b3" title="playing card three of hearts">🂳</li>
+    <li class="symb" data-code="127156" code="1f0b4" title="playing card four of hearts">🂴</li>
+    <li class="symb" data-code="127157" code="1f0b5" title="playing card five of hearts">🂵</li>
+    <li class="symb" data-code="127158" code="1f0b6" title="playing card six of hearts">🂶</li>
+    <li class="symb" data-code="127159" code="1f0b7" title="playing card seven of hearts">🂷</li>
+    <li class="symb" data-code="127160" code="1f0b8" title="playing card eight of hearts">🂸</li>
+    <li class="symb" data-code="127161" code="1f0b9" title="playing card nine of hearts">🂹</li>
+    <li class="symb" data-code="127162" code="1f0ba" title="playing card ten of hearts">🂺</li>
+    <li class="symb" data-code="127163" code="1f0bb" title="playing card jack of hearts">🂻</li>
+    <li class="symb" data-code="127164" code="1f0bc" title="playing card knight of hearts">🂼</li>
+    <li class="symb" data-code="127165" code="1f0bd" title="playing card queen of hearts">🂽</li>
+    <li class="symb" data-code="127166" code="1f0be" title="playing card king of hearts">🂾</li>
+    <li class="symb" data-code="127167" code="1f0bf" title="playing card red joker">🂿</li>
+    <li class="h">1f0c0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="127169" code="1f0c1" title="playing card ace of diamonds">🃁</li>
+    <li class="symb" data-code="127170" code="1f0c2" title="playing card two of diamonds">🃂</li>
+    <li class="symb" data-code="127171" code="1f0c3" title="playing card three of diamonds">🃃</li>
+    <li class="symb" data-code="127172" code="1f0c4" title="playing card four of diamonds">🃄</li>
+    <li class="symb" data-code="127173" code="1f0c5" title="playing card five of diamonds">🃅</li>
+    <li class="symb" data-code="127174" code="1f0c6" title="playing card six of diamonds">🃆</li>
+    <li class="symb" data-code="127175" code="1f0c7" title="playing card seven of diamonds">🃇</li>
+    <li class="symb" data-code="127176" code="1f0c8" title="playing card eight of diamonds">🃈</li>
+    <li class="symb" data-code="127177" code="1f0c9" title="playing card nine of diamonds">🃉</li>
+    <li class="symb" data-code="127178" code="1f0ca" title="playing card ten of diamonds">🃊</li>
+    <li class="symb" data-code="127179" code="1f0cb" title="playing card jack of diamonds">🃋</li>
+    <li class="symb" data-code="127180" code="1f0cc" title="playing card knight of diamonds">🃌</li>
+    <li class="symb" data-code="127181" code="1f0cd" title="playing card queen of diamonds">🃍</li>
+    <li class="symb" data-code="127182" code="1f0ce" title="playing card king of diamonds">🃎</li>
+    <li class="symb" data-code="127183" code="1f0cf" title="playing card black joker">🃏</li>
+    <li class="h">1f0d0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="127185" code="1f0d1" title="playing card ace of clubs">🃑</li>
+    <li class="symb" data-code="127186" code="1f0d2" title="playing card two of clubs">🃒</li>
+    <li class="symb" data-code="127187" code="1f0d3" title="playing card three of clubs">🃓</li>
+    <li class="symb" data-code="127188" code="1f0d4" title="playing card four of clubs">🃔</li>
+    <li class="symb" data-code="127189" code="1f0d5" title="playing card five of clubs">🃕</li>
+    <li class="symb" data-code="127190" code="1f0d6" title="playing card six of clubs">🃖</li>
+    <li class="symb" data-code="127191" code="1f0d7" title="playing card seven of clubs">🃗</li>
+    <li class="symb" data-code="127192" code="1f0d8" title="playing card eight of clubs">🃘</li>
+    <li class="symb" data-code="127193" code="1f0d9" title="playing card nine of clubs">🃙</li>
+    <li class="symb" data-code="127194" code="1f0da" title="playing card ten of clubs">🃚</li>
+    <li class="symb" data-code="127195" code="1f0db" title="playing card jack of clubs">🃛</li>
+    <li class="symb" data-code="127196" code="1f0dc" title="playing card knight of clubs">🃜</li>
+    <li class="symb" data-code="127197" code="1f0dd" title="playing card queen of clubs">🃝</li>
+    <li class="symb" data-code="127198" code="1f0de" title="playing card king of clubs">🃞</li>
+    <li class="symb" data-code="127199" code="1f0df" title="playing card white joker">🃟</li>
+    <li class="h">1f0e0</li>
+    <li class="symb" data-code="127200" code="1f0e0" title="playing card fool">🃠</li>
+    <li class="symb" data-code="127201" code="1f0e1" title="playing card trump-1">🃡</li>
+    <li class="symb" data-code="127202" code="1f0e2" title="playing card trump-2">🃢</li>
+    <li class="symb" data-code="127203" code="1f0e3" title="playing card trump-3">🃣</li>
+    <li class="symb" data-code="127204" code="1f0e4" title="playing card trump-4">🃤</li>
+    <li class="symb" data-code="127205" code="1f0e5" title="playing card trump-5">🃥</li>
+    <li class="symb" data-code="127206" code="1f0e6" title="playing card trump-6">🃦</li>
+    <li class="symb" data-code="127207" code="1f0e7" title="playing card trump-7">🃧</li>
+    <li class="symb" data-code="127208" code="1f0e8" title="playing card trump-8">🃨</li>
+    <li class="symb" data-code="127209" code="1f0e9" title="playing card trump-9">🃩</li>
+    <li class="symb" data-code="127210" code="1f0ea" title="playing card trump-10">🃪</li>
+    <li class="symb" data-code="127211" code="1f0eb" title="playing card trump-11">🃫</li>
+    <li class="symb" data-code="127212" code="1f0ec" title="playing card trump-12">🃬</li>
+    <li class="symb" data-code="127213" code="1f0ed" title="playing card trump-13">🃭</li>
+    <li class="symb" data-code="127214" code="1f0ee" title="playing card trump-14">🃮</li>
+    <li class="symb" data-code="127215" code="1f0ef" title="playing card trump-15">🃯</li>
+    <li class="h">1f0f0</li>
+    <li class="symb" data-code="127216" code="1f0f0" title="playing card trump-16">🃰</li>
+    <li class="symb" data-code="127217" code="1f0f1" title="playing card trump-17">🃱</li>
+    <li class="symb" data-code="127218" code="1f0f2" title="playing card trump-18">🃲</li>
+    <li class="symb" data-code="127219" code="1f0f3" title="playing card trump-19">🃳</li>
+    <li class="symb" data-code="127220" code="1f0f4" title="playing card trump-20">🃴</li>
+    <li class="symb" data-code="127221" code="1f0f5" title="playing card trump-21">🃵</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">10880</li>
+    <li class="symb" data-code="67712" code="10880" title="nabataean letter final aleph">𐢀</li>
+    <li class="symb" data-code="67713" code="10881" title="nabataean letter aleph">𐢁</li>
+    <li class="symb" data-code="67714" code="10882" title="nabataean letter final beth">𐢂</li>
+    <li class="symb" data-code="67715" code="10883" title="nabataean letter beth">𐢃</li>
+    <li class="symb" data-code="67716" code="10884" title="nabataean letter gimel">𐢄</li>
+    <li class="symb" data-code="67717" code="10885" title="nabataean letter daleth">𐢅</li>
+    <li class="symb" data-code="67718" code="10886" title="nabataean letter final he">𐢆</li>
+    <li class="symb" data-code="67719" code="10887" title="nabataean letter he">𐢇</li>
+    <li class="symb" data-code="67720" code="10888" title="nabataean letter waw">𐢈</li>
+    <li class="symb" data-code="67721" code="10889" title="nabataean letter zayin">𐢉</li>
+    <li class="symb" data-code="67722" code="1088a" title="nabataean letter heth">𐢊</li>
+    <li class="symb" data-code="67723" code="1088b" title="nabataean letter teth">𐢋</li>
+    <li class="symb" data-code="67724" code="1088c" title="nabataean letter final yodh">𐢌</li>
+    <li class="symb" data-code="67725" code="1088d" title="nabataean letter yodh">𐢍</li>
+    <li class="symb" data-code="67726" code="1088e" title="nabataean letter final kaph">𐢎</li>
+    <li class="symb" data-code="67727" code="1088f" title="nabataean letter kaph">𐢏</li>
+    <li class="h">10890</li>
+    <li class="symb" data-code="67728" code="10890" title="nabataean letter final lamedh">𐢐</li>
+    <li class="symb" data-code="67729" code="10891" title="nabataean letter lamedh">𐢑</li>
+    <li class="symb" data-code="67730" code="10892" title="nabataean letter final mem">𐢒</li>
+    <li class="symb" data-code="67731" code="10893" title="nabataean letter mem">𐢓</li>
+    <li class="symb" data-code="67732" code="10894" title="nabataean letter final nun">𐢔</li>
+    <li class="symb" data-code="67733" code="10895" title="nabataean letter nun">𐢕</li>
+    <li class="symb" data-code="67734" code="10896" title="nabataean letter samekh">𐢖</li>
+    <li class="symb" data-code="67735" code="10897" title="nabataean letter ayin">𐢗</li>
+    <li class="symb" data-code="67736" code="10898" title="nabataean letter pe">𐢘</li>
+    <li class="symb" data-code="67737" code="10899" title="nabataean letter sadhe">𐢙</li>
+    <li class="symb" data-code="67738" code="1089a" title="nabataean letter qoph">𐢚</li>
+    <li class="symb" data-code="67739" code="1089b" title="nabataean letter resh">𐢛</li>
+    <li class="symb" data-code="67740" code="1089c" title="nabataean letter final shin">𐢜</li>
+    <li class="symb" data-code="67741" code="1089d" title="nabataean letter shin">𐢝</li>
+    <li class="symb" data-code="67742" code="1089e" title="nabataean letter taw">𐢞</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">108a0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="67751" code="108a7" title="nabataean number one">𐢧</li>
+    <li class="symb" data-code="67752" code="108a8" title="nabataean number two">𐢨</li>
+    <li class="symb" data-code="67753" code="108a9" title="nabataean number three">𐢩</li>
+    <li class="symb" data-code="67754" code="108aa" title="nabataean number four">𐢪</li>
+    <li class="symb" data-code="67755" code="108ab" title="nabataean cruciform number four">𐢫</li>
+    <li class="symb" data-code="67756" code="108ac" title="nabataean number five">𐢬</li>
+    <li class="symb" data-code="67757" code="108ad" title="nabataean number ten">𐢭</li>
+    <li class="symb" data-code="67758" code="108ae" title="nabataean number twenty">𐢮</li>
+    <li class="symb" data-code="67759" code="108af" title="nabataean number one hundred">𐢯</li>
+  </ul>
+</root>

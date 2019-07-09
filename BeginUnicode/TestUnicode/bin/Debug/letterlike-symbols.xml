@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2100</li>
+    <li class="symb" data-code="8448" code="2100" title="account of">℀</li>
+    <li class="symb" data-code="8449" code="2101" title="addressed to the subject">℁</li>
+    <li class="symb" data-code="8450" code="2102" title="double-struck capital c">ℂ</li>
+    <li class="symb" data-code="8451" code="2103" title="degree celsius">℃</li>
+    <li class="symb" data-code="8452" code="2104" title="centre line symbol">℄</li>
+    <li class="symb" data-code="8453" code="2105" title="care of">℅</li>
+    <li class="symb" data-code="8454" code="2106" title="cada una">℆</li>
+    <li class="symb" data-code="8455" code="2107" title="euler constant">ℇ</li>
+    <li class="symb" data-code="8456" code="2108" title="scruple">℈</li>
+    <li class="symb" data-code="8457" code="2109" title="degree fahrenheit">℉</li>
+    <li class="symb" data-code="8458" code="210a" title="script small g">ℊ</li>
+    <li class="symb" data-code="8459" code="210b" title="script capital h">ℋ</li>
+    <li class="symb" data-code="8460" code="210c" title="black-letter capital h">ℌ</li>
+    <li class="symb" data-code="8461" code="210d" title="double-struck capital h">ℍ</li>
+    <li class="symb" data-code="8462" code="210e" title="planck constant">ℎ</li>
+    <li class="symb" data-code="8463" code="210f" title="planck constant over two pi">ℏ</li>
+    <li class="h">2110</li>
+    <li class="symb" data-code="8464" code="2110" title="script capital i">ℐ</li>
+    <li class="symb" data-code="8465" code="2111" title="black-letter capital i">ℑ</li>
+    <li class="symb" data-code="8466" code="2112" title="script capital l">ℒ</li>
+    <li class="symb" data-code="8467" code="2113" title="script small l">ℓ</li>
+    <li class="symb" data-code="8468" code="2114" title="l b bar symbol">℔</li>
+    <li class="symb" data-code="8469" code="2115" title="double-struck capital n">ℕ</li>
+    <li class="symb" data-code="8470" code="2116" title="numero sign">№</li>
+    <li class="symb" data-code="8471" code="2117" title="sound recording copyright">℗</li>
+    <li class="symb" data-code="8472" code="2118" title="script capital p">℘</li>
+    <li class="symb" data-code="8473" code="2119" title="double-struck capital p">ℙ</li>
+    <li class="symb" data-code="8474" code="211a" title="double-struck capital q">ℚ</li>
+    <li class="symb" data-code="8475" code="211b" title="script capital r">ℛ</li>
+    <li class="symb" data-code="8476" code="211c" title="black-letter capital r">ℜ</li>
+    <li class="symb" data-code="8477" code="211d" title="double-struck capital r">ℝ</li>
+    <li class="symb" data-code="8478" code="211e" title="prescription take">℞</li>
+    <li class="symb" data-code="8479" code="211f" title="response">℟</li>
+    <li class="h">2120</li>
+    <li class="symb" data-code="8480" code="2120" title="service mark">℠</li>
+    <li class="symb" data-code="8481" code="2121" title="telephone sign">℡</li>
+    <li class="symb" data-code="8482" code="2122" title="trade mark sign">™</li>
+    <li class="symb" data-code="8483" code="2123" title="versicle">℣</li>
+    <li class="symb" data-code="8484" code="2124" title="double-struck capital z">ℤ</li>
+    <li class="symb" data-code="8485" code="2125" title="ounce sign">℥</li>
+    <li class="symb" data-code="8486" code="2126" title="ohm sign">ω</li>
+    <li class="symb" data-code="8487" code="2127" title="inverted ohm sign">℧</li>
+    <li class="symb" data-code="8488" code="2128" title="black-letter capital z">ℨ</li>
+    <li class="symb" data-code="8489" code="2129" title="turned greek small letter iota">℩</li>
+    <li class="symb" data-code="8490" code="212a" title="kelvin sign">k</li>
+    <li class="symb" data-code="8491" code="212b" title="angstrom sign">å</li>
+    <li class="symb" data-code="8492" code="212c" title="script capital b">ℬ</li>
+    <li class="symb" data-code="8493" code="212d" title="black-letter capital c">ℭ</li>
+    <li class="symb" data-code="8494" code="212e" title="estimated symbol">℮</li>
+    <li class="symb" data-code="8495" code="212f" title="script small e">ℯ</li>
+    <li class="h">2130</li>
+    <li class="symb" data-code="8496" code="2130" title="script capital e">ℰ</li>
+    <li class="symb" data-code="8497" code="2131" title="script capital f">ℱ</li>
+    <li class="symb" data-code="8498" code="2132" title="turned capital f">ⅎ</li>
+    <li class="symb" data-code="8499" code="2133" title="script capital m">ℳ</li>
+    <li class="symb" data-code="8500" code="2134" title="script small o">ℴ</li>
+    <li class="symb" data-code="8501" code="2135" title="alef symbol">ℵ</li>
+    <li class="symb" data-code="8502" code="2136" title="bet symbol">ℶ</li>
+    <li class="symb" data-code="8503" code="2137" title="gimel symbol">ℷ</li>
+    <li class="symb" data-code="8504" code="2138" title="dalet symbol">ℸ</li>
+    <li class="symb" data-code="8505" code="2139" title="information source">ℹ</li>
+    <li class="symb" data-code="8506" code="213a" title="rotated capital q">℺</li>
+    <li class="symb" data-code="8507" code="213b" title="facsimile sign">℻</li>
+    <li class="symb" data-code="8508" code="213c" title="double-struck small pi">ℼ</li>
+    <li class="symb" data-code="8509" code="213d" title="double-struck small gamma">ℽ</li>
+    <li class="symb" data-code="8510" code="213e" title="double-struck capital gamma">ℾ</li>
+    <li class="symb" data-code="8511" code="213f" title="double-struck capital pi">ℿ</li>
+    <li class="h">2140</li>
+    <li class="symb" data-code="8512" code="2140" title="double-struck n-ary summation">⅀</li>
+    <li class="symb" data-code="8513" code="2141" title="turned sans-serif capital g">⅁</li>
+    <li class="symb" data-code="8514" code="2142" title="turned sans-serif capital l">⅂</li>
+    <li class="symb" data-code="8515" code="2143" title="reversed sans-serif capital l">⅃</li>
+    <li class="symb" data-code="8516" code="2144" title="turned sans-serif capital y">⅄</li>
+    <li class="symb" data-code="8517" code="2145" title="double-struck italic capital d">ⅅ</li>
+    <li class="symb" data-code="8518" code="2146" title="double-struck italic small d">ⅆ</li>
+    <li class="symb" data-code="8519" code="2147" title="double-struck italic small e">ⅇ</li>
+    <li class="symb" data-code="8520" code="2148" title="double-struck italic small i">ⅈ</li>
+    <li class="symb" data-code="8521" code="2149" title="double-struck italic small j">ⅉ</li>
+    <li class="symb" data-code="8522" code="214a" title="property line">⅊</li>
+    <li class="symb" data-code="8523" code="214b" title="turned ampersand">⅋</li>
+    <li class="symb" data-code="8524" code="214c" title="per sign">⅌</li>
+    <li class="symb" data-code="8525" code="214d" title="aktieselskab">⅍</li>
+    <li class="symb" data-code="8526" code="214e" title="turned small f">ⅎ</li>
+    <li class="symb" data-code="8527" code="214f" title="symbol for samaritan source">⅏</li>
+  </ul>
+</root>

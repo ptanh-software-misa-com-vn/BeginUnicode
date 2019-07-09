@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0800</li>
+    <li class="symb" data-code="2048" code="0800" title="samaritan letter alaf">ࠀ</li>
+    <li class="symb" data-code="2049" code="0801" title="samaritan letter bit">ࠁ</li>
+    <li class="symb" data-code="2050" code="0802" title="samaritan letter gaman">ࠂ</li>
+    <li class="symb" data-code="2051" code="0803" title="samaritan letter dalat">ࠃ</li>
+    <li class="symb" data-code="2052" code="0804" title="samaritan letter iy">ࠄ</li>
+    <li class="symb" data-code="2053" code="0805" title="samaritan letter baa">ࠅ</li>
+    <li class="symb" data-code="2054" code="0806" title="samaritan letter zen">ࠆ</li>
+    <li class="symb" data-code="2055" code="0807" title="samaritan letter it">ࠇ</li>
+    <li class="symb" data-code="2056" code="0808" title="samaritan letter tit">ࠈ</li>
+    <li class="symb" data-code="2057" code="0809" title="samaritan letter yut">ࠉ</li>
+    <li class="symb" data-code="2058" code="080a" title="samaritan letter kaaf">ࠊ</li>
+    <li class="symb" data-code="2059" code="080b" title="samaritan letter labat">ࠋ</li>
+    <li class="symb" data-code="2060" code="080c" title="samaritan letter mim">ࠌ</li>
+    <li class="symb" data-code="2061" code="080d" title="samaritan letter nun">ࠍ</li>
+    <li class="symb" data-code="2062" code="080e" title="samaritan letter singaat">ࠎ</li>
+    <li class="symb" data-code="2063" code="080f" title="samaritan letter in">ࠏ</li>
+    <li class="h">0810</li>
+    <li class="symb" data-code="2064" code="0810" title="samaritan letter fi">ࠐ</li>
+    <li class="symb" data-code="2065" code="0811" title="samaritan letter tsaadiy">ࠑ</li>
+    <li class="symb" data-code="2066" code="0812" title="samaritan letter quf">ࠒ</li>
+    <li class="symb" data-code="2067" code="0813" title="samaritan letter rish">ࠓ</li>
+    <li class="symb" data-code="2068" code="0814" title="samaritan letter shan">ࠔ</li>
+    <li class="symb" data-code="2069" code="0815" title="samaritan letter taaf">ࠕ</li>
+    <li class="symb" data-code="2070" code="0816" title="samaritan mark in">ࠖ</li>
+    <li class="symb" data-code="2071" code="0817" title="samaritan mark in-alaf">ࠗ</li>
+    <li class="symb" data-code="2072" code="0818" title="samaritan mark occlusion">࠘</li>
+    <li class="symb" data-code="2073" code="0819" title="samaritan mark dagesh">࠙</li>
+    <li class="symb" data-code="2074" code="081a" title="samaritan modifier letter epenthetic yut">ࠚ</li>
+    <li class="symb" data-code="2075" code="081b" title="samaritan mark epenthetic yut">ࠛ</li>
+    <li class="symb" data-code="2076" code="081c" title="samaritan vowel sign long e">ࠜ</li>
+    <li class="symb" data-code="2077" code="081d" title="samaritan vowel sign e">ࠝ</li>
+    <li class="symb" data-code="2078" code="081e" title="samaritan vowel sign overlong aa">ࠞ</li>
+    <li class="symb" data-code="2079" code="081f" title="samaritan vowel sign long aa">ࠟ</li>
+    <li class="h">0820</li>
+    <li class="symb" data-code="2080" code="0820" title="samaritan vowel sign aa">ࠠ</li>
+    <li class="symb" data-code="2081" code="0821" title="samaritan vowel sign overlong a">ࠡ</li>
+    <li class="symb" data-code="2082" code="0822" title="samaritan vowel sign long a">ࠢ</li>
+    <li class="symb" data-code="2083" code="0823" title="samaritan vowel sign a">ࠣ</li>
+    <li class="symb" data-code="2084" code="0824" title="samaritan modifier letter short a">ࠤ</li>
+    <li class="symb" data-code="2085" code="0825" title="samaritan vowel sign short a">ࠥ</li>
+    <li class="symb" data-code="2086" code="0826" title="samaritan vowel sign long u">ࠦ</li>
+    <li class="symb" data-code="2087" code="0827" title="samaritan vowel sign u">ࠧ</li>
+    <li class="symb" data-code="2088" code="0828" title="samaritan modifier letter i">ࠨ</li>
+    <li class="symb" data-code="2089" code="0829" title="samaritan vowel sign long i">ࠩ</li>
+    <li class="symb" data-code="2090" code="082a" title="samaritan vowel sign i">ࠪ</li>
+    <li class="symb" data-code="2091" code="082b" title="samaritan vowel sign o">ࠫ</li>
+    <li class="symb" data-code="2092" code="082c" title="samaritan vowel sign sukun">ࠬ</li>
+    <li class="symb" data-code="2093" code="082d" title="samaritan mark nequdaa">࠭</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0830</li>
+    <li class="symb" data-code="2096" code="0830" title="samaritan punctuation nequdaa">࠰</li>
+    <li class="symb" data-code="2097" code="0831" title="samaritan punctuation afsaaq">࠱</li>
+    <li class="symb" data-code="2098" code="0832" title="samaritan punctuation anged">࠲</li>
+    <li class="symb" data-code="2099" code="0833" title="samaritan punctuation bau">࠳</li>
+    <li class="symb" data-code="2100" code="0834" title="samaritan punctuation atmaau">࠴</li>
+    <li class="symb" data-code="2101" code="0835" title="samaritan punctuation shiyyaalaa">࠵</li>
+    <li class="symb" data-code="2102" code="0836" title="samaritan abbreviation mark">࠶</li>
+    <li class="symb" data-code="2103" code="0837" title="samaritan punctuation melodic qitsa">࠷</li>
+    <li class="symb" data-code="2104" code="0838" title="samaritan punctuation ziqaa">࠸</li>
+    <li class="symb" data-code="2105" code="0839" title="samaritan punctuation qitsa">࠹</li>
+    <li class="symb" data-code="2106" code="083a" title="samaritan punctuation zaef">࠺</li>
+    <li class="symb" data-code="2107" code="083b" title="samaritan punctuation turu">࠻</li>
+    <li class="symb" data-code="2108" code="083c" title="samaritan punctuation arkaanu">࠼</li>
+    <li class="symb" data-code="2109" code="083d" title="samaritan punctuation sof mashfaat">࠽</li>
+    <li class="symb" data-code="2110" code="083e" title="samaritan punctuation annaau">࠾</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

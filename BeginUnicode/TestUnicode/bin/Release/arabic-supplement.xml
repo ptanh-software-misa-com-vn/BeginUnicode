@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0750</li>
+    <li class="symb" data-code="1872" code="0750" title="arabic letter beh with three dots horizontally below">ݐ</li>
+    <li class="symb" data-code="1873" code="0751" title="arabic letter beh with dot below and three dots above">ݑ</li>
+    <li class="symb" data-code="1874" code="0752" title="arabic letter beh with three dots pointing upwards below">ݒ</li>
+    <li class="symb" data-code="1875" code="0753" title="arabic letter beh with three dots pointing upwards below and two dots above">ݓ</li>
+    <li class="symb" data-code="1876" code="0754" title="arabic letter beh with two dots below and dot above">ݔ</li>
+    <li class="symb" data-code="1877" code="0755" title="arabic letter beh with inverted small v below">ݕ</li>
+    <li class="symb" data-code="1878" code="0756" title="arabic letter beh with small v">ݖ</li>
+    <li class="symb" data-code="1879" code="0757" title="arabic letter hah with two dots above">ݗ</li>
+    <li class="symb" data-code="1880" code="0758" title="arabic letter hah with three dots pointing upwards below">ݘ</li>
+    <li class="symb" data-code="1881" code="0759" title="arabic letter dal with two dots vertically below and small tah">ݙ</li>
+    <li class="symb" data-code="1882" code="075a" title="arabic letter dal with inverted small v below">ݚ</li>
+    <li class="symb" data-code="1883" code="075b" title="arabic letter reh with stroke">ݛ</li>
+    <li class="symb" data-code="1884" code="075c" title="arabic letter seen with four dots above">ݜ</li>
+    <li class="symb" data-code="1885" code="075d" title="arabic letter ain with two dots above">ݝ</li>
+    <li class="symb" data-code="1886" code="075e" title="arabic letter ain with three dots pointing downwards above">ݞ</li>
+    <li class="symb" data-code="1887" code="075f" title="arabic letter ain with two dots vertically above">ݟ</li>
+    <li class="h">0760</li>
+    <li class="symb" data-code="1888" code="0760" title="arabic letter feh with two dots below">ݠ</li>
+    <li class="symb" data-code="1889" code="0761" title="arabic letter feh with three dots pointing upwards below">ݡ</li>
+    <li class="symb" data-code="1890" code="0762" title="arabic letter keheh with dot above">ݢ</li>
+    <li class="symb" data-code="1891" code="0763" title="arabic letter keheh with three dots above">ݣ</li>
+    <li class="symb" data-code="1892" code="0764" title="arabic letter keheh with three dots pointing upwards below">ݤ</li>
+    <li class="symb" data-code="1893" code="0765" title="arabic letter meem with dot above">ݥ</li>
+    <li class="symb" data-code="1894" code="0766" title="arabic letter meem with dot below">ݦ</li>
+    <li class="symb" data-code="1895" code="0767" title="arabic letter noon with two dots below">ݧ</li>
+    <li class="symb" data-code="1896" code="0768" title="arabic letter noon with small tah">ݨ</li>
+    <li class="symb" data-code="1897" code="0769" title="arabic letter noon with small v">ݩ</li>
+    <li class="symb" data-code="1898" code="076a" title="arabic letter lam with bar">ݪ</li>
+    <li class="symb" data-code="1899" code="076b" title="arabic letter reh with two dots vertically above">ݫ</li>
+    <li class="symb" data-code="1900" code="076c" title="arabic letter reh with hamza above">ݬ</li>
+    <li class="symb" data-code="1901" code="076d" title="arabic letter seen with two dots vertically above">ݭ</li>
+    <li class="symb" data-code="1902" code="076e" title="arabic letter hah with small arabic letter tah below">ݮ</li>
+    <li class="symb" data-code="1903" code="076f" title="arabic letter hah with small arabic letter tah and two dots">ݯ</li>
+    <li class="h">0770</li>
+    <li class="symb" data-code="1904" code="0770" title="arabic letter seen with small arabic letter tah and two dots">ݰ</li>
+    <li class="symb" data-code="1905" code="0771" title="arabic letter reh with small arabic letter tah and two dots">ݱ</li>
+    <li class="symb" data-code="1906" code="0772" title="arabic letter hah with small arabic letter tah above">ݲ</li>
+    <li class="symb" data-code="1907" code="0773" title="arabic letter alef with extended arabic-indic digit two above">ݳ</li>
+    <li class="symb" data-code="1908" code="0774" title="arabic letter alef with extended arabic-indic digit three above">ݴ</li>
+    <li class="symb" data-code="1909" code="0775" title="arabic letter farsi yeh with extended arabic-indic digit two above">ݵ</li>
+    <li class="symb" data-code="1910" code="0776" title="arabic letter farsi yeh with extended arabic-indic digit three above">ݶ</li>
+    <li class="symb" data-code="1911" code="0777" title="arabic letter farsi yeh with extended arabic-indic digit four below">ݷ</li>
+    <li class="symb" data-code="1912" code="0778" title="arabic letter waw with extended arabic-indic digit two above">ݸ</li>
+    <li class="symb" data-code="1913" code="0779" title="arabic letter waw with extended arabic-indic digit three above">ݹ</li>
+    <li class="symb" data-code="1914" code="077a" title="arabic letter yeh barree with extended arabic-indic digit two above">ݺ</li>
+    <li class="symb" data-code="1915" code="077b" title="arabic letter yeh barree with extended arabic-indic digit three above">ݻ</li>
+    <li class="symb" data-code="1916" code="077c" title="arabic letter hah with extended arabic-indic digit four below">ݼ</li>
+    <li class="symb" data-code="1917" code="077d" title="arabic letter seen with extended arabic-indic digit four above">ݽ</li>
+    <li class="symb" data-code="1918" code="077e" title="arabic letter seen with inverted v">ݾ</li>
+    <li class="symb" data-code="1919" code="077f" title="arabic letter kaf with two dots above">ݿ</li>
+  </ul>
+</root>

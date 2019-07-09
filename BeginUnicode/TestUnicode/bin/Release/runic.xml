@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">16a0</li>
+    <li class="symb" data-code="5792" code="16a0" title="runic letter fehu feoh fe f">ᚠ</li>
+    <li class="symb" data-code="5793" code="16a1" title="runic letter v">ᚡ</li>
+    <li class="symb" data-code="5794" code="16a2" title="runic letter uruz ur u">ᚢ</li>
+    <li class="symb" data-code="5795" code="16a3" title="runic letter yr">ᚣ</li>
+    <li class="symb" data-code="5796" code="16a4" title="runic letter y">ᚤ</li>
+    <li class="symb" data-code="5797" code="16a5" title="runic letter w">ᚥ</li>
+    <li class="symb" data-code="5798" code="16a6" title="runic letter thurisaz thurs thorn">ᚦ</li>
+    <li class="symb" data-code="5799" code="16a7" title="runic letter eth">ᚧ</li>
+    <li class="symb" data-code="5800" code="16a8" title="runic letter ansuz a">ᚨ</li>
+    <li class="symb" data-code="5801" code="16a9" title="runic letter os o">ᚩ</li>
+    <li class="symb" data-code="5802" code="16aa" title="runic letter ac a">ᚪ</li>
+    <li class="symb" data-code="5803" code="16ab" title="runic letter aesc">ᚫ</li>
+    <li class="symb" data-code="5804" code="16ac" title="runic letter long-branch-oss o">ᚬ</li>
+    <li class="symb" data-code="5805" code="16ad" title="runic letter short-twig-oss o">ᚭ</li>
+    <li class="symb" data-code="5806" code="16ae" title="runic letter o">ᚮ</li>
+    <li class="symb" data-code="5807" code="16af" title="runic letter oe">ᚯ</li>
+    <li class="h">16b0</li>
+    <li class="symb" data-code="5808" code="16b0" title="runic letter on">ᚰ</li>
+    <li class="symb" data-code="5809" code="16b1" title="runic letter raido rad reid r">ᚱ</li>
+    <li class="symb" data-code="5810" code="16b2" title="runic letter kauna">ᚲ</li>
+    <li class="symb" data-code="5811" code="16b3" title="runic letter cen">ᚳ</li>
+    <li class="symb" data-code="5812" code="16b4" title="runic letter kaun k">ᚴ</li>
+    <li class="symb" data-code="5813" code="16b5" title="runic letter g">ᚵ</li>
+    <li class="symb" data-code="5814" code="16b6" title="runic letter eng">ᚶ</li>
+    <li class="symb" data-code="5815" code="16b7" title="runic letter gebo gyfu g">ᚷ</li>
+    <li class="symb" data-code="5816" code="16b8" title="runic letter gar">ᚸ</li>
+    <li class="symb" data-code="5817" code="16b9" title="runic letter wunjo wynn w">ᚹ</li>
+    <li class="symb" data-code="5818" code="16ba" title="runic letter haglaz h">ᚺ</li>
+    <li class="symb" data-code="5819" code="16bb" title="runic letter haegl h">ᚻ</li>
+    <li class="symb" data-code="5820" code="16bc" title="runic letter long-branch-hagall h">ᚼ</li>
+    <li class="symb" data-code="5821" code="16bd" title="runic letter short-twig-hagall h">ᚽ</li>
+    <li class="symb" data-code="5822" code="16be" title="runic letter naudiz nyd naud n">ᚾ</li>
+    <li class="symb" data-code="5823" code="16bf" title="runic letter short-twig-naud n">ᚿ</li>
+    <li class="h">16c0</li>
+    <li class="symb" data-code="5824" code="16c0" title="runic letter dotted-n">ᛀ</li>
+    <li class="symb" data-code="5825" code="16c1" title="runic letter isaz is iss i">ᛁ</li>
+    <li class="symb" data-code="5826" code="16c2" title="runic letter e">ᛂ</li>
+    <li class="symb" data-code="5827" code="16c3" title="runic letter jeran j">ᛃ</li>
+    <li class="symb" data-code="5828" code="16c4" title="runic letter ger">ᛄ</li>
+    <li class="symb" data-code="5829" code="16c5" title="runic letter long-branch-ar ae">ᛅ</li>
+    <li class="symb" data-code="5830" code="16c6" title="runic letter short-twig-ar a">ᛆ</li>
+    <li class="symb" data-code="5831" code="16c7" title="runic letter iwaz eoh">ᛇ</li>
+    <li class="symb" data-code="5832" code="16c8" title="runic letter pertho peorth p">ᛈ</li>
+    <li class="symb" data-code="5833" code="16c9" title="runic letter algiz eolhx">ᛉ</li>
+    <li class="symb" data-code="5834" code="16ca" title="runic letter sowilo s">ᛊ</li>
+    <li class="symb" data-code="5835" code="16cb" title="runic letter sigel long-branch-sol s">ᛋ</li>
+    <li class="symb" data-code="5836" code="16cc" title="runic letter short-twig-sol s">ᛌ</li>
+    <li class="symb" data-code="5837" code="16cd" title="runic letter c">ᛍ</li>
+    <li class="symb" data-code="5838" code="16ce" title="runic letter z">ᛎ</li>
+    <li class="symb" data-code="5839" code="16cf" title="runic letter tiwaz tir tyr t">ᛏ</li>
+    <li class="h">16d0</li>
+    <li class="symb" data-code="5840" code="16d0" title="runic letter short-twig-tyr t">ᛐ</li>
+    <li class="symb" data-code="5841" code="16d1" title="runic letter d">ᛑ</li>
+    <li class="symb" data-code="5842" code="16d2" title="runic letter berkanan beorc bjarkan b">ᛒ</li>
+    <li class="symb" data-code="5843" code="16d3" title="runic letter short-twig-bjarkan b">ᛓ</li>
+    <li class="symb" data-code="5844" code="16d4" title="runic letter dotted-p">ᛔ</li>
+    <li class="symb" data-code="5845" code="16d5" title="runic letter open-p">ᛕ</li>
+    <li class="symb" data-code="5846" code="16d6" title="runic letter ehwaz eh e">ᛖ</li>
+    <li class="symb" data-code="5847" code="16d7" title="runic letter mannaz man m">ᛗ</li>
+    <li class="symb" data-code="5848" code="16d8" title="runic letter long-branch-madr m">ᛘ</li>
+    <li class="symb" data-code="5849" code="16d9" title="runic letter short-twig-madr m">ᛙ</li>
+    <li class="symb" data-code="5850" code="16da" title="runic letter laukaz lagu logr l">ᛚ</li>
+    <li class="symb" data-code="5851" code="16db" title="runic letter dotted-l">ᛛ</li>
+    <li class="symb" data-code="5852" code="16dc" title="runic letter ingwaz">ᛜ</li>
+    <li class="symb" data-code="5853" code="16dd" title="runic letter ing">ᛝ</li>
+    <li class="symb" data-code="5854" code="16de" title="runic letter dagaz daeg d">ᛞ</li>
+    <li class="symb" data-code="5855" code="16df" title="runic letter othalan ethel o">ᛟ</li>
+    <li class="h">16e0</li>
+    <li class="symb" data-code="5856" code="16e0" title="runic letter ear">ᛠ</li>
+    <li class="symb" data-code="5857" code="16e1" title="runic letter ior">ᛡ</li>
+    <li class="symb" data-code="5858" code="16e2" title="runic letter cweorth">ᛢ</li>
+    <li class="symb" data-code="5859" code="16e3" title="runic letter calc">ᛣ</li>
+    <li class="symb" data-code="5860" code="16e4" title="runic letter cealc">ᛤ</li>
+    <li class="symb" data-code="5861" code="16e5" title="runic letter stan">ᛥ</li>
+    <li class="symb" data-code="5862" code="16e6" title="runic letter long-branch-yr">ᛦ</li>
+    <li class="symb" data-code="5863" code="16e7" title="runic letter short-twig-yr">ᛧ</li>
+    <li class="symb" data-code="5864" code="16e8" title="runic letter icelandic-yr">ᛨ</li>
+    <li class="symb" data-code="5865" code="16e9" title="runic letter q">ᛩ</li>
+    <li class="symb" data-code="5866" code="16ea" title="runic letter x">ᛪ</li>
+    <li class="symb" data-code="5867" code="16eb" title="runic single punctuation">᛫</li>
+    <li class="symb" data-code="5868" code="16ec" title="runic multiple punctuation">᛬</li>
+    <li class="symb" data-code="5869" code="16ed" title="runic cross punctuation">᛭</li>
+    <li class="symb" data-code="5870" code="16ee" title="runic arlaug symbol">ᛮ</li>
+    <li class="symb" data-code="5871" code="16ef" title="runic tvimadur symbol">ᛯ</li>
+    <li class="h">16f0</li>
+    <li class="symb" data-code="5872" code="16f0" title="runic belgthor symbol">ᛰ</li>
+    <li class="symb" data-code="5873" code="16f1" title="runic letter k">ᛱ</li>
+    <li class="symb" data-code="5874" code="16f2" title="runic letter sh">ᛲ</li>
+    <li class="symb" data-code="5875" code="16f3" title="runic letter oo">ᛳ</li>
+    <li class="symb" data-code="5876" code="16f4" title="runic letter franks casket os">ᛴ</li>
+    <li class="symb" data-code="5877" code="16f5" title="runic letter franks casket is">ᛵ</li>
+    <li class="symb" data-code="5878" code="16f6" title="runic letter franks casket eh">ᛶ</li>
+    <li class="symb" data-code="5879" code="16f7" title="runic letter franks casket ac">ᛷ</li>
+    <li class="symb" data-code="5880" code="16f8" title="runic letter franks casket aesc">ᛸ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">25a0</li>
+    <li class="symb" data-code="9632" code="25a0" title="black square">■</li>
+    <li class="symb" data-code="9633" code="25a1" title="white square">□</li>
+    <li class="symb" data-code="9634" code="25a2" title="white square with rounded corners">▢</li>
+    <li class="symb" data-code="9635" code="25a3" title="white square containing black small square">▣</li>
+    <li class="symb" data-code="9636" code="25a4" title="square with horizontal fill">▤</li>
+    <li class="symb" data-code="9637" code="25a5" title="square with vertical fill">▥</li>
+    <li class="symb" data-code="9638" code="25a6" title="square with orthogonal crosshatch fill">▦</li>
+    <li class="symb" data-code="9639" code="25a7" title="square with upper left to lower right fill">▧</li>
+    <li class="symb" data-code="9640" code="25a8" title="square with upper right to lower left fill">▨</li>
+    <li class="symb" data-code="9641" code="25a9" title="square with diagonal crosshatch fill">▩</li>
+    <li class="symb" data-code="9642" code="25aa" title="black small square">▪</li>
+    <li class="symb" data-code="9643" code="25ab" title="white small square">▫</li>
+    <li class="symb" data-code="9644" code="25ac" title="black rectangle">▬</li>
+    <li class="symb" data-code="9645" code="25ad" title="white rectangle">▭</li>
+    <li class="symb" data-code="9646" code="25ae" title="black vertical rectangle">▮</li>
+    <li class="symb" data-code="9647" code="25af" title="white vertical rectangle">▯</li>
+    <li class="h">25b0</li>
+    <li class="symb" data-code="9648" code="25b0" title="black parallelogram">▰</li>
+    <li class="symb" data-code="9649" code="25b1" title="white parallelogram">▱</li>
+    <li class="symb" data-code="9650" code="25b2" title="black up-pointing triangle">▲</li>
+    <li class="symb" data-code="9651" code="25b3" title="white up-pointing triangle">△</li>
+    <li class="symb" data-code="9652" code="25b4" title="black up-pointing small triangle">▴</li>
+    <li class="symb" data-code="9653" code="25b5" title="white up-pointing small triangle">▵</li>
+    <li class="symb" data-code="9654" code="25b6" title="black right-pointing triangle">▶</li>
+    <li class="symb" data-code="9655" code="25b7" title="white right-pointing triangle">▷</li>
+    <li class="symb" data-code="9656" code="25b8" title="black right-pointing small triangle">▸</li>
+    <li class="symb" data-code="9657" code="25b9" title="white right-pointing small triangle">▹</li>
+    <li class="symb" data-code="9658" code="25ba" title="black right-pointing pointer">►</li>
+    <li class="symb" data-code="9659" code="25bb" title="white right-pointing pointer">▻</li>
+    <li class="symb" data-code="9660" code="25bc" title="black down-pointing triangle">▼</li>
+    <li class="symb" data-code="9661" code="25bd" title="white down-pointing triangle">▽</li>
+    <li class="symb" data-code="9662" code="25be" title="black down-pointing small triangle">▾</li>
+    <li class="symb" data-code="9663" code="25bf" title="white down-pointing small triangle">▿</li>
+    <li class="h">25c0</li>
+    <li class="symb" data-code="9664" code="25c0" title="black left-pointing triangle">◀</li>
+    <li class="symb" data-code="9665" code="25c1" title="white left-pointing triangle">◁</li>
+    <li class="symb" data-code="9666" code="25c2" title="black left-pointing small triangle">◂</li>
+    <li class="symb" data-code="9667" code="25c3" title="white left-pointing small triangle">◃</li>
+    <li class="symb" data-code="9668" code="25c4" title="black left-pointing pointer">◄</li>
+    <li class="symb" data-code="9669" code="25c5" title="white left-pointing pointer">◅</li>
+    <li class="symb" data-code="9670" code="25c6" title="black diamond">◆</li>
+    <li class="symb" data-code="9671" code="25c7" title="white diamond">◇</li>
+    <li class="symb" data-code="9672" code="25c8" title="white diamond containing black small diamond">◈</li>
+    <li class="symb" data-code="9673" code="25c9" title="fisheye">◉</li>
+    <li class="symb" data-code="9674" code="25ca" title="lozenge">◊</li>
+    <li class="symb" data-code="9675" code="25cb" title="white circle">○</li>
+    <li class="symb" data-code="9676" code="25cc" title="dotted circle">◌</li>
+    <li class="symb" data-code="9677" code="25cd" title="circle with vertical fill">◍</li>
+    <li class="symb" data-code="9678" code="25ce" title="bullseye">◎</li>
+    <li class="symb" data-code="9679" code="25cf" title="black circle">●</li>
+    <li class="h">25d0</li>
+    <li class="symb" data-code="9680" code="25d0" title="circle with left half black">◐</li>
+    <li class="symb" data-code="9681" code="25d1" title="circle with right half black">◑</li>
+    <li class="symb" data-code="9682" code="25d2" title="circle with lower half black">◒</li>
+    <li class="symb" data-code="9683" code="25d3" title="circle with upper half black">◓</li>
+    <li class="symb" data-code="9684" code="25d4" title="circle with upper right quadrant black">◔</li>
+    <li class="symb" data-code="9685" code="25d5" title="circle with all but upper left quadrant black">◕</li>
+    <li class="symb" data-code="9686" code="25d6" title="left half black circle">◖</li>
+    <li class="symb" data-code="9687" code="25d7" title="right half black circle">◗</li>
+    <li class="symb" data-code="9688" code="25d8" title="inverse bullet">◘</li>
+    <li class="symb" data-code="9689" code="25d9" title="inverse white circle">◙</li>
+    <li class="symb" data-code="9690" code="25da" title="upper half inverse white circle">◚</li>
+    <li class="symb" data-code="9691" code="25db" title="lower half inverse white circle">◛</li>
+    <li class="symb" data-code="9692" code="25dc" title="upper left quadrant circular arc">◜</li>
+    <li class="symb" data-code="9693" code="25dd" title="upper right quadrant circular arc">◝</li>
+    <li class="symb" data-code="9694" code="25de" title="lower right quadrant circular arc">◞</li>
+    <li class="symb" data-code="9695" code="25df" title="lower left quadrant circular arc">◟</li>
+    <li class="h">25e0</li>
+    <li class="symb" data-code="9696" code="25e0" title="upper half circle">◠</li>
+    <li class="symb" data-code="9697" code="25e1" title="lower half circle">◡</li>
+    <li class="symb" data-code="9698" code="25e2" title="black lower right triangle">◢</li>
+    <li class="symb" data-code="9699" code="25e3" title="black lower left triangle">◣</li>
+    <li class="symb" data-code="9700" code="25e4" title="black upper left triangle">◤</li>
+    <li class="symb" data-code="9701" code="25e5" title="black upper right triangle">◥</li>
+    <li class="symb" data-code="9702" code="25e6" title="white bullet">◦</li>
+    <li class="symb" data-code="9703" code="25e7" title="square with left half black">◧</li>
+    <li class="symb" data-code="9704" code="25e8" title="square with right half black">◨</li>
+    <li class="symb" data-code="9705" code="25e9" title="square with upper left diagonal half black">◩</li>
+    <li class="symb" data-code="9706" code="25ea" title="square with lower right diagonal half black">◪</li>
+    <li class="symb" data-code="9707" code="25eb" title="white square with vertical bisecting line">◫</li>
+    <li class="symb" data-code="9708" code="25ec" title="white up-pointing triangle with dot">◬</li>
+    <li class="symb" data-code="9709" code="25ed" title="up-pointing triangle with left half black">◭</li>
+    <li class="symb" data-code="9710" code="25ee" title="up-pointing triangle with right half black">◮</li>
+    <li class="symb" data-code="9711" code="25ef" title="large circle">◯</li>
+    <li class="h">25f0</li>
+    <li class="symb" data-code="9712" code="25f0" title="white square with upper left quadrant">◰</li>
+    <li class="symb" data-code="9713" code="25f1" title="white square with lower left quadrant">◱</li>
+    <li class="symb" data-code="9714" code="25f2" title="white square with lower right quadrant">◲</li>
+    <li class="symb" data-code="9715" code="25f3" title="white square with upper right quadrant">◳</li>
+    <li class="symb" data-code="9716" code="25f4" title="white circle with upper left quadrant">◴</li>
+    <li class="symb" data-code="9717" code="25f5" title="white circle with lower left quadrant">◵</li>
+    <li class="symb" data-code="9718" code="25f6" title="white circle with lower right quadrant">◶</li>
+    <li class="symb" data-code="9719" code="25f7" title="white circle with upper right quadrant">◷</li>
+    <li class="symb" data-code="9720" code="25f8" title="upper left triangle">◸</li>
+    <li class="symb" data-code="9721" code="25f9" title="upper right triangle">◹</li>
+    <li class="symb" data-code="9722" code="25fa" title="lower left triangle">◺</li>
+    <li class="symb" data-code="9723" code="25fb" title="white medium square">◻</li>
+    <li class="symb" data-code="9724" code="25fc" title="black medium square">◼</li>
+    <li class="symb" data-code="9725" code="25fd" title="white medium small square">◽</li>
+    <li class="symb" data-code="9726" code="25fe" title="black medium small square">◾</li>
+    <li class="symb" data-code="9727" code="25ff" title="lower right triangle">◿</li>
+  </ul>
+</root>

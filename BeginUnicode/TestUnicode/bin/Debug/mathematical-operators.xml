@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2200</li>
+    <li class="symb" data-code="8704" code="2200" title="for all">∀</li>
+    <li class="symb" data-code="8705" code="2201" title="complement">∁</li>
+    <li class="symb" data-code="8706" code="2202" title="partial differential">∂</li>
+    <li class="symb" data-code="8707" code="2203" title="there exists">∃</li>
+    <li class="symb" data-code="8708" code="2204" title="there does not exist">∄</li>
+    <li class="symb" data-code="8709" code="2205" title="empty set">∅</li>
+    <li class="symb" data-code="8710" code="2206" title="increment">∆</li>
+    <li class="symb" data-code="8711" code="2207" title="nabla">∇</li>
+    <li class="symb" data-code="8712" code="2208" title="element of">∈</li>
+    <li class="symb" data-code="8713" code="2209" title="not an element of">∉</li>
+    <li class="symb" data-code="8714" code="220a" title="small element of">∊</li>
+    <li class="symb" data-code="8715" code="220b" title="contains as member">∋</li>
+    <li class="symb" data-code="8716" code="220c" title="does not contain as member">∌</li>
+    <li class="symb" data-code="8717" code="220d" title="small contains as member">∍</li>
+    <li class="symb" data-code="8718" code="220e" title="end of proof">∎</li>
+    <li class="symb" data-code="8719" code="220f" title="n-ary product">∏</li>
+    <li class="h">2210</li>
+    <li class="symb" data-code="8720" code="2210" title="n-ary coproduct">∐</li>
+    <li class="symb" data-code="8721" code="2211" title="n-ary summation">∑</li>
+    <li class="symb" data-code="8722" code="2212" title="minus sign">−</li>
+    <li class="symb" data-code="8723" code="2213" title="minus-or-plus sign">∓</li>
+    <li class="symb" data-code="8724" code="2214" title="dot plus">∔</li>
+    <li class="symb" data-code="8725" code="2215" title="division slash">∕</li>
+    <li class="symb" data-code="8726" code="2216" title="set minus">∖</li>
+    <li class="symb" data-code="8727" code="2217" title="asterisk operator">∗</li>
+    <li class="symb" data-code="8728" code="2218" title="ring operator">∘</li>
+    <li class="symb" data-code="8729" code="2219" title="bullet operator">∙</li>
+    <li class="symb" data-code="8730" code="221a" title="square root">√</li>
+    <li class="symb" data-code="8731" code="221b" title="cube root">∛</li>
+    <li class="symb" data-code="8732" code="221c" title="fourth root">∜</li>
+    <li class="symb" data-code="8733" code="221d" title="proportional to">∝</li>
+    <li class="symb" data-code="8734" code="221e" title="infinity">∞</li>
+    <li class="symb" data-code="8735" code="221f" title="right angle">∟</li>
+    <li class="h">2220</li>
+    <li class="symb" data-code="8736" code="2220" title="angle">∠</li>
+    <li class="symb" data-code="8737" code="2221" title="measured angle">∡</li>
+    <li class="symb" data-code="8738" code="2222" title="spherical angle">∢</li>
+    <li class="symb" data-code="8739" code="2223" title="divides">∣</li>
+    <li class="symb" data-code="8740" code="2224" title="does not divide">∤</li>
+    <li class="symb" data-code="8741" code="2225" title="parallel to">∥</li>
+    <li class="symb" data-code="8742" code="2226" title="not parallel to">∦</li>
+    <li class="symb" data-code="8743" code="2227" title="logical and">∧</li>
+    <li class="symb" data-code="8744" code="2228" title="logical or">∨</li>
+    <li class="symb" data-code="8745" code="2229" title="intersection">∩</li>
+    <li class="symb" data-code="8746" code="222a" title="union">∪</li>
+    <li class="symb" data-code="8747" code="222b" title="integral">∫</li>
+    <li class="symb" data-code="8748" code="222c" title="double integral">∬</li>
+    <li class="symb" data-code="8749" code="222d" title="triple integral">∭</li>
+    <li class="symb" data-code="8750" code="222e" title="contour integral">∮</li>
+    <li class="symb" data-code="8751" code="222f" title="surface integral">∯</li>
+    <li class="h">2230</li>
+    <li class="symb" data-code="8752" code="2230" title="volume integral">∰</li>
+    <li class="symb" data-code="8753" code="2231" title="clockwise integral">∱</li>
+    <li class="symb" data-code="8754" code="2232" title="clockwise contour integral">∲</li>
+    <li class="symb" data-code="8755" code="2233" title="anticlockwise contour integral">∳</li>
+    <li class="symb" data-code="8756" code="2234" title="therefore">∴</li>
+    <li class="symb" data-code="8757" code="2235" title="because">∵</li>
+    <li class="symb" data-code="8758" code="2236" title="ratio">∶</li>
+    <li class="symb" data-code="8759" code="2237" title="proportion">∷</li>
+    <li class="symb" data-code="8760" code="2238" title="dot minus">∸</li>
+    <li class="symb" data-code="8761" code="2239" title="excess">∹</li>
+    <li class="symb" data-code="8762" code="223a" title="geometric proportion">∺</li>
+    <li class="symb" data-code="8763" code="223b" title="homothetic">∻</li>
+    <li class="symb" data-code="8764" code="223c" title="tilde operator">∼</li>
+    <li class="symb" data-code="8765" code="223d" title="reversed tilde">∽</li>
+    <li class="symb" data-code="8766" code="223e" title="inverted lazy s">∾</li>
+    <li class="symb" data-code="8767" code="223f" title="sine wave">∿</li>
+    <li class="h">2240</li>
+    <li class="symb" data-code="8768" code="2240" title="wreath product">≀</li>
+    <li class="symb" data-code="8769" code="2241" title="not tilde">≁</li>
+    <li class="symb" data-code="8770" code="2242" title="minus tilde">≂</li>
+    <li class="symb" data-code="8771" code="2243" title="asymptotically equal to">≃</li>
+    <li class="symb" data-code="8772" code="2244" title="not asymptotically equal to">≄</li>
+    <li class="symb" data-code="8773" code="2245" title="approximately equal to">≅</li>
+    <li class="symb" data-code="8774" code="2246" title="approximately but not actually equal to">≆</li>
+    <li class="symb" data-code="8775" code="2247" title="neither approximately nor actually equal to">≇</li>
+    <li class="symb" data-code="8776" code="2248" title="almost equal to">≈</li>
+    <li class="symb" data-code="8777" code="2249" title="not almost equal to">≉</li>
+    <li class="symb" data-code="8778" code="224a" title="almost equal or equal to">≊</li>
+    <li class="symb" data-code="8779" code="224b" title="triple tilde">≋</li>
+    <li class="symb" data-code="8780" code="224c" title="all equal to">≌</li>
+    <li class="symb" data-code="8781" code="224d" title="equivalent to">≍</li>
+    <li class="symb" data-code="8782" code="224e" title="geometrically equivalent to">≎</li>
+    <li class="symb" data-code="8783" code="224f" title="difference between">≏</li>
+    <li class="h">2250</li>
+    <li class="symb" data-code="8784" code="2250" title="approaches the limit">≐</li>
+    <li class="symb" data-code="8785" code="2251" title="geometrically equal to">≑</li>
+    <li class="symb" data-code="8786" code="2252" title="approximately equal to or the image of">≒</li>
+    <li class="symb" data-code="8787" code="2253" title="image of or approximately equal to">≓</li>
+    <li class="symb" data-code="8788" code="2254" title="colon equals">≔</li>
+    <li class="symb" data-code="8789" code="2255" title="equals colon">≕</li>
+    <li class="symb" data-code="8790" code="2256" title="ring in equal to">≖</li>
+    <li class="symb" data-code="8791" code="2257" title="ring equal to">≗</li>
+    <li class="symb" data-code="8792" code="2258" title="corresponds to">≘</li>
+    <li class="symb" data-code="8793" code="2259" title="estimates">≙</li>
+    <li class="symb" data-code="8794" code="225a" title="equiangular to">≚</li>
+    <li class="symb" data-code="8795" code="225b" title="star equals">≛</li>
+    <li class="symb" data-code="8796" code="225c" title="delta equal to">≜</li>
+    <li class="symb" data-code="8797" code="225d" title="equal to by definition">≝</li>
+    <li class="symb" data-code="8798" code="225e" title="measured by">≞</li>
+    <li class="symb" data-code="8799" code="225f" title="questioned equal to">≟</li>
+    <li class="h">2260</li>
+    <li class="symb" data-code="8800" code="2260" title="not equal to">≠</li>
+    <li class="symb" data-code="8801" code="2261" title="identical to">≡</li>
+    <li class="symb" data-code="8802" code="2262" title="not identical to">≢</li>
+    <li class="symb" data-code="8803" code="2263" title="strictly equivalent to">≣</li>
+    <li class="symb" data-code="8804" code="2264" title="less-than or equal to">≤</li>
+    <li class="symb" data-code="8805" code="2265" title="greater-than or equal to">≥</li>
+    <li class="symb" data-code="8806" code="2266" title="less-than over equal to">≦</li>
+    <li class="symb" data-code="8807" code="2267" title="greater-than over equal to">≧</li>
+    <li class="symb" data-code="8808" code="2268" title="less-than but not equal to">≨</li>
+    <li class="symb" data-code="8809" code="2269" title="greater-than but not equal to">≩</li>
+    <li class="symb" data-code="8810" code="226a" title="much less-than">≪</li>
+    <li class="symb" data-code="8811" code="226b" title="much greater-than">≫</li>
+    <li class="symb" data-code="8812" code="226c" title="between">≬</li>
+    <li class="symb" data-code="8813" code="226d" title="not equivalent to">≭</li>
+    <li class="symb" data-code="8814" code="226e" title="not less-than">≮</li>
+    <li class="symb" data-code="8815" code="226f" title="not greater-than">≯</li>
+    <li class="h">2270</li>
+    <li class="symb" data-code="8816" code="2270" title="neither less-than nor equal to">≰</li>
+    <li class="symb" data-code="8817" code="2271" title="neither greater-than nor equal to">≱</li>
+    <li class="symb" data-code="8818" code="2272" title="less-than or equivalent to">≲</li>
+    <li class="symb" data-code="8819" code="2273" title="greater-than or equivalent to">≳</li>
+    <li class="symb" data-code="8820" code="2274" title="neither less-than nor equivalent to">≴</li>
+    <li class="symb" data-code="8821" code="2275" title="neither greater-than nor equivalent to">≵</li>
+    <li class="symb" data-code="8822" code="2276" title="less-than or greater-than">≶</li>
+    <li class="symb" data-code="8823" code="2277" title="greater-than or less-than">≷</li>
+    <li class="symb" data-code="8824" code="2278" title="neither less-than nor greater-than">≸</li>
+    <li class="symb" data-code="8825" code="2279" title="neither greater-than nor less-than">≹</li>
+    <li class="symb" data-code="8826" code="227a" title="precedes">≺</li>
+    <li class="symb" data-code="8827" code="227b" title="succeeds">≻</li>
+    <li class="symb" data-code="8828" code="227c" title="precedes or equal to">≼</li>
+    <li class="symb" data-code="8829" code="227d" title="succeeds or equal to">≽</li>
+    <li class="symb" data-code="8830" code="227e" title="precedes or equivalent to">≾</li>
+    <li class="symb" data-code="8831" code="227f" title="succeeds or equivalent to">≿</li>
+    <li class="h">2280</li>
+    <li class="symb" data-code="8832" code="2280" title="does not precede">⊀</li>
+    <li class="symb" data-code="8833" code="2281" title="does not succeed">⊁</li>
+    <li class="symb" data-code="8834" code="2282" title="subset of">⊂</li>
+    <li class="symb" data-code="8835" code="2283" title="superset of">⊃</li>
+    <li class="symb" data-code="8836" code="2284" title="not a subset of">⊄</li>
+    <li class="symb" data-code="8837" code="2285" title="not a superset of">⊅</li>
+    <li class="symb" data-code="8838" code="2286" title="subset of or equal to">⊆</li>
+    <li class="symb" data-code="8839" code="2287" title="superset of or equal to">⊇</li>
+    <li class="symb" data-code="8840" code="2288" title="neither a subset of nor equal to">⊈</li>
+    <li class="symb" data-code="8841" code="2289" title="neither a superset of nor equal to">⊉</li>
+    <li class="symb" data-code="8842" code="228a" title="subset of with not equal to">⊊</li>
+    <li class="symb" data-code="8843" code="228b" title="superset of with not equal to">⊋</li>
+    <li class="symb" data-code="8844" code="228c" title="multiset">⊌</li>
+    <li class="symb" data-code="8845" code="228d" title="multiset multiplication">⊍</li>
+    <li class="symb" data-code="8846" code="228e" title="multiset union">⊎</li>
+    <li class="symb" data-code="8847" code="228f" title="square image of">⊏</li>
+    <li class="h">2290</li>
+    <li class="symb" data-code="8848" code="2290" title="square original of">⊐</li>
+    <li class="symb" data-code="8849" code="2291" title="square image of or equal to">⊑</li>
+    <li class="symb" data-code="8850" code="2292" title="square original of or equal to">⊒</li>
+    <li class="symb" data-code="8851" code="2293" title="square cap">⊓</li>
+    <li class="symb" data-code="8852" code="2294" title="square cup">⊔</li>
+    <li class="symb" data-code="8853" code="2295" title="circled plus">⊕</li>
+    <li class="symb" data-code="8854" code="2296" title="circled minus">⊖</li>
+    <li class="symb" data-code="8855" code="2297" title="circled times">⊗</li>
+    <li class="symb" data-code="8856" code="2298" title="circled division slash">⊘</li>
+    <li class="symb" data-code="8857" code="2299" title="circled dot operator">⊙</li>
+    <li class="symb" data-code="8858" code="229a" title="circled ring operator">⊚</li>
+    <li class="symb" data-code="8859" code="229b" title="circled asterisk operator">⊛</li>
+    <li class="symb" data-code="8860" code="229c" title="circled equals">⊜</li>
+    <li class="symb" data-code="8861" code="229d" title="circled dash">⊝</li>
+    <li class="symb" data-code="8862" code="229e" title="squared plus">⊞</li>
+    <li class="symb" data-code="8863" code="229f" title="squared minus">⊟</li>
+    <li class="h">22a0</li>
+    <li class="symb" data-code="8864" code="22a0" title="squared times">⊠</li>
+    <li class="symb" data-code="8865" code="22a1" title="squared dot operator">⊡</li>
+    <li class="symb" data-code="8866" code="22a2" title="right tack">⊢</li>
+    <li class="symb" data-code="8867" code="22a3" title="left tack">⊣</li>
+    <li class="symb" data-code="8868" code="22a4" title="down tack">⊤</li>
+    <li class="symb" data-code="8869" code="22a5" title="up tack">⊥</li>
+    <li class="symb" data-code="8870" code="22a6" title="assertion">⊦</li>
+    <li class="symb" data-code="8871" code="22a7" title="models">⊧</li>
+    <li class="symb" data-code="8872" code="22a8" title="true">⊨</li>
+    <li class="symb" data-code="8873" code="22a9" title="forces">⊩</li>
+    <li class="symb" data-code="8874" code="22aa" title="triple vertical bar right turnstile">⊪</li>
+    <li class="symb" data-code="8875" code="22ab" title="double vertical bar double right turnstile">⊫</li>
+    <li class="symb" data-code="8876" code="22ac" title="does not prove">⊬</li>
+    <li class="symb" data-code="8877" code="22ad" title="not true">⊭</li>
+    <li class="symb" data-code="8878" code="22ae" title="does not force">⊮</li>
+    <li class="symb" data-code="8879" code="22af" title="negated double vertical bar double right turnstile">⊯</li>
+    <li class="h">22b0</li>
+    <li class="symb" data-code="8880" code="22b0" title="precedes under relation">⊰</li>
+    <li class="symb" data-code="8881" code="22b1" title="succeeds under relation">⊱</li>
+    <li class="symb" data-code="8882" code="22b2" title="normal subgroup of">⊲</li>
+    <li class="symb" data-code="8883" code="22b3" title="contains as normal subgroup">⊳</li>
+    <li class="symb" data-code="8884" code="22b4" title="normal subgroup of or equal to">⊴</li>
+    <li class="symb" data-code="8885" code="22b5" title="contains as normal subgroup or equal to">⊵</li>
+    <li class="symb" data-code="8886" code="22b6" title="original of">⊶</li>
+    <li class="symb" data-code="8887" code="22b7" title="image of">⊷</li>
+    <li class="symb" data-code="8888" code="22b8" title="multimap">⊸</li>
+    <li class="symb" data-code="8889" code="22b9" title="hermitian conjugate matrix">⊹</li>
+    <li class="symb" data-code="8890" code="22ba" title="intercalate">⊺</li>
+    <li class="symb" data-code="8891" code="22bb" title="xor">⊻</li>
+    <li class="symb" data-code="8892" code="22bc" title="nand">⊼</li>
+    <li class="symb" data-code="8893" code="22bd" title="nor">⊽</li>
+    <li class="symb" data-code="8894" code="22be" title="right angle with arc">⊾</li>
+    <li class="symb" data-code="8895" code="22bf" title="right triangle">⊿</li>
+    <li class="h">22c0</li>
+    <li class="symb" data-code="8896" code="22c0" title="n-ary logical and">⋀</li>
+    <li class="symb" data-code="8897" code="22c1" title="n-ary logical or">⋁</li>
+    <li class="symb" data-code="8898" code="22c2" title="n-ary intersection">⋂</li>
+    <li class="symb" data-code="8899" code="22c3" title="n-ary union">⋃</li>
+    <li class="symb" data-code="8900" code="22c4" title="diamond operator">⋄</li>
+    <li class="symb" data-code="8901" code="22c5" title="dot operator">⋅</li>
+    <li class="symb" data-code="8902" code="22c6" title="star operator">⋆</li>
+    <li class="symb" data-code="8903" code="22c7" title="division times">⋇</li>
+    <li class="symb" data-code="8904" code="22c8" title="bowtie">⋈</li>
+    <li class="symb" data-code="8905" code="22c9" title="left normal factor semidirect product">⋉</li>
+    <li class="symb" data-code="8906" code="22ca" title="right normal factor semidirect product">⋊</li>
+    <li class="symb" data-code="8907" code="22cb" title="left semidirect product">⋋</li>
+    <li class="symb" data-code="8908" code="22cc" title="right semidirect product">⋌</li>
+    <li class="symb" data-code="8909" code="22cd" title="reversed tilde equals">⋍</li>
+    <li class="symb" data-code="8910" code="22ce" title="curly logical or">⋎</li>
+    <li class="symb" data-code="8911" code="22cf" title="curly logical and">⋏</li>
+    <li class="h">22d0</li>
+    <li class="symb" data-code="8912" code="22d0" title="double subset">⋐</li>
+    <li class="symb" data-code="8913" code="22d1" title="double superset">⋑</li>
+    <li class="symb" data-code="8914" code="22d2" title="double intersection">⋒</li>
+    <li class="symb" data-code="8915" code="22d3" title="double union">⋓</li>
+    <li class="symb" data-code="8916" code="22d4" title="pitchfork">⋔</li>
+    <li class="symb" data-code="8917" code="22d5" title="equal and parallel to">⋕</li>
+    <li class="symb" data-code="8918" code="22d6" title="less-than with dot">⋖</li>
+    <li class="symb" data-code="8919" code="22d7" title="greater-than with dot">⋗</li>
+    <li class="symb" data-code="8920" code="22d8" title="very much less-than">⋘</li>
+    <li class="symb" data-code="8921" code="22d9" title="very much greater-than">⋙</li>
+    <li class="symb" data-code="8922" code="22da" title="less-than equal to or greater-than">⋚</li>
+    <li class="symb" data-code="8923" code="22db" title="greater-than equal to or less-than">⋛</li>
+    <li class="symb" data-code="8924" code="22dc" title="equal to or less-than">⋜</li>
+    <li class="symb" data-code="8925" code="22dd" title="equal to or greater-than">⋝</li>
+    <li class="symb" data-code="8926" code="22de" title="equal to or precedes">⋞</li>
+    <li class="symb" data-code="8927" code="22df" title="equal to or succeeds">⋟</li>
+    <li class="h">22e0</li>
+    <li class="symb" data-code="8928" code="22e0" title="does not precede or equal">⋠</li>
+    <li class="symb" data-code="8929" code="22e1" title="does not succeed or equal">⋡</li>
+    <li class="symb" data-code="8930" code="22e2" title="not square image of or equal to">⋢</li>
+    <li class="symb" data-code="8931" code="22e3" title="not square original of or equal to">⋣</li>
+    <li class="symb" data-code="8932" code="22e4" title="square image of or not equal to">⋤</li>
+    <li class="symb" data-code="8933" code="22e5" title="square original of or not equal to">⋥</li>
+    <li class="symb" data-code="8934" code="22e6" title="less-than but not equivalent to">⋦</li>
+    <li class="symb" data-code="8935" code="22e7" title="greater-than but not equivalent to">⋧</li>
+    <li class="symb" data-code="8936" code="22e8" title="precedes but not equivalent to">⋨</li>
+    <li class="symb" data-code="8937" code="22e9" title="succeeds but not equivalent to">⋩</li>
+    <li class="symb" data-code="8938" code="22ea" title="not normal subgroup of">⋪</li>
+    <li class="symb" data-code="8939" code="22eb" title="does not contain as normal subgroup">⋫</li>
+    <li class="symb" data-code="8940" code="22ec" title="not normal subgroup of or equal to">⋬</li>
+    <li class="symb" data-code="8941" code="22ed" title="does not contain as normal subgroup or equal">⋭</li>
+    <li class="symb" data-code="8942" code="22ee" title="vertical ellipsis">⋮</li>
+    <li class="symb" data-code="8943" code="22ef" title="midline horizontal ellipsis">⋯</li>
+    <li class="h">22f0</li>
+    <li class="symb" data-code="8944" code="22f0" title="up right diagonal ellipsis">⋰</li>
+    <li class="symb" data-code="8945" code="22f1" title="down right diagonal ellipsis">⋱</li>
+    <li class="symb" data-code="8946" code="22f2" title="element of with long horizontal stroke">⋲</li>
+    <li class="symb" data-code="8947" code="22f3" title="element of with vertical bar at end of horizontal stroke">⋳</li>
+    <li class="symb" data-code="8948" code="22f4" title="small element of with vertical bar at end of horizontal stroke">⋴</li>
+    <li class="symb" data-code="8949" code="22f5" title="element of with dot above">⋵</li>
+    <li class="symb" data-code="8950" code="22f6" title="element of with overbar">⋶</li>
+    <li class="symb" data-code="8951" code="22f7" title="small element of with overbar">⋷</li>
+    <li class="symb" data-code="8952" code="22f8" title="element of with underbar">⋸</li>
+    <li class="symb" data-code="8953" code="22f9" title="element of with two horizontal strokes">⋹</li>
+    <li class="symb" data-code="8954" code="22fa" title="contains with long horizontal stroke">⋺</li>
+    <li class="symb" data-code="8955" code="22fb" title="contains with vertical bar at end of horizontal stroke">⋻</li>
+    <li class="symb" data-code="8956" code="22fc" title="small contains with vertical bar at end of horizontal stroke">⋼</li>
+    <li class="symb" data-code="8957" code="22fd" title="contains with overbar">⋽</li>
+    <li class="symb" data-code="8958" code="22fe" title="small contains with overbar">⋾</li>
+    <li class="symb" data-code="8959" code="22ff" title="z notation bag membership">⋿</li>
+  </ul>
+</root>

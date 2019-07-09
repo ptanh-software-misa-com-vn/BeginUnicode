@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">fe50</li>
+    <li class="symb" data-code="65104" code="fe50" title="small comma">﹐</li>
+    <li class="symb" data-code="65105" code="fe51" title="small ideographic comma">﹑</li>
+    <li class="symb" data-code="65106" code="fe52" title="small full stop">﹒</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65108" code="fe54" title="small semicolon">﹔</li>
+    <li class="symb" data-code="65109" code="fe55" title="small colon">﹕</li>
+    <li class="symb" data-code="65110" code="fe56" title="small question mark">﹖</li>
+    <li class="symb" data-code="65111" code="fe57" title="small exclamation mark">﹗</li>
+    <li class="symb" data-code="65112" code="fe58" title="small em dash">﹘</li>
+    <li class="symb" data-code="65113" code="fe59" title="small left parenthesis">﹙</li>
+    <li class="symb" data-code="65114" code="fe5a" title="small right parenthesis">﹚</li>
+    <li class="symb" data-code="65115" code="fe5b" title="small left curly bracket">﹛</li>
+    <li class="symb" data-code="65116" code="fe5c" title="small right curly bracket">﹜</li>
+    <li class="symb" data-code="65117" code="fe5d" title="small left tortoise shell bracket">﹝</li>
+    <li class="symb" data-code="65118" code="fe5e" title="small right tortoise shell bracket">﹞</li>
+    <li class="symb" data-code="65119" code="fe5f" title="small number sign">﹟</li>
+    <li class="h">fe60</li>
+    <li class="symb" data-code="65120" code="fe60" title="small ampersand">﹠</li>
+    <li class="symb" data-code="65121" code="fe61" title="small asterisk">﹡</li>
+    <li class="symb" data-code="65122" code="fe62" title="small plus sign">﹢</li>
+    <li class="symb" data-code="65123" code="fe63" title="small hyphen-minus">﹣</li>
+    <li class="symb" data-code="65124" code="fe64" title="small less-than sign">﹤</li>
+    <li class="symb" data-code="65125" code="fe65" title="small greater-than sign">﹥</li>
+    <li class="symb" data-code="65126" code="fe66" title="small equals sign">﹦</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65128" code="fe68" title="small reverse solidus">﹨</li>
+    <li class="symb" data-code="65129" code="fe69" title="small dollar sign">﹩</li>
+    <li class="symb" data-code="65130" code="fe6a" title="small percent sign">﹪</li>
+    <li class="symb" data-code="65131" code="fe6b" title="small commercial at">﹫</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1e00</li>
+    <li class="symb" data-code="7680" code="1e00" title="latin capital letter a with ring below">ḁ</li>
+    <li class="symb" data-code="7681" code="1e01" title="latin small letter a with ring below">ḁ</li>
+    <li class="symb" data-code="7682" code="1e02" title="latin capital letter b with dot above">ḃ</li>
+    <li class="symb" data-code="7683" code="1e03" title="latin small letter b with dot above">ḃ</li>
+    <li class="symb" data-code="7684" code="1e04" title="latin capital letter b with dot below">ḅ</li>
+    <li class="symb" data-code="7685" code="1e05" title="latin small letter b with dot below">ḅ</li>
+    <li class="symb" data-code="7686" code="1e06" title="latin capital letter b with line below">ḇ</li>
+    <li class="symb" data-code="7687" code="1e07" title="latin small letter b with line below">ḇ</li>
+    <li class="symb" data-code="7688" code="1e08" title="latin capital letter c with cedilla and acute">ḉ</li>
+    <li class="symb" data-code="7689" code="1e09" title="latin small letter c with cedilla and acute">ḉ</li>
+    <li class="symb" data-code="7690" code="1e0a" title="latin capital letter d with dot above">ḋ</li>
+    <li class="symb" data-code="7691" code="1e0b" title="latin small letter d with dot above">ḋ</li>
+    <li class="symb" data-code="7692" code="1e0c" title="latin capital letter d with dot below">ḍ</li>
+    <li class="symb" data-code="7693" code="1e0d" title="latin small letter d with dot below">ḍ</li>
+    <li class="symb" data-code="7694" code="1e0e" title="latin capital letter d with line below">ḏ</li>
+    <li class="symb" data-code="7695" code="1e0f" title="latin small letter d with line below">ḏ</li>
+    <li class="h">1e10</li>
+    <li class="symb" data-code="7696" code="1e10" title="latin capital letter d with cedilla">ḑ</li>
+    <li class="symb" data-code="7697" code="1e11" title="latin small letter d with cedilla">ḑ</li>
+    <li class="symb" data-code="7698" code="1e12" title="latin capital letter d with circumflex below">ḓ</li>
+    <li class="symb" data-code="7699" code="1e13" title="latin small letter d with circumflex below">ḓ</li>
+    <li class="symb" data-code="7700" code="1e14" title="latin capital letter e with macron and grave">ḕ</li>
+    <li class="symb" data-code="7701" code="1e15" title="latin small letter e with macron and grave">ḕ</li>
+    <li class="symb" data-code="7702" code="1e16" title="latin capital letter e with macron and acute">ḗ</li>
+    <li class="symb" data-code="7703" code="1e17" title="latin small letter e with macron and acute">ḗ</li>
+    <li class="symb" data-code="7704" code="1e18" title="latin capital letter e with circumflex below">ḙ</li>
+    <li class="symb" data-code="7705" code="1e19" title="latin small letter e with circumflex below">ḙ</li>
+    <li class="symb" data-code="7706" code="1e1a" title="latin capital letter e with tilde below">ḛ</li>
+    <li class="symb" data-code="7707" code="1e1b" title="latin small letter e with tilde below">ḛ</li>
+    <li class="symb" data-code="7708" code="1e1c" title="latin capital letter e with cedilla and breve">ḝ</li>
+    <li class="symb" data-code="7709" code="1e1d" title="latin small letter e with cedilla and breve">ḝ</li>
+    <li class="symb" data-code="7710" code="1e1e" title="latin capital letter f with dot above">ḟ</li>
+    <li class="symb" data-code="7711" code="1e1f" title="latin small letter f with dot above">ḟ</li>
+    <li class="h">1e20</li>
+    <li class="symb" data-code="7712" code="1e20" title="latin capital letter g with macron">ḡ</li>
+    <li class="symb" data-code="7713" code="1e21" title="latin small letter g with macron">ḡ</li>
+    <li class="symb" data-code="7714" code="1e22" title="latin capital letter h with dot above">ḣ</li>
+    <li class="symb" data-code="7715" code="1e23" title="latin small letter h with dot above">ḣ</li>
+    <li class="symb" data-code="7716" code="1e24" title="latin capital letter h with dot below">ḥ</li>
+    <li class="symb" data-code="7717" code="1e25" title="latin small letter h with dot below">ḥ</li>
+    <li class="symb" data-code="7718" code="1e26" title="latin capital letter h with diaeresis">ḧ</li>
+    <li class="symb" data-code="7719" code="1e27" title="latin small letter h with diaeresis">ḧ</li>
+    <li class="symb" data-code="7720" code="1e28" title="latin capital letter h with cedilla">ḩ</li>
+    <li class="symb" data-code="7721" code="1e29" title="latin small letter h with cedilla">ḩ</li>
+    <li class="symb" data-code="7722" code="1e2a" title="latin capital letter h with breve below">ḫ</li>
+    <li class="symb" data-code="7723" code="1e2b" title="latin small letter h with breve below">ḫ</li>
+    <li class="symb" data-code="7724" code="1e2c" title="latin capital letter i with tilde below">ḭ</li>
+    <li class="symb" data-code="7725" code="1e2d" title="latin small letter i with tilde below">ḭ</li>
+    <li class="symb" data-code="7726" code="1e2e" title="latin capital letter i with diaeresis and acute">ḯ</li>
+    <li class="symb" data-code="7727" code="1e2f" title="latin small letter i with diaeresis and acute">ḯ</li>
+    <li class="h">1e30</li>
+    <li class="symb" data-code="7728" code="1e30" title="latin capital letter k with acute">ḱ</li>
+    <li class="symb" data-code="7729" code="1e31" title="latin small letter k with acute">ḱ</li>
+    <li class="symb" data-code="7730" code="1e32" title="latin capital letter k with dot below">ḳ</li>
+    <li class="symb" data-code="7731" code="1e33" title="latin small letter k with dot below">ḳ</li>
+    <li class="symb" data-code="7732" code="1e34" title="latin capital letter k with line below">ḵ</li>
+    <li class="symb" data-code="7733" code="1e35" title="latin small letter k with line below">ḵ</li>
+    <li class="symb" data-code="7734" code="1e36" title="latin capital letter l with dot below">ḷ</li>
+    <li class="symb" data-code="7735" code="1e37" title="latin small letter l with dot below">ḷ</li>
+    <li class="symb" data-code="7736" code="1e38" title="latin capital letter l with dot below and macron">ḹ</li>
+    <li class="symb" data-code="7737" code="1e39" title="latin small letter l with dot below and macron">ḹ</li>
+    <li class="symb" data-code="7738" code="1e3a" title="latin capital letter l with line below">ḻ</li>
+    <li class="symb" data-code="7739" code="1e3b" title="latin small letter l with line below">ḻ</li>
+    <li class="symb" data-code="7740" code="1e3c" title="latin capital letter l with circumflex below">ḽ</li>
+    <li class="symb" data-code="7741" code="1e3d" title="latin small letter l with circumflex below">ḽ</li>
+    <li class="symb" data-code="7742" code="1e3e" title="latin capital letter m with acute">ḿ</li>
+    <li class="symb" data-code="7743" code="1e3f" title="latin small letter m with acute">ḿ</li>
+    <li class="h">1e40</li>
+    <li class="symb" data-code="7744" code="1e40" title="latin capital letter m with dot above">ṁ</li>
+    <li class="symb" data-code="7745" code="1e41" title="latin small letter m with dot above">ṁ</li>
+    <li class="symb" data-code="7746" code="1e42" title="latin capital letter m with dot below">ṃ</li>
+    <li class="symb" data-code="7747" code="1e43" title="latin small letter m with dot below">ṃ</li>
+    <li class="symb" data-code="7748" code="1e44" title="latin capital letter n with dot above">ṅ</li>
+    <li class="symb" data-code="7749" code="1e45" title="latin small letter n with dot above">ṅ</li>
+    <li class="symb" data-code="7750" code="1e46" title="latin capital letter n with dot below">ṇ</li>
+    <li class="symb" data-code="7751" code="1e47" title="latin small letter n with dot below">ṇ</li>
+    <li class="symb" data-code="7752" code="1e48" title="latin capital letter n with line below">ṉ</li>
+    <li class="symb" data-code="7753" code="1e49" title="latin small letter n with line below">ṉ</li>
+    <li class="symb" data-code="7754" code="1e4a" title="latin capital letter n with circumflex below">ṋ</li>
+    <li class="symb" data-code="7755" code="1e4b" title="latin small letter n with circumflex below">ṋ</li>
+    <li class="symb" data-code="7756" code="1e4c" title="latin capital letter o with tilde and acute">ṍ</li>
+    <li class="symb" data-code="7757" code="1e4d" title="latin small letter o with tilde and acute">ṍ</li>
+    <li class="symb" data-code="7758" code="1e4e" title="latin capital letter o with tilde and diaeresis">ṏ</li>
+    <li class="symb" data-code="7759" code="1e4f" title="latin small letter o with tilde and diaeresis">ṏ</li>
+    <li class="h">1e50</li>
+    <li class="symb" data-code="7760" code="1e50" title="latin capital letter o with macron and grave">ṑ</li>
+    <li class="symb" data-code="7761" code="1e51" title="latin small letter o with macron and grave">ṑ</li>
+    <li class="symb" data-code="7762" code="1e52" title="latin capital letter o with macron and acute">ṓ</li>
+    <li class="symb" data-code="7763" code="1e53" title="latin small letter o with macron and acute">ṓ</li>
+    <li class="symb" data-code="7764" code="1e54" title="latin capital letter p with acute">ṕ</li>
+    <li class="symb" data-code="7765" code="1e55" title="latin small letter p with acute">ṕ</li>
+    <li class="symb" data-code="7766" code="1e56" title="latin capital letter p with dot above">ṗ</li>
+    <li class="symb" data-code="7767" code="1e57" title="latin small letter p with dot above">ṗ</li>
+    <li class="symb" data-code="7768" code="1e58" title="latin capital letter r with dot above">ṙ</li>
+    <li class="symb" data-code="7769" code="1e59" title="latin small letter r with dot above">ṙ</li>
+    <li class="symb" data-code="7770" code="1e5a" title="latin capital letter r with dot below">ṛ</li>
+    <li class="symb" data-code="7771" code="1e5b" title="latin small letter r with dot below">ṛ</li>
+    <li class="symb" data-code="7772" code="1e5c" title="latin capital letter r with dot below and macron">ṝ</li>
+    <li class="symb" data-code="7773" code="1e5d" title="latin small letter r with dot below and macron">ṝ</li>
+    <li class="symb" data-code="7774" code="1e5e" title="latin capital letter r with line below">ṟ</li>
+    <li class="symb" data-code="7775" code="1e5f" title="latin small letter r with line below">ṟ</li>
+    <li class="h">1e60</li>
+    <li class="symb" data-code="7776" code="1e60" title="latin capital letter s with dot above">ṡ</li>
+    <li class="symb" data-code="7777" code="1e61" title="latin small letter s with dot above">ṡ</li>
+    <li class="symb" data-code="7778" code="1e62" title="latin capital letter s with dot below">ṣ</li>
+    <li class="symb" data-code="7779" code="1e63" title="latin small letter s with dot below">ṣ</li>
+    <li class="symb" data-code="7780" code="1e64" title="latin capital letter s with acute and dot above">ṥ</li>
+    <li class="symb" data-code="7781" code="1e65" title="latin small letter s with acute and dot above">ṥ</li>
+    <li class="symb" data-code="7782" code="1e66" title="latin capital letter s with caron and dot above">ṧ</li>
+    <li class="symb" data-code="7783" code="1e67" title="latin small letter s with caron and dot above">ṧ</li>
+    <li class="symb" data-code="7784" code="1e68" title="latin capital letter s with dot below and dot above">ṩ</li>
+    <li class="symb" data-code="7785" code="1e69" title="latin small letter s with dot below and dot above">ṩ</li>
+    <li class="symb" data-code="7786" code="1e6a" title="latin capital letter t with dot above">ṫ</li>
+    <li class="symb" data-code="7787" code="1e6b" title="latin small letter t with dot above">ṫ</li>
+    <li class="symb" data-code="7788" code="1e6c" title="latin capital letter t with dot below">ṭ</li>
+    <li class="symb" data-code="7789" code="1e6d" title="latin small letter t with dot below">ṭ</li>
+    <li class="symb" data-code="7790" code="1e6e" title="latin capital letter t with line below">ṯ</li>
+    <li class="symb" data-code="7791" code="1e6f" title="latin small letter t with line below">ṯ</li>
+    <li class="h">1e70</li>
+    <li class="symb" data-code="7792" code="1e70" title="latin capital letter t with circumflex below">ṱ</li>
+    <li class="symb" data-code="7793" code="1e71" title="latin small letter t with circumflex below">ṱ</li>
+    <li class="symb" data-code="7794" code="1e72" title="latin capital letter u with diaeresis below">ṳ</li>
+    <li class="symb" data-code="7795" code="1e73" title="latin small letter u with diaeresis below">ṳ</li>
+    <li class="symb" data-code="7796" code="1e74" title="latin capital letter u with tilde below">ṵ</li>
+    <li class="symb" data-code="7797" code="1e75" title="latin small letter u with tilde below">ṵ</li>
+    <li class="symb" data-code="7798" code="1e76" title="latin capital letter u with circumflex below">ṷ</li>
+    <li class="symb" data-code="7799" code="1e77" title="latin small letter u with circumflex below">ṷ</li>
+    <li class="symb" data-code="7800" code="1e78" title="latin capital letter u with tilde and acute">ṹ</li>
+    <li class="symb" data-code="7801" code="1e79" title="latin small letter u with tilde and acute">ṹ</li>
+    <li class="symb" data-code="7802" code="1e7a" title="latin capital letter u with macron and diaeresis">ṻ</li>
+    <li class="symb" data-code="7803" code="1e7b" title="latin small letter u with macron and diaeresis">ṻ</li>
+    <li class="symb" data-code="7804" code="1e7c" title="latin capital letter v with tilde">ṽ</li>
+    <li class="symb" data-code="7805" code="1e7d" title="latin small letter v with tilde">ṽ</li>
+    <li class="symb" data-code="7806" code="1e7e" title="latin capital letter v with dot below">ṿ</li>
+    <li class="symb" data-code="7807" code="1e7f" title="latin small letter v with dot below">ṿ</li>
+    <li class="h">1e80</li>
+    <li class="symb" data-code="7808" code="1e80" title="latin capital letter w with grave">ẁ</li>
+    <li class="symb" data-code="7809" code="1e81" title="latin small letter w with grave">ẁ</li>
+    <li class="symb" data-code="7810" code="1e82" title="latin capital letter w with acute">ẃ</li>
+    <li class="symb" data-code="7811" code="1e83" title="latin small letter w with acute">ẃ</li>
+    <li class="symb" data-code="7812" code="1e84" title="latin capital letter w with diaeresis">ẅ</li>
+    <li class="symb" data-code="7813" code="1e85" title="latin small letter w with diaeresis">ẅ</li>
+    <li class="symb" data-code="7814" code="1e86" title="latin capital letter w with dot above">ẇ</li>
+    <li class="symb" data-code="7815" code="1e87" title="latin small letter w with dot above">ẇ</li>
+    <li class="symb" data-code="7816" code="1e88" title="latin capital letter w with dot below">ẉ</li>
+    <li class="symb" data-code="7817" code="1e89" title="latin small letter w with dot below">ẉ</li>
+    <li class="symb" data-code="7818" code="1e8a" title="latin capital letter x with dot above">ẋ</li>
+    <li class="symb" data-code="7819" code="1e8b" title="latin small letter x with dot above">ẋ</li>
+    <li class="symb" data-code="7820" code="1e8c" title="latin capital letter x with diaeresis">ẍ</li>
+    <li class="symb" data-code="7821" code="1e8d" title="latin small letter x with diaeresis">ẍ</li>
+    <li class="symb" data-code="7822" code="1e8e" title="latin capital letter y with dot above">ẏ</li>
+    <li class="symb" data-code="7823" code="1e8f" title="latin small letter y with dot above">ẏ</li>
+    <li class="h">1e90</li>
+    <li class="symb" data-code="7824" code="1e90" title="latin capital letter z with circumflex">ẑ</li>
+    <li class="symb" data-code="7825" code="1e91" title="latin small letter z with circumflex">ẑ</li>
+    <li class="symb" data-code="7826" code="1e92" title="latin capital letter z with dot below">ẓ</li>
+    <li class="symb" data-code="7827" code="1e93" title="latin small letter z with dot below">ẓ</li>
+    <li class="symb" data-code="7828" code="1e94" title="latin capital letter z with line below">ẕ</li>
+    <li class="symb" data-code="7829" code="1e95" title="latin small letter z with line below">ẕ</li>
+    <li class="symb" data-code="7830" code="1e96" title="latin small letter h with line below">ẖ</li>
+    <li class="symb" data-code="7831" code="1e97" title="latin small letter t with diaeresis">ẗ</li>
+    <li class="symb" data-code="7832" code="1e98" title="latin small letter w with ring above">ẘ</li>
+    <li class="symb" data-code="7833" code="1e99" title="latin small letter y with ring above">ẙ</li>
+    <li class="symb" data-code="7834" code="1e9a" title="latin small letter a with right half ring">ẚ</li>
+    <li class="symb" data-code="7835" code="1e9b" title="latin small letter long s with dot above">ẛ</li>
+    <li class="symb" data-code="7836" code="1e9c" title="latin small letter long s with diagonal stroke">ẜ</li>
+    <li class="symb" data-code="7837" code="1e9d" title="latin small letter long s with high stroke">ẝ</li>
+    <li class="symb" data-code="7838" code="1e9e" title="latin capital letter sharp s">ß</li>
+    <li class="symb" data-code="7839" code="1e9f" title="latin small letter delta">ẟ</li>
+    <li class="h">1ea0</li>
+    <li class="symb" data-code="7840" code="1ea0" title="latin capital letter a with dot below">ạ</li>
+    <li class="symb" data-code="7841" code="1ea1" title="latin small letter a with dot below">ạ</li>
+    <li class="symb" data-code="7842" code="1ea2" title="latin capital letter a with hook above">ả</li>
+    <li class="symb" data-code="7843" code="1ea3" title="latin small letter a with hook above">ả</li>
+    <li class="symb" data-code="7844" code="1ea4" title="latin capital letter a with circumflex and acute">ấ</li>
+    <li class="symb" data-code="7845" code="1ea5" title="latin small letter a with circumflex and acute">ấ</li>
+    <li class="symb" data-code="7846" code="1ea6" title="latin capital letter a with circumflex and grave">ầ</li>
+    <li class="symb" data-code="7847" code="1ea7" title="latin small letter a with circumflex and grave">ầ</li>
+    <li class="symb" data-code="7848" code="1ea8" title="latin capital letter a with circumflex and hook above">ẩ</li>
+    <li class="symb" data-code="7849" code="1ea9" title="latin small letter a with circumflex and hook above">ẩ</li>
+    <li class="symb" data-code="7850" code="1eaa" title="latin capital letter a with circumflex and tilde">ẫ</li>
+    <li class="symb" data-code="7851" code="1eab" title="latin small letter a with circumflex and tilde">ẫ</li>
+    <li class="symb" data-code="7852" code="1eac" title="latin capital letter a with circumflex and dot below">ậ</li>
+    <li class="symb" data-code="7853" code="1ead" title="latin small letter a with circumflex and dot below">ậ</li>
+    <li class="symb" data-code="7854" code="1eae" title="latin capital letter a with breve and acute">ắ</li>
+    <li class="symb" data-code="7855" code="1eaf" title="latin small letter a with breve and acute">ắ</li>
+    <li class="h">1eb0</li>
+    <li class="symb" data-code="7856" code="1eb0" title="latin capital letter a with breve and grave">ằ</li>
+    <li class="symb" data-code="7857" code="1eb1" title="latin small letter a with breve and grave">ằ</li>
+    <li class="symb" data-code="7858" code="1eb2" title="latin capital letter a with breve and hook above">ẳ</li>
+    <li class="symb" data-code="7859" code="1eb3" title="latin small letter a with breve and hook above">ẳ</li>
+    <li class="symb" data-code="7860" code="1eb4" title="latin capital letter a with breve and tilde">ẵ</li>
+    <li class="symb" data-code="7861" code="1eb5" title="latin small letter a with breve and tilde">ẵ</li>
+    <li class="symb" data-code="7862" code="1eb6" title="latin capital letter a with breve and dot below">ặ</li>
+    <li class="symb" data-code="7863" code="1eb7" title="latin small letter a with breve and dot below">ặ</li>
+    <li class="symb" data-code="7864" code="1eb8" title="latin capital letter e with dot below">ẹ</li>
+    <li class="symb" data-code="7865" code="1eb9" title="latin small letter e with dot below">ẹ</li>
+    <li class="symb" data-code="7866" code="1eba" title="latin capital letter e with hook above">ẻ</li>
+    <li class="symb" data-code="7867" code="1ebb" title="latin small letter e with hook above">ẻ</li>
+    <li class="symb" data-code="7868" code="1ebc" title="latin capital letter e with tilde">ẽ</li>
+    <li class="symb" data-code="7869" code="1ebd" title="latin small letter e with tilde">ẽ</li>
+    <li class="symb" data-code="7870" code="1ebe" title="latin capital letter e with circumflex and acute">ế</li>
+    <li class="symb" data-code="7871" code="1ebf" title="latin small letter e with circumflex and acute">ế</li>
+    <li class="h">1ec0</li>
+    <li class="symb" data-code="7872" code="1ec0" title="latin capital letter e with circumflex and grave">ề</li>
+    <li class="symb" data-code="7873" code="1ec1" title="latin small letter e with circumflex and grave">ề</li>
+    <li class="symb" data-code="7874" code="1ec2" title="latin capital letter e with circumflex and hook above">ể</li>
+    <li class="symb" data-code="7875" code="1ec3" title="latin small letter e with circumflex and hook above">ể</li>
+    <li class="symb" data-code="7876" code="1ec4" title="latin capital letter e with circumflex and tilde">ễ</li>
+    <li class="symb" data-code="7877" code="1ec5" title="latin small letter e with circumflex and tilde">ễ</li>
+    <li class="symb" data-code="7878" code="1ec6" title="latin capital letter e with circumflex and dot below">ệ</li>
+    <li class="symb" data-code="7879" code="1ec7" title="latin small letter e with circumflex and dot below">ệ</li>
+    <li class="symb" data-code="7880" code="1ec8" title="latin capital letter i with hook above">ỉ</li>
+    <li class="symb" data-code="7881" code="1ec9" title="latin small letter i with hook above">ỉ</li>
+    <li class="symb" data-code="7882" code="1eca" title="latin capital letter i with dot below">ị</li>
+    <li class="symb" data-code="7883" code="1ecb" title="latin small letter i with dot below">ị</li>
+    <li class="symb" data-code="7884" code="1ecc" title="latin capital letter o with dot below">ọ</li>
+    <li class="symb" data-code="7885" code="1ecd" title="latin small letter o with dot below">ọ</li>
+    <li class="symb" data-code="7886" code="1ece" title="latin capital letter o with hook above">ỏ</li>
+    <li class="symb" data-code="7887" code="1ecf" title="latin small letter o with hook above">ỏ</li>
+    <li class="h">1ed0</li>
+    <li class="symb" data-code="7888" code="1ed0" title="latin capital letter o with circumflex and acute">ố</li>
+    <li class="symb" data-code="7889" code="1ed1" title="latin small letter o with circumflex and acute">ố</li>
+    <li class="symb" data-code="7890" code="1ed2" title="latin capital letter o with circumflex and grave">ồ</li>
+    <li class="symb" data-code="7891" code="1ed3" title="latin small letter o with circumflex and grave">ồ</li>
+    <li class="symb" data-code="7892" code="1ed4" title="latin capital letter o with circumflex and hook above">ổ</li>
+    <li class="symb" data-code="7893" code="1ed5" title="latin small letter o with circumflex and hook above">ổ</li>
+    <li class="symb" data-code="7894" code="1ed6" title="latin capital letter o with circumflex and tilde">ỗ</li>
+    <li class="symb" data-code="7895" code="1ed7" title="latin small letter o with circumflex and tilde">ỗ</li>
+    <li class="symb" data-code="7896" code="1ed8" title="latin capital letter o with circumflex and dot below">ộ</li>
+    <li class="symb" data-code="7897" code="1ed9" title="latin small letter o with circumflex and dot below">ộ</li>
+    <li class="symb" data-code="7898" code="1eda" title="latin capital letter o with horn and acute">ớ</li>
+    <li class="symb" data-code="7899" code="1edb" title="latin small letter o with horn and acute">ớ</li>
+    <li class="symb" data-code="7900" code="1edc" title="latin capital letter o with horn and grave">ờ</li>
+    <li class="symb" data-code="7901" code="1edd" title="latin small letter o with horn and grave">ờ</li>
+    <li class="symb" data-code="7902" code="1ede" title="latin capital letter o with horn and hook above">ở</li>
+    <li class="symb" data-code="7903" code="1edf" title="latin small letter o with horn and hook above">ở</li>
+    <li class="h">1ee0</li>
+    <li class="symb" data-code="7904" code="1ee0" title="latin capital letter o with horn and tilde">ỡ</li>
+    <li class="symb" data-code="7905" code="1ee1" title="latin small letter o with horn and tilde">ỡ</li>
+    <li class="symb" data-code="7906" code="1ee2" title="latin capital letter o with horn and dot below">ợ</li>
+    <li class="symb" data-code="7907" code="1ee3" title="latin small letter o with horn and dot below">ợ</li>
+    <li class="symb" data-code="7908" code="1ee4" title="latin capital letter u with dot below">ụ</li>
+    <li class="symb" data-code="7909" code="1ee5" title="latin small letter u with dot below">ụ</li>
+    <li class="symb" data-code="7910" code="1ee6" title="latin capital letter u with hook above">ủ</li>
+    <li class="symb" data-code="7911" code="1ee7" title="latin small letter u with hook above">ủ</li>
+    <li class="symb" data-code="7912" code="1ee8" title="latin capital letter u with horn and acute">ứ</li>
+    <li class="symb" data-code="7913" code="1ee9" title="latin small letter u with horn and acute">ứ</li>
+    <li class="symb" data-code="7914" code="1eea" title="latin capital letter u with horn and grave">ừ</li>
+    <li class="symb" data-code="7915" code="1eeb" title="latin small letter u with horn and grave">ừ</li>
+    <li class="symb" data-code="7916" code="1eec" title="latin capital letter u with horn and hook above">ử</li>
+    <li class="symb" data-code="7917" code="1eed" title="latin small letter u with horn and hook above">ử</li>
+    <li class="symb" data-code="7918" code="1eee" title="latin capital letter u with horn and tilde">ữ</li>
+    <li class="symb" data-code="7919" code="1eef" title="latin small letter u with horn and tilde">ữ</li>
+    <li class="h">1ef0</li>
+    <li class="symb" data-code="7920" code="1ef0" title="latin capital letter u with horn and dot below">ự</li>
+    <li class="symb" data-code="7921" code="1ef1" title="latin small letter u with horn and dot below">ự</li>
+    <li class="symb" data-code="7922" code="1ef2" title="latin capital letter y with grave">ỳ</li>
+    <li class="symb" data-code="7923" code="1ef3" title="latin small letter y with grave">ỳ</li>
+    <li class="symb" data-code="7924" code="1ef4" title="latin capital letter y with dot below">ỵ</li>
+    <li class="symb" data-code="7925" code="1ef5" title="latin small letter y with dot below">ỵ</li>
+    <li class="symb" data-code="7926" code="1ef6" title="latin capital letter y with hook above">ỷ</li>
+    <li class="symb" data-code="7927" code="1ef7" title="latin small letter y with hook above">ỷ</li>
+    <li class="symb" data-code="7928" code="1ef8" title="latin capital letter y with tilde">ỹ</li>
+    <li class="symb" data-code="7929" code="1ef9" title="latin small letter y with tilde">ỹ</li>
+    <li class="symb" data-code="7930" code="1efa" title="latin capital letter middle-welsh ll">ỻ</li>
+    <li class="symb" data-code="7931" code="1efb" title="latin small letter middle-welsh ll">ỻ</li>
+    <li class="symb" data-code="7932" code="1efc" title="latin capital letter middle-welsh v">ỽ</li>
+    <li class="symb" data-code="7933" code="1efd" title="latin small letter middle-welsh v">ỽ</li>
+    <li class="symb" data-code="7934" code="1efe" title="latin capital letter y with loop">ỿ</li>
+    <li class="symb" data-code="7935" code="1eff" title="latin small letter y with loop">ỿ</li>
+  </ul>
+</root>

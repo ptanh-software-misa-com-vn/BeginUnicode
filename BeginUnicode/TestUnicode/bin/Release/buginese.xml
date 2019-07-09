@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1a00</li>
+    <li class="symb" data-code="6656" code="1a00" title="buginese letter ka">ᨀ</li>
+    <li class="symb" data-code="6657" code="1a01" title="buginese letter ga">ᨁ</li>
+    <li class="symb" data-code="6658" code="1a02" title="buginese letter nga">ᨂ</li>
+    <li class="symb" data-code="6659" code="1a03" title="buginese letter ngka">ᨃ</li>
+    <li class="symb" data-code="6660" code="1a04" title="buginese letter pa">ᨄ</li>
+    <li class="symb" data-code="6661" code="1a05" title="buginese letter ba">ᨅ</li>
+    <li class="symb" data-code="6662" code="1a06" title="buginese letter ma">ᨆ</li>
+    <li class="symb" data-code="6663" code="1a07" title="buginese letter mpa">ᨇ</li>
+    <li class="symb" data-code="6664" code="1a08" title="buginese letter ta">ᨈ</li>
+    <li class="symb" data-code="6665" code="1a09" title="buginese letter da">ᨉ</li>
+    <li class="symb" data-code="6666" code="1a0a" title="buginese letter na">ᨊ</li>
+    <li class="symb" data-code="6667" code="1a0b" title="buginese letter nra">ᨋ</li>
+    <li class="symb" data-code="6668" code="1a0c" title="buginese letter ca">ᨌ</li>
+    <li class="symb" data-code="6669" code="1a0d" title="buginese letter ja">ᨍ</li>
+    <li class="symb" data-code="6670" code="1a0e" title="buginese letter nya">ᨎ</li>
+    <li class="symb" data-code="6671" code="1a0f" title="buginese letter nyca">ᨏ</li>
+    <li class="h">1a10</li>
+    <li class="symb" data-code="6672" code="1a10" title="buginese letter ya">ᨐ</li>
+    <li class="symb" data-code="6673" code="1a11" title="buginese letter ra">ᨑ</li>
+    <li class="symb" data-code="6674" code="1a12" title="buginese letter la">ᨒ</li>
+    <li class="symb" data-code="6675" code="1a13" title="buginese letter va">ᨓ</li>
+    <li class="symb" data-code="6676" code="1a14" title="buginese letter sa">ᨔ</li>
+    <li class="symb" data-code="6677" code="1a15" title="buginese letter a">ᨕ</li>
+    <li class="symb" data-code="6678" code="1a16" title="buginese letter ha">ᨖ</li>
+    <li class="symb" data-code="6679" code="1a17" title="buginese vowel sign i">ᨗ</li>
+    <li class="symb" data-code="6680" code="1a18" title="buginese vowel sign u">ᨘ</li>
+    <li class="symb" data-code="6681" code="1a19" title="buginese vowel sign e">ᨙ</li>
+    <li class="symb" data-code="6682" code="1a1a" title="buginese vowel sign o">ᨚ</li>
+    <li class="symb" data-code="6683" code="1a1b" title="buginese vowel sign ae">ᨛ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="6686" code="1a1e" title="buginese pallawa">᨞</li>
+    <li class="symb" data-code="6687" code="1a1f" title="buginese end of section">᨟</li>
+  </ul>
+</root>

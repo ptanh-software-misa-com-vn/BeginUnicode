@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">fe30</li>
+    <li class="symb" data-code="65072" code="fe30" title="presentation form for vertical two dot leader">︰</li>
+    <li class="symb" data-code="65073" code="fe31" title="presentation form for vertical em dash">︱</li>
+    <li class="symb" data-code="65074" code="fe32" title="presentation form for vertical en dash">︲</li>
+    <li class="symb" data-code="65075" code="fe33" title="presentation form for vertical low line">︳</li>
+    <li class="symb" data-code="65076" code="fe34" title="presentation form for vertical wavy low line">︴</li>
+    <li class="symb" data-code="65077" code="fe35" title="presentation form for vertical left parenthesis">︵</li>
+    <li class="symb" data-code="65078" code="fe36" title="presentation form for vertical right parenthesis">︶</li>
+    <li class="symb" data-code="65079" code="fe37" title="presentation form for vertical left curly bracket">︷</li>
+    <li class="symb" data-code="65080" code="fe38" title="presentation form for vertical right curly bracket">︸</li>
+    <li class="symb" data-code="65081" code="fe39" title="presentation form for vertical left tortoise shell bracket">︹</li>
+    <li class="symb" data-code="65082" code="fe3a" title="presentation form for vertical right tortoise shell bracket">︺</li>
+    <li class="symb" data-code="65083" code="fe3b" title="presentation form for vertical left black lenticular bracket">︻</li>
+    <li class="symb" data-code="65084" code="fe3c" title="presentation form for vertical right black lenticular bracket">︼</li>
+    <li class="symb" data-code="65085" code="fe3d" title="presentation form for vertical left double angle bracket">︽</li>
+    <li class="symb" data-code="65086" code="fe3e" title="presentation form for vertical right double angle bracket">︾</li>
+    <li class="symb" data-code="65087" code="fe3f" title="presentation form for vertical left angle bracket">︿</li>
+    <li class="h">fe40</li>
+    <li class="symb" data-code="65088" code="fe40" title="presentation form for vertical right angle bracket">﹀</li>
+    <li class="symb" data-code="65089" code="fe41" title="presentation form for vertical left corner bracket">﹁</li>
+    <li class="symb" data-code="65090" code="fe42" title="presentation form for vertical right corner bracket">﹂</li>
+    <li class="symb" data-code="65091" code="fe43" title="presentation form for vertical left white corner bracket">﹃</li>
+    <li class="symb" data-code="65092" code="fe44" title="presentation form for vertical right white corner bracket">﹄</li>
+    <li class="symb" data-code="65093" code="fe45" title="sesame dot">﹅</li>
+    <li class="symb" data-code="65094" code="fe46" title="white sesame dot">﹆</li>
+    <li class="symb" data-code="65095" code="fe47" title="presentation form for vertical left square bracket">﹇</li>
+    <li class="symb" data-code="65096" code="fe48" title="presentation form for vertical right square bracket">﹈</li>
+    <li class="symb" data-code="65097" code="fe49" title="dashed overline">﹉</li>
+    <li class="symb" data-code="65098" code="fe4a" title="centreline overline">﹊</li>
+    <li class="symb" data-code="65099" code="fe4b" title="wavy overline">﹋</li>
+    <li class="symb" data-code="65100" code="fe4c" title="double wavy overline">﹌</li>
+    <li class="symb" data-code="65101" code="fe4d" title="dashed low line">﹍</li>
+    <li class="symb" data-code="65102" code="fe4e" title="centreline low line">﹎</li>
+    <li class="symb" data-code="65103" code="fe4f" title="wavy low line">﹏</li>
+  </ul>
+</root>

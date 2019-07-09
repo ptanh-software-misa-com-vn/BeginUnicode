@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">10400</li>
+    <li class="symb" data-code="66560" code="10400" title="deseret capital letter long i">𐐨</li>
+    <li class="symb" data-code="66561" code="10401" title="deseret capital letter long e">𐐩</li>
+    <li class="symb" data-code="66562" code="10402" title="deseret capital letter long a">𐐪</li>
+    <li class="symb" data-code="66563" code="10403" title="deseret capital letter long ah">𐐫</li>
+    <li class="symb" data-code="66564" code="10404" title="deseret capital letter long o">𐐬</li>
+    <li class="symb" data-code="66565" code="10405" title="deseret capital letter long oo">𐐭</li>
+    <li class="symb" data-code="66566" code="10406" title="deseret capital letter short i">𐐮</li>
+    <li class="symb" data-code="66567" code="10407" title="deseret capital letter short e">𐐯</li>
+    <li class="symb" data-code="66568" code="10408" title="deseret capital letter short a">𐐰</li>
+    <li class="symb" data-code="66569" code="10409" title="deseret capital letter short ah">𐐱</li>
+    <li class="symb" data-code="66570" code="1040a" title="deseret capital letter short o">𐐲</li>
+    <li class="symb" data-code="66571" code="1040b" title="deseret capital letter short oo">𐐳</li>
+    <li class="symb" data-code="66572" code="1040c" title="deseret capital letter ay">𐐴</li>
+    <li class="symb" data-code="66573" code="1040d" title="deseret capital letter ow">𐐵</li>
+    <li class="symb" data-code="66574" code="1040e" title="deseret capital letter wu">𐐶</li>
+    <li class="symb" data-code="66575" code="1040f" title="deseret capital letter yee">𐐷</li>
+    <li class="h">10410</li>
+    <li class="symb" data-code="66576" code="10410" title="deseret capital letter h">𐐸</li>
+    <li class="symb" data-code="66577" code="10411" title="deseret capital letter pee">𐐹</li>
+    <li class="symb" data-code="66578" code="10412" title="deseret capital letter bee">𐐺</li>
+    <li class="symb" data-code="66579" code="10413" title="deseret capital letter tee">𐐻</li>
+    <li class="symb" data-code="66580" code="10414" title="deseret capital letter dee">𐐼</li>
+    <li class="symb" data-code="66581" code="10415" title="deseret capital letter chee">𐐽</li>
+    <li class="symb" data-code="66582" code="10416" title="deseret capital letter jee">𐐾</li>
+    <li class="symb" data-code="66583" code="10417" title="deseret capital letter kay">𐐿</li>
+    <li class="symb" data-code="66584" code="10418" title="deseret capital letter gay">𐑀</li>
+    <li class="symb" data-code="66585" code="10419" title="deseret capital letter ef">𐑁</li>
+    <li class="symb" data-code="66586" code="1041a" title="deseret capital letter vee">𐑂</li>
+    <li class="symb" data-code="66587" code="1041b" title="deseret capital letter eth">𐑃</li>
+    <li class="symb" data-code="66588" code="1041c" title="deseret capital letter thee">𐑄</li>
+    <li class="symb" data-code="66589" code="1041d" title="deseret capital letter es">𐑅</li>
+    <li class="symb" data-code="66590" code="1041e" title="deseret capital letter zee">𐑆</li>
+    <li class="symb" data-code="66591" code="1041f" title="deseret capital letter esh">𐑇</li>
+    <li class="h">10420</li>
+    <li class="symb" data-code="66592" code="10420" title="deseret capital letter zhee">𐑈</li>
+    <li class="symb" data-code="66593" code="10421" title="deseret capital letter er">𐑉</li>
+    <li class="symb" data-code="66594" code="10422" title="deseret capital letter el">𐑊</li>
+    <li class="symb" data-code="66595" code="10423" title="deseret capital letter em">𐑋</li>
+    <li class="symb" data-code="66596" code="10424" title="deseret capital letter en">𐑌</li>
+    <li class="symb" data-code="66597" code="10425" title="deseret capital letter eng">𐑍</li>
+    <li class="symb" data-code="66598" code="10426" title="deseret capital letter oi">𐑎</li>
+    <li class="symb" data-code="66599" code="10427" title="deseret capital letter ew">𐑏</li>
+    <li class="symb" data-code="66600" code="10428" title="deseret small letter long i">𐐨</li>
+    <li class="symb" data-code="66601" code="10429" title="deseret small letter long e">𐐩</li>
+    <li class="symb" data-code="66602" code="1042a" title="deseret small letter long a">𐐪</li>
+    <li class="symb" data-code="66603" code="1042b" title="deseret small letter long ah">𐐫</li>
+    <li class="symb" data-code="66604" code="1042c" title="deseret small letter long o">𐐬</li>
+    <li class="symb" data-code="66605" code="1042d" title="deseret small letter long oo">𐐭</li>
+    <li class="symb" data-code="66606" code="1042e" title="deseret small letter short i">𐐮</li>
+    <li class="symb" data-code="66607" code="1042f" title="deseret small letter short e">𐐯</li>
+    <li class="h">10430</li>
+    <li class="symb" data-code="66608" code="10430" title="deseret small letter short a">𐐰</li>
+    <li class="symb" data-code="66609" code="10431" title="deseret small letter short ah">𐐱</li>
+    <li class="symb" data-code="66610" code="10432" title="deseret small letter short o">𐐲</li>
+    <li class="symb" data-code="66611" code="10433" title="deseret small letter short oo">𐐳</li>
+    <li class="symb" data-code="66612" code="10434" title="deseret small letter ay">𐐴</li>
+    <li class="symb" data-code="66613" code="10435" title="deseret small letter ow">𐐵</li>
+    <li class="symb" data-code="66614" code="10436" title="deseret small letter wu">𐐶</li>
+    <li class="symb" data-code="66615" code="10437" title="deseret small letter yee">𐐷</li>
+    <li class="symb" data-code="66616" code="10438" title="deseret small letter h">𐐸</li>
+    <li class="symb" data-code="66617" code="10439" title="deseret small letter pee">𐐹</li>
+    <li class="symb" data-code="66618" code="1043a" title="deseret small letter bee">𐐺</li>
+    <li class="symb" data-code="66619" code="1043b" title="deseret small letter tee">𐐻</li>
+    <li class="symb" data-code="66620" code="1043c" title="deseret small letter dee">𐐼</li>
+    <li class="symb" data-code="66621" code="1043d" title="deseret small letter chee">𐐽</li>
+    <li class="symb" data-code="66622" code="1043e" title="deseret small letter jee">𐐾</li>
+    <li class="symb" data-code="66623" code="1043f" title="deseret small letter kay">𐐿</li>
+    <li class="h">10440</li>
+    <li class="symb" data-code="66624" code="10440" title="deseret small letter gay">𐑀</li>
+    <li class="symb" data-code="66625" code="10441" title="deseret small letter ef">𐑁</li>
+    <li class="symb" data-code="66626" code="10442" title="deseret small letter vee">𐑂</li>
+    <li class="symb" data-code="66627" code="10443" title="deseret small letter eth">𐑃</li>
+    <li class="symb" data-code="66628" code="10444" title="deseret small letter thee">𐑄</li>
+    <li class="symb" data-code="66629" code="10445" title="deseret small letter es">𐑅</li>
+    <li class="symb" data-code="66630" code="10446" title="deseret small letter zee">𐑆</li>
+    <li class="symb" data-code="66631" code="10447" title="deseret small letter esh">𐑇</li>
+    <li class="symb" data-code="66632" code="10448" title="deseret small letter zhee">𐑈</li>
+    <li class="symb" data-code="66633" code="10449" title="deseret small letter er">𐑉</li>
+    <li class="symb" data-code="66634" code="1044a" title="deseret small letter el">𐑊</li>
+    <li class="symb" data-code="66635" code="1044b" title="deseret small letter em">𐑋</li>
+    <li class="symb" data-code="66636" code="1044c" title="deseret small letter en">𐑌</li>
+    <li class="symb" data-code="66637" code="1044d" title="deseret small letter eng">𐑍</li>
+    <li class="symb" data-code="66638" code="1044e" title="deseret small letter oi">𐑎</li>
+    <li class="symb" data-code="66639" code="1044f" title="deseret small letter ew">𐑏</li>
+  </ul>
+</root>

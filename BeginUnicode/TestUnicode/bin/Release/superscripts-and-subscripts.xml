@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2070</li>
+    <li class="symb" data-code="8304" code="2070" title="superscript zero">⁰</li>
+    <li class="symb" data-code="8305" code="2071" title="superscript latin small letter i">ⁱ</li>
+    <li class="symb" data-code="8306" code="2072" title="reserved">⁲</li>
+    <li class="symb" data-code="8307" code="2073" title="reserved">⁳</li>
+    <li class="symb" data-code="8308" code="2074" title="superscript four">⁴</li>
+    <li class="symb" data-code="8309" code="2075" title="superscript five">⁵</li>
+    <li class="symb" data-code="8310" code="2076" title="superscript six">⁶</li>
+    <li class="symb" data-code="8311" code="2077" title="superscript seven">⁷</li>
+    <li class="symb" data-code="8312" code="2078" title="superscript eight">⁸</li>
+    <li class="symb" data-code="8313" code="2079" title="superscript nine">⁹</li>
+    <li class="symb" data-code="8314" code="207a" title="superscript plus sign">⁺</li>
+    <li class="symb" data-code="8315" code="207b" title="superscript minus">⁻</li>
+    <li class="symb" data-code="8316" code="207c" title="superscript equals sign">⁼</li>
+    <li class="symb" data-code="8317" code="207d" title="superscript left parenthesis">⁽</li>
+    <li class="symb" data-code="8318" code="207e" title="superscript right parenthesis">⁾</li>
+    <li class="symb" data-code="8319" code="207f" title="superscript latin small letter n">ⁿ</li>
+    <li class="h">2080</li>
+    <li class="symb" data-code="8320" code="2080" title="subscript zero">₀</li>
+    <li class="symb" data-code="8321" code="2081" title="subscript one">₁</li>
+    <li class="symb" data-code="8322" code="2082" title="subscript two">₂</li>
+    <li class="symb" data-code="8323" code="2083" title="subscript three">₃</li>
+    <li class="symb" data-code="8324" code="2084" title="subscript four">₄</li>
+    <li class="symb" data-code="8325" code="2085" title="subscript five">₅</li>
+    <li class="symb" data-code="8326" code="2086" title="subscript six">₆</li>
+    <li class="symb" data-code="8327" code="2087" title="subscript seven">₇</li>
+    <li class="symb" data-code="8328" code="2088" title="subscript eight">₈</li>
+    <li class="symb" data-code="8329" code="2089" title="subscript nine">₉</li>
+    <li class="symb" data-code="8330" code="208a" title="subscript plus sign">₊</li>
+    <li class="symb" data-code="8331" code="208b" title="subscript minus">₋</li>
+    <li class="symb" data-code="8332" code="208c" title="subscript equals sign">₌</li>
+    <li class="symb" data-code="8333" code="208d" title="subscript left parenthesis">₍</li>
+    <li class="symb" data-code="8334" code="208e" title="subscript right parenthesis">₎</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">2090</li>
+    <li class="symb" data-code="8336" code="2090" title="latin subscript small letter a">ₐ</li>
+    <li class="symb" data-code="8337" code="2091" title="latin subscript small letter e">ₑ</li>
+    <li class="symb" data-code="8338" code="2092" title="latin subscript small letter o">ₒ</li>
+    <li class="symb" data-code="8339" code="2093" title="latin subscript small letter x">ₓ</li>
+    <li class="symb" data-code="8340" code="2094" title="latin subscript small letter schwa">ₔ</li>
+    <li class="symb" data-code="8341" code="2095" title="latin subscript small letter h">ₕ</li>
+    <li class="symb" data-code="8342" code="2096" title="latin subscript small letter k">ₖ</li>
+    <li class="symb" data-code="8343" code="2097" title="latin subscript small letter l">ₗ</li>
+    <li class="symb" data-code="8344" code="2098" title="latin subscript small letter m">ₘ</li>
+    <li class="symb" data-code="8345" code="2099" title="latin subscript small letter n">ₙ</li>
+    <li class="symb" data-code="8346" code="209a" title="latin subscript small letter p">ₚ</li>
+    <li class="symb" data-code="8347" code="209b" title="latin subscript small letter s">ₛ</li>
+    <li class="symb" data-code="8348" code="209c" title="latin subscript small letter t">ₜ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

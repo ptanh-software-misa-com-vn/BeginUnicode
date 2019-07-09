@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">10000</li>
+    <li class="symb" data-code="65536" code="10000" title="linear b syllable b008 a">𐀀</li>
+    <li class="symb" data-code="65537" code="10001" title="linear b syllable b038 e">𐀁</li>
+    <li class="symb" data-code="65538" code="10002" title="linear b syllable b028 i">𐀂</li>
+    <li class="symb" data-code="65539" code="10003" title="linear b syllable b061 o">𐀃</li>
+    <li class="symb" data-code="65540" code="10004" title="linear b syllable b010 u">𐀄</li>
+    <li class="symb" data-code="65541" code="10005" title="linear b syllable b001 da">𐀅</li>
+    <li class="symb" data-code="65542" code="10006" title="linear b syllable b045 de">𐀆</li>
+    <li class="symb" data-code="65543" code="10007" title="linear b syllable b007 di">𐀇</li>
+    <li class="symb" data-code="65544" code="10008" title="linear b syllable b014 do">𐀈</li>
+    <li class="symb" data-code="65545" code="10009" title="linear b syllable b051 du">𐀉</li>
+    <li class="symb" data-code="65546" code="1000a" title="linear b syllable b057 ja">𐀊</li>
+    <li class="symb" data-code="65547" code="1000b" title="linear b syllable b046 je">𐀋</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65549" code="1000d" title="linear b syllable b036 jo">𐀍</li>
+    <li class="symb" data-code="65550" code="1000e" title="linear b syllable b065 ju">𐀎</li>
+    <li class="symb" data-code="65551" code="1000f" title="linear b syllable b077 ka">𐀏</li>
+    <li class="h">10010</li>
+    <li class="symb" data-code="65552" code="10010" title="linear b syllable b044 ke">𐀐</li>
+    <li class="symb" data-code="65553" code="10011" title="linear b syllable b067 ki">𐀑</li>
+    <li class="symb" data-code="65554" code="10012" title="linear b syllable b070 ko">𐀒</li>
+    <li class="symb" data-code="65555" code="10013" title="linear b syllable b081 ku">𐀓</li>
+    <li class="symb" data-code="65556" code="10014" title="linear b syllable b080 ma">𐀔</li>
+    <li class="symb" data-code="65557" code="10015" title="linear b syllable b013 me">𐀕</li>
+    <li class="symb" data-code="65558" code="10016" title="linear b syllable b073 mi">𐀖</li>
+    <li class="symb" data-code="65559" code="10017" title="linear b syllable b015 mo">𐀗</li>
+    <li class="symb" data-code="65560" code="10018" title="linear b syllable b023 mu">𐀘</li>
+    <li class="symb" data-code="65561" code="10019" title="linear b syllable b006 na">𐀙</li>
+    <li class="symb" data-code="65562" code="1001a" title="linear b syllable b024 ne">𐀚</li>
+    <li class="symb" data-code="65563" code="1001b" title="linear b syllable b030 ni">𐀛</li>
+    <li class="symb" data-code="65564" code="1001c" title="linear b syllable b052 no">𐀜</li>
+    <li class="symb" data-code="65565" code="1001d" title="linear b syllable b055 nu">𐀝</li>
+    <li class="symb" data-code="65566" code="1001e" title="linear b syllable b003 pa">𐀞</li>
+    <li class="symb" data-code="65567" code="1001f" title="linear b syllable b072 pe">𐀟</li>
+    <li class="h">10020</li>
+    <li class="symb" data-code="65568" code="10020" title="linear b syllable b039 pi">𐀠</li>
+    <li class="symb" data-code="65569" code="10021" title="linear b syllable b011 po">𐀡</li>
+    <li class="symb" data-code="65570" code="10022" title="linear b syllable b050 pu">𐀢</li>
+    <li class="symb" data-code="65571" code="10023" title="linear b syllable b016 qa">𐀣</li>
+    <li class="symb" data-code="65572" code="10024" title="linear b syllable b078 qe">𐀤</li>
+    <li class="symb" data-code="65573" code="10025" title="linear b syllable b021 qi">𐀥</li>
+    <li class="symb" data-code="65574" code="10026" title="linear b syllable b032 qo">𐀦</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65576" code="10028" title="linear b syllable b060 ra">𐀨</li>
+    <li class="symb" data-code="65577" code="10029" title="linear b syllable b027 re">𐀩</li>
+    <li class="symb" data-code="65578" code="1002a" title="linear b syllable b053 ri">𐀪</li>
+    <li class="symb" data-code="65579" code="1002b" title="linear b syllable b002 ro">𐀫</li>
+    <li class="symb" data-code="65580" code="1002c" title="linear b syllable b026 ru">𐀬</li>
+    <li class="symb" data-code="65581" code="1002d" title="linear b syllable b031 sa">𐀭</li>
+    <li class="symb" data-code="65582" code="1002e" title="linear b syllable b009 se">𐀮</li>
+    <li class="symb" data-code="65583" code="1002f" title="linear b syllable b041 si">𐀯</li>
+    <li class="h">10030</li>
+    <li class="symb" data-code="65584" code="10030" title="linear b syllable b012 so">𐀰</li>
+    <li class="symb" data-code="65585" code="10031" title="linear b syllable b058 su">𐀱</li>
+    <li class="symb" data-code="65586" code="10032" title="linear b syllable b059 ta">𐀲</li>
+    <li class="symb" data-code="65587" code="10033" title="linear b syllable b004 te">𐀳</li>
+    <li class="symb" data-code="65588" code="10034" title="linear b syllable b037 ti">𐀴</li>
+    <li class="symb" data-code="65589" code="10035" title="linear b syllable b005 to">𐀵</li>
+    <li class="symb" data-code="65590" code="10036" title="linear b syllable b069 tu">𐀶</li>
+    <li class="symb" data-code="65591" code="10037" title="linear b syllable b054 wa">𐀷</li>
+    <li class="symb" data-code="65592" code="10038" title="linear b syllable b075 we">𐀸</li>
+    <li class="symb" data-code="65593" code="10039" title="linear b syllable b040 wi">𐀹</li>
+    <li class="symb" data-code="65594" code="1003a" title="linear b syllable b042 wo">𐀺</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65596" code="1003c" title="linear b syllable b017 za">𐀼</li>
+    <li class="symb" data-code="65597" code="1003d" title="linear b syllable b074 ze">𐀽</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="65599" code="1003f" title="linear b syllable b020 zo">𐀿</li>
+    <li class="h">10040</li>
+    <li class="symb" data-code="65600" code="10040" title="linear b syllable b025 a2">𐁀</li>
+    <li class="symb" data-code="65601" code="10041" title="linear b syllable b043 a3">𐁁</li>
+    <li class="symb" data-code="65602" code="10042" title="linear b syllable b085 au">𐁂</li>
+    <li class="symb" data-code="65603" code="10043" title="linear b syllable b071 dwe">𐁃</li>
+    <li class="symb" data-code="65604" code="10044" title="linear b syllable b090 dwo">𐁄</li>
+    <li class="symb" data-code="65605" code="10045" title="linear b syllable b048 nwa">𐁅</li>
+    <li class="symb" data-code="65606" code="10046" title="linear b syllable b029 pu2">𐁆</li>
+    <li class="symb" data-code="65607" code="10047" title="linear b syllable b062 pte">𐁇</li>
+    <li class="symb" data-code="65608" code="10048" title="linear b syllable b076 ra2">𐁈</li>
+    <li class="symb" data-code="65609" code="10049" title="linear b syllable b033 ra3">𐁉</li>
+    <li class="symb" data-code="65610" code="1004a" title="linear b syllable b068 ro2">𐁊</li>
+    <li class="symb" data-code="65611" code="1004b" title="linear b syllable b066 ta2">𐁋</li>
+    <li class="symb" data-code="65612" code="1004c" title="linear b syllable b087 twe">𐁌</li>
+    <li class="symb" data-code="65613" code="1004d" title="linear b syllable b091 two">𐁍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">10050</li>
+    <li class="symb" data-code="65616" code="10050" title="linear b symbol b018">𐁐</li>
+    <li class="symb" data-code="65617" code="10051" title="linear b symbol b019">𐁑</li>
+    <li class="symb" data-code="65618" code="10052" title="linear b symbol b022">𐁒</li>
+    <li class="symb" data-code="65619" code="10053" title="linear b symbol b034">𐁓</li>
+    <li class="symb" data-code="65620" code="10054" title="linear b symbol b047">𐁔</li>
+    <li class="symb" data-code="65621" code="10055" title="linear b symbol b049">𐁕</li>
+    <li class="symb" data-code="65622" code="10056" title="linear b symbol b056">𐁖</li>
+    <li class="symb" data-code="65623" code="10057" title="linear b symbol b063">𐁗</li>
+    <li class="symb" data-code="65624" code="10058" title="linear b symbol b064">𐁘</li>
+    <li class="symb" data-code="65625" code="10059" title="linear b symbol b079">𐁙</li>
+    <li class="symb" data-code="65626" code="1005a" title="linear b symbol b082">𐁚</li>
+    <li class="symb" data-code="65627" code="1005b" title="linear b symbol b083">𐁛</li>
+    <li class="symb" data-code="65628" code="1005c" title="linear b symbol b086">𐁜</li>
+    <li class="symb" data-code="65629" code="1005d" title="linear b symbol b089">𐁝</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">10060</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">10070</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1680</li>
+    <li class="symb" data-code="5760" code="1680" title="ogham space mark"> </li>
+    <li class="symb" data-code="5761" code="1681" title="ogham letter beith">ᚁ</li>
+    <li class="symb" data-code="5762" code="1682" title="ogham letter luis">ᚂ</li>
+    <li class="symb" data-code="5763" code="1683" title="ogham letter fearn">ᚃ</li>
+    <li class="symb" data-code="5764" code="1684" title="ogham letter sail">ᚄ</li>
+    <li class="symb" data-code="5765" code="1685" title="ogham letter nion">ᚅ</li>
+    <li class="symb" data-code="5766" code="1686" title="ogham letter uath">ᚆ</li>
+    <li class="symb" data-code="5767" code="1687" title="ogham letter dair">ᚇ</li>
+    <li class="symb" data-code="5768" code="1688" title="ogham letter tinne">ᚈ</li>
+    <li class="symb" data-code="5769" code="1689" title="ogham letter coll">ᚉ</li>
+    <li class="symb" data-code="5770" code="168a" title="ogham letter ceirt">ᚊ</li>
+    <li class="symb" data-code="5771" code="168b" title="ogham letter muin">ᚋ</li>
+    <li class="symb" data-code="5772" code="168c" title="ogham letter gort">ᚌ</li>
+    <li class="symb" data-code="5773" code="168d" title="ogham letter ngeadal">ᚍ</li>
+    <li class="symb" data-code="5774" code="168e" title="ogham letter straif">ᚎ</li>
+    <li class="symb" data-code="5775" code="168f" title="ogham letter ruis">ᚏ</li>
+    <li class="h">1690</li>
+    <li class="symb" data-code="5776" code="1690" title="ogham letter ailm">ᚐ</li>
+    <li class="symb" data-code="5777" code="1691" title="ogham letter onn">ᚑ</li>
+    <li class="symb" data-code="5778" code="1692" title="ogham letter ur">ᚒ</li>
+    <li class="symb" data-code="5779" code="1693" title="ogham letter eadhadh">ᚓ</li>
+    <li class="symb" data-code="5780" code="1694" title="ogham letter iodhadh">ᚔ</li>
+    <li class="symb" data-code="5781" code="1695" title="ogham letter eabhadh">ᚕ</li>
+    <li class="symb" data-code="5782" code="1696" title="ogham letter or">ᚖ</li>
+    <li class="symb" data-code="5783" code="1697" title="ogham letter uilleann">ᚗ</li>
+    <li class="symb" data-code="5784" code="1698" title="ogham letter ifin">ᚘ</li>
+    <li class="symb" data-code="5785" code="1699" title="ogham letter eamhancholl">ᚙ</li>
+    <li class="symb" data-code="5786" code="169a" title="ogham letter peith">ᚚ</li>
+    <li class="symb" data-code="5787" code="169b" title="ogham feather mark">᚛</li>
+    <li class="symb" data-code="5788" code="169c" title="ogham reversed feather mark">᚜</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">108e0</li>
+    <li class="symb" data-code="67808" code="108e0" title="hatran letter aleph">𐣠</li>
+    <li class="symb" data-code="67809" code="108e1" title="hatran letter beth">𐣡</li>
+    <li class="symb" data-code="67810" code="108e2" title="hatran letter gimel">𐣢</li>
+    <li class="symb" data-code="67811" code="108e3" title="hatran letter daleth-resh">𐣣</li>
+    <li class="symb" data-code="67812" code="108e4" title="hatran letter he">𐣤</li>
+    <li class="symb" data-code="67813" code="108e5" title="hatran letter waw">𐣥</li>
+    <li class="symb" data-code="67814" code="108e6" title="hatran letter zayn">𐣦</li>
+    <li class="symb" data-code="67815" code="108e7" title="hatran letter heth">𐣧</li>
+    <li class="symb" data-code="67816" code="108e8" title="hatran letter teth">𐣨</li>
+    <li class="symb" data-code="67817" code="108e9" title="hatran letter yodh">𐣩</li>
+    <li class="symb" data-code="67818" code="108ea" title="hatran letter kaph">𐣪</li>
+    <li class="symb" data-code="67819" code="108eb" title="hatran letter lamedh">𐣫</li>
+    <li class="symb" data-code="67820" code="108ec" title="hatran letter mem">𐣬</li>
+    <li class="symb" data-code="67821" code="108ed" title="hatran letter nun">𐣭</li>
+    <li class="symb" data-code="67822" code="108ee" title="hatran letter samekh">𐣮</li>
+    <li class="symb" data-code="67823" code="108ef" title="hatran letter ayn">𐣯</li>
+    <li class="h">108f0</li>
+    <li class="symb" data-code="67824" code="108f0" title="hatran letter pe">𐣰</li>
+    <li class="symb" data-code="67825" code="108f1" title="hatran letter sadhe">𐣱</li>
+    <li class="symb" data-code="67826" code="108f2" title="hatran letter qoph">𐣲</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="67828" code="108f4" title="hatran letter shin">𐣴</li>
+    <li class="symb" data-code="67829" code="108f5" title="hatran letter taw">𐣵</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="67835" code="108fb" title="hatran number one">𐣻</li>
+    <li class="symb" data-code="67836" code="108fc" title="hatran number five">𐣼</li>
+    <li class="symb" data-code="67837" code="108fd" title="hatran number ten">𐣽</li>
+    <li class="symb" data-code="67838" code="108fe" title="hatran number twenty">𐣾</li>
+    <li class="symb" data-code="67839" code="108ff" title="hatran number one hundred">𐣿</li>
+  </ul>
+</root>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">10e60</li>
+    <li class="symb" data-code="69216" code="10e60" title="rumi digit one">𐹠</li>
+    <li class="symb" data-code="69217" code="10e61" title="rumi digit two">𐹡</li>
+    <li class="symb" data-code="69218" code="10e62" title="rumi digit three">𐹢</li>
+    <li class="symb" data-code="69219" code="10e63" title="rumi digit four">𐹣</li>
+    <li class="symb" data-code="69220" code="10e64" title="rumi digit five">𐹤</li>
+    <li class="symb" data-code="69221" code="10e65" title="rumi digit six">𐹥</li>
+    <li class="symb" data-code="69222" code="10e66" title="rumi digit seven">𐹦</li>
+    <li class="symb" data-code="69223" code="10e67" title="rumi digit eight">𐹧</li>
+    <li class="symb" data-code="69224" code="10e68" title="rumi digit nine">𐹨</li>
+    <li class="symb" data-code="69225" code="10e69" title="rumi number ten">𐹩</li>
+    <li class="symb" data-code="69226" code="10e6a" title="rumi number twenty">𐹪</li>
+    <li class="symb" data-code="69227" code="10e6b" title="rumi number thirty">𐹫</li>
+    <li class="symb" data-code="69228" code="10e6c" title="rumi number forty">𐹬</li>
+    <li class="symb" data-code="69229" code="10e6d" title="rumi number fifty">𐹭</li>
+    <li class="symb" data-code="69230" code="10e6e" title="rumi number sixty">𐹮</li>
+    <li class="symb" data-code="69231" code="10e6f" title="rumi number seventy">𐹯</li>
+    <li class="h">10e70</li>
+    <li class="symb" data-code="69232" code="10e70" title="rumi number eighty">𐹰</li>
+    <li class="symb" data-code="69233" code="10e71" title="rumi number ninety">𐹱</li>
+    <li class="symb" data-code="69234" code="10e72" title="rumi number one hundred">𐹲</li>
+    <li class="symb" data-code="69235" code="10e73" title="rumi number two hundred">𐹳</li>
+    <li class="symb" data-code="69236" code="10e74" title="rumi number three hundred">𐹴</li>
+    <li class="symb" data-code="69237" code="10e75" title="rumi number four hundred">𐹵</li>
+    <li class="symb" data-code="69238" code="10e76" title="rumi number five hundred">𐹶</li>
+    <li class="symb" data-code="69239" code="10e77" title="rumi number six hundred">𐹷</li>
+    <li class="symb" data-code="69240" code="10e78" title="rumi number seven hundred">𐹸</li>
+    <li class="symb" data-code="69241" code="10e79" title="rumi number eight hundred">𐹹</li>
+    <li class="symb" data-code="69242" code="10e7a" title="rumi number nine hundred">𐹺</li>
+    <li class="symb" data-code="69243" code="10e7b" title="rumi fraction one half">𐹻</li>
+    <li class="symb" data-code="69244" code="10e7c" title="rumi fraction one quarter">𐹼</li>
+    <li class="symb" data-code="69245" code="10e7d" title="rumi fraction one third">𐹽</li>
+    <li class="symb" data-code="69246" code="10e7e" title="rumi fraction two thirds">𐹾</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

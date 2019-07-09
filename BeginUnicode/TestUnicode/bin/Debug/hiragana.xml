@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">3040</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="12353" code="3041" title="hiragana letter small a">ぁ</li>
+    <li class="symb" data-code="12354" code="3042" title="hiragana letter a">あ</li>
+    <li class="symb" data-code="12355" code="3043" title="hiragana letter small i">ぃ</li>
+    <li class="symb" data-code="12356" code="3044" title="hiragana letter i">い</li>
+    <li class="symb" data-code="12357" code="3045" title="hiragana letter small u">ぅ</li>
+    <li class="symb" data-code="12358" code="3046" title="hiragana letter u">う</li>
+    <li class="symb" data-code="12359" code="3047" title="hiragana letter small e">ぇ</li>
+    <li class="symb" data-code="12360" code="3048" title="hiragana letter e">え</li>
+    <li class="symb" data-code="12361" code="3049" title="hiragana letter small o">ぉ</li>
+    <li class="symb" data-code="12362" code="304a" title="hiragana letter o">お</li>
+    <li class="symb" data-code="12363" code="304b" title="hiragana letter ka">か</li>
+    <li class="symb" data-code="12364" code="304c" title="hiragana letter ga">が</li>
+    <li class="symb" data-code="12365" code="304d" title="hiragana letter ki">き</li>
+    <li class="symb" data-code="12366" code="304e" title="hiragana letter gi">ぎ</li>
+    <li class="symb" data-code="12367" code="304f" title="hiragana letter ku">く</li>
+    <li class="h">3050</li>
+    <li class="symb" data-code="12368" code="3050" title="hiragana letter gu">ぐ</li>
+    <li class="symb" data-code="12369" code="3051" title="hiragana letter ke">け</li>
+    <li class="symb" data-code="12370" code="3052" title="hiragana letter ge">げ</li>
+    <li class="symb" data-code="12371" code="3053" title="hiragana letter ko">こ</li>
+    <li class="symb" data-code="12372" code="3054" title="hiragana letter go">ご</li>
+    <li class="symb" data-code="12373" code="3055" title="hiragana letter sa">さ</li>
+    <li class="symb" data-code="12374" code="3056" title="hiragana letter za">ざ</li>
+    <li class="symb" data-code="12375" code="3057" title="hiragana letter si">し</li>
+    <li class="symb" data-code="12376" code="3058" title="hiragana letter zi">じ</li>
+    <li class="symb" data-code="12377" code="3059" title="hiragana letter su">す</li>
+    <li class="symb" data-code="12378" code="305a" title="hiragana letter zu">ず</li>
+    <li class="symb" data-code="12379" code="305b" title="hiragana letter se">せ</li>
+    <li class="symb" data-code="12380" code="305c" title="hiragana letter ze">ぜ</li>
+    <li class="symb" data-code="12381" code="305d" title="hiragana letter so">そ</li>
+    <li class="symb" data-code="12382" code="305e" title="hiragana letter zo">ぞ</li>
+    <li class="symb" data-code="12383" code="305f" title="hiragana letter ta">た</li>
+    <li class="h">3060</li>
+    <li class="symb" data-code="12384" code="3060" title="hiragana letter da">だ</li>
+    <li class="symb" data-code="12385" code="3061" title="hiragana letter ti">ち</li>
+    <li class="symb" data-code="12386" code="3062" title="hiragana letter di">ぢ</li>
+    <li class="symb" data-code="12387" code="3063" title="hiragana letter small tu">っ</li>
+    <li class="symb" data-code="12388" code="3064" title="hiragana letter tu">つ</li>
+    <li class="symb" data-code="12389" code="3065" title="hiragana letter du">づ</li>
+    <li class="symb" data-code="12390" code="3066" title="hiragana letter te">て</li>
+    <li class="symb" data-code="12391" code="3067" title="hiragana letter de">で</li>
+    <li class="symb" data-code="12392" code="3068" title="hiragana letter to">と</li>
+    <li class="symb" data-code="12393" code="3069" title="hiragana letter do">ど</li>
+    <li class="symb" data-code="12394" code="306a" title="hiragana letter na">な</li>
+    <li class="symb" data-code="12395" code="306b" title="hiragana letter ni">に</li>
+    <li class="symb" data-code="12396" code="306c" title="hiragana letter nu">ぬ</li>
+    <li class="symb" data-code="12397" code="306d" title="hiragana letter ne">ね</li>
+    <li class="symb" data-code="12398" code="306e" title="hiragana letter no">の</li>
+    <li class="symb" data-code="12399" code="306f" title="hiragana letter ha">は</li>
+    <li class="h">3070</li>
+    <li class="symb" data-code="12400" code="3070" title="hiragana letter ba">ば</li>
+    <li class="symb" data-code="12401" code="3071" title="hiragana letter pa">ぱ</li>
+    <li class="symb" data-code="12402" code="3072" title="hiragana letter hi">ひ</li>
+    <li class="symb" data-code="12403" code="3073" title="hiragana letter bi">び</li>
+    <li class="symb" data-code="12404" code="3074" title="hiragana letter pi">ぴ</li>
+    <li class="symb" data-code="12405" code="3075" title="hiragana letter hu">ふ</li>
+    <li class="symb" data-code="12406" code="3076" title="hiragana letter bu">ぶ</li>
+    <li class="symb" data-code="12407" code="3077" title="hiragana letter pu">ぷ</li>
+    <li class="symb" data-code="12408" code="3078" title="hiragana letter he">へ</li>
+    <li class="symb" data-code="12409" code="3079" title="hiragana letter be">べ</li>
+    <li class="symb" data-code="12410" code="307a" title="hiragana letter pe">ぺ</li>
+    <li class="symb" data-code="12411" code="307b" title="hiragana letter ho">ほ</li>
+    <li class="symb" data-code="12412" code="307c" title="hiragana letter bo">ぼ</li>
+    <li class="symb" data-code="12413" code="307d" title="hiragana letter po">ぽ</li>
+    <li class="symb" data-code="12414" code="307e" title="hiragana letter ma">ま</li>
+    <li class="symb" data-code="12415" code="307f" title="hiragana letter mi">み</li>
+    <li class="h">3080</li>
+    <li class="symb" data-code="12416" code="3080" title="hiragana letter mu">む</li>
+    <li class="symb" data-code="12417" code="3081" title="hiragana letter me">め</li>
+    <li class="symb" data-code="12418" code="3082" title="hiragana letter mo">も</li>
+    <li class="symb" data-code="12419" code="3083" title="hiragana letter small ya">ゃ</li>
+    <li class="symb" data-code="12420" code="3084" title="hiragana letter ya">や</li>
+    <li class="symb" data-code="12421" code="3085" title="hiragana letter small yu">ゅ</li>
+    <li class="symb" data-code="12422" code="3086" title="hiragana letter yu">ゆ</li>
+    <li class="symb" data-code="12423" code="3087" title="hiragana letter small yo">ょ</li>
+    <li class="symb" data-code="12424" code="3088" title="hiragana letter yo">よ</li>
+    <li class="symb" data-code="12425" code="3089" title="hiragana letter ra">ら</li>
+    <li class="symb" data-code="12426" code="308a" title="hiragana letter ri">り</li>
+    <li class="symb" data-code="12427" code="308b" title="hiragana letter ru">る</li>
+    <li class="symb" data-code="12428" code="308c" title="hiragana letter re">れ</li>
+    <li class="symb" data-code="12429" code="308d" title="hiragana letter ro">ろ</li>
+    <li class="symb" data-code="12430" code="308e" title="hiragana letter small wa">ゎ</li>
+    <li class="symb" data-code="12431" code="308f" title="hiragana letter wa">わ</li>
+    <li class="h">3090</li>
+    <li class="symb" data-code="12432" code="3090" title="hiragana letter wi">ゐ</li>
+    <li class="symb" data-code="12433" code="3091" title="hiragana letter we">ゑ</li>
+    <li class="symb" data-code="12434" code="3092" title="hiragana letter wo">を</li>
+    <li class="symb" data-code="12435" code="3093" title="hiragana letter n">ん</li>
+    <li class="symb" data-code="12436" code="3094" title="hiragana letter vu">ゔ</li>
+    <li class="symb" data-code="12437" code="3095" title="hiragana letter small ka">ゕ</li>
+    <li class="symb" data-code="12438" code="3096" title="hiragana letter small ke">ゖ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="12441" code="3099" title="combining katakana-hiragana voiced sound mark">゙</li>
+    <li class="symb" data-code="12442" code="309a" title="combining katakana-hiragana semi-voiced sound mark">゚</li>
+    <li class="symb" data-code="12443" code="309b" title="katakana-hiragana voiced sound mark">゛</li>
+    <li class="symb" data-code="12444" code="309c" title="katakana-hiragana semi-voiced sound mark">゜</li>
+    <li class="symb" data-code="12445" code="309d" title="hiragana iteration mark">ゝ</li>
+    <li class="symb" data-code="12446" code="309e" title="hiragana voiced iteration mark">ゞ</li>
+    <li class="symb" data-code="12447" code="309f" title="hiragana digraph yori">ゟ</li>
+  </ul>
+</root>

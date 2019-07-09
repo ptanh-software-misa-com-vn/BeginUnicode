@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">fb00</li>
+    <li class="symb" data-code="64256" code="fb00" title="latin small ligature ff">ﬀ</li>
+    <li class="symb" data-code="64257" code="fb01" title="latin small ligature fi">ﬁ</li>
+    <li class="symb" data-code="64258" code="fb02" title="latin small ligature fl">ﬂ</li>
+    <li class="symb" data-code="64259" code="fb03" title="latin small ligature ffi">ﬃ</li>
+    <li class="symb" data-code="64260" code="fb04" title="latin small ligature ffl">ﬄ</li>
+    <li class="symb" data-code="64261" code="fb05" title="latin small ligature long s t">ﬅ</li>
+    <li class="symb" data-code="64262" code="fb06" title="latin small ligature st">ﬆ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">fb10</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="64275" code="fb13" title="armenian small ligature men now">ﬓ</li>
+    <li class="symb" data-code="64276" code="fb14" title="armenian small ligature men ech">ﬔ</li>
+    <li class="symb" data-code="64277" code="fb15" title="armenian small ligature men ini">ﬕ</li>
+    <li class="symb" data-code="64278" code="fb16" title="armenian small ligature vew now">ﬖ</li>
+    <li class="symb" data-code="64279" code="fb17" title="armenian small ligature men xeh">ﬗ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="64285" code="fb1d" title="hebrew letter yod with hiriq">יִ</li>
+    <li class="symb" data-code="64286" code="fb1e" title="hebrew point judeo-spanish varika">ﬞ</li>
+    <li class="symb" data-code="64287" code="fb1f" title="hebrew ligature yiddish yod yod patah">ײַ</li>
+    <li class="h">fb20</li>
+    <li class="symb" data-code="64288" code="fb20" title="hebrew letter alternative ayin">ﬠ</li>
+    <li class="symb" data-code="64289" code="fb21" title="hebrew letter wide alef">ﬡ</li>
+    <li class="symb" data-code="64290" code="fb22" title="hebrew letter wide dalet">ﬢ</li>
+    <li class="symb" data-code="64291" code="fb23" title="hebrew letter wide he">ﬣ</li>
+    <li class="symb" data-code="64292" code="fb24" title="hebrew letter wide kaf">ﬤ</li>
+    <li class="symb" data-code="64293" code="fb25" title="hebrew letter wide lamed">ﬥ</li>
+    <li class="symb" data-code="64294" code="fb26" title="hebrew letter wide final mem">ﬦ</li>
+    <li class="symb" data-code="64295" code="fb27" title="hebrew letter wide resh">ﬧ</li>
+    <li class="symb" data-code="64296" code="fb28" title="hebrew letter wide tav">ﬨ</li>
+    <li class="symb" data-code="64297" code="fb29" title="hebrew letter alternative plus sign">﬩</li>
+    <li class="symb" data-code="64298" code="fb2a" title="hebrew letter shin with shin dot">שׁ</li>
+    <li class="symb" data-code="64299" code="fb2b" title="hebrew letter shin with sin dot">שׂ</li>
+    <li class="symb" data-code="64300" code="fb2c" title="hebrew letter shin with dagesh and shin dot">שּׁ</li>
+    <li class="symb" data-code="64301" code="fb2d" title="hebrew letter shin with dagesh and sin dot">שּׂ</li>
+    <li class="symb" data-code="64302" code="fb2e" title="hebrew letter alef with patah">אַ</li>
+    <li class="symb" data-code="64303" code="fb2f" title="hebrew letter alef with qamats">אָ</li>
+    <li class="h">fb30</li>
+    <li class="symb" data-code="64304" code="fb30" title="hebrew letter alef with mapiq">אּ</li>
+    <li class="symb" data-code="64305" code="fb31" title="hebrew letter bet with dagesh">בּ</li>
+    <li class="symb" data-code="64306" code="fb32" title="hebrew letter gimel with dagesh">גּ</li>
+    <li class="symb" data-code="64307" code="fb33" title="hebrew letter dalet with dagesh">דּ</li>
+    <li class="symb" data-code="64308" code="fb34" title="hebrew letter he with mapiq">הּ</li>
+    <li class="symb" data-code="64309" code="fb35" title="hebrew letter vav with dagesh">וּ</li>
+    <li class="symb" data-code="64310" code="fb36" title="hebrew letter zayin with dagesh">זּ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="64312" code="fb38" title="hebrew letter tet with dagesh">טּ</li>
+    <li class="symb" data-code="64313" code="fb39" title="hebrew letter yod with dagesh">יּ</li>
+    <li class="symb" data-code="64314" code="fb3a" title="hebrew letter final kaf with dagesh">ךּ</li>
+    <li class="symb" data-code="64315" code="fb3b" title="hebrew letter kaf with dagesh">כּ</li>
+    <li class="symb" data-code="64316" code="fb3c" title="hebrew letter lamed with dagesh">לּ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="64318" code="fb3e" title="hebrew letter mem with dagesh">מּ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">fb40</li>
+    <li class="symb" data-code="64320" code="fb40" title="hebrew letter nun with dagesh">נּ</li>
+    <li class="symb" data-code="64321" code="fb41" title="hebrew letter samekh with dagesh">סּ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="64323" code="fb43" title="hebrew letter final pe with dagesh">ףּ</li>
+    <li class="symb" data-code="64324" code="fb44" title="hebrew letter pe with dagesh">פּ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="64326" code="fb46" title="hebrew letter tsadi with dagesh">צּ</li>
+    <li class="symb" data-code="64327" code="fb47" title="hebrew letter qof with dagesh">קּ</li>
+    <li class="symb" data-code="64328" code="fb48" title="hebrew letter resh with dagesh">רּ</li>
+    <li class="symb" data-code="64329" code="fb49" title="hebrew letter shin with dagesh">שּ</li>
+    <li class="symb" data-code="64330" code="fb4a" title="hebrew letter tav with dagesh">תּ</li>
+    <li class="symb" data-code="64331" code="fb4b" title="hebrew letter vav with holam">וֹ</li>
+    <li class="symb" data-code="64332" code="fb4c" title="hebrew letter bet with rafe">בֿ</li>
+    <li class="symb" data-code="64333" code="fb4d" title="hebrew letter kaf with rafe">כֿ</li>
+    <li class="symb" data-code="64334" code="fb4e" title="hebrew letter pe with rafe">פֿ</li>
+    <li class="symb" data-code="64335" code="fb4f" title="hebrew ligature alef lamed">ﭏ</li>
+  </ul>
+</root>

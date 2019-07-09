@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">abc0</li>
+    <li class="symb" data-code="43968" code="abc0" title="meetei mayek letter kok">ꯀ</li>
+    <li class="symb" data-code="43969" code="abc1" title="meetei mayek letter sam">ꯁ</li>
+    <li class="symb" data-code="43970" code="abc2" title="meetei mayek letter lai">ꯂ</li>
+    <li class="symb" data-code="43971" code="abc3" title="meetei mayek letter mit">ꯃ</li>
+    <li class="symb" data-code="43972" code="abc4" title="meetei mayek letter pa">ꯄ</li>
+    <li class="symb" data-code="43973" code="abc5" title="meetei mayek letter na">ꯅ</li>
+    <li class="symb" data-code="43974" code="abc6" title="meetei mayek letter chil">ꯆ</li>
+    <li class="symb" data-code="43975" code="abc7" title="meetei mayek letter til">ꯇ</li>
+    <li class="symb" data-code="43976" code="abc8" title="meetei mayek letter khou">ꯈ</li>
+    <li class="symb" data-code="43977" code="abc9" title="meetei mayek letter ngou">ꯉ</li>
+    <li class="symb" data-code="43978" code="abca" title="meetei mayek letter thou">ꯊ</li>
+    <li class="symb" data-code="43979" code="abcb" title="meetei mayek letter wai">ꯋ</li>
+    <li class="symb" data-code="43980" code="abcc" title="meetei mayek letter yang">ꯌ</li>
+    <li class="symb" data-code="43981" code="abcd" title="meetei mayek letter huk">ꯍ</li>
+    <li class="symb" data-code="43982" code="abce" title="meetei mayek letter un">ꯎ</li>
+    <li class="symb" data-code="43983" code="abcf" title="meetei mayek letter i">ꯏ</li>
+    <li class="h">abd0</li>
+    <li class="symb" data-code="43984" code="abd0" title="meetei mayek letter pham">ꯐ</li>
+    <li class="symb" data-code="43985" code="abd1" title="meetei mayek letter atiya">ꯑ</li>
+    <li class="symb" data-code="43986" code="abd2" title="meetei mayek letter gok">ꯒ</li>
+    <li class="symb" data-code="43987" code="abd3" title="meetei mayek letter jham">ꯓ</li>
+    <li class="symb" data-code="43988" code="abd4" title="meetei mayek letter rai">ꯔ</li>
+    <li class="symb" data-code="43989" code="abd5" title="meetei mayek letter ba">ꯕ</li>
+    <li class="symb" data-code="43990" code="abd6" title="meetei mayek letter jil">ꯖ</li>
+    <li class="symb" data-code="43991" code="abd7" title="meetei mayek letter dil">ꯗ</li>
+    <li class="symb" data-code="43992" code="abd8" title="meetei mayek letter ghou">ꯘ</li>
+    <li class="symb" data-code="43993" code="abd9" title="meetei mayek letter dhou">ꯙ</li>
+    <li class="symb" data-code="43994" code="abda" title="meetei mayek letter bham">ꯚ</li>
+    <li class="symb" data-code="43995" code="abdb" title="meetei mayek letter kok lonsum">ꯛ</li>
+    <li class="symb" data-code="43996" code="abdc" title="meetei mayek letter lai lonsum">ꯜ</li>
+    <li class="symb" data-code="43997" code="abdd" title="meetei mayek letter mit lonsum">ꯝ</li>
+    <li class="symb" data-code="43998" code="abde" title="meetei mayek letter pa lonsum">ꯞ</li>
+    <li class="symb" data-code="43999" code="abdf" title="meetei mayek letter na lonsum">ꯟ</li>
+    <li class="h">abe0</li>
+    <li class="symb" data-code="44000" code="abe0" title="meetei mayek letter til lonsum">ꯠ</li>
+    <li class="symb" data-code="44001" code="abe1" title="meetei mayek letter ngou lonsum">ꯡ</li>
+    <li class="symb" data-code="44002" code="abe2" title="meetei mayek letter i lonsum">ꯢ</li>
+    <li class="symb" data-code="44003" code="abe3" title="meetei mayek vowel sign onap">ꯣ</li>
+    <li class="symb" data-code="44004" code="abe4" title="meetei mayek vowel sign inap">ꯤ</li>
+    <li class="symb" data-code="44005" code="abe5" title="meetei mayek vowel sign anap">ꯥ</li>
+    <li class="symb" data-code="44006" code="abe6" title="meetei mayek vowel sign yenap">ꯦ</li>
+    <li class="symb" data-code="44007" code="abe7" title="meetei mayek vowel sign sounap">ꯧ</li>
+    <li class="symb" data-code="44008" code="abe8" title="meetei mayek vowel sign unap">ꯨ</li>
+    <li class="symb" data-code="44009" code="abe9" title="meetei mayek vowel sign cheinap">ꯩ</li>
+    <li class="symb" data-code="44010" code="abea" title="meetei mayek vowel sign nung">ꯪ</li>
+    <li class="symb" data-code="44011" code="abeb" title="meetei mayek cheikhei">꯫</li>
+    <li class="symb" data-code="44012" code="abec" title="meetei mayek lum iyek">꯬</li>
+    <li class="symb" data-code="44013" code="abed" title="meetei mayek apun iyek">꯭</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">abf0</li>
+    <li class="symb" data-code="44016" code="abf0" title="meetei mayek digit zero">꯰</li>
+    <li class="symb" data-code="44017" code="abf1" title="meetei mayek digit one">꯱</li>
+    <li class="symb" data-code="44018" code="abf2" title="meetei mayek digit two">꯲</li>
+    <li class="symb" data-code="44019" code="abf3" title="meetei mayek digit three">꯳</li>
+    <li class="symb" data-code="44020" code="abf4" title="meetei mayek digit four">꯴</li>
+    <li class="symb" data-code="44021" code="abf5" title="meetei mayek digit five">꯵</li>
+    <li class="symb" data-code="44022" code="abf6" title="meetei mayek digit six">꯶</li>
+    <li class="symb" data-code="44023" code="abf7" title="meetei mayek digit seven">꯷</li>
+    <li class="symb" data-code="44024" code="abf8" title="meetei mayek digit eight">꯸</li>
+    <li class="symb" data-code="44025" code="abf9" title="meetei mayek digit nine">꯹</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

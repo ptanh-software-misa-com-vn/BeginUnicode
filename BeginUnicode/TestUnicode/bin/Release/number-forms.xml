@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">2150</li>
+    <li class="symb" data-code="8528" code="2150" title="vulgar fraction one seventh">⅐</li>
+    <li class="symb" data-code="8529" code="2151" title="vulgar fraction one ninth">⅑</li>
+    <li class="symb" data-code="8530" code="2152" title="vulgar fraction one tenth">⅒</li>
+    <li class="symb" data-code="8531" code="2153" title="vulgar fraction one third">⅓</li>
+    <li class="symb" data-code="8532" code="2154" title="vulgar fraction two thirds">⅔</li>
+    <li class="symb" data-code="8533" code="2155" title="vulgar fraction one fifth">⅕</li>
+    <li class="symb" data-code="8534" code="2156" title="vulgar fraction two fifths">⅖</li>
+    <li class="symb" data-code="8535" code="2157" title="vulgar fraction three fifths">⅗</li>
+    <li class="symb" data-code="8536" code="2158" title="vulgar fraction four fifths">⅘</li>
+    <li class="symb" data-code="8537" code="2159" title="vulgar fraction one sixth">⅙</li>
+    <li class="symb" data-code="8538" code="215a" title="vulgar fraction five sixths">⅚</li>
+    <li class="symb" data-code="8539" code="215b" title="vulgar fraction one eighth">⅛</li>
+    <li class="symb" data-code="8540" code="215c" title="vulgar fraction three eighths">⅜</li>
+    <li class="symb" data-code="8541" code="215d" title="vulgar fraction five eighths">⅝</li>
+    <li class="symb" data-code="8542" code="215e" title="vulgar fraction seven eighths">⅞</li>
+    <li class="symb" data-code="8543" code="215f" title="fraction numerator one">⅟</li>
+    <li class="h">2160</li>
+    <li class="symb" data-code="8544" code="2160" title="roman numeral one">ⅰ</li>
+    <li class="symb" data-code="8545" code="2161" title="roman numeral two">ⅱ</li>
+    <li class="symb" data-code="8546" code="2162" title="roman numeral three">ⅲ</li>
+    <li class="symb" data-code="8547" code="2163" title="roman numeral four">ⅳ</li>
+    <li class="symb" data-code="8548" code="2164" title="roman numeral five">ⅴ</li>
+    <li class="symb" data-code="8549" code="2165" title="roman numeral six">ⅵ</li>
+    <li class="symb" data-code="8550" code="2166" title="roman numeral seven">ⅶ</li>
+    <li class="symb" data-code="8551" code="2167" title="roman numeral eight">ⅷ</li>
+    <li class="symb" data-code="8552" code="2168" title="roman numeral nine">ⅸ</li>
+    <li class="symb" data-code="8553" code="2169" title="roman numeral ten">ⅹ</li>
+    <li class="symb" data-code="8554" code="216a" title="roman numeral eleven">ⅺ</li>
+    <li class="symb" data-code="8555" code="216b" title="roman numeral twelve">ⅻ</li>
+    <li class="symb" data-code="8556" code="216c" title="roman numeral fifty">ⅼ</li>
+    <li class="symb" data-code="8557" code="216d" title="roman numeral one hundred">ⅽ</li>
+    <li class="symb" data-code="8558" code="216e" title="roman numeral five hundred">ⅾ</li>
+    <li class="symb" data-code="8559" code="216f" title="roman numeral one thousand">ⅿ</li>
+    <li class="h">2170</li>
+    <li class="symb" data-code="8560" code="2170" title="small roman numeral one">ⅰ</li>
+    <li class="symb" data-code="8561" code="2171" title="small roman numeral two">ⅱ</li>
+    <li class="symb" data-code="8562" code="2172" title="small roman numeral three">ⅲ</li>
+    <li class="symb" data-code="8563" code="2173" title="small roman numeral four">ⅳ</li>
+    <li class="symb" data-code="8564" code="2174" title="small roman numeral five">ⅴ</li>
+    <li class="symb" data-code="8565" code="2175" title="small roman numeral six">ⅵ</li>
+    <li class="symb" data-code="8566" code="2176" title="small roman numeral seven">ⅶ</li>
+    <li class="symb" data-code="8567" code="2177" title="small roman numeral eight">ⅷ</li>
+    <li class="symb" data-code="8568" code="2178" title="small roman numeral nine">ⅸ</li>
+    <li class="symb" data-code="8569" code="2179" title="small roman numeral ten">ⅹ</li>
+    <li class="symb" data-code="8570" code="217a" title="small roman numeral eleven">ⅺ</li>
+    <li class="symb" data-code="8571" code="217b" title="small roman numeral twelve">ⅻ</li>
+    <li class="symb" data-code="8572" code="217c" title="small roman numeral fifty">ⅼ</li>
+    <li class="symb" data-code="8573" code="217d" title="small roman numeral one hundred">ⅽ</li>
+    <li class="symb" data-code="8574" code="217e" title="small roman numeral five hundred">ⅾ</li>
+    <li class="symb" data-code="8575" code="217f" title="small roman numeral one thousand">ⅿ</li>
+    <li class="h">2180</li>
+    <li class="symb" data-code="8576" code="2180" title="roman numeral one thousand c d">ↀ</li>
+    <li class="symb" data-code="8577" code="2181" title="roman numeral five thousand">ↁ</li>
+    <li class="symb" data-code="8578" code="2182" title="roman numeral ten thousand">ↂ</li>
+    <li class="symb" data-code="8579" code="2183" title="roman numeral reversed one hundred">ↄ</li>
+    <li class="symb" data-code="8580" code="2184" title="latin small letter reversed c">ↄ</li>
+    <li class="symb" data-code="8581" code="2185" title="roman numeral six late form">ↅ</li>
+    <li class="symb" data-code="8582" code="2186" title="roman numeral fifty early form">ↆ</li>
+    <li class="symb" data-code="8583" code="2187" title="roman numeral fifty thousand">ↇ</li>
+    <li class="symb" data-code="8584" code="2188" title="roman numeral one hundred thousand">ↈ</li>
+    <li class="symb" data-code="8585" code="2189" title="vulgar fraction zero thirds">↉</li>
+    <li class="symb" data-code="8586" code="218a" title="turned digit two">↊</li>
+    <li class="symb" data-code="8587" code="218b" title="turned digit three">↋</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

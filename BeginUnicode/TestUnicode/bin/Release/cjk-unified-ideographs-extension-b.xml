@@ -1,0 +1,549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">20000</li>
+    <li class="symb" data-code="131072" code="20000" title="ideograph the sound made by breathing in; oh! (cf. u+311b bopomofo letter o, which is derived from this character) cjk">𠀀</li>
+    <li class="symb" data-code="131073" code="20001" title="ideograph the original form for 七 u+4e03 cjk">𠀁</li>
+    <li class="symb" data-code="131074" code="20002" title="cjk unified ideograph ucs2003 gkx-0075.06 t5-2125">𠀂</li>
+    <li class="symb" data-code="131075" code="20003" title="ideograph qiě">𠀃</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131077" code="20005" title="ideograph an alternate form of u+4ea5 亥 cjk">𠀅</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131081" code="20009" title="ideograph (the same as u+4e18 丘) a hill; elder; empty; a name cjk">𠀉</li>
+    <li class="symb" data-code="131082" code="2000a" title="ideograph cāo">𠀊</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131085" code="2000d" title="ideograph (same as u+4e16 世) generation; world; era cjk">𠀍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20010</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131091" code="20013" title="ideograph sī">𠀓</li>
+    <li class="symb" data-code="131092" code="20014" title="ideograph jué">𠀔</li>
+    <li class="symb" data-code="131093" code="20015" title="ideograph variant of u+4e99 亙 cjk">𠀕</li>
+    <li class="symb" data-code="131094" code="20016" title="ideograph">𠀖</li>
+    <li class="symb" data-code="131095" code="20017" title="ideograph">𠀗</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131099" code="2001b" title="ideograph yù">𠀛</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131101" code="2001d" title="ideograph kōng">𠀝</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20020</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131105" code="20021" title="ideograph tin1">𠀡</li>
+    <li class="symb" data-code="131106" code="20022" title="ideograph zī">𠀢</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131110" code="20026" title="ideograph xíng">𠀦</li>
+    <li class="symb" data-code="131111" code="20027" title="ideograph">𠀧</li>
+    <li class="symb" data-code="131112" code="20028" title="ideograph">𠀨</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131114" code="2002a" title="ideograph">𠀪</li>
+    <li class="symb" data-code="131115" code="2002b" title="ideograph">𠀫</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20030</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131121" code="20031" title="ideograph mǒu">𠀱</li>
+    <li class="symb" data-code="131122" code="20032" title="ideograph">𠀲</li>
+    <li class="symb" data-code="131123" code="20033" title="ideograph">𠀳</li>
+    <li class="symb" data-code="131124" code="20034" title="ideograph">𠀴</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131127" code="20037" title="ideograph jī">𠀷</li>
+    <li class="symb" data-code="131128" code="20038" title="ideograph yè">𠀸</li>
+    <li class="symb" data-code="131129" code="20039" title="ideograph jūn">𠀹</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131132" code="2003c" title="ideograph qián">𠀼</li>
+    <li class="symb" data-code="131133" code="2003d" title="ideograph lù">𠀽</li>
+    <li class="symb" data-code="131134" code="2003e" title="ideograph bui5">𠀾</li>
+    <li class="symb" data-code="131135" code="2003f" title="ideograph">𠀿</li>
+    <li class="h">20040</li>
+    <li class="symb" data-code="131136" code="20040" title="ideograph">𠁀</li>
+    <li class="symb" data-code="131137" code="20041" title="ideograph a flagon cjk">𠁁</li>
+    <li class="symb" data-code="131138" code="20042" title="ideograph">𠁂</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131140" code="20044" title="ideograph">𠁄</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131142" code="20046" title="ideograph bik6">𠁆</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131145" code="20049" title="ideograph chū">𠁉</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131150" code="2004e" title="ideograph lin4">𠁎</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20050</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131153" code="20051" title="ideograph">𠁑</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131156" code="20054" title="ideograph">𠁔</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131159" code="20057" title="ideograph shì">𠁗</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131161" code="20059" title="ideograph">𠁙</li>
+    <li class="symb" data-code="131162" code="2005a" title="ideograph">𠁚</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131165" code="2005d" title="ideograph">𠁝</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131167" code="2005f" title="ideograph">𠁟</li>
+    <li class="h">20060</li>
+    <li class="symb" data-code="131168" code="20060" title="ideograph qiè">𠁠</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131173" code="20065" title="ideograph the horns of a sheep cjk">𠁥</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131176" code="20068" title="ideograph cung1">𠁨</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131178" code="2006a" title="ideograph">𠁪</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131181" code="2006d" title="ideograph qí">𠁭</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20070</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131189" code="20075" title="ideograph">𠁵</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131191" code="20077" title="ideograph chǎn">𠁷</li>
+    <li class="symb" data-code="131192" code="20078" title="ideograph">𠁸</li>
+    <li class="symb" data-code="131193" code="20079" title="ideograph">𠁹</li>
+    <li class="symb" data-code="131194" code="2007a" title="ideograph">𠁺</li>
+    <li class="symb" data-code="131195" code="2007b" title="ideograph">𠁻</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20080</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131204" code="20084" title="ideograph huān">𠂄</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131206" code="20086" title="ideograph yì">𠂆</li>
+    <li class="symb" data-code="131207" code="20087" title="ideograph zuǒ">𠂇</li>
+    <li class="symb" data-code="131208" code="20088" title="ideograph jié">𠂈</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131210" code="2008a" title="ideograph jan4">𠂊</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131214" code="2008e" title="ideograph">𠂎</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20090</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131217" code="20091" title="ideograph zōu">𠂑</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131220" code="20094" title="ideograph to stop cjk">𠂔</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131229" code="2009d" title="ideograph every, all; a multitude cjk">𠂝</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131231" code="2009f" title="ideograph jīn">𠂟</li>
+    <li class="h">200a0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131234" code="200a2" title="ideograph to branch cjk">𠂢</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131236" code="200a4" title="ideograph to store up, to pile up cjk">𠂤</li>
+    <li class="symb" data-code="131237" code="200a5" title="ideograph cóng">𠂥</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131239" code="200a7" title="ideograph shèn">𠂧</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131242" code="200aa" title="ideograph">𠂪</li>
+    <li class="symb" data-code="131243" code="200ab" title="ideograph">𠂫</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">200b0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131256" code="200b8" title="ideograph huáng">𠂸</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">200c0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131269" code="200c5" title="ideograph">𠃅</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131274" code="200ca" title="ideograph yǐn">𠃊</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131276" code="200cc" title="ideograph gǔn">𠃌</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">200d0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131286" code="200d6" title="ideograph jiū">𠃖</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131293" code="200dd" title="ideograph">𠃝</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">200e0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131299" code="200e3" title="ideograph">𠃣</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131305" code="200e9" title="ideograph">𠃩</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131307" code="200eb" title="ideograph shēn">𠃫</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131310" code="200ee" title="ideograph tam5">𠃮</li>
+    <li class="symb" data-code="131311" code="200ef" title="ideograph">𠃯</li>
+    <li class="h">200f0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131319" code="200f7" title="ideograph">𠃷</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131322" code="200fa" title="ideograph jiù">𠃺</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20100</li>
+    <li class="symb" data-code="131328" code="20100" title="ideograph">𠄀</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131333" code="20105" title="ideograph yè">𠄅</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131337" code="20109" title="ideograph dòng">𠄉</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131340" code="2010c" title="ideograph jué">𠄌</li>
+    <li class="symb" data-code="131341" code="2010d" title="ideograph jié">𠄍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131343" code="2010f" title="ideograph diǎo">𠄏</li>
+    <li class="h">20110</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131345" code="20111" title="ideograph jué">𠄑</li>
+    <li class="symb" data-code="131346" code="20112" title="ideograph chuí">𠄒</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131350" code="20116" title="ideograph líng">𠄖</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131352" code="20118" title="ideograph sing4">𠄘</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131354" code="2011a" title="ideograph tīng">𠄚</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131356" code="2011c" title="ideograph">𠄜</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20120</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131363" code="20123" title="ideograph gèn">𠄣</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131366" code="20126" title="ideograph">𠄦</li>
+    <li class="symb" data-code="131367" code="20127" title="ideograph">𠄧</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131369" code="20129" title="ideograph">𠄩</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131374" code="2012e" title="ideograph yà">𠄮</li>
+    <li class="symb" data-code="131375" code="2012f" title="ideograph">𠄯</li>
+    <li class="h">20130</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131377" code="20131" title="ideograph yí">𠄱</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131379" code="20133" title="ideograph">𠄳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131382" code="20136" title="ideograph">𠄶</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131386" code="2013a" title="ideograph">𠄺</li>
+    <li class="symb" data-code="131387" code="2013b" title="ideograph">𠄻</li>
+    <li class="symb" data-code="131388" code="2013c" title="ideograph">𠄼</li>
+    <li class="symb" data-code="131389" code="2013d" title="ideograph">𠄽</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131391" code="2013f" title="ideograph wéi">𠄿</li>
+    <li class="h">20140</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131394" code="20142" title="ideograph jié">𠅂</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131404" code="2014c" title="ideograph yí">𠅌</li>
+    <li class="symb" data-code="131405" code="2014d" title="ideograph">𠅍</li>
+    <li class="symb" data-code="131406" code="2014e" title="ideograph">𠅎</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20150</li>
+    <li class="symb" data-code="131408" code="20150" title="ideograph">𠅐</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131410" code="20152" title="ideograph">𠅒</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131415" code="20157" title="ideograph diè">𠅗</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131418" code="2015a" title="ideograph qí">𠅚</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131420" code="2015c" title="ideograph">𠅜</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20160</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131436" code="2016c" title="ideograph bāo">𠅬</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20170</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131441" code="20171" title="ideograph xiè">𠅱</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131443" code="20173" title="ideograph">𠅳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131449" code="20179" title="ideograph zhàng">𠅹</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131451" code="2017b" title="ideograph">𠅻</li>
+    <li class="symb" data-code="131452" code="2017c" title="ideograph">𠅼</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20180</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131468" code="2018c" title="ideograph (variant of u+5eb8 庸) usual, common; to use cjk">𠆌</li>
+    <li class="symb" data-code="131469" code="2018d" title="ideograph">𠆍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">20190</li>
+    <li class="symb" data-code="131472" code="20190" title="ideograph xù">𠆐</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131481" code="20199" title="ideograph diè">𠆙</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131483" code="2019b" title="ideograph dān">𠆛</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131487" code="2019f" title="ideograph wěi">𠆟</li>
+    <li class="h">201a0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131491" code="201a3" title="ideograph guǎ">𠆣</li>
+    <li class="symb" data-code="131492" code="201a4" title="ideograph ding1 zaang1 zang1">𠆤</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131497" code="201a9" title="ideograph (cant.) to play cjk">𠆩</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131499" code="201ab" title="ideograph coi4">𠆫</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131502" code="201ae" title="ideograph mò">𠆮</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">201b0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131505" code="201b1" title="ideograph xī">𠆱</li>
+    <li class="symb" data-code="131506" code="201b2" title="ideograph yǎn">𠆲</li>
+    <li class="symb" data-code="131507" code="201b3" title="ideograph">𠆳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131509" code="201b5" title="ideograph ní">𠆵</li>
+    <li class="symb" data-code="131510" code="201b6" title="ideograph dàn">𠆶</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">201c0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131521" code="201c1" title="ideograph jan5">𠇁</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131531" code="201cb" title="ideograph dǎn">𠇋</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131533" code="201cd" title="ideograph">𠇍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131535" code="201cf" title="ideograph tāo">𠇏</li>
+    <li class="h">201d0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131538" code="201d2" title="ideograph gōng">𠇒</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131540" code="201d4" title="ideograph mou4">𠇔</li>
+    <li class="symb" data-code="131541" code="201d5" title="ideograph">𠇕</li>
+    <li class="symb" data-code="131542" code="201d6" title="ideograph">𠇖</li>
+    <li class="symb" data-code="131543" code="201d7" title="ideograph kuā">𠇗</li>
+    <li class="symb" data-code="131544" code="201d8" title="ideograph chù">𠇘</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">201e0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131567" code="201ef" title="ideograph qù">𠇯</li>
+    <li class="h">201f0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131569" code="201f1" title="ideograph mò">𠇱</li>
+    <li class="symb" data-code="131570" code="201f2" title="ideograph jau1">𠇲</li>
+    <li class="symb" data-code="131571" code="201f3" title="ideograph shī">𠇳</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131573" code="201f5" title="ideograph gǎn">𠇵</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131575" code="201f7" title="ideograph shēng">𠇷</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="131580" code="201fc" title="ideograph">𠇼</li>
+    <li class="symb" data-code="131581" code="201fd" title="ideograph">𠇽</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

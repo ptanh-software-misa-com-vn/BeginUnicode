@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0e80</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3713" code="0e81" title="lao letter ko">ກ</li>
+    <li class="symb" data-code="3714" code="0e82" title="lao letter kho sung">ຂ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3716" code="0e84" title="lao letter kho tam">ຄ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3719" code="0e87" title="lao letter ngo">ງ</li>
+    <li class="symb" data-code="3720" code="0e88" title="lao letter co">ຈ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3722" code="0e8a" title="lao letter so tam">ຊ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3725" code="0e8d" title="lao letter nyo">ຍ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0e90</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3732" code="0e94" title="lao letter do">ດ</li>
+    <li class="symb" data-code="3733" code="0e95" title="lao letter to">ຕ</li>
+    <li class="symb" data-code="3734" code="0e96" title="lao letter tho sung">ຖ</li>
+    <li class="symb" data-code="3735" code="0e97" title="lao letter tho tam">ທ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3737" code="0e99" title="lao letter no">ນ</li>
+    <li class="symb" data-code="3738" code="0e9a" title="lao letter bo">ບ</li>
+    <li class="symb" data-code="3739" code="0e9b" title="lao letter po">ປ</li>
+    <li class="symb" data-code="3740" code="0e9c" title="lao letter pho sung">ຜ</li>
+    <li class="symb" data-code="3741" code="0e9d" title="lao letter fo tam">ຝ</li>
+    <li class="symb" data-code="3742" code="0e9e" title="lao letter pho tam">ພ</li>
+    <li class="symb" data-code="3743" code="0e9f" title="lao letter fo sung">ຟ</li>
+    <li class="h">0ea0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3745" code="0ea1" title="lao letter mo">ມ</li>
+    <li class="symb" data-code="3746" code="0ea2" title="lao letter yo">ຢ</li>
+    <li class="symb" data-code="3747" code="0ea3" title="lao letter lo ling">ຣ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3749" code="0ea5" title="lao letter lo loot">ລ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3751" code="0ea7" title="lao letter wo">ວ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3754" code="0eaa" title="lao letter so sung">ສ</li>
+    <li class="symb" data-code="3755" code="0eab" title="lao letter ho sung">ຫ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3757" code="0ead" title="lao letter o">ອ</li>
+    <li class="symb" data-code="3758" code="0eae" title="lao letter ho tam">ຮ</li>
+    <li class="symb" data-code="3759" code="0eaf" title="lao ellipsis">ຯ</li>
+    <li class="h">0eb0</li>
+    <li class="symb" data-code="3760" code="0eb0" title="lao vowel sign a">ະ</li>
+    <li class="symb" data-code="3761" code="0eb1" title="lao vowel sign mai kan">ັ</li>
+    <li class="symb" data-code="3762" code="0eb2" title="lao vowel sign aa">າ</li>
+    <li class="symb" data-code="3763" code="0eb3" title="lao vowel sign am">ຳ</li>
+    <li class="symb" data-code="3764" code="0eb4" title="lao vowel sign i">ິ</li>
+    <li class="symb" data-code="3765" code="0eb5" title="lao vowel sign ii">ີ</li>
+    <li class="symb" data-code="3766" code="0eb6" title="lao vowel sign y">ຶ</li>
+    <li class="symb" data-code="3767" code="0eb7" title="lao vowel sign yy">ື</li>
+    <li class="symb" data-code="3768" code="0eb8" title="lao vowel sign u">ຸ</li>
+    <li class="symb" data-code="3769" code="0eb9" title="lao vowel sign uu">ູ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3771" code="0ebb" title="lao vowel sign mai kon">ົ</li>
+    <li class="symb" data-code="3772" code="0ebc" title="lao semivowel sign lo">ຼ</li>
+    <li class="symb" data-code="3773" code="0ebd" title="lao semivowel sign nyo">ຽ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0ec0</li>
+    <li class="symb" data-code="3776" code="0ec0" title="lao vowel sign e">ເ</li>
+    <li class="symb" data-code="3777" code="0ec1" title="lao vowel sign ei">ແ</li>
+    <li class="symb" data-code="3778" code="0ec2" title="lao vowel sign o">ໂ</li>
+    <li class="symb" data-code="3779" code="0ec3" title="lao vowel sign ay">ໃ</li>
+    <li class="symb" data-code="3780" code="0ec4" title="lao vowel sign ai">ໄ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3782" code="0ec6" title="lao ko la">ໆ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3784" code="0ec8" title="lao tone mai ek">່</li>
+    <li class="symb" data-code="3785" code="0ec9" title="lao tone mai tho">້</li>
+    <li class="symb" data-code="3786" code="0eca" title="lao tone mai ti">໊</li>
+    <li class="symb" data-code="3787" code="0ecb" title="lao tone mai catawa">໋</li>
+    <li class="symb" data-code="3788" code="0ecc" title="lao cancellation mark">໌</li>
+    <li class="symb" data-code="3789" code="0ecd" title="lao niggahita">ໍ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0ed0</li>
+    <li class="symb" data-code="3792" code="0ed0" title="lao digit zero">໐</li>
+    <li class="symb" data-code="3793" code="0ed1" title="lao digit one">໑</li>
+    <li class="symb" data-code="3794" code="0ed2" title="lao digit two">໒</li>
+    <li class="symb" data-code="3795" code="0ed3" title="lao digit three">໓</li>
+    <li class="symb" data-code="3796" code="0ed4" title="lao digit four">໔</li>
+    <li class="symb" data-code="3797" code="0ed5" title="lao digit five">໕</li>
+    <li class="symb" data-code="3798" code="0ed6" title="lao digit six">໖</li>
+    <li class="symb" data-code="3799" code="0ed7" title="lao digit seven">໗</li>
+    <li class="symb" data-code="3800" code="0ed8" title="lao digit eight">໘</li>
+    <li class="symb" data-code="3801" code="0ed9" title="lao digit nine">໙</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3804" code="0edc" title="lao ho no">ໜ</li>
+    <li class="symb" data-code="3805" code="0edd" title="lao ho mo">ໝ</li>
+    <li class="symb" data-code="3806" code="0ede" title="lao letter khmu go">ໞ</li>
+    <li class="symb" data-code="3807" code="0edf" title="lao letter khmu nyo">ໟ</li>
+    <li class="h">0ee0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0ef0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

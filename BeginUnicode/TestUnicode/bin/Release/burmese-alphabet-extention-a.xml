@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">aa60</li>
+    <li class="symb" data-code="43616" code="aa60" title="myanmar letter khamti ga">ꩠ</li>
+    <li class="symb" data-code="43617" code="aa61" title="myanmar letter khamti ca">ꩡ</li>
+    <li class="symb" data-code="43618" code="aa62" title="myanmar letter khamti cha">ꩢ</li>
+    <li class="symb" data-code="43619" code="aa63" title="myanmar letter khamti ja">ꩣ</li>
+    <li class="symb" data-code="43620" code="aa64" title="myanmar letter khamti jha">ꩤ</li>
+    <li class="symb" data-code="43621" code="aa65" title="myanmar letter khamti nya">ꩥ</li>
+    <li class="symb" data-code="43622" code="aa66" title="myanmar letter khamti tta">ꩦ</li>
+    <li class="symb" data-code="43623" code="aa67" title="myanmar letter khamti ttha">ꩧ</li>
+    <li class="symb" data-code="43624" code="aa68" title="myanmar letter khamti dda">ꩨ</li>
+    <li class="symb" data-code="43625" code="aa69" title="myanmar letter khamti ddha">ꩩ</li>
+    <li class="symb" data-code="43626" code="aa6a" title="myanmar letter khamti dha">ꩪ</li>
+    <li class="symb" data-code="43627" code="aa6b" title="myanmar letter khamti na">ꩫ</li>
+    <li class="symb" data-code="43628" code="aa6c" title="myanmar letter khamti sa">ꩬ</li>
+    <li class="symb" data-code="43629" code="aa6d" title="myanmar letter khamti ha">ꩭ</li>
+    <li class="symb" data-code="43630" code="aa6e" title="myanmar letter khamti hha">ꩮ</li>
+    <li class="symb" data-code="43631" code="aa6f" title="myanmar letter khamti fa">ꩯ</li>
+    <li class="h">aa70</li>
+    <li class="symb" data-code="43632" code="aa70" title="myanmar modifier letter khamti reduplication">ꩰ</li>
+    <li class="symb" data-code="43633" code="aa71" title="myanmar letter khamti xa">ꩱ</li>
+    <li class="symb" data-code="43634" code="aa72" title="myanmar letter khamti za">ꩲ</li>
+    <li class="symb" data-code="43635" code="aa73" title="myanmar letter khamti ra">ꩳ</li>
+    <li class="symb" data-code="43636" code="aa74" title="myanmar logogram khamti oay">ꩴ</li>
+    <li class="symb" data-code="43637" code="aa75" title="myanmar logogram khamti qn">ꩵ</li>
+    <li class="symb" data-code="43638" code="aa76" title="myanmar logogram khamti hm">ꩶ</li>
+    <li class="symb" data-code="43639" code="aa77" title="myanmar symbol aiton exclamation">꩷</li>
+    <li class="symb" data-code="43640" code="aa78" title="myanmar symbol aiton one">꩸</li>
+    <li class="symb" data-code="43641" code="aa79" title="myanmar symbol aiton two">꩹</li>
+    <li class="symb" data-code="43642" code="aa7a" title="myanmar letter aiton ra">ꩺ</li>
+    <li class="symb" data-code="43643" code="aa7b" title="myanmar sign pao karen tone">ꩻ</li>
+    <li class="symb" data-code="43644" code="aa7c" title="myanmar sign tai laing tone-2">ꩼ</li>
+    <li class="symb" data-code="43645" code="aa7d" title="myanmar sign tai laing tone-5">ꩽ</li>
+    <li class="symb" data-code="43646" code="aa7e" title="myanmar letter shwe palaung cha">ꩾ</li>
+    <li class="symb" data-code="43647" code="aa7f" title="myanmar letter shwe palaung sha">ꩿ</li>
+  </ul>
+</root>

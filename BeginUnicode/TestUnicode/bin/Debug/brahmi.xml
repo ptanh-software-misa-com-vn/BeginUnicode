@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">11000</li>
+    <li class="symb" data-code="69632" code="11000" title="brahmi sign candrabindu">𑀀</li>
+    <li class="symb" data-code="69633" code="11001" title="brahmi sign anusvara">𑀁</li>
+    <li class="symb" data-code="69634" code="11002" title="brahmi sign visarga">𑀂</li>
+    <li class="symb" data-code="69635" code="11003" title="brahmi sign jihvamuliya">𑀃</li>
+    <li class="symb" data-code="69636" code="11004" title="brahmi sign upadhmaniya">𑀄</li>
+    <li class="symb" data-code="69637" code="11005" title="brahmi letter a">𑀅</li>
+    <li class="symb" data-code="69638" code="11006" title="brahmi letter aa">𑀆</li>
+    <li class="symb" data-code="69639" code="11007" title="brahmi letter i">𑀇</li>
+    <li class="symb" data-code="69640" code="11008" title="brahmi letter ii">𑀈</li>
+    <li class="symb" data-code="69641" code="11009" title="brahmi letter u">𑀉</li>
+    <li class="symb" data-code="69642" code="1100a" title="brahmi letter uu">𑀊</li>
+    <li class="symb" data-code="69643" code="1100b" title="brahmi letter vocalic r">𑀋</li>
+    <li class="symb" data-code="69644" code="1100c" title="brahmi letter vocalic rr">𑀌</li>
+    <li class="symb" data-code="69645" code="1100d" title="brahmi letter vocalic l">𑀍</li>
+    <li class="symb" data-code="69646" code="1100e" title="brahmi letter vocalic ll">𑀎</li>
+    <li class="symb" data-code="69647" code="1100f" title="brahmi letter e">𑀏</li>
+    <li class="h">11010</li>
+    <li class="symb" data-code="69648" code="11010" title="brahmi letter ai">𑀐</li>
+    <li class="symb" data-code="69649" code="11011" title="brahmi letter o">𑀑</li>
+    <li class="symb" data-code="69650" code="11012" title="brahmi letter au">𑀒</li>
+    <li class="symb" data-code="69651" code="11013" title="brahmi letter ka">𑀓</li>
+    <li class="symb" data-code="69652" code="11014" title="brahmi letter kha">𑀔</li>
+    <li class="symb" data-code="69653" code="11015" title="brahmi letter ga">𑀕</li>
+    <li class="symb" data-code="69654" code="11016" title="brahmi letter gha">𑀖</li>
+    <li class="symb" data-code="69655" code="11017" title="brahmi letter nga">𑀗</li>
+    <li class="symb" data-code="69656" code="11018" title="brahmi letter ca">𑀘</li>
+    <li class="symb" data-code="69657" code="11019" title="brahmi letter cha">𑀙</li>
+    <li class="symb" data-code="69658" code="1101a" title="brahmi letter ja">𑀚</li>
+    <li class="symb" data-code="69659" code="1101b" title="brahmi letter jha">𑀛</li>
+    <li class="symb" data-code="69660" code="1101c" title="brahmi letter nya">𑀜</li>
+    <li class="symb" data-code="69661" code="1101d" title="brahmi letter tta">𑀝</li>
+    <li class="symb" data-code="69662" code="1101e" title="brahmi letter ttha">𑀞</li>
+    <li class="symb" data-code="69663" code="1101f" title="brahmi letter dda">𑀟</li>
+    <li class="h">11020</li>
+    <li class="symb" data-code="69664" code="11020" title="brahmi letter ddha">𑀠</li>
+    <li class="symb" data-code="69665" code="11021" title="brahmi letter nna">𑀡</li>
+    <li class="symb" data-code="69666" code="11022" title="brahmi letter ta">𑀢</li>
+    <li class="symb" data-code="69667" code="11023" title="brahmi letter tha">𑀣</li>
+    <li class="symb" data-code="69668" code="11024" title="brahmi letter da">𑀤</li>
+    <li class="symb" data-code="69669" code="11025" title="brahmi letter dha">𑀥</li>
+    <li class="symb" data-code="69670" code="11026" title="brahmi letter na">𑀦</li>
+    <li class="symb" data-code="69671" code="11027" title="brahmi letter pa">𑀧</li>
+    <li class="symb" data-code="69672" code="11028" title="brahmi letter pha">𑀨</li>
+    <li class="symb" data-code="69673" code="11029" title="brahmi letter ba">𑀩</li>
+    <li class="symb" data-code="69674" code="1102a" title="brahmi letter bha">𑀪</li>
+    <li class="symb" data-code="69675" code="1102b" title="brahmi letter ma">𑀫</li>
+    <li class="symb" data-code="69676" code="1102c" title="brahmi letter ya">𑀬</li>
+    <li class="symb" data-code="69677" code="1102d" title="brahmi letter ra">𑀭</li>
+    <li class="symb" data-code="69678" code="1102e" title="brahmi letter la">𑀮</li>
+    <li class="symb" data-code="69679" code="1102f" title="brahmi letter va">𑀯</li>
+    <li class="h">11030</li>
+    <li class="symb" data-code="69680" code="11030" title="brahmi letter sha">𑀰</li>
+    <li class="symb" data-code="69681" code="11031" title="brahmi letter ssa">𑀱</li>
+    <li class="symb" data-code="69682" code="11032" title="brahmi letter sa">𑀲</li>
+    <li class="symb" data-code="69683" code="11033" title="brahmi letter ha">𑀳</li>
+    <li class="symb" data-code="69684" code="11034" title="brahmi letter lla">𑀴</li>
+    <li class="symb" data-code="69685" code="11035" title="brahmi letter old tamil llla">𑀵</li>
+    <li class="symb" data-code="69686" code="11036" title="brahmi letter old tamil rra">𑀶</li>
+    <li class="symb" data-code="69687" code="11037" title="brahmi letter old tamil nnna">𑀷</li>
+    <li class="symb" data-code="69688" code="11038" title="brahmi vowel sign aa">𑀸</li>
+    <li class="symb" data-code="69689" code="11039" title="brahmi vowel sign bhattiprolu aa">𑀹</li>
+    <li class="symb" data-code="69690" code="1103a" title="brahmi vowel sign i">𑀺</li>
+    <li class="symb" data-code="69691" code="1103b" title="brahmi vowel sign ii">𑀻</li>
+    <li class="symb" data-code="69692" code="1103c" title="brahmi vowel sign u">𑀼</li>
+    <li class="symb" data-code="69693" code="1103d" title="brahmi vowel sign uu">𑀽</li>
+    <li class="symb" data-code="69694" code="1103e" title="brahmi vowel sign vocalic r">𑀾</li>
+    <li class="symb" data-code="69695" code="1103f" title="brahmi vowel sign vocalic rr">𑀿</li>
+    <li class="h">11040</li>
+    <li class="symb" data-code="69696" code="11040" title="brahmi vowel sign vocalic l">𑁀</li>
+    <li class="symb" data-code="69697" code="11041" title="brahmi vowel sign vocalic ll">𑁁</li>
+    <li class="symb" data-code="69698" code="11042" title="brahmi vowel sign e">𑁂</li>
+    <li class="symb" data-code="69699" code="11043" title="brahmi vowel sign ai">𑁃</li>
+    <li class="symb" data-code="69700" code="11044" title="brahmi vowel sign o">𑁄</li>
+    <li class="symb" data-code="69701" code="11045" title="brahmi vowel sign au">𑁅</li>
+    <li class="symb" data-code="69702" code="11046" title="brahmi virama">𑁆</li>
+    <li class="symb" data-code="69703" code="11047" title="brahmi danda">𑁇</li>
+    <li class="symb" data-code="69704" code="11048" title="brahmi double danda">𑁈</li>
+    <li class="symb" data-code="69705" code="11049" title="brahmi punctuation dot">𑁉</li>
+    <li class="symb" data-code="69706" code="1104a" title="brahmi punctuation double dot">𑁊</li>
+    <li class="symb" data-code="69707" code="1104b" title="brahmi punctuation line">𑁋</li>
+    <li class="symb" data-code="69708" code="1104c" title="brahmi punctuation crescent bar">𑁌</li>
+    <li class="symb" data-code="69709" code="1104d" title="brahmi punctuation lotus">𑁍</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">11050</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="69714" code="11052" title="brahmi number one">𑁒</li>
+    <li class="symb" data-code="69715" code="11053" title="brahmi number two">𑁓</li>
+    <li class="symb" data-code="69716" code="11054" title="brahmi number three">𑁔</li>
+    <li class="symb" data-code="69717" code="11055" title="brahmi number four">𑁕</li>
+    <li class="symb" data-code="69718" code="11056" title="brahmi number five">𑁖</li>
+    <li class="symb" data-code="69719" code="11057" title="brahmi number six">𑁗</li>
+    <li class="symb" data-code="69720" code="11058" title="brahmi number seven">𑁘</li>
+    <li class="symb" data-code="69721" code="11059" title="brahmi number eight">𑁙</li>
+    <li class="symb" data-code="69722" code="1105a" title="brahmi number nine">𑁚</li>
+    <li class="symb" data-code="69723" code="1105b" title="brahmi number ten">𑁛</li>
+    <li class="symb" data-code="69724" code="1105c" title="brahmi number twenty">𑁜</li>
+    <li class="symb" data-code="69725" code="1105d" title="brahmi number thirty">𑁝</li>
+    <li class="symb" data-code="69726" code="1105e" title="brahmi number forty">𑁞</li>
+    <li class="symb" data-code="69727" code="1105f" title="brahmi number fifty">𑁟</li>
+    <li class="h">11060</li>
+    <li class="symb" data-code="69728" code="11060" title="brahmi number sixty">𑁠</li>
+    <li class="symb" data-code="69729" code="11061" title="brahmi number seventy">𑁡</li>
+    <li class="symb" data-code="69730" code="11062" title="brahmi number eighty">𑁢</li>
+    <li class="symb" data-code="69731" code="11063" title="brahmi number ninety">𑁣</li>
+    <li class="symb" data-code="69732" code="11064" title="brahmi number one hundred">𑁤</li>
+    <li class="symb" data-code="69733" code="11065" title="brahmi number one thousand">𑁥</li>
+    <li class="symb" data-code="69734" code="11066" title="brahmi digit zero">𑁦</li>
+    <li class="symb" data-code="69735" code="11067" title="brahmi digit one">𑁧</li>
+    <li class="symb" data-code="69736" code="11068" title="brahmi digit two">𑁨</li>
+    <li class="symb" data-code="69737" code="11069" title="brahmi digit three">𑁩</li>
+    <li class="symb" data-code="69738" code="1106a" title="brahmi digit four">𑁪</li>
+    <li class="symb" data-code="69739" code="1106b" title="brahmi digit five">𑁫</li>
+    <li class="symb" data-code="69740" code="1106c" title="brahmi digit six">𑁬</li>
+    <li class="symb" data-code="69741" code="1106d" title="brahmi digit seven">𑁭</li>
+    <li class="symb" data-code="69742" code="1106e" title="brahmi digit eight">𑁮</li>
+    <li class="symb" data-code="69743" code="1106f" title="brahmi digit nine">𑁯</li>
+    <li class="h">11070</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="69759" code="1107f" title="brahmi number joiner">𑁿</li>
+  </ul>
+</root>

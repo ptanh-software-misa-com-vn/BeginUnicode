@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">07c0</li>
+    <li class="symb" data-code="1984" code="07c0" title="nko digit zero">߀</li>
+    <li class="symb" data-code="1985" code="07c1" title="nko digit one">߁</li>
+    <li class="symb" data-code="1986" code="07c2" title="nko digit two">߂</li>
+    <li class="symb" data-code="1987" code="07c3" title="nko digit three">߃</li>
+    <li class="symb" data-code="1988" code="07c4" title="nko digit four">߄</li>
+    <li class="symb" data-code="1989" code="07c5" title="nko digit five">߅</li>
+    <li class="symb" data-code="1990" code="07c6" title="nko digit six">߆</li>
+    <li class="symb" data-code="1991" code="07c7" title="nko digit seven">߇</li>
+    <li class="symb" data-code="1992" code="07c8" title="nko digit eight">߈</li>
+    <li class="symb" data-code="1993" code="07c9" title="nko digit nine">߉</li>
+    <li class="symb" data-code="1994" code="07ca" title="nko letter a">ߊ</li>
+    <li class="symb" data-code="1995" code="07cb" title="nko letter ee">ߋ</li>
+    <li class="symb" data-code="1996" code="07cc" title="nko letter i">ߌ</li>
+    <li class="symb" data-code="1997" code="07cd" title="nko letter e">ߍ</li>
+    <li class="symb" data-code="1998" code="07ce" title="nko letter u">ߎ</li>
+    <li class="symb" data-code="1999" code="07cf" title="nko letter oo">ߏ</li>
+    <li class="h">07d0</li>
+    <li class="symb" data-code="2000" code="07d0" title="nko letter o">ߐ</li>
+    <li class="symb" data-code="2001" code="07d1" title="nko letter dagbasinna">ߑ</li>
+    <li class="symb" data-code="2002" code="07d2" title="nko letter n">ߒ</li>
+    <li class="symb" data-code="2003" code="07d3" title="nko letter ba">ߓ</li>
+    <li class="symb" data-code="2004" code="07d4" title="nko letter pa">ߔ</li>
+    <li class="symb" data-code="2005" code="07d5" title="nko letter ta">ߕ</li>
+    <li class="symb" data-code="2006" code="07d6" title="nko letter ja">ߖ</li>
+    <li class="symb" data-code="2007" code="07d7" title="nko letter cha">ߗ</li>
+    <li class="symb" data-code="2008" code="07d8" title="nko letter da">ߘ</li>
+    <li class="symb" data-code="2009" code="07d9" title="nko letter ra">ߙ</li>
+    <li class="symb" data-code="2010" code="07da" title="nko letter rra">ߚ</li>
+    <li class="symb" data-code="2011" code="07db" title="nko letter sa">ߛ</li>
+    <li class="symb" data-code="2012" code="07dc" title="nko letter gba">ߜ</li>
+    <li class="symb" data-code="2013" code="07dd" title="nko letter fa">ߝ</li>
+    <li class="symb" data-code="2014" code="07de" title="nko letter ka">ߞ</li>
+    <li class="symb" data-code="2015" code="07df" title="nko letter la">ߟ</li>
+    <li class="h">07e0</li>
+    <li class="symb" data-code="2016" code="07e0" title="nko letter na woloso">ߠ</li>
+    <li class="symb" data-code="2017" code="07e1" title="nko letter ma">ߡ</li>
+    <li class="symb" data-code="2018" code="07e2" title="nko letter nya">ߢ</li>
+    <li class="symb" data-code="2019" code="07e3" title="nko letter na">ߣ</li>
+    <li class="symb" data-code="2020" code="07e4" title="nko letter ha">ߤ</li>
+    <li class="symb" data-code="2021" code="07e5" title="nko letter wa">ߥ</li>
+    <li class="symb" data-code="2022" code="07e6" title="nko letter ya">ߦ</li>
+    <li class="symb" data-code="2023" code="07e7" title="nko letter nya woloso">ߧ</li>
+    <li class="symb" data-code="2024" code="07e8" title="nko letter jona ja">ߨ</li>
+    <li class="symb" data-code="2025" code="07e9" title="nko letter jona cha">ߩ</li>
+    <li class="symb" data-code="2026" code="07ea" title="nko letter jona ra">ߪ</li>
+    <li class="symb" data-code="2027" code="07eb" title="nko combining short high tone">߫</li>
+    <li class="symb" data-code="2028" code="07ec" title="nko combining short low tone">߬</li>
+    <li class="symb" data-code="2029" code="07ed" title="nko combining short rising tone">߭</li>
+    <li class="symb" data-code="2030" code="07ee" title="nko combining long descending tone">߮</li>
+    <li class="symb" data-code="2031" code="07ef" title="nko combining long high tone">߯</li>
+    <li class="h">07f0</li>
+    <li class="symb" data-code="2032" code="07f0" title="nko combining long low tone">߰</li>
+    <li class="symb" data-code="2033" code="07f1" title="nko combining long rising tone">߱</li>
+    <li class="symb" data-code="2034" code="07f2" title="nko combining nasalization mark">߲</li>
+    <li class="symb" data-code="2035" code="07f3" title="nko combining double dot above">߳</li>
+    <li class="symb" data-code="2036" code="07f4" title="nko high tone apostrophe">ߴ</li>
+    <li class="symb" data-code="2037" code="07f5" title="nko low tone apostrophe">ߵ</li>
+    <li class="symb" data-code="2038" code="07f6" title="nko symbol oo dennen">߶</li>
+    <li class="symb" data-code="2039" code="07f7" title="nko symbol gbakurunen">߷</li>
+    <li class="symb" data-code="2040" code="07f8" title="nko comma">߸</li>
+    <li class="symb" data-code="2041" code="07f9" title="nko exclamation mark">߹</li>
+    <li class="symb" data-code="2042" code="07fa" title="nko lajanyalan">ߺ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2045" code="07fd" title="nko dantayalan">߽</li>
+    <li class="symb" data-code="2046" code="07fe" title="nko dorome sign">߾</li>
+    <li class="symb" data-code="2047" code="07ff" title="nko taman sign">߿</li>
+  </ul>
+</root>

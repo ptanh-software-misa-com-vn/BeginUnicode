@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">fe10</li>
+    <li class="symb" data-code="65040" code="fe10" title="presentation form for vertical comma">︐</li>
+    <li class="symb" data-code="65041" code="fe11" title="presentation form for vertical ideographic comma">︑</li>
+    <li class="symb" data-code="65042" code="fe12" title="presentation form for vertical ideographic full stop">︒</li>
+    <li class="symb" data-code="65043" code="fe13" title="presentation form for vertical colon">︓</li>
+    <li class="symb" data-code="65044" code="fe14" title="presentation form for vertical semicolon">︔</li>
+    <li class="symb" data-code="65045" code="fe15" title="presentation form for vertical exclamation mark">︕</li>
+    <li class="symb" data-code="65046" code="fe16" title="presentation form for vertical question mark">︖</li>
+    <li class="symb" data-code="65047" code="fe17" title="presentation form for vertical left white lenticular bracket">︗</li>
+    <li class="symb" data-code="65048" code="fe18" title="presentation form for vertical right white lenticular bracket">︘</li>
+    <li class="symb" data-code="65049" code="fe19" title="presentation form for vertical horizontal ellipsis">︙</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

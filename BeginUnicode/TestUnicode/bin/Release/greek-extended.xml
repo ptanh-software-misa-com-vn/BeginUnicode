@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">1f00</li>
+    <li class="symb" data-code="7936" code="1f00" title="greek small letter alpha with psili">ἀ</li>
+    <li class="symb" data-code="7937" code="1f01" title="greek small letter alpha with dasia">ἁ</li>
+    <li class="symb" data-code="7938" code="1f02" title="greek small letter alpha with psili and varia">ἂ</li>
+    <li class="symb" data-code="7939" code="1f03" title="greek small letter alpha with dasia and varia">ἃ</li>
+    <li class="symb" data-code="7940" code="1f04" title="greek small letter alpha with psili and oxia">ἄ</li>
+    <li class="symb" data-code="7941" code="1f05" title="greek small letter alpha with dasia and oxia">ἅ</li>
+    <li class="symb" data-code="7942" code="1f06" title="greek small letter alpha with psili and perispomeni">ἆ</li>
+    <li class="symb" data-code="7943" code="1f07" title="greek small letter alpha with dasia and perispomeni">ἇ</li>
+    <li class="symb" data-code="7944" code="1f08" title="greek capital letter alpha with psili">ἀ</li>
+    <li class="symb" data-code="7945" code="1f09" title="greek capital letter alpha with dasia">ἁ</li>
+    <li class="symb" data-code="7946" code="1f0a" title="greek capital letter alpha with psili and varia">ἂ</li>
+    <li class="symb" data-code="7947" code="1f0b" title="greek capital letter alpha with dasia and varia">ἃ</li>
+    <li class="symb" data-code="7948" code="1f0c" title="greek capital letter alpha with psili and oxia">ἄ</li>
+    <li class="symb" data-code="7949" code="1f0d" title="greek capital letter alpha with dasia and oxia">ἅ</li>
+    <li class="symb" data-code="7950" code="1f0e" title="greek capital letter alpha with psili and perispomeni">ἆ</li>
+    <li class="symb" data-code="7951" code="1f0f" title="greek capital letter alpha with dasia and perispomeni">ἇ</li>
+    <li class="h">1f10</li>
+    <li class="symb" data-code="7952" code="1f10" title="greek small letter epsilon with psili">ἐ</li>
+    <li class="symb" data-code="7953" code="1f11" title="greek small letter epsilon with dasia">ἑ</li>
+    <li class="symb" data-code="7954" code="1f12" title="greek small letter epsilon with psili and varia">ἒ</li>
+    <li class="symb" data-code="7955" code="1f13" title="greek small letter epsilon with dasia and varia">ἓ</li>
+    <li class="symb" data-code="7956" code="1f14" title="greek small letter epsilon with psili and oxia">ἔ</li>
+    <li class="symb" data-code="7957" code="1f15" title="greek small letter epsilon with dasia and oxia">ἕ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="7960" code="1f18" title="greek capital letter epsilon with psili">ἐ</li>
+    <li class="symb" data-code="7961" code="1f19" title="greek capital letter epsilon with dasia">ἑ</li>
+    <li class="symb" data-code="7962" code="1f1a" title="greek capital letter epsilon with psili and varia">ἒ</li>
+    <li class="symb" data-code="7963" code="1f1b" title="greek capital letter epsilon with dasia and varia">ἓ</li>
+    <li class="symb" data-code="7964" code="1f1c" title="greek capital letter epsilon with psili and oxia">ἔ</li>
+    <li class="symb" data-code="7965" code="1f1d" title="greek capital letter epsilon with dasia and oxia">ἕ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f20</li>
+    <li class="symb" data-code="7968" code="1f20" title="greek small letter eta with psili">ἠ</li>
+    <li class="symb" data-code="7969" code="1f21" title="greek small letter eta with dasia">ἡ</li>
+    <li class="symb" data-code="7970" code="1f22" title="greek small letter eta with psili and varia">ἢ</li>
+    <li class="symb" data-code="7971" code="1f23" title="greek small letter eta with dasia and varia">ἣ</li>
+    <li class="symb" data-code="7972" code="1f24" title="greek small letter eta with psili and oxia">ἤ</li>
+    <li class="symb" data-code="7973" code="1f25" title="greek small letter eta with dasia and oxia">ἥ</li>
+    <li class="symb" data-code="7974" code="1f26" title="greek small letter eta with psili and perispomeni">ἦ</li>
+    <li class="symb" data-code="7975" code="1f27" title="greek small letter eta with dasia and perispomeni">ἧ</li>
+    <li class="symb" data-code="7976" code="1f28" title="greek capital letter eta with psili">ἠ</li>
+    <li class="symb" data-code="7977" code="1f29" title="greek capital letter eta with dasia">ἡ</li>
+    <li class="symb" data-code="7978" code="1f2a" title="greek capital letter eta with psili and varia">ἢ</li>
+    <li class="symb" data-code="7979" code="1f2b" title="greek capital letter eta with dasia and varia">ἣ</li>
+    <li class="symb" data-code="7980" code="1f2c" title="greek capital letter eta with psili and oxia">ἤ</li>
+    <li class="symb" data-code="7981" code="1f2d" title="greek capital letter eta with dasia and oxia">ἥ</li>
+    <li class="symb" data-code="7982" code="1f2e" title="greek capital letter eta with psili and perispomeni">ἦ</li>
+    <li class="symb" data-code="7983" code="1f2f" title="greek capital letter eta with dasia and perispomeni">ἧ</li>
+    <li class="h">1f30</li>
+    <li class="symb" data-code="7984" code="1f30" title="greek small letter iota with psili">ἰ</li>
+    <li class="symb" data-code="7985" code="1f31" title="greek small letter iota with dasia">ἱ</li>
+    <li class="symb" data-code="7986" code="1f32" title="greek small letter iota with psili and varia">ἲ</li>
+    <li class="symb" data-code="7987" code="1f33" title="greek small letter iota with dasia and varia">ἳ</li>
+    <li class="symb" data-code="7988" code="1f34" title="greek small letter iota with psili and oxia">ἴ</li>
+    <li class="symb" data-code="7989" code="1f35" title="greek small letter iota with dasia and oxia">ἵ</li>
+    <li class="symb" data-code="7990" code="1f36" title="greek small letter iota with psili and perispomeni">ἶ</li>
+    <li class="symb" data-code="7991" code="1f37" title="greek small letter iota with dasia and perispomeni">ἷ</li>
+    <li class="symb" data-code="7992" code="1f38" title="greek capital letter iota with psili">ἰ</li>
+    <li class="symb" data-code="7993" code="1f39" title="greek capital letter iota with dasia">ἱ</li>
+    <li class="symb" data-code="7994" code="1f3a" title="greek capital letter iota with psili and varia">ἲ</li>
+    <li class="symb" data-code="7995" code="1f3b" title="greek capital letter iota with dasia and varia">ἳ</li>
+    <li class="symb" data-code="7996" code="1f3c" title="greek capital letter iota with psili and oxia">ἴ</li>
+    <li class="symb" data-code="7997" code="1f3d" title="greek capital letter iota with dasia and oxia">ἵ</li>
+    <li class="symb" data-code="7998" code="1f3e" title="greek capital letter iota with psili and perispomeni">ἶ</li>
+    <li class="symb" data-code="7999" code="1f3f" title="greek capital letter iota with dasia and perispomeni">ἷ</li>
+    <li class="h">1f40</li>
+    <li class="symb" data-code="8000" code="1f40" title="greek small letter omicron with psili">ὀ</li>
+    <li class="symb" data-code="8001" code="1f41" title="greek small letter omicron with dasia">ὁ</li>
+    <li class="symb" data-code="8002" code="1f42" title="greek small letter omicron with psili and varia">ὂ</li>
+    <li class="symb" data-code="8003" code="1f43" title="greek small letter omicron with dasia and varia">ὃ</li>
+    <li class="symb" data-code="8004" code="1f44" title="greek small letter omicron with psili and oxia">ὄ</li>
+    <li class="symb" data-code="8005" code="1f45" title="greek small letter omicron with dasia and oxia">ὅ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8008" code="1f48" title="greek capital letter omicron with psili">ὀ</li>
+    <li class="symb" data-code="8009" code="1f49" title="greek capital letter omicron with dasia">ὁ</li>
+    <li class="symb" data-code="8010" code="1f4a" title="greek capital letter omicron with psili and varia">ὂ</li>
+    <li class="symb" data-code="8011" code="1f4b" title="greek capital letter omicron with dasia and varia">ὃ</li>
+    <li class="symb" data-code="8012" code="1f4c" title="greek capital letter omicron with psili and oxia">ὄ</li>
+    <li class="symb" data-code="8013" code="1f4d" title="greek capital letter omicron with dasia and oxia">ὅ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f50</li>
+    <li class="symb" data-code="8016" code="1f50" title="greek small letter upsilon with psili">ὐ</li>
+    <li class="symb" data-code="8017" code="1f51" title="greek small letter upsilon with dasia">ὑ</li>
+    <li class="symb" data-code="8018" code="1f52" title="greek small letter upsilon with psili and varia">ὒ</li>
+    <li class="symb" data-code="8019" code="1f53" title="greek small letter upsilon with dasia and varia">ὓ</li>
+    <li class="symb" data-code="8020" code="1f54" title="greek small letter upsilon with psili and oxia">ὔ</li>
+    <li class="symb" data-code="8021" code="1f55" title="greek small letter upsilon with dasia and oxia">ὕ</li>
+    <li class="symb" data-code="8022" code="1f56" title="greek small letter upsilon with psili and perispomeni">ὖ</li>
+    <li class="symb" data-code="8023" code="1f57" title="greek small letter upsilon with dasia and perispomeni">ὗ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8025" code="1f59" title="greek capital letter upsilon with dasia">ὑ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8027" code="1f5b" title="greek capital letter upsilon with dasia and varia">ὓ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8029" code="1f5d" title="greek capital letter upsilon with dasia and oxia">ὕ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8031" code="1f5f" title="greek capital letter upsilon with dasia and perispomeni">ὗ</li>
+    <li class="h">1f60</li>
+    <li class="symb" data-code="8032" code="1f60" title="greek small letter omega with psili">ὠ</li>
+    <li class="symb" data-code="8033" code="1f61" title="greek small letter omega with dasia">ὡ</li>
+    <li class="symb" data-code="8034" code="1f62" title="greek small letter omega with psili and varia">ὢ</li>
+    <li class="symb" data-code="8035" code="1f63" title="greek small letter omega with dasia and varia">ὣ</li>
+    <li class="symb" data-code="8036" code="1f64" title="greek small letter omega with psili and oxia">ὤ</li>
+    <li class="symb" data-code="8037" code="1f65" title="greek small letter omega with dasia and oxia">ὥ</li>
+    <li class="symb" data-code="8038" code="1f66" title="greek small letter omega with psili and perispomeni">ὦ</li>
+    <li class="symb" data-code="8039" code="1f67" title="greek small letter omega with dasia and perispomeni">ὧ</li>
+    <li class="symb" data-code="8040" code="1f68" title="greek capital letter omega with psili">ὠ</li>
+    <li class="symb" data-code="8041" code="1f69" title="greek capital letter omega with dasia">ὡ</li>
+    <li class="symb" data-code="8042" code="1f6a" title="greek capital letter omega with psili and varia">ὢ</li>
+    <li class="symb" data-code="8043" code="1f6b" title="greek capital letter omega with dasia and varia">ὣ</li>
+    <li class="symb" data-code="8044" code="1f6c" title="greek capital letter omega with psili and oxia">ὤ</li>
+    <li class="symb" data-code="8045" code="1f6d" title="greek capital letter omega with dasia and oxia">ὥ</li>
+    <li class="symb" data-code="8046" code="1f6e" title="greek capital letter omega with psili and perispomeni">ὦ</li>
+    <li class="symb" data-code="8047" code="1f6f" title="greek capital letter omega with dasia and perispomeni">ὧ</li>
+    <li class="h">1f70</li>
+    <li class="symb" data-code="8048" code="1f70" title="greek small letter alpha with varia">ὰ</li>
+    <li class="symb" data-code="8049" code="1f71" title="greek small letter alpha with oxia">ά</li>
+    <li class="symb" data-code="8050" code="1f72" title="greek small letter epsilon with varia">ὲ</li>
+    <li class="symb" data-code="8051" code="1f73" title="greek small letter epsilon with oxia">έ</li>
+    <li class="symb" data-code="8052" code="1f74" title="greek small letter eta with varia">ὴ</li>
+    <li class="symb" data-code="8053" code="1f75" title="greek small letter eta with oxia">ή</li>
+    <li class="symb" data-code="8054" code="1f76" title="greek small letter iota with varia">ὶ</li>
+    <li class="symb" data-code="8055" code="1f77" title="greek small letter iota with oxia">ί</li>
+    <li class="symb" data-code="8056" code="1f78" title="greek small letter omicron with varia">ὸ</li>
+    <li class="symb" data-code="8057" code="1f79" title="greek small letter omicron with oxia">ό</li>
+    <li class="symb" data-code="8058" code="1f7a" title="greek small letter upsilon with varia">ὺ</li>
+    <li class="symb" data-code="8059" code="1f7b" title="greek small letter upsilon with oxia">ύ</li>
+    <li class="symb" data-code="8060" code="1f7c" title="greek small letter omega with varia">ὼ</li>
+    <li class="symb" data-code="8061" code="1f7d" title="greek small letter omega with oxia">ώ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">1f80</li>
+    <li class="symb" data-code="8064" code="1f80" title="greek small letter alpha with psili and ypogegrammeni">ᾀ</li>
+    <li class="symb" data-code="8065" code="1f81" title="greek small letter alpha with dasia and ypogegrammeni">ᾁ</li>
+    <li class="symb" data-code="8066" code="1f82" title="greek small letter alpha with psili and varia and ypogegrammeni">ᾂ</li>
+    <li class="symb" data-code="8067" code="1f83" title="greek small letter alpha with dasia and varia and ypogegrammeni">ᾃ</li>
+    <li class="symb" data-code="8068" code="1f84" title="greek small letter alpha with psili and oxia and ypogegrammeni">ᾄ</li>
+    <li class="symb" data-code="8069" code="1f85" title="greek small letter alpha with dasia and oxia and ypogegrammeni">ᾅ</li>
+    <li class="symb" data-code="8070" code="1f86" title="greek small letter alpha with psili and perispomeni and ypogegrammeni">ᾆ</li>
+    <li class="symb" data-code="8071" code="1f87" title="greek small letter alpha with dasia and perispomeni and ypogegrammeni">ᾇ</li>
+    <li class="symb" data-code="8072" code="1f88" title="greek capital letter alpha with psili and prosgegrammeni">ᾀ</li>
+    <li class="symb" data-code="8073" code="1f89" title="greek capital letter alpha with dasia and prosgegrammeni">ᾁ</li>
+    <li class="symb" data-code="8074" code="1f8a" title="greek capital letter alpha with psili and varia and prosgegrammeni">ᾂ</li>
+    <li class="symb" data-code="8075" code="1f8b" title="greek capital letter alpha with dasia and varia and prosgegrammeni">ᾃ</li>
+    <li class="symb" data-code="8076" code="1f8c" title="greek capital letter alpha with psili and oxia and prosgegrammeni">ᾄ</li>
+    <li class="symb" data-code="8077" code="1f8d" title="greek capital letter alpha with dasia and oxia and prosgegrammeni">ᾅ</li>
+    <li class="symb" data-code="8078" code="1f8e" title="greek capital letter alpha with psili and perispomeni and prosgegrammeni">ᾆ</li>
+    <li class="symb" data-code="8079" code="1f8f" title="greek capital letter alpha with dasia and perispomeni and prosgegrammeni">ᾇ</li>
+    <li class="h">1f90</li>
+    <li class="symb" data-code="8080" code="1f90" title="greek small letter eta with psili and ypogegrammeni">ᾐ</li>
+    <li class="symb" data-code="8081" code="1f91" title="greek small letter eta with dasia and ypogegrammeni">ᾑ</li>
+    <li class="symb" data-code="8082" code="1f92" title="greek small letter eta with psili and varia and ypogegrammeni">ᾒ</li>
+    <li class="symb" data-code="8083" code="1f93" title="greek small letter eta with dasia and varia and ypogegrammeni">ᾓ</li>
+    <li class="symb" data-code="8084" code="1f94" title="greek small letter eta with psili and oxia and ypogegrammeni">ᾔ</li>
+    <li class="symb" data-code="8085" code="1f95" title="greek small letter eta with dasia and oxia and ypogegrammeni">ᾕ</li>
+    <li class="symb" data-code="8086" code="1f96" title="greek small letter eta with psili and perispomeni and ypogegrammeni">ᾖ</li>
+    <li class="symb" data-code="8087" code="1f97" title="greek small letter eta with dasia and perispomeni and ypogegrammeni">ᾗ</li>
+    <li class="symb" data-code="8088" code="1f98" title="greek capital letter eta with psili and prosgegrammeni">ᾐ</li>
+    <li class="symb" data-code="8089" code="1f99" title="greek capital letter eta with dasia and prosgegrammeni">ᾑ</li>
+    <li class="symb" data-code="8090" code="1f9a" title="greek capital letter eta with psili and varia and prosgegrammeni">ᾒ</li>
+    <li class="symb" data-code="8091" code="1f9b" title="greek capital letter eta with dasia and varia and prosgegrammeni">ᾓ</li>
+    <li class="symb" data-code="8092" code="1f9c" title="greek capital letter eta with psili and oxia and prosgegrammeni">ᾔ</li>
+    <li class="symb" data-code="8093" code="1f9d" title="greek capital letter eta with dasia and oxia and prosgegrammeni">ᾕ</li>
+    <li class="symb" data-code="8094" code="1f9e" title="greek capital letter eta with psili and perispomeni and prosgegrammeni">ᾖ</li>
+    <li class="symb" data-code="8095" code="1f9f" title="greek capital letter eta with dasia and perispomeni and prosgegrammeni">ᾗ</li>
+    <li class="h">1fa0</li>
+    <li class="symb" data-code="8096" code="1fa0" title="greek small letter omega with psili and ypogegrammeni">ᾠ</li>
+    <li class="symb" data-code="8097" code="1fa1" title="greek small letter omega with dasia and ypogegrammeni">ᾡ</li>
+    <li class="symb" data-code="8098" code="1fa2" title="greek small letter omega with psili and varia and ypogegrammeni">ᾢ</li>
+    <li class="symb" data-code="8099" code="1fa3" title="greek small letter omega with dasia and varia and ypogegrammeni">ᾣ</li>
+    <li class="symb" data-code="8100" code="1fa4" title="greek small letter omega with psili and oxia and ypogegrammeni">ᾤ</li>
+    <li class="symb" data-code="8101" code="1fa5" title="greek small letter omega with dasia and oxia and ypogegrammeni">ᾥ</li>
+    <li class="symb" data-code="8102" code="1fa6" title="greek small letter omega with psili and perispomeni and ypogegrammeni">ᾦ</li>
+    <li class="symb" data-code="8103" code="1fa7" title="greek small letter omega with dasia and perispomeni and ypogegrammeni">ᾧ</li>
+    <li class="symb" data-code="8104" code="1fa8" title="greek capital letter omega with psili and prosgegrammeni">ᾠ</li>
+    <li class="symb" data-code="8105" code="1fa9" title="greek capital letter omega with dasia and prosgegrammeni">ᾡ</li>
+    <li class="symb" data-code="8106" code="1faa" title="greek capital letter omega with psili and varia and prosgegrammeni">ᾢ</li>
+    <li class="symb" data-code="8107" code="1fab" title="greek capital letter omega with dasia and varia and prosgegrammeni">ᾣ</li>
+    <li class="symb" data-code="8108" code="1fac" title="greek capital letter omega with psili and oxia and prosgegrammeni">ᾤ</li>
+    <li class="symb" data-code="8109" code="1fad" title="greek capital letter omega with dasia and oxia and prosgegrammeni">ᾥ</li>
+    <li class="symb" data-code="8110" code="1fae" title="greek capital letter omega with psili and perispomeni and prosgegrammeni">ᾦ</li>
+    <li class="symb" data-code="8111" code="1faf" title="greek capital letter omega with dasia and perispomeni and prosgegrammeni">ᾧ</li>
+    <li class="h">1fb0</li>
+    <li class="symb" data-code="8112" code="1fb0" title="greek small letter alpha with vrachy">ᾰ</li>
+    <li class="symb" data-code="8113" code="1fb1" title="greek small letter alpha with macron">ᾱ</li>
+    <li class="symb" data-code="8114" code="1fb2" title="greek small letter alpha with varia and ypogegrammeni">ᾲ</li>
+    <li class="symb" data-code="8115" code="1fb3" title="greek small letter alpha with ypogegrammeni">ᾳ</li>
+    <li class="symb" data-code="8116" code="1fb4" title="greek small letter alpha with oxia and ypogegrammeni">ᾴ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8118" code="1fb6" title="greek small letter alpha with perispomeni">ᾶ</li>
+    <li class="symb" data-code="8119" code="1fb7" title="greek small letter alpha with perispomeni and ypogegrammeni">ᾷ</li>
+    <li class="symb" data-code="8120" code="1fb8" title="greek capital letter alpha with vrachy">ᾰ</li>
+    <li class="symb" data-code="8121" code="1fb9" title="greek capital letter alpha with macron">ᾱ</li>
+    <li class="symb" data-code="8122" code="1fba" title="greek capital letter alpha with varia">ὰ</li>
+    <li class="symb" data-code="8123" code="1fbb" title="greek capital letter alpha with oxia">ά</li>
+    <li class="symb" data-code="8124" code="1fbc" title="greek capital letter alpha with prosgegrammeni">ᾳ</li>
+    <li class="symb" data-code="8125" code="1fbd" title="greek koronis">᾽</li>
+    <li class="symb" data-code="8126" code="1fbe" title="greek prosgegrammeni">ι</li>
+    <li class="symb" data-code="8127" code="1fbf" title="greek psili">᾿</li>
+    <li class="h">1fc0</li>
+    <li class="symb" data-code="8128" code="1fc0" title="greek perispomeni">῀</li>
+    <li class="symb" data-code="8129" code="1fc1" title="greek dialytika and perispomeni">῁</li>
+    <li class="symb" data-code="8130" code="1fc2" title="greek small letter eta with varia and ypogegrammeni">ῂ</li>
+    <li class="symb" data-code="8131" code="1fc3" title="greek small letter eta with ypogegrammeni">ῃ</li>
+    <li class="symb" data-code="8132" code="1fc4" title="greek small letter eta with oxia and ypogegrammeni">ῄ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8134" code="1fc6" title="greek small letter eta with perispomeni">ῆ</li>
+    <li class="symb" data-code="8135" code="1fc7" title="greek small letter eta with perispomeni and ypogegrammeni">ῇ</li>
+    <li class="symb" data-code="8136" code="1fc8" title="greek capital letter epsilon with varia">ὲ</li>
+    <li class="symb" data-code="8137" code="1fc9" title="greek capital letter epsilon with oxia">έ</li>
+    <li class="symb" data-code="8138" code="1fca" title="greek capital letter eta with varia">ὴ</li>
+    <li class="symb" data-code="8139" code="1fcb" title="greek capital letter eta with oxia">ή</li>
+    <li class="symb" data-code="8140" code="1fcc" title="greek capital letter eta with prosgegrammeni">ῃ</li>
+    <li class="symb" data-code="8141" code="1fcd" title="greek psili and varia">῍</li>
+    <li class="symb" data-code="8142" code="1fce" title="greek psili and oxia">῎</li>
+    <li class="symb" data-code="8143" code="1fcf" title="greek psili and perispomeni">῏</li>
+    <li class="h">1fd0</li>
+    <li class="symb" data-code="8144" code="1fd0" title="greek small letter iota with vrachy">ῐ</li>
+    <li class="symb" data-code="8145" code="1fd1" title="greek small letter iota with macron">ῑ</li>
+    <li class="symb" data-code="8146" code="1fd2" title="greek small letter iota with dialytika and varia">ῒ</li>
+    <li class="symb" data-code="8147" code="1fd3" title="greek small letter iota with dialytika and oxia">ΐ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8150" code="1fd6" title="greek small letter iota with perispomeni">ῖ</li>
+    <li class="symb" data-code="8151" code="1fd7" title="greek small letter iota with dialytika and perispomeni">ῗ</li>
+    <li class="symb" data-code="8152" code="1fd8" title="greek capital letter iota with vrachy">ῐ</li>
+    <li class="symb" data-code="8153" code="1fd9" title="greek capital letter iota with macron">ῑ</li>
+    <li class="symb" data-code="8154" code="1fda" title="greek capital letter iota with varia">ὶ</li>
+    <li class="symb" data-code="8155" code="1fdb" title="greek capital letter iota with oxia">ί</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8157" code="1fdd" title="greek dasia and varia">῝</li>
+    <li class="symb" data-code="8158" code="1fde" title="greek dasia and oxia">῞</li>
+    <li class="symb" data-code="8159" code="1fdf" title="greek dasia and perispomeni">῟</li>
+    <li class="h">1fe0</li>
+    <li class="symb" data-code="8160" code="1fe0" title="greek small letter upsilon with vrachy">ῠ</li>
+    <li class="symb" data-code="8161" code="1fe1" title="greek small letter upsilon with macron">ῡ</li>
+    <li class="symb" data-code="8162" code="1fe2" title="greek small letter upsilon with dialytika and varia">ῢ</li>
+    <li class="symb" data-code="8163" code="1fe3" title="greek small letter upsilon with dialytika and oxia">ΰ</li>
+    <li class="symb" data-code="8164" code="1fe4" title="greek small letter rho with psili">ῤ</li>
+    <li class="symb" data-code="8165" code="1fe5" title="greek small letter rho with dasia">ῥ</li>
+    <li class="symb" data-code="8166" code="1fe6" title="greek small letter upsilon with perispomeni">ῦ</li>
+    <li class="symb" data-code="8167" code="1fe7" title="greek small letter upsilon with dialytika and perispomeni">ῧ</li>
+    <li class="symb" data-code="8168" code="1fe8" title="greek capital letter upsilon with vrachy">ῠ</li>
+    <li class="symb" data-code="8169" code="1fe9" title="greek capital letter upsilon with macron">ῡ</li>
+    <li class="symb" data-code="8170" code="1fea" title="greek capital letter upsilon with varia">ὺ</li>
+    <li class="symb" data-code="8171" code="1feb" title="greek capital letter upsilon with oxia">ύ</li>
+    <li class="symb" data-code="8172" code="1fec" title="greek capital letter rho with dasia">ῥ</li>
+    <li class="symb" data-code="8173" code="1fed" title="greek dialytika and varia">῭</li>
+    <li class="symb" data-code="8174" code="1fee" title="greek dialytika and oxia">΅</li>
+    <li class="symb" data-code="8175" code="1fef" title="greek varia">`</li>
+    <li class="h">1ff0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8178" code="1ff2" title="greek small letter omega with varia and ypogegrammeni">ῲ</li>
+    <li class="symb" data-code="8179" code="1ff3" title="greek small letter omega with ypogegrammeni">ῳ</li>
+    <li class="symb" data-code="8180" code="1ff4" title="greek small letter omega with oxia and ypogegrammeni">ῴ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="8182" code="1ff6" title="greek small letter omega with perispomeni">ῶ</li>
+    <li class="symb" data-code="8183" code="1ff7" title="greek small letter omega with perispomeni and ypogegrammeni">ῷ</li>
+    <li class="symb" data-code="8184" code="1ff8" title="greek capital letter omicron with varia">ὸ</li>
+    <li class="symb" data-code="8185" code="1ff9" title="greek capital letter omicron with oxia">ό</li>
+    <li class="symb" data-code="8186" code="1ffa" title="greek capital letter omega with varia">ὼ</li>
+    <li class="symb" data-code="8187" code="1ffb" title="greek capital letter omega with oxia">ώ</li>
+    <li class="symb" data-code="8188" code="1ffc" title="greek capital letter omega with prosgegrammeni">ῳ</li>
+    <li class="symb" data-code="8189" code="1ffd" title="greek oxia">´</li>
+    <li class="symb" data-code="8190" code="1ffe" title="greek dasia">῾</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

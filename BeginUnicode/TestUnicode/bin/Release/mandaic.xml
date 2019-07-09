@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0840</li>
+    <li class="symb" data-code="2112" code="0840" title="mandaic letter halqa">ࡀ</li>
+    <li class="symb" data-code="2113" code="0841" title="mandaic letter ab">ࡁ</li>
+    <li class="symb" data-code="2114" code="0842" title="mandaic letter ag">ࡂ</li>
+    <li class="symb" data-code="2115" code="0843" title="mandaic letter ad">ࡃ</li>
+    <li class="symb" data-code="2116" code="0844" title="mandaic letter ah">ࡄ</li>
+    <li class="symb" data-code="2117" code="0845" title="mandaic letter ushenna">ࡅ</li>
+    <li class="symb" data-code="2118" code="0846" title="mandaic letter az">ࡆ</li>
+    <li class="symb" data-code="2119" code="0847" title="mandaic letter it">ࡇ</li>
+    <li class="symb" data-code="2120" code="0848" title="mandaic letter att">ࡈ</li>
+    <li class="symb" data-code="2121" code="0849" title="mandaic letter aksa">ࡉ</li>
+    <li class="symb" data-code="2122" code="084a" title="mandaic letter ak">ࡊ</li>
+    <li class="symb" data-code="2123" code="084b" title="mandaic letter al">ࡋ</li>
+    <li class="symb" data-code="2124" code="084c" title="mandaic letter am">ࡌ</li>
+    <li class="symb" data-code="2125" code="084d" title="mandaic letter an">ࡍ</li>
+    <li class="symb" data-code="2126" code="084e" title="mandaic letter as">ࡎ</li>
+    <li class="symb" data-code="2127" code="084f" title="mandaic letter in">ࡏ</li>
+    <li class="h">0850</li>
+    <li class="symb" data-code="2128" code="0850" title="mandaic letter ap">ࡐ</li>
+    <li class="symb" data-code="2129" code="0851" title="mandaic letter asz">ࡑ</li>
+    <li class="symb" data-code="2130" code="0852" title="mandaic letter aq">ࡒ</li>
+    <li class="symb" data-code="2131" code="0853" title="mandaic letter ar">ࡓ</li>
+    <li class="symb" data-code="2132" code="0854" title="mandaic letter ash">ࡔ</li>
+    <li class="symb" data-code="2133" code="0855" title="mandaic letter at">ࡕ</li>
+    <li class="symb" data-code="2134" code="0856" title="mandaic letter dushenna">ࡖ</li>
+    <li class="symb" data-code="2135" code="0857" title="mandaic letter kad">ࡗ</li>
+    <li class="symb" data-code="2136" code="0858" title="mandaic letter ain">ࡘ</li>
+    <li class="symb" data-code="2137" code="0859" title="mandaic affrication mark">࡙</li>
+    <li class="symb" data-code="2138" code="085a" title="mandaic vocalization mark">࡚</li>
+    <li class="symb" data-code="2139" code="085b" title="mandaic gemination mark">࡛</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="2142" code="085e" title="mandaic punctuation">࡞</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

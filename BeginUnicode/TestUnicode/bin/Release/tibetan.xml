@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">0f00</li>
+    <li class="symb" data-code="3840" code="0f00" title="tibetan syllable om">ༀ</li>
+    <li class="symb" data-code="3841" code="0f01" title="tibetan mark gter yig mgo truncated a">༁</li>
+    <li class="symb" data-code="3842" code="0f02" title="tibetan mark gter yig mgo -um rnam bcad ma">༂</li>
+    <li class="symb" data-code="3843" code="0f03" title="tibetan mark gter yig mgo -um gter tsheg ma">༃</li>
+    <li class="symb" data-code="3844" code="0f04" title="tibetan mark initial yig mgo mdun ma">༄</li>
+    <li class="symb" data-code="3845" code="0f05" title="tibetan mark closing yig mgo sgab ma">༅</li>
+    <li class="symb" data-code="3846" code="0f06" title="tibetan mark caret yig mgo phur shad ma">༆</li>
+    <li class="symb" data-code="3847" code="0f07" title="tibetan mark yig mgo tsheg shad ma">༇</li>
+    <li class="symb" data-code="3848" code="0f08" title="tibetan mark sbrul shad">༈</li>
+    <li class="symb" data-code="3849" code="0f09" title="tibetan mark bskur yig mgo">༉</li>
+    <li class="symb" data-code="3850" code="0f0a" title="tibetan mark bka- shog yig mgo">༊</li>
+    <li class="symb" data-code="3851" code="0f0b" title="tibetan mark intersyllabic tsheg">་</li>
+    <li class="symb" data-code="3852" code="0f0c" title="tibetan mark delimiter tsheg bstar">༌</li>
+    <li class="symb" data-code="3853" code="0f0d" title="tibetan mark shad">།</li>
+    <li class="symb" data-code="3854" code="0f0e" title="tibetan mark nyis shad">༎</li>
+    <li class="symb" data-code="3855" code="0f0f" title="tibetan mark tsheg shad">༏</li>
+    <li class="h">0f10</li>
+    <li class="symb" data-code="3856" code="0f10" title="tibetan mark nyis tsheg shad">༐</li>
+    <li class="symb" data-code="3857" code="0f11" title="tibetan mark rin chen spungs shad">༑</li>
+    <li class="symb" data-code="3858" code="0f12" title="tibetan mark rgya gram shad">༒</li>
+    <li class="symb" data-code="3859" code="0f13" title="tibetan mark caret -dzud rtags me long can">༓</li>
+    <li class="symb" data-code="3860" code="0f14" title="tibetan mark gter tsheg">༔</li>
+    <li class="symb" data-code="3861" code="0f15" title="tibetan logotype sign chad rtags">༕</li>
+    <li class="symb" data-code="3862" code="0f16" title="tibetan logotype sign lhag rtags">༖</li>
+    <li class="symb" data-code="3863" code="0f17" title="tibetan astrological sign sgra gcan -char rtags">༗</li>
+    <li class="symb" data-code="3864" code="0f18" title="tibetan astrological sign -khyud pa">༘</li>
+    <li class="symb" data-code="3865" code="0f19" title="tibetan astrological sign sdong tshugs">༙</li>
+    <li class="symb" data-code="3866" code="0f1a" title="tibetan sign rdel dkar gcig">༚</li>
+    <li class="symb" data-code="3867" code="0f1b" title="tibetan sign rdel dkar gnyis">༛</li>
+    <li class="symb" data-code="3868" code="0f1c" title="tibetan sign rdel dkar gsum">༜</li>
+    <li class="symb" data-code="3869" code="0f1d" title="tibetan sign rdel nag gcig">༝</li>
+    <li class="symb" data-code="3870" code="0f1e" title="tibetan sign rdel nag gnyis">༞</li>
+    <li class="symb" data-code="3871" code="0f1f" title="tibetan sign rdel dkar rdel nag">༟</li>
+    <li class="h">0f20</li>
+    <li class="symb" data-code="3872" code="0f20" title="tibetan digit 0">༠</li>
+    <li class="symb" data-code="3873" code="0f21" title="tibetan digit 1">༡</li>
+    <li class="symb" data-code="3874" code="0f22" title="tibetan digit 2">༢</li>
+    <li class="symb" data-code="3875" code="0f23" title="tibetan digit 3">༣</li>
+    <li class="symb" data-code="3876" code="0f24" title="tibetan digit 4">༤</li>
+    <li class="symb" data-code="3877" code="0f25" title="tibetan digit 5">༥</li>
+    <li class="symb" data-code="3878" code="0f26" title="tibetan digit 6">༦</li>
+    <li class="symb" data-code="3879" code="0f27" title="tibetan digit 7">༧</li>
+    <li class="symb" data-code="3880" code="0f28" title="tibetan digit 8">༨</li>
+    <li class="symb" data-code="3881" code="0f29" title="tibetan digit 9">༩</li>
+    <li class="symb" data-code="3882" code="0f2a" title="tibetan digit half 1">༪</li>
+    <li class="symb" data-code="3883" code="0f2b" title="tibetan digit half 2">༫</li>
+    <li class="symb" data-code="3884" code="0f2c" title="tibetan digit half 3">༬</li>
+    <li class="symb" data-code="3885" code="0f2d" title="tibetan digit half 4">༭</li>
+    <li class="symb" data-code="3886" code="0f2e" title="tibetan digit half 5">༮</li>
+    <li class="symb" data-code="3887" code="0f2f" title="tibetan digit half 6">༯</li>
+    <li class="h">0f30</li>
+    <li class="symb" data-code="3888" code="0f30" title="tibetan digit half 7">༰</li>
+    <li class="symb" data-code="3889" code="0f31" title="tibetan digit half 8">༱</li>
+    <li class="symb" data-code="3890" code="0f32" title="tibetan digit half 9">༲</li>
+    <li class="symb" data-code="3891" code="0f33" title="tibetan digit half 0">༳</li>
+    <li class="symb" data-code="3892" code="0f34" title="tibetan mark bsdus rtags">༴</li>
+    <li class="symb" data-code="3893" code="0f35" title="tibetan mark ngas bzung nyi zla">༵</li>
+    <li class="symb" data-code="3894" code="0f36" title="tibetan mark caret -dzud rtags bzhi mig can">༶</li>
+    <li class="symb" data-code="3895" code="0f37" title="tibetan mark ngas bzung sgor rtags">༷</li>
+    <li class="symb" data-code="3896" code="0f38" title="tibetan mark che mgo">༸</li>
+    <li class="symb" data-code="3897" code="0f39" title="tibetan mark tsa -phru">༹</li>
+    <li class="symb" data-code="3898" code="0f3a" title="tibetan mark gug rtags gyon">༺</li>
+    <li class="symb" data-code="3899" code="0f3b" title="tibetan mark gug rtags gyas">༻</li>
+    <li class="symb" data-code="3900" code="0f3c" title="tibetan mark ang khang gyon">༼</li>
+    <li class="symb" data-code="3901" code="0f3d" title="tibetan mark ang khang gyas">༽</li>
+    <li class="symb" data-code="3902" code="0f3e" title="tibetan sign yar tshes">༾</li>
+    <li class="symb" data-code="3903" code="0f3f" title="tibetan sign mar tshes">༿</li>
+    <li class="h">0f40</li>
+    <li class="symb" data-code="3904" code="0f40" title="tibetan letter ka">ཀ</li>
+    <li class="symb" data-code="3905" code="0f41" title="tibetan letter kha">ཁ</li>
+    <li class="symb" data-code="3906" code="0f42" title="tibetan letter ga">ག</li>
+    <li class="symb" data-code="3907" code="0f43" title="tibetan letter gha">གྷ</li>
+    <li class="symb" data-code="3908" code="0f44" title="tibetan letter nga">ང</li>
+    <li class="symb" data-code="3909" code="0f45" title="tibetan letter ca">ཅ</li>
+    <li class="symb" data-code="3910" code="0f46" title="tibetan letter cha">ཆ</li>
+    <li class="symb" data-code="3911" code="0f47" title="tibetan letter ja">ཇ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3913" code="0f49" title="tibetan letter nya">ཉ</li>
+    <li class="symb" data-code="3914" code="0f4a" title="tibetan letter tta">ཊ</li>
+    <li class="symb" data-code="3915" code="0f4b" title="tibetan letter ttha">ཋ</li>
+    <li class="symb" data-code="3916" code="0f4c" title="tibetan letter dda">ཌ</li>
+    <li class="symb" data-code="3917" code="0f4d" title="tibetan letter ddha">ཌྷ</li>
+    <li class="symb" data-code="3918" code="0f4e" title="tibetan letter nna">ཎ</li>
+    <li class="symb" data-code="3919" code="0f4f" title="tibetan letter ta">ཏ</li>
+    <li class="h">0f50</li>
+    <li class="symb" data-code="3920" code="0f50" title="tibetan letter tha">ཐ</li>
+    <li class="symb" data-code="3921" code="0f51" title="tibetan letter da">ད</li>
+    <li class="symb" data-code="3922" code="0f52" title="tibetan letter dha">དྷ</li>
+    <li class="symb" data-code="3923" code="0f53" title="tibetan letter na">ན</li>
+    <li class="symb" data-code="3924" code="0f54" title="tibetan letter pa">པ</li>
+    <li class="symb" data-code="3925" code="0f55" title="tibetan letter pha">ཕ</li>
+    <li class="symb" data-code="3926" code="0f56" title="tibetan letter ba">བ</li>
+    <li class="symb" data-code="3927" code="0f57" title="tibetan letter bha">བྷ</li>
+    <li class="symb" data-code="3928" code="0f58" title="tibetan letter ma">མ</li>
+    <li class="symb" data-code="3929" code="0f59" title="tibetan letter tsa">ཙ</li>
+    <li class="symb" data-code="3930" code="0f5a" title="tibetan letter tsha">ཚ</li>
+    <li class="symb" data-code="3931" code="0f5b" title="tibetan letter dza">ཛ</li>
+    <li class="symb" data-code="3932" code="0f5c" title="tibetan letter dzha">ཛྷ</li>
+    <li class="symb" data-code="3933" code="0f5d" title="tibetan letter wa">ཝ</li>
+    <li class="symb" data-code="3934" code="0f5e" title="tibetan letter zha">ཞ</li>
+    <li class="symb" data-code="3935" code="0f5f" title="tibetan letter za">ཟ</li>
+    <li class="h">0f60</li>
+    <li class="symb" data-code="3936" code="0f60" title="tibetan letter -a">འ</li>
+    <li class="symb" data-code="3937" code="0f61" title="tibetan letter ya">ཡ</li>
+    <li class="symb" data-code="3938" code="0f62" title="tibetan letter ra">ར</li>
+    <li class="symb" data-code="3939" code="0f63" title="tibetan letter la">ལ</li>
+    <li class="symb" data-code="3940" code="0f64" title="tibetan letter sha">ཤ</li>
+    <li class="symb" data-code="3941" code="0f65" title="tibetan letter ssa">ཥ</li>
+    <li class="symb" data-code="3942" code="0f66" title="tibetan letter sa">ས</li>
+    <li class="symb" data-code="3943" code="0f67" title="tibetan letter ha">ཧ</li>
+    <li class="symb" data-code="3944" code="0f68" title="tibetan letter a">ཨ</li>
+    <li class="symb" data-code="3945" code="0f69" title="tibetan letter kssa">ཀྵ</li>
+    <li class="symb" data-code="3946" code="0f6a" title="tibetan letter fixed-form ra">ཪ</li>
+    <li class="symb" data-code="3947" code="0f6b" title="tibetan letter kka">ཫ</li>
+    <li class="symb" data-code="3948" code="0f6c" title="tibetan letter rra">ཬ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0f70</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3953" code="0f71" title="tibetan vowel sign aa">ཱ</li>
+    <li class="symb" data-code="3954" code="0f72" title="tibetan vowel sign i">ི</li>
+    <li class="symb" data-code="3955" code="0f73" title="tibetan vowel sign ii">ཱི</li>
+    <li class="symb" data-code="3956" code="0f74" title="tibetan vowel sign u">ུ</li>
+    <li class="symb" data-code="3957" code="0f75" title="tibetan vowel sign uu">ཱུ</li>
+    <li class="symb" data-code="3958" code="0f76" title="tibetan vowel sign vocalic r">ྲྀ</li>
+    <li class="symb" data-code="3959" code="0f77" title="tibetan vowel sign vocalic rr">ཷ</li>
+    <li class="symb" data-code="3960" code="0f78" title="tibetan vowel sign vocalic l">ླྀ</li>
+    <li class="symb" data-code="3961" code="0f79" title="tibetan vowel sign vocalic ll">ཹ</li>
+    <li class="symb" data-code="3962" code="0f7a" title="tibetan vowel sign e">ེ</li>
+    <li class="symb" data-code="3963" code="0f7b" title="tibetan vowel sign ee">ཻ</li>
+    <li class="symb" data-code="3964" code="0f7c" title="tibetan vowel sign o">ོ</li>
+    <li class="symb" data-code="3965" code="0f7d" title="tibetan vowel sign oo">ཽ</li>
+    <li class="symb" data-code="3966" code="0f7e" title="tibetan sign rjes su nga ro">ཾ</li>
+    <li class="symb" data-code="3967" code="0f7f" title="tibetan sign rnam bcad">ཿ</li>
+    <li class="h">0f80</li>
+    <li class="symb" data-code="3968" code="0f80" title="tibetan vowel sign reversed i">ྀ</li>
+    <li class="symb" data-code="3969" code="0f81" title="tibetan vowel sign reversed ii">ཱྀ</li>
+    <li class="symb" data-code="3970" code="0f82" title="tibetan sign nyi zla naa da">ྂ</li>
+    <li class="symb" data-code="3971" code="0f83" title="tibetan sign sna ldan">ྃ</li>
+    <li class="symb" data-code="3972" code="0f84" title="tibetan mark halanta">྄</li>
+    <li class="symb" data-code="3973" code="0f85" title="tibetan mark paluta">྅</li>
+    <li class="symb" data-code="3974" code="0f86" title="tibetan sign lci rtags">྆</li>
+    <li class="symb" data-code="3975" code="0f87" title="tibetan sign yang rtags">྇</li>
+    <li class="symb" data-code="3976" code="0f88" title="tibetan sign lce tsa can">ྈ</li>
+    <li class="symb" data-code="3977" code="0f89" title="tibetan sign mchu can">ྉ</li>
+    <li class="symb" data-code="3978" code="0f8a" title="tibetan sign gru can rgyings">ྊ</li>
+    <li class="symb" data-code="3979" code="0f8b" title="tibetan sign gru med rgyings">ྋ</li>
+    <li class="symb" data-code="3980" code="0f8c" title="tibetan sign inverted mchu can">ྌ</li>
+    <li class="symb" data-code="3981" code="0f8d" title="tibetan subjoined sign lce tsa can">ྍ</li>
+    <li class="symb" data-code="3982" code="0f8e" title="tibetan subjoined sign mchu can">ྎ</li>
+    <li class="symb" data-code="3983" code="0f8f" title="tibetan subjoined sign inverted mchu can">ྏ</li>
+    <li class="h">0f90</li>
+    <li class="symb" data-code="3984" code="0f90" title="tibetan subjoined letter ka">ྐ</li>
+    <li class="symb" data-code="3985" code="0f91" title="tibetan subjoined letter kha">ྑ</li>
+    <li class="symb" data-code="3986" code="0f92" title="tibetan subjoined letter ga">ྒ</li>
+    <li class="symb" data-code="3987" code="0f93" title="tibetan subjoined letter gha">ྒྷ</li>
+    <li class="symb" data-code="3988" code="0f94" title="tibetan subjoined letter nga">ྔ</li>
+    <li class="symb" data-code="3989" code="0f95" title="tibetan subjoined letter ca">ྕ</li>
+    <li class="symb" data-code="3990" code="0f96" title="tibetan subjoined letter cha">ྖ</li>
+    <li class="symb" data-code="3991" code="0f97" title="tibetan subjoined letter ja">ྗ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="3993" code="0f99" title="tibetan subjoined letter nya">ྙ</li>
+    <li class="symb" data-code="3994" code="0f9a" title="tibetan subjoined letter tta">ྚ</li>
+    <li class="symb" data-code="3995" code="0f9b" title="tibetan subjoined letter ttha">ྛ</li>
+    <li class="symb" data-code="3996" code="0f9c" title="tibetan subjoined letter dda">ྜ</li>
+    <li class="symb" data-code="3997" code="0f9d" title="tibetan subjoined letter ddha">ྜྷ</li>
+    <li class="symb" data-code="3998" code="0f9e" title="tibetan subjoined letter nna">ྞ</li>
+    <li class="symb" data-code="3999" code="0f9f" title="tibetan subjoined letter ta">ྟ</li>
+    <li class="h">0fa0</li>
+    <li class="symb" data-code="4000" code="0fa0" title="tibetan subjoined letter tha">ྠ</li>
+    <li class="symb" data-code="4001" code="0fa1" title="tibetan subjoined letter da">ྡ</li>
+    <li class="symb" data-code="4002" code="0fa2" title="tibetan subjoined letter dha">ྡྷ</li>
+    <li class="symb" data-code="4003" code="0fa3" title="tibetan subjoined letter na">ྣ</li>
+    <li class="symb" data-code="4004" code="0fa4" title="tibetan subjoined letter pa">ྤ</li>
+    <li class="symb" data-code="4005" code="0fa5" title="tibetan subjoined letter pha">ྥ</li>
+    <li class="symb" data-code="4006" code="0fa6" title="tibetan subjoined letter ba">ྦ</li>
+    <li class="symb" data-code="4007" code="0fa7" title="tibetan subjoined letter bha">ྦྷ</li>
+    <li class="symb" data-code="4008" code="0fa8" title="tibetan subjoined letter ma">ྨ</li>
+    <li class="symb" data-code="4009" code="0fa9" title="tibetan subjoined letter tsa">ྩ</li>
+    <li class="symb" data-code="4010" code="0faa" title="tibetan subjoined letter tsha">ྪ</li>
+    <li class="symb" data-code="4011" code="0fab" title="tibetan subjoined letter dza">ྫ</li>
+    <li class="symb" data-code="4012" code="0fac" title="tibetan subjoined letter dzha">ྫྷ</li>
+    <li class="symb" data-code="4013" code="0fad" title="tibetan subjoined letter wa">ྭ</li>
+    <li class="symb" data-code="4014" code="0fae" title="tibetan subjoined letter zha">ྮ</li>
+    <li class="symb" data-code="4015" code="0faf" title="tibetan subjoined letter za">ྯ</li>
+    <li class="h">0fb0</li>
+    <li class="symb" data-code="4016" code="0fb0" title="tibetan subjoined letter -a">ྰ</li>
+    <li class="symb" data-code="4017" code="0fb1" title="tibetan subjoined letter ya">ྱ</li>
+    <li class="symb" data-code="4018" code="0fb2" title="tibetan subjoined letter ra">ྲ</li>
+    <li class="symb" data-code="4019" code="0fb3" title="tibetan subjoined letter la">ླ</li>
+    <li class="symb" data-code="4020" code="0fb4" title="tibetan subjoined letter sha">ྴ</li>
+    <li class="symb" data-code="4021" code="0fb5" title="tibetan subjoined letter ssa">ྵ</li>
+    <li class="symb" data-code="4022" code="0fb6" title="tibetan subjoined letter sa">ྶ</li>
+    <li class="symb" data-code="4023" code="0fb7" title="tibetan subjoined letter ha">ྷ</li>
+    <li class="symb" data-code="4024" code="0fb8" title="tibetan subjoined letter a">ྸ</li>
+    <li class="symb" data-code="4025" code="0fb9" title="tibetan subjoined letter kssa">ྐྵ</li>
+    <li class="symb" data-code="4026" code="0fba" title="tibetan subjoined letter fixed-form wa">ྺ</li>
+    <li class="symb" data-code="4027" code="0fbb" title="tibetan subjoined letter fixed-form ya">ྻ</li>
+    <li class="symb" data-code="4028" code="0fbc" title="tibetan subjoined letter fixed-form ra">ྼ</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4030" code="0fbe" title="tibetan ku ru kha">྾</li>
+    <li class="symb" data-code="4031" code="0fbf" title="tibetan ku ru kha bzhi mig can">྿</li>
+    <li class="h">0fc0</li>
+    <li class="symb" data-code="4032" code="0fc0" title="tibetan cantillation sign heavy beat">࿀</li>
+    <li class="symb" data-code="4033" code="0fc1" title="tibetan cantillation sign light beat">࿁</li>
+    <li class="symb" data-code="4034" code="0fc2" title="tibetan cantillation sign cang te-u">࿂</li>
+    <li class="symb" data-code="4035" code="0fc3" title="tibetan cantillation sign sbub -chal">࿃</li>
+    <li class="symb" data-code="4036" code="0fc4" title="tibetan symbol dril bu">࿄</li>
+    <li class="symb" data-code="4037" code="0fc5" title="tibetan symbol rdo rje">࿅</li>
+    <li class="symb" data-code="4038" code="0fc6" title="tibetan symbol padma gdan">࿆</li>
+    <li class="symb" data-code="4039" code="0fc7" title="tibetan symbol rdo rje rgya gram">࿇</li>
+    <li class="symb" data-code="4040" code="0fc8" title="tibetan symbol phur pa">࿈</li>
+    <li class="symb" data-code="4041" code="0fc9" title="tibetan symbol nor bu">࿉</li>
+    <li class="symb" data-code="4042" code="0fca" title="tibetan symbol nor bu nyis -khyil">࿊</li>
+    <li class="symb" data-code="4043" code="0fcb" title="tibetan symbol nor bu gsum -khyil">࿋</li>
+    <li class="symb" data-code="4044" code="0fcc" title="tibetan symbol nor bu bzhi -khyil">࿌</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="4046" code="0fce" title="tibetan sign rdel nag rdel dkar">࿎</li>
+    <li class="symb" data-code="4047" code="0fcf" title="tibetan sign rdel nag gsum">࿏</li>
+    <li class="h">0fd0</li>
+    <li class="symb" data-code="4048" code="0fd0" title="tibetan mark bska- shog gi mgo rgyan">࿐</li>
+    <li class="symb" data-code="4049" code="0fd1" title="tibetan mark mnyam yig gi mgo rgyan">࿑</li>
+    <li class="symb" data-code="4050" code="0fd2" title="tibetan mark nyis tsheg">࿒</li>
+    <li class="symb" data-code="4051" code="0fd3" title="tibetan mark initial brda rnying yig mgo mdun ma">࿓</li>
+    <li class="symb" data-code="4052" code="0fd4" title="tibetan mark closing brda rnying yig mgo sgab ma">࿔</li>
+    <li class="symb" data-code="4053" code="0fd5" title="right-facing svasti sign">࿕</li>
+    <li class="symb" data-code="4054" code="0fd6" title="left-facing svasti sign">࿖</li>
+    <li class="symb" data-code="4055" code="0fd7" title="right-facing svasti sign with dots">࿗</li>
+    <li class="symb" data-code="4056" code="0fd8" title="left-facing svasti sign with dots">࿘</li>
+    <li class="symb" data-code="4057" code="0fd9" title="tibetan mark leading mchan rtags">࿙</li>
+    <li class="symb" data-code="4058" code="0fda" title="tibetan mark trailing mchan rtags">࿚</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0fe0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="h">0ff0</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

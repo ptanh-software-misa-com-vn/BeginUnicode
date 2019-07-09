@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <ul class="unicode_table">
+    <li class="h">3130</li>
+    <li class="symb inactive" data-code="0"> </li>
+    <li class="symb" data-code="12593" code="3131" title="hangul letter kiyeok">ㄱ</li>
+    <li class="symb" data-code="12594" code="3132" title="hangul letter ssangkiyeok">ㄲ</li>
+    <li class="symb" data-code="12595" code="3133" title="hangul letter kiyeok-sios">ㄳ</li>
+    <li class="symb" data-code="12596" code="3134" title="hangul letter nieun">ㄴ</li>
+    <li class="symb" data-code="12597" code="3135" title="hangul letter nieun-cieuc">ㄵ</li>
+    <li class="symb" data-code="12598" code="3136" title="hangul letter nieun-hieuh">ㄶ</li>
+    <li class="symb" data-code="12599" code="3137" title="hangul letter tikeut">ㄷ</li>
+    <li class="symb" data-code="12600" code="3138" title="hangul letter ssangtikeut">ㄸ</li>
+    <li class="symb" data-code="12601" code="3139" title="hangul letter rieul">ㄹ</li>
+    <li class="symb" data-code="12602" code="313a" title="hangul letter rieul-kiyeok">ㄺ</li>
+    <li class="symb" data-code="12603" code="313b" title="hangul letter rieul-mieum">ㄻ</li>
+    <li class="symb" data-code="12604" code="313c" title="hangul letter rieul-pieup">ㄼ</li>
+    <li class="symb" data-code="12605" code="313d" title="hangul letter rieul-sios">ㄽ</li>
+    <li class="symb" data-code="12606" code="313e" title="hangul letter rieul-thieuth">ㄾ</li>
+    <li class="symb" data-code="12607" code="313f" title="hangul letter rieul-phieuph">ㄿ</li>
+    <li class="h">3140</li>
+    <li class="symb" data-code="12608" code="3140" title="hangul letter rieul-hieuh">ㅀ</li>
+    <li class="symb" data-code="12609" code="3141" title="hangul letter mieum">ㅁ</li>
+    <li class="symb" data-code="12610" code="3142" title="hangul letter pieup">ㅂ</li>
+    <li class="symb" data-code="12611" code="3143" title="hangul letter ssangpieup">ㅃ</li>
+    <li class="symb" data-code="12612" code="3144" title="hangul letter pieup-sios">ㅄ</li>
+    <li class="symb" data-code="12613" code="3145" title="hangul letter sios">ㅅ</li>
+    <li class="symb" data-code="12614" code="3146" title="hangul letter ssangsios">ㅆ</li>
+    <li class="symb" data-code="12615" code="3147" title="hangul letter ieung">ㅇ</li>
+    <li class="symb" data-code="12616" code="3148" title="hangul letter cieuc">ㅈ</li>
+    <li class="symb" data-code="12617" code="3149" title="hangul letter ssangcieuc">ㅉ</li>
+    <li class="symb" data-code="12618" code="314a" title="hangul letter chieuch">ㅊ</li>
+    <li class="symb" data-code="12619" code="314b" title="hangul letter khieukh">ㅋ</li>
+    <li class="symb" data-code="12620" code="314c" title="hangul letter thieuth">ㅌ</li>
+    <li class="symb" data-code="12621" code="314d" title="hangul letter phieuph">ㅍ</li>
+    <li class="symb" data-code="12622" code="314e" title="hangul letter hieuh">ㅎ</li>
+    <li class="symb" data-code="12623" code="314f" title="hangul letter a">ㅏ</li>
+    <li class="h">3150</li>
+    <li class="symb" data-code="12624" code="3150" title="hangul letter ae">ㅐ</li>
+    <li class="symb" data-code="12625" code="3151" title="hangul letter ya">ㅑ</li>
+    <li class="symb" data-code="12626" code="3152" title="hangul letter yae">ㅒ</li>
+    <li class="symb" data-code="12627" code="3153" title="hangul letter eo">ㅓ</li>
+    <li class="symb" data-code="12628" code="3154" title="hangul letter e">ㅔ</li>
+    <li class="symb" data-code="12629" code="3155" title="hangul letter yeo">ㅕ</li>
+    <li class="symb" data-code="12630" code="3156" title="hangul letter ye">ㅖ</li>
+    <li class="symb" data-code="12631" code="3157" title="hangul letter o">ㅗ</li>
+    <li class="symb" data-code="12632" code="3158" title="hangul letter wa">ㅘ</li>
+    <li class="symb" data-code="12633" code="3159" title="hangul letter wae">ㅙ</li>
+    <li class="symb" data-code="12634" code="315a" title="hangul letter oe">ㅚ</li>
+    <li class="symb" data-code="12635" code="315b" title="hangul letter yo">ㅛ</li>
+    <li class="symb" data-code="12636" code="315c" title="hangul letter u">ㅜ</li>
+    <li class="symb" data-code="12637" code="315d" title="hangul letter weo">ㅝ</li>
+    <li class="symb" data-code="12638" code="315e" title="hangul letter we">ㅞ</li>
+    <li class="symb" data-code="12639" code="315f" title="hangul letter wi">ㅟ</li>
+    <li class="h">3160</li>
+    <li class="symb" data-code="12640" code="3160" title="hangul letter yu">ㅠ</li>
+    <li class="symb" data-code="12641" code="3161" title="hangul letter eu">ㅡ</li>
+    <li class="symb" data-code="12642" code="3162" title="hangul letter yi">ㅢ</li>
+    <li class="symb" data-code="12643" code="3163" title="hangul letter i">ㅣ</li>
+    <li class="symb" data-code="12644" code="3164" title="hangul filler">ㅤ</li>
+    <li class="symb" data-code="12645" code="3165" title="hangul letter ssangnieun">ㅥ</li>
+    <li class="symb" data-code="12646" code="3166" title="hangul letter nieun-tikeut">ㅦ</li>
+    <li class="symb" data-code="12647" code="3167" title="hangul letter nieun-sios">ㅧ</li>
+    <li class="symb" data-code="12648" code="3168" title="hangul letter nieun-pansios">ㅨ</li>
+    <li class="symb" data-code="12649" code="3169" title="hangul letter rieul-kiyeok-sios">ㅩ</li>
+    <li class="symb" data-code="12650" code="316a" title="hangul letter rieul-tikeut">ㅪ</li>
+    <li class="symb" data-code="12651" code="316b" title="hangul letter rieul-pieup-sios">ㅫ</li>
+    <li class="symb" data-code="12652" code="316c" title="hangul letter rieul-pansios">ㅬ</li>
+    <li class="symb" data-code="12653" code="316d" title="hangul letter rieul-yeorinhieuh">ㅭ</li>
+    <li class="symb" data-code="12654" code="316e" title="hangul letter mieum-pieup">ㅮ</li>
+    <li class="symb" data-code="12655" code="316f" title="hangul letter mieum-sios">ㅯ</li>
+    <li class="h">3170</li>
+    <li class="symb" data-code="12656" code="3170" title="hangul letter mieum-pansios">ㅰ</li>
+    <li class="symb" data-code="12657" code="3171" title="hangul letter kapyeounmieum">ㅱ</li>
+    <li class="symb" data-code="12658" code="3172" title="hangul letter pieup-kiyeok">ㅲ</li>
+    <li class="symb" data-code="12659" code="3173" title="hangul letter pieup-tikeut">ㅳ</li>
+    <li class="symb" data-code="12660" code="3174" title="hangul letter pieup-sios-kiyeok">ㅴ</li>
+    <li class="symb" data-code="12661" code="3175" title="hangul letter pieup-sios-tikeut">ㅵ</li>
+    <li class="symb" data-code="12662" code="3176" title="hangul letter pieup-cieuc">ㅶ</li>
+    <li class="symb" data-code="12663" code="3177" title="hangul letter pieup-thieuth">ㅷ</li>
+    <li class="symb" data-code="12664" code="3178" title="hangul letter kapyeounpieup">ㅸ</li>
+    <li class="symb" data-code="12665" code="3179" title="hangul letter kapyeounssangpieup">ㅹ</li>
+    <li class="symb" data-code="12666" code="317a" title="hangul letter sios-kiyeok">ㅺ</li>
+    <li class="symb" data-code="12667" code="317b" title="hangul letter sios-nieun">ㅻ</li>
+    <li class="symb" data-code="12668" code="317c" title="hangul letter sios-tikeut">ㅼ</li>
+    <li class="symb" data-code="12669" code="317d" title="hangul letter sios-pieup">ㅽ</li>
+    <li class="symb" data-code="12670" code="317e" title="hangul letter sios-cieuc">ㅾ</li>
+    <li class="symb" data-code="12671" code="317f" title="hangul letter pansios">ㅿ</li>
+    <li class="h">3180</li>
+    <li class="symb" data-code="12672" code="3180" title="hangul letter ssangieung">ㆀ</li>
+    <li class="symb" data-code="12673" code="3181" title="hangul letter yesieung">ㆁ</li>
+    <li class="symb" data-code="12674" code="3182" title="hangul letter yesieung-sios">ㆂ</li>
+    <li class="symb" data-code="12675" code="3183" title="hangul letter yesieung-pansios">ㆃ</li>
+    <li class="symb" data-code="12676" code="3184" title="hangul letter kapyeounphieuph">ㆄ</li>
+    <li class="symb" data-code="12677" code="3185" title="hangul letter ssanghieuh">ㆅ</li>
+    <li class="symb" data-code="12678" code="3186" title="hangul letter yeorinhieuh">ㆆ</li>
+    <li class="symb" data-code="12679" code="3187" title="hangul letter yo-ya">ㆇ</li>
+    <li class="symb" data-code="12680" code="3188" title="hangul letter yo-yae">ㆈ</li>
+    <li class="symb" data-code="12681" code="3189" title="hangul letter yo-i">ㆉ</li>
+    <li class="symb" data-code="12682" code="318a" title="hangul letter yu-yeo">ㆊ</li>
+    <li class="symb" data-code="12683" code="318b" title="hangul letter yu-ye">ㆋ</li>
+    <li class="symb" data-code="12684" code="318c" title="hangul letter yu-i">ㆌ</li>
+    <li class="symb" data-code="12685" code="318d" title="hangul letter araea">ㆍ</li>
+    <li class="symb" data-code="12686" code="318e" title="hangul letter araeae">ㆎ</li>
+    <li class="symb inactive" data-code="0"> </li>
+  </ul>
+</root>

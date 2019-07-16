@@ -35,6 +35,7 @@
             this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
             this.btnRunAll = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnPut = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // cboUnicodeRange
@@ -58,8 +59,8 @@
             // 
             // textBox1
             // 
-            this.textBox1.Font = new System.Drawing.Font("MS UI Gothic", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
-            this.textBox1.Location = new System.Drawing.Point(13, 331);
+            this.textBox1.Font = new System.Drawing.Font("MS Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(128)));
+            this.textBox1.Location = new System.Drawing.Point(12, 345);
             this.textBox1.Margin = new System.Windows.Forms.Padding(4);
             this.textBox1.Multiline = true;
             this.textBox1.Name = "textBox1";
@@ -87,11 +88,22 @@
             this.label1.TabIndex = 10;
             this.label1.Text = "When you click on this button, will display the entire region\'s Unicode";
             // 
+            // btnPut
+            // 
+            this.btnPut.Location = new System.Drawing.Point(12, 315);
+            this.btnPut.Name = "btnPut";
+            this.btnPut.Size = new System.Drawing.Size(75, 23);
+            this.btnPut.TabIndex = 11;
+            this.btnPut.Text = "Put all";
+            this.btnPut.UseVisualStyleBackColor = true;
+            this.btnPut.Click += new System.EventHandler(this.btnPut_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(949, 617);
+            this.Controls.Add(this.btnPut);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnRunAll);
             this.Controls.Add(this.textBox1);
@@ -113,5 +125,6 @@
 		private System.Windows.Forms.ToolTip toolTip1;
 		private System.Windows.Forms.Button btnRunAll;
 		private System.Windows.Forms.Label label1;
-	}
+        private System.Windows.Forms.Button btnPut;
+    }
 }

@@ -562,5 +562,10 @@ namespace Anh.BeginUnicode
             get { return bool.Parse(GetKey("OpenFileGegionUnicodeData")); }
             internal set { SetKey("OpenFileGegionUnicodeData", value.ToString()); }
         }
+        public static bool LoadUnicodeRegionFromCache
+        {
+            get { return bool.Parse(GetKey("LoadUnicodeRegionFromCache")); }
+            internal set { SetKey("LoadUnicodeRegionFromCache", value.ToString()); }
+        }
     }
 }

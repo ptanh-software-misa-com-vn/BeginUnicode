@@ -229,11 +229,36 @@ namespace Anh.TestUnicode
         {
             Button butt = sender as Button;
             UnicodeData d = butt.Tag as UnicodeData;
-            int c = Convert.ToInt32("0x" + d.Code, 16);
-            String s = ((char)c).ToString();
+            //int c = Convert.ToInt32("0x" + d.Code, 16);
+            int c = d.DataCode;
+            string s = ((char)c).ToString();
             textBox1.AppendText(s);
         }
         #endregion
+
         #endregion
+
+        private void btnPut_Click(object sender, EventArgs e)
+        {
+            if (cboUnicodeRange.SelectedValue == null)
+            {
+                cboUnicodeRange.SelectedValue = "cjk-unified-ideographs";
+            }
+
+            StringBuilder sbText = new StringBuilder();
+            foreach (var item in this.panel1.Controls)
+            {
+
+                Button butt = item as Button;
+                if (butt != null && butt.Enabled)
+                {
+                    UnicodeData d = butt.Tag as UnicodeData;
+                    int c = d.DataCode;
+                    string s = ((char)c).ToString();
+                    sbText.AppendLine(s);
+                }
+            }
+            textBox1.Text = sbText.ToString();
+        }
     }
 }

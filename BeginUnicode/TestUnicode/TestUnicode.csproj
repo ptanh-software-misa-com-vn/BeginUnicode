@@ -96,13 +96,24 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\..\..\CallAPI_TranslateGoogleNihongo\TranslateJPENAssembly\TranslateJPENAssembly.csproj">
+      <Project>{a6677024-bde4-4d9d-ae78-362309d4255c}</Project>
+      <Name>TranslateJPENAssembly</Name>
+    </ProjectReference>
     <ProjectReference Include="..\BeginUnicode\BeginUnicode.csproj">
       <Project>{2bdfd5e8-3368-44f3-b6ea-83b3a73c9135}</Project>
       <Name>BeginUnicode</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lib\Newtonsoft.Json.dll" />
+    <Content Include="Lib\System.Net.Http.Formatting.dll" />
+    <Content Include="Lib\TranslateJPENAssembly.dll" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

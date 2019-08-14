@@ -199,7 +199,7 @@ namespace Anh.TestUnicode
                     sbText.AppendLine(s);
                 }
             }
-           
+
             textBox1.Text = sbText.ToString();
 
         }
@@ -229,16 +229,35 @@ namespace Anh.TestUnicode
             string source = await Code(range.Href);
             UnicodeData[] us = await ReadXml(source);
             StringBuilder sbText = new StringBuilder();
+            StringBuilder sbM = new StringBuilder();
+            List<string> textM = new List<string>();
+            int i = 0, l = us.Count();
+
             foreach (var item in us)
             {
+                i++;
                 if (item != null)
                 {
                     int c = item.DataCode;
                     string s = ((char)c).ToString();
                     sbText.AppendLine(s);
+                    sbM.AppendLine(s);
+                }
+                if (i % 2500 == 0 || i == l)
+                {
+                    textM.Add(sbM.ToString());
+                    sbM.Clear();
                 }
             }
             textBox1.Text = sbText.ToString();
+            Translate.ActionF1 ActionF1 = new Translate.ActionF1();
+            textBox2.Clear();
+            for (int j = 0; j < textM.Count; j++)
+            {
+                string translatedText = await ActionF1.GetSingle(textM[j]);
+                textBox2.AppendText(translatedText);
+                Application.DoEvents();
+            }
         }
 
         private async static Task<string> Code(string Url)

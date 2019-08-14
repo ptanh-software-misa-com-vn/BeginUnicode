@@ -123,7 +123,7 @@ namespace Anh.TestUnicode
                         butt.Click += new System.EventHandler(this.btnUnicode_Click);
                         if (d.IsLeaf && !d.Inactive)
                         {
-                            this.toolTip1.SetToolTip(butt, d.Title);
+                            this.toolTip1.SetToolTip(butt, "u+"+d.Code+"|"+ d.Title);
                         }
                         else
                         {
